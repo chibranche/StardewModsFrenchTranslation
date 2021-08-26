@@ -2642,117 +2642,81 @@
 //Animations
 "Animations.Aguar.Meditate": "% M. Aguar semble méditer.",
 "Animations.Alissa.Sing": "%Alissa chante. Mais elle semble un peu timide.",
-"Animations.Flor.Read": "%Flor est plongé dans un livre et ne vous remarque pas.",
+"Animations.Flor.Read": "%Flor est plongée dans un livre et ne te remarque pas.",
 "Animations.Philip.Gym": "*Huff huff*$8",
-"Animations.Ysabelle.Ballet": "*Inspirez* *Expirez*$9",
+"Animations.Ysabelle.Ballet": "*Inspire* *Expire*$9",
 "Animations.Corine.Train": "*Huff huff*$7",
-"Animations.Corine.Slash": "Jio part en mission tous les matins et me fait m'entraîner toute seule.$h#$b# Ça ne me dérange pas !",
+"Animations.Corine.Slash": "Jio part en mission tous les matins et me fait m'entraîner toute seule.$h#$b# Ça ne me dérange pas ! Je me sens libre quand je m'entraîne seule.",
 
 //Emplacements de la carte des PNJ
 "NPC.MapLocations.VillageName": "Village Ridgeside",
 "NPC.MapLocations.PelicanCableCarName": "Téléphérique - Pelican Town",
 "NPC.MapLocations.RidgesideCableCarName": "Téléphérique - Ridgeside",
 "NPC.MapLocations.HikeName": "La randonnée",
-"NPC.MapLocations.BloomingHillName": "Blooming Hill Farm",
-"NPC.MapLocations.NightingaleName": "Orchard Nightingale",
-
-//Changements dynamiques
-//Changement de chaîne de correspondance
-"DynamicChanges.Winter.Crops": "C'est l'hiver, toutes les cultures sont cachées sous une épaisse couche de neige!",
-
-//Changements de dialogue dynamique
-//Dialogue Aguar
-//Dialogue quotidien alternatif (rencontré Marlon)
-"DynamicChanges.Aguar.Dialogue.Tue6": "Saluez Marlon quand vous le reverrez.$h",
-
-//Dialogue alternatif sur le marché d'hiver
-"Aguar.Dialogue.winter_15": "Avez-vous vu l'engin de pêche en haute mer au marché de nuit ?#$e#C'est monstrueux.",
-"Aguar.Dialogue.winter_16": "Je dois voir si je peux trouver le temps de communiquer avec la sirène...$h",
-"Aguar.Dialogue.winter_17": "% M. Aguar vous ignore. Il semble fredonner la chanson de la sirène dans sa barbe.",
-
-//Alissa Dialogue
-//Dialogue alternatif sur le marché d'hiver
-//Seul
-"Alissa.Dialogue.winter_15": "J'ai acheté des graines exotiques. J'ai hâte de les planter la saison prochaine !$h",
-"Alissa.Dialogue.winter_16": "Tante a vu un microphone à vendre.#$b#J'étais vraiment gêné quand elle m'a dit de le tester sur place.7$",
-"Alissa.Dialogue.winter_17": "J'espère que vous avez des objets intéressants, @! J'ai pu acheter de bonnes choses.$h",
-
-//Marié
-"Alissa.MarriageDialogue.winter_15": "J'ai acheté des graines exotiques. J'ai hâte de les planter la saison prochaine !$h",
-"Alissa.MarriageDialogue.winter_16": "Tante a vu un microphone à vendre.#$b#J'étais vraiment gêné quand elle m'a dit de le tester sur place.7$",
-"Alissa.MarriageDialogue.winter_17": "J'espère que vous avez des objets intéressants, @! J'ai pu acheter de bonnes choses.$h",
-
-//Bert Dialogue
-//Dialogue alternatif sur le marché d'hiver
-"Bert.Dialogue.winter_15": "Poissons.$u#$b#Ils mangent du poisson depuis des mois !$u#$b#Peux-tu le croire, @?$u",
-"Bert.Dialogue.winter_16": "J'ai apporté quelques échantillons de mes meilleurs produits ce soir, @.#$e# Je ne veux pas être impoli avec ces braves gens, mais parfois vous avez juste besoin d'une somme de la terre, vous savez ?$h",
-"Bert.Dialogue.winter_17": "J'ai vendu un boisseau et demi de légumes verts plus résistants.#$e#Ils auront des légumes frais là-bas en pleine mer !$h",
-
-//Corine Dialogue
-//Dialogue alternatif sur le marché d'hiver
-"DynamicChanges.Corine.MarriageDialogue.winter_15": "Hé chérie ! Voudrais-tu faire un tour dans les magasins avec moi ?#$b#Nous pouvons prendre un café et descendre le quai.$l",
-"DynamicChanges.Corine.MarriageDialogue.winter_16": "Je me demande s'il y a quelque chose que Jio aimerait...#$b#Oh! Ha ha, ne t'inquiète pas, @.$h#$b#Tu sais que tu es mon numéro un.$l",
-"DynamicChanges.Corine.MarriageDialogue.winter_17": "Brr ! Je suis gelé.$u#$b#Retournons-nous et faisons-nous vite des câlins, d'accord ?$l",
-
+"NPC.MapLocations.BloomingHillName": "Ferme Blooming Hill",
+"NPC.MapLocations.NightingaleName": "Verger des Rossignols",
 
 //MapsString
 "MapString.rsv.close": "C'est fermé.",
 
-"MapString.rsv.trash": "Ceci n'est qu'une vieille poubelle.",
+"MapString.rsv.trash": "Ce n'est qu'une vieille poubelle.",
 
 "MapString.rsv.blocked": "Il semble y avoir quelque chose qui bloque le chemin.",
 
-"MapString.rsv.crystal": "C'est une sorte de cristal.#Pour une raison quelconque, vous ne pensez vraiment pas que vous devriez le toucher...",
+"MapString.rsv.crystal": "C'est une sorte de cristal.#Pour une raison quelconque, tu penses qu'il vaut mieux ne pas y toucher...",
 
-"MapString.rsv.cleanrash": "C'est vide. On dirait que les ordures ont été ramassées~FILE CHANGE~tôt le matin.",
+"MapString.rsv.cleanrash": "C'est vide. On dirait que les ordures ont été ramassées tôt le matin.",
 
-"MapString.rsv.noquestboard": "Il y a une note dans le tableau. Elle se lit...#'Fermé jusqu'à nouvel ordre - Lenny'",
+"MapString.rsv.noquestboard": "Il y a une note dans le tableau. Elle dit...#'Fermé jusqu'à nouvel ordre - Lenny'",
 
 "MapString.rsv.1": "Bienvenue au village de Ridgeside !",
 "MapString.rsv.2": "Log Cabin Hotel #L'expérience ultime à flanc de montagne !#Résidents : Richard, Philip, Ysabelle et Flor.",
 "MapString.rsv.3": "Boîte aux lettres de Lenny #Administratice du Village de Ridgeside",
 "MapString.rsv.4": "Résidence Kobayashi #Shiro et Yuuma vivent ici.",
 "MapString.rsv.5": "Cette balançoire semble n'avoir jamais été utilisée.",
-"MapString.rsv.6": "Eubank Residence#Kenneth vit ici.#'Besoin de quelque chose réparé ? Entrez !'",
+"MapString.rsv.6": "Residence Eubank#Kenneth vit ici.#'Besoin de réparer quelque chose ? Entrez !'",
 "MapString.rsv.7": "C'est une niche sans chien.#Qui a laissé sortir le chien ?",
 "MapString.rsv.8": "Quelqu'un a allumé un feu de joie ici récemment.",
 "MapString.rsv.9": "Winters Residence#Ian vit ici.#'Vous appelez, je transporte!'",
-"MapString.rsv.10": "Le signe a été coupé proprement en deux.#On dirait qu'il a été coupé avec une sorte de lame...",
-"MapString.rsv.11": "La statue est effrayante.#Vous préférez ne pas la toucher.",
-"MapString.rsv.12": "Quelqu'un semble vivre à l'intérieur de cette hutte herbeuse.#Cela semble un peu petit pour un humain, cependant.",
+"MapString.rsv.10": "Le panneau a été coupé proprement en deux.#On dirait qu'il a été coupé avec une sorte de lame...",
+"MapString.rsv.11": "La statue est effrayante.#Tu préféres ne pas la toucher.",
+"MapString.rsv.12": "Quelqu'un semble vivre à l'intérieur de cette hutte pleine d'herbe.#Ca semble un peu petit pour un humain, cependant.",
 "MapString.rsv.13": "Il y a plusieurs flacons ici, collectant l'eau de pluie.",
 "MapString.rsv.14": "C'est un seau.#Vraiment, juste un seau.",
-"MapString.rsv.15": "Installation et laboratoire de recherche sur l'eau",
+"MapString.rsv.15": "Installation et laboratoire de recherche aquatique",
 "MapString.rsv.16": "Les algues et les micro-organismes semblent prospérer dans ce petit aquarium.",
-"MapString.rsv.17": "Quelqu'un a sculpté quelque chose dans l'arbre.#Il dit :#K < T.",
-"MapString.rsv.18": "En rond et en rond, le moulin tourne encore et encore.",
-"MapString.rsv.19": "Liden Residence#Bert, Olga et Trinnie vivent ici.",
-"MapString.rsv.20" : "Les pots sont pleins de confitures de fruits.#Ils sentent bon !",
+"MapString.rsv.17": "Quelqu'un a sculpté quelque chose dans l'arbre.#Ca dit :#K < T.",
+"MapString.rsv.18": "Tourne et tourne, le moulin tourne encore et encore.",
+"MapString.rsv.19": "Résidence Liden#Bert, Olga et Trinnie vivent ici.",
+"MapString.rsv.20": "Les pots sont pleins de confitures de fruits.#Ils sentent bon !",
 "MapString.rsv.21": "Les fruits tombent quand ils sont mûrs.#Ensuite, ils sont collectés et transformés en conserves.",
-"MapString.rsv.22": "Boîte aux lettres d'Alissa#Orchard Nightingale",
-"MapString.rsv.23": "Ces cultures semblent très saines.",
+"MapString.rsv.22": "Boîte aux lettres d'Alissa#Verger des Rossignols",
+"MapString.rsv.23.spring": "Ces cultures semblent en pleine santé.",
+"MapString.rsv.23.summer": "Ces cultures semblent en pleine santé.",
+"MapString.rsv.23.fall": "Ces cultures semblent en pleine santé.",
+"MapString.rsv.23.winter": "C'est l'hiver, toutes les cultures sont cachées sous un épais manteau de neige!",
 "MapString.rsv.24": "Ce bac d'expédition est rempli à ras bord.",
-"MapString.rsv.25": "On dirait que quelqu'un a gratté 'L + F' ici avec une lame.",
-"MapString.rsv.26": "C'est pour les enfants de jouer dessus. #C'est vieux et rouillé. Personne n'y a joué depuis longtemps.",
-"MapString.rsv.27": "Cela ressemble à l'une des structures de votre ferme.",
-"MapString.rsv.28": "Ridgeside Forest#SOUTH: Water Research Facility and Laboratory#WEST: Community Greenhouse",
-"MapString.rsv.29": "Qu'est-ce que l'abeille a dit à l'autre abeille ? #Chérie, je suis à la maison !",
-"MapString.rsv.30": "On dirait du matériel de pêche.#Smells like...#fish.",
-"MapString.rsv.31": "Vous voulez serrer cet arbre dans vos bras, mais vous avez peur que les gens ne vous jugent.",
+"MapString.rsv.25": "On dirait que quelqu'un a gravé 'L + F' ici avec une lame.",
+"MapString.rsv.26": "C'est pour que les enfants jouent dessus. #C'est vieux et rouillé. Personne n'a joué dessus depuis longtemps.",
+"MapString.rsv.27": "Ca ressemble à l'une des structures de ta ferme.",
+"MapString.rsv.28": "Forêt de Ridgeside#SUD: Installation et laboratoire de recherche aquatique#OUEST: Serre Communautaire",
+"MapString.rsv.29": "Comment communiquent les abeilles entre elles ? #Par e-miel !",
+"MapString.rsv.30": "On dirait du matériel de pêche.#Ca sent le...#poisson.",
+"MapString.rsv.31": "Tu as envie de serrer cet arbre dans tes bras, mais tu as peur que les gens te jugent.",
 "MapString.rsv.32": "Bien, bien, bien.#C'est un puits.",
-"MapString.rsv.33": "Akina Residence#Pika et Keahi vivent ici.",
-"MapString.rsv.34": "Je suis presque sûr d'avoir vu ce cheval entrer dans le Stardrop Saloon.",
-"MapString.rsv.35": "Jeric's Shop#Blooming Hill Farm",
-"MapString.rsv.36": "Un établi usé#Jeric est bien sûr occupé.",
+"MapString.rsv.33": "Résidence Akina#Pika et Keahi vivent ici.",
+"MapString.rsv.34": "Je suis presque sûr d'avoir vu ce cheval entrer dans le Saloon Stardrop.",
+"MapString.rsv.35": "Boutique de Jeric#Ferme Blooming Hill",
+"MapString.rsv.36": "Un établi usé#Jeric est bien occupé.",
 "MapString.rsv.37": "Une vieille moto.#On dirait que Jeric y travaille.",
 "MapString.rsv.38": "Ce poulet est libre du joug de la société.",
-"MapString.rsv.39": "Pickens Residence#Maddie vit ici.",
+"MapString.rsv.39": "Résidence Pickens#Maddie vit ici.",
 "MapString.rsv.40": "Je me demande qui a fait ce bel arrangement ?",
 "MapString.rsv.41": "Ezekiel semble brasser sa propre bière.",
-"MapString.rsv.42": "Daniels Residence#Ezekiel et Corine vivent ici.",
+"MapString.rsv.42": "Résidence Daniels#Ezekiel et Corine vivent ici.",
 "MapString.rsv.43": "Une glacière remplie de Joja cola.",
 "MapString.rsv.44": "Le garde-manger de Pika.#Il regorge d'ingrédients savoureux !",
-"MapString.rsv.45": "Il y a beaucoup de pots pleins d'ingrédients différents stockés.",
+"MapString.rsv.45": "Il y a beaucoup de pots pleins d'ingrédients différents.",
 "MapString.rsv.46": "La cuisine de Pika est si propre.#Je ferais mieux de ne rien toucher.",
 "MapString.rsv.47": "Ce clavier semble poussiéreux",
 "MapString.rsv.48": "Il est débranché.",
@@ -2762,31 +2726,31 @@
 
 "MapString.rsv.nobalcony": "Le balcon est verrouillé. Il y a un panneau :#'Réservé pour les occasions spéciales.'",
 
-"MapString.rsv.aguarbasement1": "C'est un tome plein de sorts magiques.#Il est écrit dans une langue que vous ne pouvez pas lire.",
+"MapString.rsv.aguarbasement1": "C'est un tome plein de sorts magiques.#Il est écrit dans une langue que tu ne peux pas lire.",
 "MapString.rsv.aguarbasement2": "Ça sent l'ail !#Tu réussis à résister à l'envie de le goûter.",
-"MapString.rsv.aguarbasement3": "C'est une pile de livres de magie.#Celui du dessus dit :#'Laundry Spells 101.'",
+"MapString.rsv.aguarbasement3": "C'est une pile de livres de magie.#Celui du dessus dit :#Sort pour la lessive pour les nuls.'",
 
 "MapString.rsv.aguarlab1": "Le garde-manger est trié par ordre alphabétique.",
 "MapString.rsv.aguarlab2": "Ce four est étrangement propre.",
-"MapString.rsv.aguarlab3": "Un évier propre. M. Aguar n'est pas un salaud.",
+"MapString.rsv.aguarlab3": "Un évier propre. M. Aguar n'est pas un malpropre.",
 "MapString.rsv.aguarlab4": "Le réfrigérateur est rempli d'aliments surgelés et de soda en conserve",
-"MapString.rsv.aguarlab5": "Vous sortez un livre et lisez la couverture : #'Biological Diversity' de Zoe Angofel.",
-"MapString.rsv.aguarlab6": "Vous sortez un livre et lisez la couverture : #'Water? - I Barely Know Her' de Charles Sparkie.",
-"MapString.rsv.aguarlab7": "Vous sortez un livre et lisez la couverture :#'R~FILE CHANGE~ocks Rock, ou le font-ils?' par Avi Slone.",
-"MapString.rsv.aguarlab8": "Vous sortez un livre et lisez la couverture :#'The Hot Professor' de M.A. Maesh.#Vous le replacez rapidement.",
+"MapString.rsv.aguarlab5": "Tu prends un livre et lis la couverture : #'Diversité Biologique' de Zoe Angofel.",
+"MapString.rsv.aguarlab6": "Tu prends un livre et lis la couverture : #L'Eau? - Je la connais à peine' de Charles Sparkie.",
+"MapString.rsv.aguarlab7": "Tu prends un livre et lis la couverture :#'Les cailloux ça déchire, ou quoi ?' par Avi Slone.",
+"MapString.rsv.aguarlab8": "Tu prends un livre et lis la couverture :#'Le professeur chaud' de M.A. Maesh.#Tu le remets rapidement en place.",
 "MapString.rsv.aguarlab9": "C'est plein d'échantillons. #Certains d'entre eux semblent briller.",
-"MapString.rsv.aguarlab10": "Cela ressemble à une sorte de glacière pour tubes à essai.",
+"MapString.rsv.aguarlab10": "Ca ressemble à une sorte de glacière pour tubes à essai.",
 "MapString.rsv.aguarlab11": "C'est une sorte d'urne. Elle est remplie d'eau.",
 "MapString.rsv.aguarlab12": "Un flacon rempli d'eau sale.",
 "MapString.rsv.aguarlab13": "Ils disent qu'une larme gelée, c'est Yoba qui pleure parce que tu ne manges pas tes légumes.",
 "MapString.rsv.aguarlab14": "C'est un pot de... mayonnaise ?#...#Ce... n'est pas de la mayonnaise.",
-"MapString.rsv.aguarlab15": "Un bel orbe bleu.#D'une manière ou d'une autre, vous ne pouvez pas arrêter de le regarder.",
-"MapString.rsv.aguarlab16": "Journal du professeur 63 : #Aucun anima trouvé dans l'échantillon 46.#Une recherche supplémentaire est requise.",
+"MapString.rsv.aguarlab15": "Un bel orbe bleu.#Pour une raison inconnue, tu ne peux pas arrêter de le regarder.",
+"MapString.rsv.aguarlab16": "Journal du professeur 63 : #Aucun anima trouvé dans l'échantillon 46.#Recherche supplémentaire requise.",
 "MapString.rsv.aguarlab17": "C'est une énorme perle !",
 "MapString.rsv.aguarlab18": "La note dit :#'Division cellulaire mitotique présente dans l'échantillon 126.'#Les I sont parsemés de petits cœurs.",
-"MapString.rsv.aguarlab19": "C'est une liste de choses à faire. Elle dit : #Achetez 1200 tubes à essai#2 Erlenmeyers#Cette jolie robe de Zuzu Apparel.",
+"MapString.rsv.aguarlab19": "C'est une liste de choses à faire. Elle dit : #Acheter 1200 tubes à essai#2 Erlenmeyers#Cette jolie robe de Zuzu Apparel.",
 "MapString.rsv.aguarlab20": "C'est un journal plein d'entrées couvrant plusieurs années.",
-"MapString.rsv.aguarlab21": "Cher professeur Salvador, ^Mes recherches n'ont pas encore porté leurs fruits.^Les traces d'anima sont inexplicables.^L'aura palpitante l'est encore plus.^Il y a un individu qui habite la ferme de ce vieil homme.^Ils semblent avoir une affinité magique.^Peut-être que je devrais...^(La lettre est inachevée)",
+"MapString.rsv.aguarlab21": "Cher professeur Salvador, ^Mes recherches n'ont pas encore porté leurs fruits.^Les traces d'anima sont inexplicables.^L'aura palpitante l'est encore plus.^Il y a un individu qui habite la ferme de ce vieil homme.^Cette personne semble avoir une affinité magique.^Peut-être que je devrais...^(La lettre est inachevée)",
 "MapString.rsv.aguarlab22": "Cela ressemble à un parchemin de sorts.#Mais au lieu de sorts, il a des formules et des équations chimiques.",
 "MapString.rsv.aguarlab23": "Bizarre...#Ce pot a de minuscules empreintes de pas dans le sol.",
 
