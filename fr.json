@@ -2887,106 +2887,106 @@
 "MapString.rsv.lolashed13": "Souvenirs des aventures passées de Lola et Freddie.",
 "MapString.rsv.lolashed14": "L'enclume a été récemment utilisée.",
 
-"MapString.rsv.hotel1": "C'est un vieux parchemin exposé relatant l'histoire du village de Ridgeside.",
+"MapString.rsv.hotel1": "ll y a un vieux parchemin exposé relatant l'histoire du village de Ridgeside.",
 "MapString.rsv.hotel2": "C'est une jolie peinture du désert de Calico.",
 "MapString.rsv.hotel3": "C'est un livre d'or.#On dirait que ton grand-père a souvent visité l'hôtel.",
 "MapString.rsv.hotel4": "Un formulaire d'enregistrement. J'ai déjà une maison à proximité, donc je ne devrais pas m'embêter.",
-"MapString.rsv.hotel5": "C'est un ordinateur portable. Vous voulez jeter un coup d'œil mais vous vous souvenez qu'il s'agit d'une violation de la vie privée.",
-"MapString.rsv.hotel6": "C'est l'ordinateur du hall de l'hôtel. Que venez-vous d'apprendre sur la confidentialité ?",
-"MapString.rsv.hotel7": "Le classeur est verrouillé. Pourquoi avez-vous regardé dedans de toute façon ?",
-"MapString.rsv.hotel8": "Vous sortez un livre et lisez la couverture :#'Blenders : Et si ?' par Bea Verina.",
-"MapString.rsv.hotel9": " Vous sortez un livre et lisez la couverture :#'Tout ce que vous devez savoir et plus' Rae Vendeth",
-"MapString.rsv.hotel10": "Un piano géant. Si seulement vous saviez jouer.",
+"MapString.rsv.hotel5": "C'est un ordinateur portable. Tu veux jeter un coup d'œil mais tu te souviens qu'il s'agit d'une violation de vie privée.",
+"MapString.rsv.hotel6": "C'est l'ordinateur du hall de l'hôtel. Que viens-tu d'apprendre sur la confidentialité ?",
+"MapString.rsv.hotel7": "Le classeur est verrouillé. Pourquoi essayes tu de regarder à l'intérieur ?",
+"MapString.rsv.hotel8": "Tu sors un livre et lis la couverture :#'Blenders : Et si ?' par Bea Verina.",
+"MapString.rsv.hotel9": "Tu sors un livre et lis la couverture :#'Tout ce que vous devez savoir et plus encore' Rae Vendeth",
+"MapString.rsv.hotel10": "Un piano géant. Si seulement tu savais jouer.",
 "MapString.rsv.hotel11": "Un magazine. La page sur laquelle il est ouvert contient une publicité automobile.",
 "MapString.rsv.hotel12": "'Employés uniquement'",
 "MapString.rsv.hotel13": "La commode de Flor. Je ne devrais pas y toucher.",
-"MapString.rsv.hotel14" : "Durée de vie : Piaget, Erikson et au-delà.",
+"MapString.rsv.hotel14": "Longévité: Piaget, Erikson et au-delà.",
 "MapString.rsv.hotel15": "La commode d'Ysabelle. Elle serait furieuse si je touchais ça.",
-"MapString.rsv.hotel16": "Il y a un ours mignon en peluche !",
-"MapString.rsv.hotel17": "Le bureau est recouvert de palettes de maquillage, de flacons et de compacts soigneusement organisés, et le miroir est entouré d'ampoules.",
-"MapString.rsv.hotel18": "C'est un haltère de 10 lb mis de côté négligemment",
+"MapString.rsv.hotel16": "Il y a un ours en peluche tout mignon !",
+"MapString.rsv.hotel17": "Le bureau est recouvert de palettes de maquillage, de flacons et de poudriers soigneusement organisés, et le miroir est entouré d'ampoules.",
+"MapString.rsv.hotel18": "C'est un haltère de 5kgs mis de côté négligemment",
 "MapString.rsv.hotel19": "L'ordinateur portable a un élégant marquage noir sur le bord avec le texte 'Ysa < '",
-"MapString.rsv.hotel20": "Il manque un~FILE CHANGE~chaîne.",
-"MapString.rsv.hotel21": "Une barre lestée. Semble peser 25 lb.",
-"MapString.rsv.hotel22": "La commode et le tiroir d'étude de Philip. Je devrais le laisser comme ça.",
+"MapString.rsv.hotel20": "Il manque une corde à la guitare.",
+"MapString.rsv.hotel21": "Une barre lestée. Elle semble peser autour de 10 kgs.",
+"MapString.rsv.hotel22": "La commode et le tiroir d'étude de Philip. Je devrais la laisser tranquile.",
 "MapString.rsv.hotel23": "Kinésiologie et physiologie. Écrit par Raf S. Eazz.",
-"MapString.rsv.hotel24": "Vous sortez une bande dessinée et lisez la couverture : #The Cosmic Vengeance, écrit par Karl Basket.",
+"MapString.rsv.hotel24": "Tu sors une bande dessinée et lis la couverture : #La Vengeance Cosmique, écrit par Karl Basket.",
 "MapString.rsv.hotel25": "Une pile de livres variés. Certains d'entre eux ressemblent à des romans de science-fiction.",
-"MapString.rsv.hotel26": "Un globe avec de petites épingles coincées dans presque tous les pays. Il y a une note attachée en haut : # 'Un jour...'",
+"MapString.rsv.hotel26": "Un globe avec de petites épingles plantées sur presque tous les pays. Il y a une note attachée en haut : # 'Un jour...'",
 "MapString.rsv.hotel27": "Quelqu'un a jeté un petit morceau d'or ! Ce doit être par accident.",
 "MapString.rsv.hotel28": "Vous sortez un vieil album photo.#Il est plein de photos de Richard et de sa famille.",
-"MapString.rsv.hotel29": "Hospitality 101: L'art d'offrir une deuxième maison.",
-"MapString.rsv.hotel30": "La poubelle est vide et propre. Tellement propre!",
+"MapString.rsv.hotel29": "L'hospitalité pour les nuls : L'art d'offrir une deuxième maison.",
+"MapString.rsv.hotel30": "La poubelle est vide et propre. Tellement propre !",
 "MapString.rsv.hotel31": "C'est une barre de ballet. Elle semble avoir été installée récemment.",
-"MapString.rsv.hotel32": "Je me demande si je devrais m'entraîner davantage.",
-"MapString.rsv.hotel33" : "Quelqu'un a gravé quelque chose dans ce banc.#Il dit : 'BE HAPPY AGAIN'",
+"MapString.rsv.hotel32": "Je me demande si je devrais faire plus de sport.",
+"MapString.rsv.hotel33": "Quelqu'un a gravé quelque chose sur ce banc.#Ca dit : 'ETRE HEUREUX A NOUVEAU'",
 
 "MapString.rsv.logcabinhotel1": "C'est une urne. Mieux vaut ne pas y toucher.",
 
-"MapString.rsv.maddie1": "Chaque livre semble avoir des tonnes de signets dans différentes pages !",
+"MapString.rsv.maddie1": "Chaque livre semble avoir des tonnes de marque pages pour différentes pages !",
 "MapString.rsv.maddie2": "À l'intérieur du tiroir se trouvent différents romans de genres variés.",
 "MapString.rsv.maddie3": "Le premier livre a le titre 'Les principes du monde cellulaire'",
 "MapString.rsv.maddie4": "L'écran actuel affiche une page de recherche de site de vente en ligne. La recherche est 'robes mignonnes'",
-"MapString.rsv.maddie5": "Marine Biology and Botany - Une collection publiée de recherches par la Wale Academy",
-"MapString.rsv.maddie6": "C'est un joli livre pop-up des 'Flying Dogs of Princess Rara'.",
+"MapString.rsv.maddie5": "Biologie Marine et Botanique - Une collection publiée de recherches par la Wale Academy",
+"MapString.rsv.maddie6": "C'est un joli livre pop-up des 'Chiens Volants de Princesse Rara'.",
 "MapString.rsv.maddie7": "Une collection de rapports de thèse et de dossiers est soigneusement placée dans l'étagère.",
-"MapString.rsv.maddie8": "La magie et la théorie derrière son existence. # C'est un énorme livre avec des signets marquant plusieurs pages.",
-"MapString.rsv.maddie9": "Une pile de cahiers de couleurs et de motifs variés. Le plus haut a un visage de chaton dessus.",
-"MapString.rsv.maddie10": "Un petit terrarium!",
-"MapString.rsv.maddie11": "L'ordinateur personnel de Maddie. Il demande un mot de passe.",
+"MapString.rsv.maddie8": "Magie et théorie derrière son existence.# C'est un énorme livre avec des marque page à plusieurs pages.",
+"MapString.rsv.maddie9": "Une pile de cahiers de couleurs et de motifs variés. Celui au dessus de la pile a un visage de chaton dessus.",
+"MapString.rsv.maddie10": "Un petit terrarium !",
+"MapString.rsv.maddie11": "L'ordinateur personnel de Maddie. Il faut un mot de passe.",
 
 "MapString.rsv.pika1": "La glacière contient beaucoup de boissons à l'intérieur !",
 "MapString.rsv.pika2": "Il y a du poisson congelé à l'intérieur de la glacière.",
-"MapString.rsv.pika3": "Un repas délicieux ! Peut-être une nouvelle recette ?",
+"MapString.rsv.pika3": "Un repas très appétissant ! Peut-être une nouvelle recette ?",
 "MapString.rsv.pika4": "Un joli collier de coquillages bleus. Il a l'air propre et bien entretenu. Une photo d'une femme est à côté.",
-"MapString.rsv.pika5": "Un album photo d'un endroit inconnu. L'endroit ressemble à une île tropicale, et tout le monde porte des vêtements que vous n'avez jamais vus auparavant.",
+"MapString.rsv.pika5": "Un album photo d'un endroit inconnu. L'endroit ressemble à une île tropicale, et tout le monde porte des vêtements que tu n'as jamais vus auparavant.",
 "MapString.rsv.pika6": "C'est un vieux journal. Il ne semble pas appartenir à Pika.",
 "MapString.rsv.pika7": "Le tiroir de Pika. Je ne devrais pas jouer avec ses affaires.",
 "MapString.rsv.pika8": "La guitare est un peu sale.",
-"MapString.rsv.pika9": "La radio joue une chanson entraînante lorsque vous l'allumez.",
+"MapString.rsv.pika9": "La radio joue une chanson entraînante lorsque tu l'allumes.",
 
 "MapString.rsv.sign1": "Téléphérique du village de Ridgeside# vers Pelican Town",
-"MapString.rsv.sign2": "` Téléphérique vers le village de Ridgeside",
-"MapString.rsv.sign3": "AVERTISSEMENT ! # Veuillez sécuriser votre cheval dans le compartiment à chevaux. # Nous ne voulons pas d'un autre incident 'Pegasus'.#- Lenny",
-"MapString.rsv.sign4": "> Téléphérique pour Pelican Town#ATTENTION !#Attention aux chutes de débris pendant les jours de pluie.",
+"MapString.rsv.sign2": "`Téléphérique vers le village de Ridgeside",
+"MapString.rsv.sign3": "AVERTISSEMENT ! #Veuillez sécuriser votre cheval dans le compartiment à chevaux.# Nous ne voulons pas d'un autre incident à la 'Pegasus'.#- Lenny",
+"MapString.rsv.sign4": "> Téléphérique pour Pelican Ville#DANGER !#Attention aux chutes de débris pendant les jours de pluie.",
 
 "MapString.rsv.bench": "Quelqu'un a gravé 'P & C' dans cet arbre. Quel romantisme.'",
 
 "MapString.rsv.cliffblock": "Attention !#Le bord de la falaise est dangereux.#Ne sautez pas par-dessus les clôtures.",
 
-"MapString.rsv.cablecar1": "Ici repose Pégase, le cheval qui pouvait voler.#'Bien que seule votre selle ait été trouvée.#Nous pleurons votre perte et pleurons.#Que vos pieds ne touchent jamais le sol.#Nous nous rencontrerons à nouveau dans le ciel.'",
+"MapString.rsv.cablecar1": "Ici repose Pégase, le cheval qui pouvait voler.#'Même si nous n'avons retrouvé que ta selle.#Nous pleurons ta perte.#Que tes pieds ne touchent jamais le sol.#Nous nous rencontrerons à nouveau dans le ciel.'",
 
-"MapString.rsv.minecartsign1":"VERS PELICAN TOWN",
+"MapString.rsv.minecartsign1":"VERS PELICAN VILLE",
 "MapString.rsv.minecartsign2":"VERS LA CRÊTE AU NORD",
 "MapString.rsv.minecartsign3":"VERS LA CRÊTE SUD",
 
 "MapString.rsv.ninja1": "'Gardez un œil sur la ferme du vieil homme.'#'Attendez d'autres instructions.#-H'",
 "MapString.rsv.ninja2": "Les livres sont tous écrits dans des langues différentes.",
 "MapString.rsv.ninja3": "Une collection d'armes tranchantes !#Je pourrais me blesser si je touche l'une d'entre elles.",
-"MapString.rsv.ninja4": "Celles-ci ressemblent à des bombes cerises...#... avec des runes magiques imprimées dessus.",
+"MapString.rsv.ninja4": "Celles-ci ressemblent à des petites bombes...#... avec des runes magiques imprimées dessus.",
 "MapString.rsv.ninja5": "L'épée émet une aura menaçante.",
 
 "MapString.rsv.shiro1": "Une bouteille de vin récemment ouverte.",
 "MapString.rsv.shiro2": "La poubelle est pleine de pansements usagés.",
-"MapString.rsv.shiro3": "On dirait que Yuuma les a dessinés. Ils ont l'air si bons!",
-"MapString.rsv.shiro4": "Vous sortez un livre et lisez la couverture : #'Lorem Ipsum' de Peter Laceholder.",
-"MapString.rsv.shiro5": "Vous sortez un livre et lisez la couverture : #'Lorem Ipsum' de Peter Laceholder.",
-"MapString.rsv.shiro6": "C'est un tas de livres~FILE CHANGE~ éducationels pour différents niveaux scolaires.",
+"MapString.rsv.shiro3": "On dirait que Yuuma les a dessinés. Ils sont si beaux !",
+"MapString.rsv.shiro4": "Tu sors un livre et lis la couverture : #'Lorem Ipsum' de Peter Laceholder.",
+"MapString.rsv.shiro5": "Tu sors un livre et lis la couverture : #'Lorem Ipsum' de Peter Laceholder.",
+"MapString.rsv.shiro6": "C'est un tas de livres éducationels pour différents niveaux scolaires.",
 "MapString.rsv.shiro7": "Des boîtes pleines de vêtements.",
-"MapString.rsv.shiro8": "Il y a une note attachée à la fleur. Elle se lit comme suit : ^ 'Nous rentrerons bientôt à la maison.^ Veuillez prendre soin les uns des autres.'",
+"MapString.rsv.shiro8": "Il y a une note attachée à la fleur. Il est écrit: ^ 'Nous rentrerons bientôt à la maison.^ Veuillez prendre soin les uns des autres.'",
 "MapString.rsv.shiro9": "Les tiroirs sont verrouillés.",
 "MapString.rsv.shiro10": "C'est un fauteuil roulant.#Il semble qu'il n'ait pas été utilisé depuis un moment.",
 
 "MapString.rsv.cliffhouseclose": "Cette maison abandonnée a été barricadée.",
 
-"MapString.rsv.undreyapeek": "Une silhouette recouverte d'une couverture noire...#'Shhh!! Ne sois pas si fort, d'accord?'",
+"MapString.rsv.undreyapeek": "Une silhouette recouverte d'une couverture noire...#'Shhh!! Ne fait pas tant de bruit, d'accord ?'",
 
-"MapString.rsv.grave1": "Il y a un texte décoloré gravé dans la tombe.^Les mots peuvent à peine être lus.^'He-e l--s -rth-r-'",
+"MapString.rsv.grave1": "Il y a un texte décoloré gravé sur la tombe.^Les mots peuvent à peine être lus.^'I-i R-pos- -rth-r-'",
 
 "MapString.rsv.brokencart": "Ce panier semble cassé. Mieux vaut ne pas le toucher.",
 
-"MapString.rsv.ridgeforest1": "Ici repose mon pote. #Votre temps était trop court.",
-"MapString.rsv.ridgeforest2": "Le texte est trop pâle pour être lu.",
+"MapString.rsv.ridgeforest1": "Ici repose Buddy. #Ton temps sur Terre était trop court.",
+"MapString.rsv.ridgeforest2": "Le texte est trop effacé pour être lu.",
 "MapString.rsv.ridgeforest3": "Un père aimant. Tu vas nous manquer...",
 "MapString.rsv.ridgeforest4": "Général Diggy Johnson^Un leader honorable.^A---^Le reste du texte est illisible.",
 
@@ -2994,16 +2994,16 @@
 
 "MapString.rsv.tentlock": "Il y a une énorme caisse en bois qui bloque l'entrée de la tente. Je me demande à qui ça appartient ?",
 
-"MapString.rsv.fallshint1": "Une sorte de rouleau ancien est incrusté dans l'herbe.#Il se lit...^^'8|13^Vous pouviez entendre le fracas des eaux près des arbres roses.^Y a-t-il des cascades souterraines ici ?'",
-"MapString.rsv.fallshint2": "Une sorte de rouleau ancien est incrusté dans l'herbe.#Il lit...^^'1|27^Le son devient de plus en plus fort ! Suis-je proche ? Cela me rend fou ! '",
+"MapString.rsv.fallshint1": "Une sorte de rouleau ancien est incrusté dans l'herbe.#Il est écrit...^^'8|13^Tu croirais entendre le fracas des eaux près des arbres roses.^Y a-t-il des cascades souterraines ici ?'",
+"MapString.rsv.fallshint2": "Une sorte de rouleau ancien est incrusté dans l'herbe.#Il est écrit...^^'1|27^Le son devient de plus en plus fort ! Suis-je proche ? Cela me rend fou ! '",
 
-"MapString.rsv.mysticfalls1": "Mystic Falls of Companions^^' Celui qui se lie avec ses voisins et partage sa joie et sa peine est béni par Yoba.'",
-"MapString.rsv.mysticfalls2": "Mystic Falls of Love^^'Être capable d'attraper le cœur de quelqu'un est à la fois une bénédiction et une malédiction. Mais en présence de ces cascades, l'amour préfère être une bénédiction.'",
-"MapString.rsv.mysticfalls3": "Mystic Falls of Sacrifice^^'Parmi les fardeaux les plus lourds se trouvent ceux qui se battent pour le plus grand bien de tous'",
+"MapString.rsv.mysticfalls1": "Cascades Mystiques des Compagnions^^'Celui qui se lie avec ses voisins et partage sa joie et sa peine est béni par Yoba.'",
+"MapString.rsv.mysticfalls2": "Cascade Mystique de l'Amour^^'Être capable d'attraper le cœur de quelqu'un est à la fois une bénédiction et une malédiction. Mais en présence de ces cascades, l'amour préfère être une bénédiction.'",
+"MapString.rsv.mysticfalls3": "Cascade Mystique du Sacrifice^^'Parmi les fardeaux les plus lourds se trouvent ceux portés par ceux qui se battent pour le plus grand bien de tous'",
 
 "MapString.rsv.abandonedhouse1": "'Quand je serai parti, essaie d'être une bonne fille, d'accord ? ^^ N'oublie pas de manger beaucoup, reste à l'écart du danger et ne fais confiance à personne. ^^ Je suis désolé Je ne peux pas vivre aussi longtemps que toi...'",
 "MapString.rsv.abandonedhouse2": "Les boîtes sont pleines de déchets recyclés.",
-"MapString.rsv.abandonedhouse3": "Il y a une petite note : #'Ne faites pas confiance aux foulards rouges'",
+"MapString.rsv.abandonedhouse3": "Il y a une petite note : #'Ne fais pas confiance aux foulards rouges'",
 "MapString.rsv.abandonedhouse4": "Différents dessins colorés !",
 "MapString.rsv.abandonedhouse5": "Boîtes de fruits et de nourriture.",
 
@@ -3011,19 +3011,19 @@
 
 //Aguar
 //Brave Little Sapling (ANIMÉ) (FAMILLE) (COMÉDIE)
-"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "Cette petite histoire est assez saine.$h",
-"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "Comme fascinant.",
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "Cette petite histoire est assez réconfortante.$h",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "Comme c'est fascinant.",
 "MovieData.Aguar.SpringMovie0.Like.AfterMovie": "C'était un film décent, @. Merci de m'avoir invité. C'était assez relaxant.",
 
 //Voyage du Roi de la Prairie (JEU VIDÉO)
 "MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "Je n'ai aucun intérêt pour ce genre de films.",
 "MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "Je ne comprends rien.$a",
-"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "Je pense que mon temps a été perdu, @.",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "Je pense que j'ai perdu mon temps, @.",
 
 //Mysterium (MINDFUCK) (MYSTÈRE)
-"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "Un film mystère ? Hmm, fascinant.",
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "Un film mystèrieux ? Hmm, fascinant.",
 "MovieData.Aguar.FallMovie0.Like.DuringMovie": "% M. Aguar semble réfléchir à l'état actuel du film.",
-"MovieData.Aguar.FallMovie0.Like.AfterMovie": "C'était un film intéressant à décortiquer ! Merci pour votre temps, @.",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "C'était un film intéressant à décortiquer ! Merci pour ce moment, @.",
 
 //Miracle au Coldstar Ranch (SAIN) (TEAR JERKER) (FAMILLE)
 "MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "Un film familial, hein ? Plutôt intéressant",
@@ -3033,17 +3033,17 @@
 //Merveilles naturelles : explorer notre monde vibrant (VISITE) (ÉDUCATION)
 "MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "Je connais déjà beaucoup de choses sur le monde. Voyons s'ils peuvent m'apprendre quelque chose de nouveau.$a",
 "MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "% M. Aguar s'ennuie",
-"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "C'était assez élémentaire, si vous me demandez.$a",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "C'était assez élémentaire, si tu veux mon avis.$a",
 
 //Wumbus (SCI-FI) (COMÉDIE)
-"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "Maintenant, c'est un bon concept ! Assez excitant !$h",
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "Ah, c'est un chouette concept ! C'est excitant !$h",
 "MovieData.Aguar.SummerMovie1.Love.DuringMovie": "% M. Aguar est concentré sur le film.",
-"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "C'était une version assez intéressante du Wumbi. Je l'ai apprécié.$h",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "C'était une version assez intéressante du Wumbi. J'ai bien apprécié.$h",
 
 // Hurle sous la pluie (HORREUR)
-"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "Un film d'horreur ? Je n'ai pas peur facilement.#$b#Tu aurais dû le voir~FILE CHANGE~les choses que j'ai vues.$a",
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "Un film d'horreur ? Je n'ai pas peur facilement.#$b#Tu aurais dû voir les choses que j'ai vues.$a",
 "MovieData.Aguar.FallMovie1.Like.DuringMovie": "C'est assez humoristique !$h",
-"MovieData.Aguar.FallMovie1.Like.AfterMovie": "Ils ont clairement utilisé des accessoires et des effets spéciaux, mais j'ai aimé ça.$h",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "Ils ont clairement utilisé des accessoires et des effets spéciaux, mais j'ai bien aimé.$h",
 
 //Zuzu City Express (CLASSIQUE) (ROMANCE)
 "MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "Ah, un film classique. Je me souviens en avoir entendu parler quand j'étais à l'académie.",
@@ -3058,38 +3058,38 @@
 
 //Voyage du Roi de la Prairie (JEU VIDÉO)
 "MovieData.Alissa.SummerMovie0.Like.BeforeMovie": "Un film sur un jeu vidéo ? Je pense que ce sera amusant.",
-"MovieData.Alissa.SummerMovie0.Like.DuringMovie": "Je suis un peu perdu, mais bon, j'aime les personnages !$h",
-"MovieData.Alissa.SummerMovie0.Like.AfterMovie": "J'ai quand même passé un bon moment même si je me suis un peu perdu.$u#$b#Merci de m'avoir invité, @.",
+"MovieData.Alissa.SummerMovie0.Like.DuringMovie": "Je suis un peu perdue, mais bon, j'aime les personnages !$h",
+"MovieData.Alissa.SummerMovie0.Like.AfterMovie": "J'ai quand même passé un bon moment même si je n'ai pas tout compris.$u#$b#Merci de m'avoir invitée, @.",
 
 //Mysterium (MINDFUCK) (MYSTÈRE)
-"MovieData.Alissa.FallMovie0.Dislike.BeforeMovie": "Un film mystère ? Oh, je ne sais pas....$s",
+"MovieData.Alissa.FallMovie0.Dislike.BeforeMovie": "Un film mystèrieux ? Oh, je ne sais pas....$s",
 "MovieData.Alissa.FallMovie0.Dislike.DuringMovie": "%Alissa semble être confuse à propos de l'intrigue.",
-"MovieData.Alissa.FallMovie0.Dislike.AfterMovie": "Je n'ai pas vraiment compris grand-chose de l'histoire @. Je suis désolé.$s#$b#Merci pour l'invitation.",
+"MovieData.Alissa.FallMovie0.Dislike.AfterMovie": "Je n'ai pas vraiment compris grand-chose de l'histoire @. Je suis désolée.$s#$b#Merci quand même pour l'invitation.",
 
 //Miracle au Coldstar Ranch (SAIN) (TEAR JERKER) (FAMILLE)
-"MovieData.Alissa.WinterMovie0.Love.BeforeMovie": "Awww, j'avais envie de regarder celui-ci ! Il a l'air si mignon !$h",
+"MovieData.Alissa.WinterMovie0.Love.BeforeMovie": "Awww, j'avais envie de regarder ce film ! Il a l'air si mignon !$h",
 "MovieData.Alissa.WinterMovie0.Love.DuringMovie": "%Alissa pleure mais fait de son mieux pour ne pas faire de bruit",
-"MovieData.Alissa.WinterMovie0.Love.AfterMovie": "Je n'arrête pas de pleurer ! Aww!!$u#$b#C'était tellement réconfortant !$u.",
+"MovieData.Alissa.WinterMovie0.Love.AfterMovie": "Je n'arrête pas de pleurer ! Aww !!$u#$b#C'était tellement réconfortant !$u.",
 
 //Merveilles naturelles : explorer notre monde vibrant (VISITE) (ÉDUCATION)
 "MovieData.Alissa.SpringMovie1.Like.BeforeMovie": "Oh, j'en ai entendu parler par Trinnie. C'est censé être éducatif, non?",
 "MovieData.Alissa.SpringMovie1.Like.DuringMovie": "Oh, alors c'est ce qui se passe là-bas...",
-"MovieData.Alissa.SpringMovie1.Like.AfterMovie": "J'ai beaucoup appris aujourd'hui !$h#$b#Je ne suis jamais vraiment allé loin, alors c'était un régal. Merci, @.$h",
+"MovieData.Alissa.SpringMovie1.Like.AfterMovie": "J'ai beaucoup appris aujourd'hui !$h#$b#Je ne suis jamais vraiment allée loin, alors c'était un régal. Merci, @.$h",
 
 //Wumbus (SCI-FI) (COMÉDIE)
 "MovieData.Alissa.SummerMovie1.Like.BeforeMovie": "Oh hé ! Le wumbus a l'air si mignon !$h",
 "MovieData.Alissa.SummerMovie1.Like.DuringMovie": "C'est hilarant !$h",
-"MovieData.Alissa.SummerMovie1.Like.AfterMovie": "Le wumbus était comme... et le garçon était comme... et--$h#$b#C'était un film tellement mignon et drôle, @, merci pour m'avoir invité.$h",
+"MovieData.Alissa.SummerMovie1.Like.AfterMovie": "Le wumbus était genre... et le garçon lui était très... et--$h#$b#C'était un film tellement mignon et drôle, @, merci pour m'avoir invitée.$h",
 
 // Hurle sous la pluie (HORREUR)
 "MovieData.Alissa.FallMovie1.Dislike.BeforeMovie": "Un film d'horreur !?$s#$b#Umm..$s",
 "MovieData.Alissa.FallMovie1.Dislike.DuringMovie": "%Alissa se couvre les yeux.",
-"MovieData.Alissa.FallMovie1.Dislike.AfterMovie": "Je n'ai pas vraiment passé un bon moment, j'ai couvert mes yeux tout le film.$s#$b#Je suis vraiment désolé, @.$s",
+"MovieData.Alissa.FallMovie1.Dislike.AfterMovie": "Je n'ai pas vraiment passé un bon moment, j'ai mis mes mains devant mes yeux tout le film.$s#$b#Je suis vraiment désolée, @.$s",
 
 //Zuzu City Express (CLASSIQUE) (ROMANCE)
-"MovieData.Alissa.WinterMovie1.Love.BeforeMovie": "Ohh! Je me souviens de la bande originale de ce film, elle était plutôt bonne!$h",
-"MovieData.Alissa.WinterMovie1.Love.DuringMovie": "Oh mon..$l",
-"MovieData.Alissa.WinterMovie1.Love.AfterMovie": "Je me suis bien amusé, @. C'était vraiment quelque chose.$l",
+"MovieData.Alissa.WinterMovie1.Love.BeforeMovie": "Ohh ! Je me souviens de la bande originale de ce film, elle était plutôt bonne !$h",
+"MovieData.Alissa.WinterMovie1.Love.DuringMovie": "Ohlala..$l",
+"MovieData.Alissa.WinterMovie1.Love.AfterMovie": "Je me suis bien amusée, @. C'était vraiment quelque chose.$l",
 
 //Bertier
 //Brave Little Sapling (ANIMÉ) (FAMILLE) (COMÉDIE)
@@ -3098,45 +3098,45 @@
 "MovieData.Bert.SpringMovie0.Like.AfterMovie": "Je pense que je suis un peu trop vieux pour ce genre de film, @. Mais merci pour l'invitation.",
 
 //Voyage du Roi de la Prairie (JEU VIDÉO)
-"MovieData.Bert.SummerMovie0.Dislike.BeforeMovie": "Je n'ai jamais eu ce genre de films, mais essayez tout une fois, non?$s",
+"MovieData.Bert.SummerMovie0.Dislike.BeforeMovie": "Je n'ai jamais compris ce genre de films, mais il faut tout essayer, non?$s",
 "MovieData.Bert.SummerMovie0.Dislike.DuringMovie": "%Bert a l'air de s'ennuyer.",
 "MovieData.Bert.SummerMovie0.Dislike.AfterMovie": "Je ne pense pas avoir compris, @. C'est un truc de jeune ?.$s",
 
 //Mysterium (MINDFUCK) (MYSTÈRE)
-"MovieData.Bert.FallMovie0.Like.BeforeMovie": "Oh, ça pourrait être un vrai voyage. N'est-ce pas, @?$h",
-"MovieData.Bert.FallMovie0.Like.DuringMovie": "AUCUNE VOIE!$u",
-"MovieData.Bert.FallMovie0.Like.AfterMovie": "Whoa! C'était un rebondissement, hein, @?$h",
+"MovieData.Bert.FallMovie0.Like.BeforeMovie": "Oh, ça pourrait être une expérience intéressante. N'est-ce pas, @?$h",
+"MovieData.Bert.FallMovie0.Like.DuringMovie": "PAS CROYABLE !$u",
+"MovieData.Bert.FallMovie0.Like.AfterMovie": "Whoa ! Sacré rebondissement, hein, @ ?$h",
 
 //Miracle au Coldstar Ranch (SAIN) (TEAR JERKER) (FAMILLE)
-"MovieData.Bert.WinterMovie0.Like.BeforeMovie": "Ohh, je pense qu'Olga aimerait ça'un.",
-"MovieData.Bert.WinterMovie0.Like.DuringMovie": "%Bert a essuyé quelques larmes de~FILE CHANGE~ sa joue.",
-"MovieData.Bert.WinterMovie0.Like.AfterMovie": "Dang si ce petit film ne m'a pas fait ouvrir l'aqueduc !$h#$b#Merci pour ce bon moment, @.",
+"MovieData.Bert.WinterMovie0.Like.BeforeMovie": "Ohh, je pense qu'Olga aimerait ça.",
+"MovieData.Bert.WinterMovie0.Like.DuringMovie": "%Bert a essuyé quelques larmes sur sa joue.",
+"MovieData.Bert.WinterMovie0.Like.AfterMovie": "Mince alors ce petit film m'a fait ouvrir les vannes !$h#$b#Merci pour ce bon moment, @.",
 
 //Merveilles naturelles : explorer notre monde vibrant (VISITE) (ÉDUCATION)
-"MovieData.Bert.SpringMovie1.Like.BeforeMovie": "Oh, on va nous faire un petit tour du monde, hein?$h",
-"MovieData.Bert.SpringMovie1.Like.DuringMovie": "Quand j'étais petit Bert, j'ai visité une fois les îles Fern. Cela me rappelle cette époque.$h",
-"MovieData.Bert.SpringMovie1.Like.AfterMovie": "N'était-ce pas une amusante petite alouette autour du monde, @?$h",
+"MovieData.Bert.SpringMovie1.Like.BeforeMovie": "Oh, on va faire un petit tour du monde, hein?$h",
+"MovieData.Bert.SpringMovie1.Like.DuringMovie": "Quand j'étais un petit Bert, j'ai visité une fois les îles Fern. Ca me rappelle cette époque.$h",
+"MovieData.Bert.SpringMovie1.Like.AfterMovie": "N'était-ce pas une amusante petite balade autour du monde, @ ?$h",
 
 //Wumbus (SCI-FI) (COMÉDIE)
 "MovieData.Bert.SummerMovie1.Like.BeforeMovie": "Oh hé, une petite comédie amusante ! Cela pourrait être un vrai moment de plaisir.$h",
 "MovieData.Bert.SummerMovie1.Like.DuringMovie": "Hahaha ! C'est hilarant !$h",
-"MovieData.Bert.SummerMovie1.Like.AfterMovie": "C'était bien sûr un rire et demi ! Merci de m'avoir invité, @.$h",
+"MovieData.Bert.SummerMovie1.Like.AfterMovie": "On a rigolé pour la semaine ! Merci de m'avoir invité, @.$h",
 
 // Hurle sous la pluie (HORREUR)
-"MovieData.Bert.FallMovie1.Love.BeforeMovie": "J'attendais de voir ça ! Olga n'aime pas trop les trucs effrayants.",
-"MovieData.Bert.FallMovie1.Love.DuringMovie": "Hoo-wee ! Je n'avais pas vu ça venir !$h",
-"MovieData.Bert.FallMovie1.Love.AfterMovie": "Ah ! Rien de tel qu'une frayeur à l'ancienne pour se débarrasser du stress de vos os !$h",
+"MovieData.Bert.FallMovie1.Love.BeforeMovie": "J'avais vraiment envie de voir ça ! Olga n'aime pas trop les trucs effrayants.",
+"MovieData.Bert.FallMovie1.Love.DuringMovie": "Wahou ! Je l'avais pas vu venir !$h",
+"MovieData.Bert.FallMovie1.Love.AfterMovie": "Ah ! Rien de tel qu'une frayeur à l'ancienne pour se débarrasser du stress !$h",
 
 //Zuzu City Express (CLASSIQUE) (ROMANCE)
 "MovieData.Bert.WinterMovie1.Dislike.BeforeMovie": "Un film d'amour hein ? Ehh...$s",
-"MovieData.Bert.WinterMovie1.Dislike.DuringMovie": "J'ai besoin de vin pour accompagner tout ce fromage...$s",
-"MovieData.Bert.WinterMovie1.Dislike.AfterMovie": "Pas vraiment mon truc, je ne pense pas. Mais merci pour l'invitation, @.",
+"MovieData.Bert.WinterMovie1.Dislike.DuringMovie": "C'est tellement mielleux que j'ai peur qu'on attire des fourmis...$s",
+"MovieData.Bert.WinterMovie1.Dislike.AfterMovie": "Pas vraiment mon truc, je pense. Mais merci pour l'invitation, @.",
 
 //Corine
 //Brave Little Sapling (ANIMÉ) (FAMILLE) (COMÉDIE)
-"MovieData.Corine.SpringMovie0.Love.BeforeMovie": "Oh! Je me souviens de cette histoire! Je l'aimais quand j'étais enfant.$h",
+"MovieData.Corine.SpringMovie0.Love.BeforeMovie": "Oh ! Je me souviens de cette histoire ! Je l'adorais quand j'étais enfant.$h",
 "MovieData.Corine.SpringMovie0.Love.DuringMovie": "Aww ! C'est tellement mignon !$h",
-"MovieData.Corine.SpringMovie0.Love.AfterMovie": "J'ai passé un bon moment, @. Merci beaucoup de m'avoir invité.$h",
+"MovieData.Corine.SpringMovie0.Love.AfterMovie": "J'ai passé un bon moment, @. Merci beaucoup de m'avoir invitée.$h",
 
 //Voyage du Roi de la Prairie (JEU VIDÉO)
 "MovieData.Corine.SummerMovie0.Love.BeforeMovie": "J'ai déjà joué au jeu. J'espère que c'est aussi excitant.$h",
@@ -3146,32 +3146,32 @@
 //Mysterium (MINDFUCK) (MYSTÈRE)
 "MovieData.Corine.FallMovie0.Like.BeforeMovie": "Ça pourrait être amusant ! Les films à énigme sont un délice.",
 "MovieData.Corine.FallMovie0.Like.DuringMovie": "Whoa ! Je ne m'y attendais pas.$h",
-"MovieData.Corine.FallMovie0.Like.AfterMovie": "Je me suis bien amusé avec le film, @. Merci de m'avoir accompagné avec vous.$h",
+"MovieData.Corine.FallMovie0.Like.AfterMovie": "Je me suis bien amusée avec le film, @. Merci de m'avoir invitée à t'accompagner.$h",
 
 //Miracle au Coldstar Ranch (SAIN) (TEAR JERKER) (FAMILLE)
-"MovieData.Corine.WinterMovie0.Like.BeforeMovie": "Je suis excité pour celui-ci. J'ai entendu qu'il faisait pleurer tout le monde.$h",
+"MovieData.Corine.WinterMovie0.Like.BeforeMovie": "Je suis excitée pour celui-ci. J'ai entendu qu'il faisait pleurer tout le monde.$h",
 "MovieData.Corine.WinterMovie0.Like.DuringMovie": "%Corine sourit en pleurant",
-"MovieData.Corine.WinterMovie0.Like.AfterMovie": "C'était vraiment bien. Mon cœur est toujours attaché aux personnages.$h",
+"MovieData.Corine.WinterMovie0.Like.AfterMovie": "C'était vraiment bien. Je suis toujours autant attachée aux personnages.$h",
 
 //Merveilles naturelles : explorer notre monde vibrant (VISITE) (ÉDUCATION)
 "MovieData.Aguar.SpringMovie1.Like.BeforeMovie": "Un documentaire, hein ? Ça pourrait être intéressant.",
-"MovieData.Aguar.SpringMovie1.Like.DuringMovie": "Wow, je n'en savais rien.$h",
-"MovieData.Aguar.SpringMovie1.Like.AfterMovie": "Vous donne vraiment envie de voyager, n'est-ce pas, @?$h",
+"MovieData.Aguar.SpringMovie1.Like.DuringMovie": "Wow, je n'en avait aucune idée.$h",
+"MovieData.Aguar.SpringMovie1.Like.AfterMovie": "Ca donne vraiment envie de voyager, n'est-ce pas, @ ?$h",
 
 //Wumbus (SCI-FI) (COMÉDIE)
 "MovieData.Corine.SummerMovie1.Like.BeforeMovie": "Qu'est-ce qu'un 'Wumbus', @ ? J'espère que ce n'est pas dangereux.",
 "MovieData.Corine.SummerMovie1.Like.DuringMovie": "Le Wumbus est si mignon ! J'en veux un !$h",
-"MovieData.Corine.SummerMovie1.Like.AfterMovie": "C'était un bon moment ! Merci de m'avoir accompagné @.$h",
+"MovieData.Corine.SummerMovie1.Like.AfterMovie": "C'était un bon moment ! Merci de m'avoir invitée @.$h",
 
 // Hurle sous la pluie (HORREUR)
 "MovieData.Corine.FallMovie1.Dislike.BeforeMovie": "Cela pourrait être un peu trop effrayant pour moi....$h",
-"MovieData.Corine.FallMovie1.Dislike.DuringMovie": "EEEK!$u",
-"MovieData.Corine.FallMovie1.Dislike.AfterMovie": "Je n'ai pas de problème avec les monstres dans la vraie vie, mais c'est trop.$s",
+"MovieData.Corine.FallMovie1.Dislike.DuringMovie": "EEEK !$u",
+"MovieData.Corine.FallMovie1.Dislike.AfterMovie": "Je n'ai pas de problème avec les monstres dans la vraie vie, mais là c'est trop pour moi.$s",
 
 //Zuzu City Express (CLASSIQUE) (ROMANCE)
 "MovieData.Corine.WinterMovie1.Like.BeforeMovie": "Oh ! J'en ai entendu parler ! Je voulais le voir.$h",
 "MovieData.Corine.WinterMovie1.Like.DuringMovie": "Awww... C'est gentil.$l",
-"MovieData.Corine.WinterMovie1.Like.AfterMovie": "J'ai vraiment aimé le film, @. Merci de m'avoir invité.$h",
+"MovieData.Corine.WinterMovie1.Like.AfterMovie": "J'ai vraiment aimé le film, @. Merci de m'avoir invitée.$h",
 
 //Ézéchiel
 //Brave Little Sapling (ANIMÉ) (FAMILLE) (COMÉDIE)
@@ -3180,24 +3180,24 @@
 "MovieData.Ezekiel.SpringMovie0.Dislike.AfterMovie": "Je n'ai rien compris. Je me suis endormi. Hmph.",
 
 //Voyage du Roi de la Prairie (JEU VIDÉO)
-"MovieData.Ezekiel.SummerMovie0.Dislike.BeforeMovie": "Qu'est-ce que c'est ? Un film de jeu vidéo? ~FILE CHANGE~Qu'est-ce qu'un jeu vidéo ??",
+"MovieData.Ezekiel.SummerMovie0.Dislike.BeforeMovie": "Qu'est-ce que c'est ? Un film de jeu vidéo? C'est quoi un jeu vidéo ??",
 "MovieData.Ezekiel.SummerMovie0.Dislike.DuringMovie": "%Ezekiel est profondément endormi",
 "MovieData.Ezekiel.SummerMovie0.Dislike.AfterMovie": "Je n'ai rien vu. Je me suis endormi. Hm.",
 
 //Mysterium (MINDFUCK) (MYSTÈRE)
-"MovieData.Ezekiel.FallMovie0.Like.BeforeMovie": "Un mystère hein ? Bah ! Je pourrais résoudre ça d'ici la première scène, je parie !",
-"MovieData.Ezekiel.FallMovie0.Like.DuringMovie": "Hein ! Attendez, mais--QUOI !?$a",
-"MovieData.Ezekiel.FallMovie0.Like.AfterMovie": "Hoo boy. C'était une affaire vraiment difficile à résoudre, mais c'était une bonne affaire. Merci de m'avoir invité, @.$h",
+"MovieData.Ezekiel.FallMovie0.Like.BeforeMovie": "Un mystère hein ? Bah ! Je pourrais trouver la solution à la première scène, je parie !",
+"MovieData.Ezekiel.FallMovie0.Like.DuringMovie": "Hein ! Attends, mais--QUOI !?$a",
+"MovieData.Ezekiel.FallMovie0.Like.AfterMovie": "Hoo mec. C'était une affaire vraiment difficile à résoudre, mais c'était une bonne affaire. Merci de m'avoir invité, @.$h",
 
 //Miracle au Coldstar Ranch (SAIN) (TEAR JERKER) (FAMILLE)
-"MovieData.Ezekiel.WinterMovie0.Dislike.BeforeMovie": "Qu'est-ce que c'est? Une histoire sanglante? Bah.",
+"MovieData.Ezekiel.WinterMovie0.Dislike.BeforeMovie": "Qu'est-ce que c'est ? Une histoire sanglante ? Bah.",
 "MovieData.Ezekiel.WinterMovie0.Dislike.DuringMovie": "%Ezekiel est profondément endormi.",
 "MovieData.Ezekiel.WinterMovie0.Dislike.AfterMovie": "Je n'ai rien vu. Je me suis endormi. Hm.",
 
 //Merveilles naturelles : explorer notre monde vibrant (VISITE) (ÉDUCATION)
-"MovieData.Ezekiel.SpringMovie1.Love.BeforeMovie": "Maintenant, cela pourrait être intéressant. J'ai toujours voulu voir d'autres endroits.$h",
+"MovieData.Ezekiel.SpringMovie1.Love.BeforeMovie": "Alors ça, ca pourrait être intéressant. J'ai toujours voulu voir d'autres endroits.$h",
 "MovieData.Ezekiel.SpringMovie1.Love.DuringMovie": "Si le monde était en paix, nous pourrions facilement aller dans différents pays. Ah, j'aime ce film.$h",
-"MovieData.Ezekiel.SpringMovie1.Love.AfterMovie": "T%Ezekiel sourit avec nostalgie en pensant aux différents endroits montrés.$h",
+"MovieData.Ezekiel.SpringMovie1.Love.AfterMovie": "%Ezekiel sourit avec nostalgie en pensant aux différents endroits montrés.$h",
 
 //Wumbus (SCI-FI) (COMÉDIE)
 "MovieData.Ezekiel.SummerMovie1.Dislike.BeforeMovie": "Qu'est-ce que c'est ? Un film scientifique ? Bah.",
@@ -3205,35 +3205,35 @@
 "MovieData.Ezekiel.SummerMovie1.Dislike.AfterMovie": "Je n'ai rien vu. Je me suis endormi. Hm.",
 
 // Hurle sous la pluie (HORREUR)
-"MovieData.Ezekiel.FallMovie1.Love.BeforeMovie": "Un film d'horreur, hein? Je ne fais pas peur facilement, cependant!",
-"MovieData.Ezekiel.FallMovie1.Love.DuringMovie": "Whoa! Dangnabbit! Celui-là m'a fait sauter!$a",
-"MovieData.Ezekiel.FallMovie1.Love.AfterMovie": "WAHAHA! Boy, celui-là était un vrai doozy! Merci de m'avoir amené, @.$h",
+"MovieData.Ezekiel.FallMovie1.Love.BeforeMovie": "Un film d'horreur, hein? Je n'ai pas peur facilement, par contre !",
+"MovieData.Ezekiel.FallMovie1.Love.DuringMovie": "Whoa !  Bon sang de bonsoir ! Celui-là m'a fait sursauter !$a",
+"MovieData.Ezekiel.FallMovie1.Love.AfterMovie": "WAHAHA ! Mec, celui-là était un vrai délire ! Merci de m'avoir amené, @.$h",
 
 //Zuzu City Express (CLASSIQUE) (ROMANCE)
-"MovieData.Ezekiel.WinterMovie1.Dislike.BeforeMovie": "Qu'est-ce que c'est ? Une histoire idiote ? Bah.",
+"MovieData.Ezekiel.WinterMovie1.Dislike.BeforeMovie": "Qu'est-ce que c'est ? Une histoire romantique ? Bah.",
 "MovieData.Ezekiel.WinterMovie1.Dislike.DuringMovie": "%Ezekiel est profondément endormi.",
 "MovieData.Ezekiel.WinterMovie1.Dislike.AfterMovie": "Je n'ai rien vu. Je me suis endormi. Hm.",
 
 //Fleur
 //Brave Little Sapling (ANIMÉ) (FAMILLE) (COMÉDIE)
-"MovieData.Flor.SpringMovie0.Like.BeforeMovie": "Ce film est assez léger, donc j'ai entendu.",
+"MovieData.Flor.SpringMovie0.Like.BeforeMovie": "Ce film est assez léger, d'après ce qu'on m'a dit.",
 "MovieData.Flor.SpringMovie0.Like.DuringMovie": "%Flor se concentre sur le film",
-"MovieData.Flor.SpringMovie0.Like.AfterMovie": "Le dynamisme de l'histoire et les couleurs correspondent. C'était en effet une histoire adaptée à la famille.$h.",
+"MovieData.Flor.SpringMovie0.Like.AfterMovie": "Le dynamisme de l'histoire et les couleurs marchent bien ensemble. C'était une belle histoire pour toute la famille.$h.",
 
 //Voyage du Roi de la Prairie (JEU VIDÉO)
 "MovieData.Flor.SummerMovie0.Dislike.BeforeMovie": "Je n'ai jamais vraiment compris les jeux vidéo. Mais je vais essayer de suivre.",
-"MovieData.Flor.SummerMovie0.Dislike.DuringMovie": "Euh.. je suis un peu perdu.$s",
-"MovieData.Flor.SummerMovie0.Dislike.AfterMovie": "Euh, je suis désolé de ne pas avoir autant apprécié le film. J'ai eu du mal à le comprendre.$s",
+"MovieData.Flor.SummerMovie0.Dislike.DuringMovie": "Euh.. je suis un peu perdue.$s",
+"MovieData.Flor.SummerMovie0.Dislike.AfterMovie": "Euh, je suis désolée de ne pas avoir vraiment apprécié le film. J'ai eu du mal à comprendre ce qui se passait.$s",
 
 //Mysterium (MINDFUCK) (MYSTÈRE)
-"MovieData.Flor.FallMovie0.Love.BeforeMovie" : "Oh ! Ces films sont un vrai plaisir à regarder !",
+"MovieData.Flor.FallMovie0.Love.BeforeMovie": "Oh ! Ces films sont un vrai plaisir à regarder ! Surtout les acteurs qui interprètent une gamme d'émotions diverses et cohérentes.",
 "MovieData.Flor.FallMovie0.Love.DuringMovie": "Intéressant... Le jeu d'acteur est assez bon. Le comportement humain est facilement reproduit dans le jeu d'acteur.$h",
-"MovieData.Flor.FallMovie0.Love.AfterMovie": "J'ai passé un bon moment avec ce film, @. Merci beaucoup de m'avoir invité.$h",
+"MovieData.Flor.FallMovie0.Love.AfterMovie": "J'ai passé un bon moment avec ce film, @. Merci beaucoup de m'avoir invitée.$h",
 
 //Miracle au Coldstar Ranch (SAIN) (TEAR JERKER) (FAMILLE)
-"MovieData.Flor.WinterMovie0.Like.BeforeMovie": "Le comportement des personnages de celui-ci pourrait être intéressant à étudier. Je l'attends avec impatience.$h",
-"MovieData.Flor.WinterMovie0.Like.DuringMovie": "%Flor a oublié de prendre des notes et s'est plutôt mis à pleurer à cause du film.",
-"MovieData.Flor.WinterMovie0.Like.AfterMovie": "J'ai oublié de faire mon analyse de film habituelle ! J'étais trop pris par l'histoire !$u#$b#Mais c'était un bon moment @.. Uhmm. Merci ..$h",
+"MovieData.Flor.WinterMovie0.Like.BeforeMovie": "Le comportement des personnages de ce film pourrait être intéressant à étudier. J'ai hâte de le voir.$h",
+"MovieData.Flor.WinterMovie0.Like.DuringMovie": "%Flor a oublié de prendre des notes et s'est plutôt mise à pleurer à cause du film.",
+"MovieData.Flor.WinterMovie0.Like.AfterMovie": "J'ai oublié de faire mon analyse de film habituelle ! J'étais trop prise par l'histoire !$u#$b#Mais c'était un bon moment @.. Hmmm. Merci ..$h",
 
 //Merveilles naturelles : explorer notre monde vibrant (VISITE) (ÉDUCATION)
 "MovieData.Flor.SpringMovie1.Dislike.BeforeMovie": "Ce genre de films m'ennuie facilement. Mais je vais essayer....$s",
@@ -3241,95 +3241,95 @@
 "MovieData.Flor.SpringMovie1.Dislike.AfterMovie": "Je m'excuse pour la gêne occasionnée, @.. Mais je n'ai pas vraiment aimé le film.$s",
 
 //Wumbus (SCI-FI) (COMÉDIE)
-"MovieData.Flor.SummerMovie1.Like.BeforeMovie": "J'ai entendu dire que cette histoire fictive est assez divertissante. Je suis excité.$h",
-"MovieData.Flor.SummerMovie1.Like.DuringMovie": "Je me demande... Si ceux-ci existent dans le monde réel, notre comportement serait-il le même que celui décrit par les acteurs ?",
-"MovieData.Flo~FILE CHANGE~r.SummerMovie1.Like.AfterMovie": "C'était un film intéressant, @. Merci pour l'invitation.$h",
+"MovieData.Flor.SummerMovie1.Like.BeforeMovie": "J'ai entendu dire que cette histoire fictive est assez divertissante. J'ai hâte.$h",
+"MovieData.Flor.SummerMovie1.Like.DuringMovie": "Je me demande... Si ceux-ci existaient dans le monde réel, notre comportement serait-il le même que celui décrit par les acteurs ?",
+"MovieData.Flor.SummerMovie1.Like.AfterMovie": "C'était un film intéressant, @. Merci pour l'invitation.$h",
 
 // Hurle sous la pluie (HORREUR)
 "MovieData.Flor.FallMovie1.Love.BeforeMovie": "J'adore ce genre de films ! C'est vraiment amusant d'observer les réactions des autres !$h",
 "MovieData.Flor.FallMovie1.Love.DuringMovie": "Intéressant, les sons ambiants du film semblent également affecter le public.",
-"MovieData.Flor.FallMovie1.Love.AfterMovie": "J'ai passé un merveilleux moment, @! Merci beaucoup de m'avoir invité! J'ai collecté tellement de données!$h",
+"MovieData.Flor.FallMovie1.Love.AfterMovie": "J'ai passé un merveilleux moment, @ ! Merci beaucoup de m'avoir invitée ! J'ai collecté tellement de données !$h",
 
 //Zuzu City Express (CLASSIQUE) (ROMANCE)
 "MovieData.Flor.WinterMovie1.Love.BeforeMovie": "Une histoire romantique ? Cela pourrait fournir des points de données très utiles.",
-"MovieData.Flor.WinterMovie1.Love.DuringMovie": "Ummm... Pourquoi ce film me fait-il rougir... $l",
+"MovieData.Flor.WinterMovie1.Love.DuringMovie": "Hmmm... Pourquoi ce film me fait-il rougir... $l",
 "MovieData.Flor.WinterMovie1.Love.AfterMovie": "J'ai bien aimé celui-là, @... Merci pour l'invitation.$l",
 
 //Freddie
 //Brave Little Sapling (ANIMÉ) (FAMILLE) (COMÉDIE)
-"MovieData.Freddie.SpringMovie0.Like.BeforeMovie": "Un film d'animation ? Wow. La technologie est allée si loin.$h",
-"MovieData.Freddie.SpringMovie0.Like.DuringMovie": "C'est assez sain. J'aime ça.",
+"MovieData.Freddie.SpringMovie0.Like.BeforeMovie": "Un film d'animation ? Wow. La technologie a tellement progressé.$h",
+"MovieData.Freddie.SpringMovie0.Like.DuringMovie": "Ca réchauffe le coeur. J'aime ça.",
 "MovieData.Freddie.SpringMovie0.Like.AfterMovie": "Merci pour l'invitation, @. J'ai passé un bon moment.$h",
 
 //Voyage du Roi de la Prairie (JEU VIDÉO)
-"MovieData.Freddie.SummerMovie0.Love.BeforeMovie": "J'ai entendu dire que le jeu était bourré d'action ! Je pourrais bien en profiter !$h",
-"MovieData.Freddie.SummerMovie0.Love.DuringMovie": "Oh! Donne-lui un un-deux, fils! Bien! D'accord, un autre!$u",
+"MovieData.Freddie.SummerMovie0.Love.BeforeMovie": "J'ai entendu dire que le jeu était bourré d'action ! Je pense que ça peut me plaire !$h",
+"MovieData.Freddie.SummerMovie0.Love.DuringMovie": "Oh ! Mets lui une bonne droite fiston ! Bien ! Allez, une autre !$u",
 "MovieData.Freddie.SummerMovie0.Love.AfterMovie": "C'était un film vraiment amusant ! Comme le bon vieux temps me manque !$h",
 
 //Mysterium (MINDFUCK) (MYSTÈRE)
-"MovieData.Freddie.FallMovie0.Like.BeforeMovie": "Une intrigue si intrigante. J'attends celle-ci avec impatience.$h",
-"MovieData.Freddie.FallMovie0.Like.DuringMovie": "Wahaha! Je le savais!$u",
-"MovieData.Freddie.FallMovie0.Like.AfterMovie": "C'était une bonne montre, @. Merci pour l'invitation",
+"MovieData.Freddie.FallMovie0.Like.BeforeMovie": "Une intrigue si intrigante. J'attends ce film avec impatience.$h",
+"MovieData.Freddie.FallMovie0.Like.DuringMovie": "Wahaha ! Je le savais !$u",
+"MovieData.Freddie.FallMovie0.Like.AfterMovie": "C'était une bonne séance, @. Merci pour l'invitation",
 
 //Miracle au Coldstar Ranch (SAIN) (TEAR JERKER) (FAMILLE)
-"MovieData.Freddie.WinterMovie0.Like.BeforeMovie": "Je pense que le nom du réalisateur est familier. Je pense que ce serait un bon.",
-"MovieData.Freddie.WinterMovie0.Like.DuringMovie": "Wohoho. Je ne m'attendais pas à me déchirer de ça. Je l'applaudis.$h",
+"MovieData.Freddie.WinterMovie0.Like.BeforeMovie": "Je crois que le nom du réalisateur est familier. Je pense que ca va être un bon film.",
+"MovieData.Freddie.WinterMovie0.Like.DuringMovie": "Wohoho. Je ne m'attendais pas à pleurer comme ça. J'applaudis ce film.$h",
 "MovieData.Freddie.WinterMovie0.Like.AfterMovie": "C'était un vrai régal. Merci pour l'invitation, @.",
 
 //Merveilles naturelles : explorer notre monde vibrant (VISITE) (ÉDUCATION)
 "MovieData.Freddie.SpringMovie1.Love.BeforeMovie": "Un genre de film de voyage, hein ? C'est un concept intéressant.",
 "MovieData.Freddie.SpringMovie1.Love.DuringMovie": "Ah... Comme les voyages me manquent. Peut-être qu'un jour Lola et moi pourrons partir en vacances ?$h",
-"MovieData.Freddie.SpringMovie1.Love.AfterMovie": "C'était un bon voyage dans le passé. J'ai aimé le film, @. Merci, jeune.$h",
+"MovieData.Freddie.SpringMovie1.Love.AfterMovie": "C'était un bon voyage dans le passé. J'ai aimé le film, @. Merci, jeune homme.^Merci, jeune fille.$h",
 
 //Wumbus (SCI-FI) (COMÉDIE)
 "MovieData.Freddie.SummerMovie1.Like.BeforeMovie": "Un wumbus, hein ? Intéressant.",
-"MovieData.Freddie.SummerMovie1.Like.DuringMovie": "Oh, penser qu'ils ont réussi à le rendre aussi proche du vrai.. Oh! Rien!. Haha.$h",
-"MovieData.Freddie.SummerMovie1.Like.AfterMovie": "C'était un bon film ! Je l'ai aimé, jeune. Merci.$h",
+"MovieData.Freddie.SummerMovie1.Like.DuringMovie": "Oh, et dire qu'ils ont réussi à ce qu'il ressemble vraiment au vrai.. Oh ! Je n'ai rien dit ! Haha.$h",
+"MovieData.Freddie.SummerMovie1.Like.AfterMovie": "C'était un bon film ! J'ai bien aimé. Merci.$h",
 
 // Hurle sous la pluie (HORREUR)
-"MovieData.Freddie.FallMovie1.Love.BeforeMovie": "Un film sur des monstres effrayants, hein ? Cela pourrait me faire pomper le sang.$h",
-"MovieData.Freddie.FallMovie1.Love.DuringMovie": "Wahaha. Je n'ai pas peur trop facilement, cependant. Mais j'aime l'histoire jusqu'à présent.$h",
-"MovieData.Freddie.FallMovie1.Love.AfterMovie": "Wohoho ! J'ai adoré ça ! Presque aussi bon que de chasser de vrais monstres !$h",
+"MovieData.Freddie.FallMovie1.Love.BeforeMovie": "Un film sur des monstres effrayants, hein ? Cela pourrait me faire chauffer le sang.$h",
+"MovieData.Freddie.FallMovie1.Love.DuringMovie": "Wahaha. Je n'ai pas peur très facilement, cependant. Mais l'histoire me plait jusqu'à maintenant.$h",
+"MovieData.Freddie.FallMovie1.Love.AfterMovie": "Wohoho ! J'ai adoré ça ! Presque aussi bien que de chasser de vrais monstres !$h",
 
 //Zuzu City Express (CLASSIQUE) (ROMANCE)
-"MovieData.Freddie.WinterMovie1.Like.BeforeMovie": "Je parie que Lola aimerait ça. On devrait le voir ensemble plus tard, si c'est bien.$s",
-"MovieData.Freddie.WinterMovie1.Like.DuringMovie": "Wahaha! Lola aurait pleuré des yeux dans cette scène!$h",
+"MovieData.Freddie.WinterMovie1.Like.BeforeMovie": "Je parie que Lola aimerait ce film. Peut être qu'on ira le voir ensemble plus tard, si il est bien.$s",
+"MovieData.Freddie.WinterMovie1.Like.DuringMovie": "Wahaha ! Lola aurait pleuré toutes les larmes de son corps dans cette scène !$h",
 "MovieData.Freddie.WinterMovie1.Like.AfterMovie": "C'était un bon film, @. Merci pour l'invitation.",
 
 // Yann
 //Brave Little Sapling (ANIMÉ) (FAMILLE) (COMÉDIE)
-"MovieData.Ian.SpringMovie0.Like.BeforeMovie": "Un film d'animation ? Je me demande comment ils ont trouvé ça ?",
-"MovieData.Ian.SpringMovie0.Like.DuringMovie": "Hé, c'est vraiment drôle !$h",
+"MovieData.Ian.SpringMovie0.Like.BeforeMovie": "Un film d'animation ? Je me demande comment ils ont trouvé cette idée ?",
+"MovieData.Ian.SpringMovie0.Like.DuringMovie": "Hé, c'est super marrant !$h",
 "MovieData.Ian.SpringMovie0.Like.AfterMovie": "Whoa ! C'était super ! Merci @$h",
 
 //Voyage du Roi de la Prairie (JEU VIDÉO)
-"MovieData.Ian.SummerMovie0.Love.BeforeMovie": "Hé, ce n'est pas le jeu vidéo ? C'est un film maintenant ? Whoa !$h",
-"MovieData.Ian.SummerMovie0.Love.DuringMovie": "Whoa ! Esquivez !$u",
-"MovieData.Ian.SummerMovie0.Love.AfterMovie": "C'était intense ! Je suis ravi de rejouer au jeu !$h",
+"MovieData.Ian.SummerMovie0.Love.BeforeMovie": "Hé, ce n'est pas un jeu vidéo ? C'est un film maintenant ? Whoa !$h",
+"MovieData.Ian.SummerMovie0.Love.DuringMovie": "Whoa ! Esquive !$u",
+"MovieData.Ian.SummerMovie0.Love.AfterMovie": "C'était intense ! Ca m'a donné envie de rejouer au jeu !$h",
 
 //Mysterium (MINDFUCK) (MYSTÈRE)
-"MovieData.Ian.FallMovie0.Dislike.BeforeMovie": "Un film mystère ? Comment cela peut-il être un mystère ?",
+"MovieData.Ian.FallMovie0.Dislike.BeforeMovie": "Un film mystère ? Ca veut dire quoi un film mystère ?",
 "MovieData.Ian.FallMovie0.Dislike.DuringMovie": "Euh. Mais n'était-il pas... euh... je suis perdu.$u",
-"MovieData.Ian.FallMovie0.Dis~FILE CHANGE~like.AfterMovie": "Je suis désolé de ne pas pouvoir vraiment suivre le film. J'étais perdu dès les dix premières minutes, je suppose.$s",
+"MovieData.Ian.FallMovie0.Dislike.AfterMovie": "Je suis désolé de ne pas pouvoir vraiment suivre le film. J'étais perdu dès les dix premières minutes, je crois.$s",
 
 //Miracle au Coldstar Ranch (SAIN) (TEAR JERKER) (FAMILLE)
-"MovieData.Ian.WinterMovie0.Like.BeforeMovie": "J'attendais avec impatience celui-ci ! Entrons déjà à l'intérieur.$h",
-"MovieData.Ian.WinterMovie0.Like.DuringMovie": "Chut, c'est la bonne partie.$h",
+"MovieData.Ian.WinterMovie0.Like.BeforeMovie": "J'attendais avec impatience celui-ci ! Allons vite à l'intérieur.$h",
+"MovieData.Ian.WinterMovie0.Like.DuringMovie": "Chut, c'est une partie importante.$h",
 "MovieData.Ian.WinterMovie0.Like.AfterMovie": "C'était vraiment bien. Merci, @.$h",
 
 //Merveilles naturelles : explorer notre monde vibrant (VISITE) (ÉDUCATION)
 "MovieData.Ian.SpringMovie1.Love.BeforeMovie": "Hé ! Un film sur d'autres endroits ? Whoa !$h",
-"MovieData.Ian.SpringMovie1.Love.DuringMovie": "Oh boy! J'aimerais pouvoir visiter un jour.$h",
+"MovieData.Ian.SpringMovie1.Love.DuringMovie": "Oh trop chouette ! J'aimerais pouvoir y aller un jour.$h",
 "MovieData.Ian.SpringMovie1.Love.AfterMovie": "Ces autres endroits semblent vraiment amusants. J'économiserai pour le voyage et j'emmènerai toute ma famille un jour !$h",
 
 //Wumbus (SCI-FI) (COMÉDIE)
-"MovieData.Ian.SummerMovie1.Like.BeforeMovie": "Qu'est-ce qu'un wumbus ? Je veux le savoir !$h",
-"MovieData.Ian.SummerMovie1.Like.DuringMovie": "Whoa ! C'est trop cool ! Regardez-les ! $h",
+"MovieData.Ian.SummerMovie1.Like.BeforeMovie": "Qu'est-ce qu'un wumbus ? Je veux des réponses !$h",
+"MovieData.Ian.SummerMovie1.Like.DuringMovie": "Whoa ! C'est trop cool ! Regarde-les ! $h",
 "MovieData.Ian.SummerMovie1.Like.AfterMovie": "C'était un bon film ! Je me suis amusé !$h",
 
 // Hurle sous la pluie (HORREUR)
 "MovieData.Ian.FallMovie1.Dislike.BeforeMovie": "Un film d'horreur ? Oh non..$s",
-"MovieData.Ian.FallMovie1.Dislike.DuringMovie": "WAAH! Yikes!$u",
+"MovieData.Ian.FallMovie1.Dislike.DuringMovie": "WAAH ! Beurk !$u",
 "MovieData.Ian.FallMovie1.Dislike.AfterMovie": "Euh.... je pense que je ne pourrai pas dormir ce soir....$s",
 
 //Zuzu City Express (CLASSIQUE) (ROMANCE)
@@ -3340,115 +3340,74 @@
 //Jeric
 //Brave Little Sapling (ANIMÉ) (FAMILLE) (COMÉDIE)
 "MovieData.Jeric.SpringMovie0.Dislike.BeforeMovie": "Un film pour enfants, hein ? Je veux dire, pourquoi pas ?",
-"MovieData.Jeric.SpringMovie0.Dislike.DuringMovie": "Ehhh.. C'est amusant? Je suppose?",
+"MovieData.Jeric.SpringMovie0.Dislike.DuringMovie": "Ehhh.. C'est amusant ? Je suppose ?",
 "MovieData.Jeric.SpringMovie0.Dislike.AfterMovie": "C'était bien, je suppose. Merci pour l'invitation.",
 
 //Voyage du Roi de la Prairie (JEU VIDÉO)
-"MovieData.Jeric.SummerMovie0.Like.BeforeMovie": "Je connais le jeu. C'est une surprise de le voir comme un film.",
+"MovieData.Jeric.SummerMovie0.Like.BeforeMovie": "Je connais le jeu. C'est surprenant de le voir en film.",
 "MovieData.Jeric.SummerMovie0.Like.DuringMovie": "Je ne m'attendais pas à ce que ce soit aussi cool ! Génial !$h",
 "MovieData.Jeric.SummerMovie0.Like.AfterMovie": "C'était un bon film. Belle sélection, @.$h",
 
 //Mysterium (MINDFUCK) (MYSTÈRE)
 "MovieData.Jeric.FallMovie0.Like.BeforeMovie": "Ça pourrait être amusant, haha.$h",
-"MovieData.Jeric.FallMovie0.Like.DuringMovie": "Oh ! Je l'ai appelé !$h",
+"MovieData.Jeric.FallMovie0.Like.DuringMovie": "Oh ! J'en étais sûr !$h",
 "MovieData.Jeric.FallMovie0.Like.AfterMovie": "C'était bien ! Le twist était génial aussi.$h",
 
 //Miracle au Coldstar Ranch (SAIN) (TEAR JERKER) (FAMILLE)
-"MovieData.Jeric.WinterMovie0.Love.BeforeMovie": "Hé, si tu pleures là-dedans, je serai là pour essuyer tes larmes, d'accord ?$h",
+"MovieData.Jeric.WinterMovie0.Love.BeforeMovie": "Hé, si tu pleures dans la salle, je serai là pour essuyer tes larmes, d'accord ?$h",
 "MovieData.Jeric.WinterMovie0.Love.DuringMovie": "%Jeric pleure fort.",
-"MovieData.Jeric.WinterMovie0.Love.AfterMovie": "Je n'ai pas pleuré ! Il y avait juste de la poussière dans mes yeux !$a#$b#Oh d'accord, je l'admets. Je suis devenu accro à l'histoire !$h",
+"MovieData.Jeric.WinterMovie0.Love.AfterMovie": "Je n'ai pas pleuré ! Il y avait juste de la poussière dans mes yeux !$a#$b#Oh d'accord, je l'admets. J'étais à fond dans l'histoire !$h",
 
 //Merveilles naturelles : explorer notre monde vibrant (VISITE) (ÉDUCATION)
-"MovieData.Jeric.SpringMovie1.Like.BeforeMovie": "Je suis déjà allé dans d'autres endroits, mais pas ceux-ci. Cela pourrait être bien.",
-"MovieData.Jeric.SpringMovie1.Like.DuringMovie": "Hé ! J'en ai aussi vu sur certaines affiches ! Whoa ! Quel endroit immense !$h",
-"MovieData.Jeric.SpringMovie1.Like.AfterMovie": "Cela m'a inspiré à visiter ces endroits un jour. Tu veux venir avec ?$h",
+"MovieData.Jeric.SpringMovie1.Like.BeforeMovie": "Je suis déjà allé dans d'autres endroits, mais pas ceux-ci. Ca pourrait être un bon film.",
+"MovieData.Jeric.SpringMovie1.Like.DuringMovie": "Hé ! J'en ai déjà vu sur certaines affiches ! Whoa ! Quel endroit immense !$h",
+"MovieData.Jeric.SpringMovie1.Like.AfterMovie": "Cela m'a inspiré à visiter ces endroits un jour. Tu veux venir  moi ?$h",
 
 //Wumbus (SCI-FI) (COMÉDIE)
-"MovieData.Jeric.SummerMovie1.Like.BeforeMovie": "Une comédie de science-fiction, hein ? C'est nouveau.$h",
-"MovieData.Jeric.SummerMovie1.Like.DuringMovie": "Hehe, bon. Hey, c'est un film cool.$h",
+"MovieData.Jeric.SummerMovie1.Like.BeforeMovie": "Une comédie de science-fiction, hein ? C'est original.$h",
+"MovieData.Jeric.SummerMovie1.Like.DuringMovie": "Héhé, pas mal. Hé, c'est un film cool.$h",
 "MovieData.Jeric.SummerMovie1.Like.AfterMovie": "J'ai passé un bon moment, @. Merci de m'avoir invité.$h",
 
 // Hurle sous la pluie (HORREUR)
 "MovieData.Jeric.FallMovie1.Like.BeforeMovie": "Hé, si jamais tu as peur, n'hésite pas à te rapprocher de moi, d'accord ?$l#$b#Hé, je plaisante. À moins que ?$h",
-"MovieData.Jeric.FallMovie1.Like.DuringMovie": "OHHH NON NON!$u#$b#YIKES!$u",
+"MovieData.Jeric.FallMovie1.Like.DuringMovie": "OHHH NON NON !$u#$b#BEURK !$u",
 "MovieData.Jeric.FallMovie1.Like.AfterMovie": "EHHRR EHEM.$u#$b#J'ai réussi à m'en sortir !$u#$b#Ouf !$h",
 
 //Zuzu City Express (CLASSIQUE) (ROMANCE)
-"MovieData.Jeric.WinterMovie1.Love.BeforeMovie": "Hé, j'espérais qu'ils remasteriseraient ça ! Les vieux classiques sont sous-estimés, tu sais ?$h",
-"MovieData.Jeric.WinterMovie1.Love.DuringMovie": "%Jeric vous tient la main.",
+"MovieData.Jeric.WinterMovie1.Love.BeforeMovie": "Hé, j'espérais qu'ils le remasterisaient ! Les vieux classiques sont sous-estimés, tu sais ?$h",
+"MovieData.Jeric.WinterMovie1.Love.DuringMovie": "%Jeric te tient la main.",
 "MovieData.Jeric.WinterMovie1.Love.AfterMovie": "Ah ! J'ai adoré ce film ! Merci d'avoir pensé à moi pour aller le voir avec toi, @.$h",
-
-//Jio (c'est un espace réservé ?)
-//Brave Little Sapling (ANIMÉ) (FAMILLE) (COMÉDIE)
-//"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
-//"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
-//"MovieData.Aguar.Sprin~FILE CHANGE~gMovie0.Like.AfterMovie": "PLACEHOLDER",
-
-//Voyage du Roi de la Prairie (JEU VIDÉO)
-//"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
-//"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
-//"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
-
-//Mysterium (MINDFUCK) (MYSTÈRE)
-//"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
-//"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
-//"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
-
-//Miracle au Coldstar Ranch (SAIN) (TEAR JERKER) (FAMILLE)
-//"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
-//"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
-//"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
-
-//Merveilles naturelles : explorer notre monde vibrant (VISITE) (ÉDUCATION)
-//"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
-//"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
-//"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
-
-//Wumbus (SCI-FI) (COMÉDIE)
-//"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
-//"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
-//"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
-
-// Hurle sous la pluie (HORREUR)
-//"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
-//"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
-//"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
-
-//Zuzu City Express (CLASSIQUE) (ROMANCE)
-//"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
-//"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
-//"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
 
 //Kéahi
 //Brave Little Sapling (ANIMÉ) (FAMILLE) (COMÉDIE)
 "MovieData.Keahi.SpringMovie0.Like.BeforeMovie": "Hé, ça a l'air cool !",
 "MovieData.Keahi.SpringMovie0.Like.DuringMovie": "Je me demande si je pourrai grimper à un arbre plus tard....$h",
-"MovieData.Keahi.SpringMovie0.Like.AfterMovie": "J'ai été inspiré pour grimper dans un arbre. Je vous verrai plus tard, car je suis au sommet des nuages, @.$h",
+"MovieData.Keahi.SpringMovie0.Like.AfterMovie": "Ca m'a inspiré pour grimper dans un arbre. Je te verrai plus tard, car je serais au dessus des nuages, @.$h",
 
 //Voyage du Roi de la Prairie (JEU VIDÉO)
-"MovieData.Keahi.SummerMovie0.Love.BeforeMovie": "WHOA ! C'EST LE FILM DE JEU VIDÉO !$h",
-"MovieData.Keahi.SummerMovie0.Love.DuringMovie": "GO GET EM!$h",
-"MovieData.Keahi.SummerMovie0.Love.AfterMovie": "JE SUIS LE ROI DE LA PRAIRE MAINTENANT ! PROCHAINEZ-VOUS !$h",
+"MovieData.Keahi.SummerMovie0.Love.BeforeMovie": "WHOA ! C'EST LE FILM DU JEU VIDÉO !$h",
+"MovieData.Keahi.SummerMovie0.Love.DuringMovie": "VAS Y CHOPPE LES !$h",
+"MovieData.Keahi.SummerMovie0.Love.AfterMovie": "JE SUIS LE ROI DE LA PRAIRE MAINTENANT ! PROSTERNEZ VOUS !$h",
 
 //Mysterium (MINDFUCK) (MYSTÈRE)
-"MovieData.Keahi.FallMovie0.Dislike.BeforeMovie": "Hein ? C'est quoi ce film, @ ? C'est bon ?",
+"MovieData.Keahi.FallMovie0.Dislike.BeforeMovie": "Hein ? C'est quoi ce film, @ ? Est ce qu'il est bien ?",
 "MovieData.Keahi.FallMovie0.Dislike.DuringMovie": "%Keahi ne fait pas attention au film.",
-"MovieData.Keahi.FallMovie0.Dislike.AfterMovie": "Hé, regarde ! ​​J'ai fait un petit dinosaure avec ma nourriture !$h#$b#Quoi ? Un film ? Oh oui, nous en avons regardé un, non ? Non, je l'ai fait je n'aime pas ça.",
+"MovieData.Keahi.FallMovie0.Dislike.AfterMovie": "Hé, regarde ! ​​J'ai fait un petit dinosaure avec ma nourriture !$h#$b#Quoi ? Un film ? Oh oui, nous en avons regardé un, non ? Non, ça ne m'a pas plu.",
 
 //Miracle au Coldstar Ranch (SAIN) (TEAR JERKER) (FAMILLE)
-"MovieData.Keahi.WinterMovie0.Dislike.BeforeMovie": "Hein ? C'est quoi ce film, @ ? C'est bon ?",
+"MovieData.Keahi.WinterMovie0.Dislike.BeforeMovie": "Hein ? C'est quoi ce film, @ ? Il est bien ?",
 "MovieData.Keahi.WinterMovie0.Dislike.DuringMovie": "%Keahi ne fait pas attention au film.",
-"MovieData.Keahi.WinterMovie0.Dislike.AfterMovie": "Hé, regarde ! ​​J'ai fait un petit dinosaure avec ma nourriture !$h#$b#Quoi ? Un film ? Oh oui, nous en avons regardé un, non ? Non, je l'ai fait je n'aime pas ça.",
+"MovieData.Keahi.WinterMovie0.Dislike.AfterMovie": "Hé, regarde ! ​​J'ai fait un petit dinosaure avec ma nourriture !$h#$b#Quoi ? Un film ? Oh oui, nous en avons regardé un, non ? Non, ça ne m'a pas plu.",
 
 //Merveilles naturelles : explorer notre monde vibrant (VISITE) (ÉDUCATION)
-"MovieData.Keahi.SpringMovie1.Dislike.BeforeMovie": "Hein ? C'est quoi ce film, @ ? C'est bon ?",
+"MovieData.Keahi.SpringMovie1.Dislike.BeforeMovie": "Hein ? C'est quoi ce film, @ ? Il est bien ?",
 "MovieData.Keahi.SpringMovie1.Dislike.DuringMovie": "%Keahi ne fait pas attention au film.",
-"MovieData.Keahi.SpringMovie1.Dislike.AfterMovie": "Hé, regarde ! ​​J'ai fait un petit dinosaure avec ma nourriture !$h#$b#Quoi ? Un film ? Oh oui, nous en avons regardé un, non ? Non, je l'ai fait je n'aime pas ça.",
+"MovieData.Keahi.SpringMovie1.Dislike.AfterMovie": "Hé, regarde ! ​​J'ai fait un petit dinosaure avec ma nourriture !$h#$b#Quoi ? Un film ? Oh oui, nous en avons regardé un, non ? Non, ça ne m'a pas plu.",
 
 //Wumbus (SCI-FI) (COMÉDIE)
-"MovieData.Keahi.SummerMovie1.Love.BeforeMovie": "Oh hey ! Ce petit truc de wumbus a l'air cool !$h",
+"MovieData.Keahi.SummerMovie1.Love.BeforeMovie": "Oh hey ! Ce petit machin wumbus a l'air cool !$h",
 "MovieData.Keahi.SummerMovie1.Love.DuringMovie": "Whoa, c'est cool !$h",
-"MovieData.Keahi.SummerMovie1.Love.AfterMovie": "JE VAIS ÊTRE UN WUMBUS! WOLOLOLOLO!$h",
+"MovieData.Keahi.SummerMovie1.Love.AfterMovie": "JE VAIS ÊTRE UN WUMBUS ! WOLOLOLOLO !$h",
 
 // Hurle sous la pluie (HORREUR)
 "MovieData.Keahi.FallMovie1.Dislike.BeforeMovie": "Un film d'horreur ? UH OH.$u",
@@ -3456,30 +3415,30 @@
 "MovieData.Keahi.FallMovie1.Dislike.AfterMovie": "J'ai eu peur juste à cause des sons. C'était TROP effrayant !$u",
 
 //Zuzu City Express (CLASSIQUE) (ROMANCE)
-"MovieData.Keahi.WinterMovie1.Dislike.BeforeMovie": "Hein ? C'est quoi ce film, @ ? C'est bon ?",
+"MovieData.Keahi.WinterMovie1.Dislike.BeforeMovie": "Hein ? C'est quoi ce film, @ ? C'est bien?",
 "MovieData.Keahi.WinterMovie1.Dislike.DuringMovie": "%Keahi ne fait pas attention au film.",
-"MovieData.Keahi.WinterMovie1.Dislike.AfterMovie": "Hé, regarde ! ​​J'ai fait un petit dinosaure avec ma nourriture !$h#$b#Quoi ? Un film ? Oh oui, nous en avons regardé un, non ? Non, je l'ai fait je n'aime pas ça.",
+"MovieData.Keahi.WinterMovie1.Dislike.AfterMovie": "Hé, regarde ! ​​J'ai fait un petit dinosaure avec ma nourriture !$h#$b#Quoi ? Un film ? Oh oui, nous en avons regardé un, non ? Non, ça ne m'a pas plu.",
 
 //Kenneth
 //Brave Little Sapling (ANIMÉ) (FAMILLE) (COMÉDIE)
 "MovieData.Kenneth.SpringMovie0.Like.BeforeMovie": "Animé !? Ouah ! C'est innovant !$h",
-"MovieDat~FILE CHANGE~a.Kenneth.SpringMovie0.Like.DuringMovie": "L'animation est vraiment fluide. Je me demande comment ils ont fait ?",
+"MovieData.Kenneth.SpringMovie0.Like.DuringMovie": "L'animation est vraiment fluide. Je me demande comment ils ont fait ?",
 "MovieData.Kenneth.SpringMovie0.Like.AfterMovie": "Je me suis bien amusé ! Quoi ? L'histoire ? Oh, je suis désolé, j'ai été captivé par les images.$h",
 
 //Voyage du Roi de la Prairie (JEU VIDÉO)
 "MovieData.Kenneth.SummerMovie0.Love.BeforeMovie": "Je joue à ce jeu depuis que je suis enfant. C'est rafraîchissant de le voir devenir un film.",
-"MovieData.Kenneth.SummerMovie0.Love.DuringMovie": "Je suis content qu'ils soient restés fidèles autant qu'ils le peuvent.$h",
+"MovieData.Kenneth.SummerMovie0.Love.DuringMovie": "Je suis content qu'ils soient restés fidèles autant qu'ils le peuvent à l'oeuvre originale.$h",
 "MovieData.Kenneth.SummerMovie0.Love.AfterMovie": "C'était un moment amusant, @. Merci!$h",
 
 //Mysterium (MINDFUCK) (MYSTÈRE)
-"MovieData.Kenneth.FallMovie0.Like.BeforeMovie": "Prêt à aller au cinéma ? Je suis.$h",
-"MovieData.Kenneth.FallMovie0.Like.DuringMovie": "Oh, alors il était ça...$u",
-"MovieData.Kenneth.FallMovie0.Like.AfterMovie": "C'était un bon film. Je suis content de vous avoir accompagné, @. Merci.$h",
+"MovieData.Kenneth.FallMovie0.Like.BeforeMovie": "Prêt à aller au cinéma ? Moi oui.$h",
+"MovieData.Kenneth.FallMovie0.Like.DuringMovie": "Oh, alors c'était ça...$u",
+"MovieData.Kenneth.FallMovie0.Like.AfterMovie": "C'était un bon film. Je suis content de t'avoir accompagné, @. Merci.$h",
 
 //Miracle au Coldstar Ranch (SAIN) (TEAR JERKER) (FAMILLE)
-"MovieData.Kenneth.WinterMovie0.Dislike.BeforeMovie": "Film de famille, hein ? Je pense que je peux monter à bord avec ça.",
+"MovieData.Kenneth.WinterMovie0.Dislike.BeforeMovie": "Film familial, hein ? Je pense que ça peut le faire.",
 "MovieData.Kenneth.WinterMovie0.Dislike.DuringMovie": "Je pense qu'ils font trop d'efforts pour te faire pleurer. Ou est-ce juste moi ?$s",
-"MovieData.Kenneth.WinterMovie0.Dislike.AfterMovie": "Je n'ai pas vraiment aimé ça. Mais merci de m'avoir invité.$h",
+"MovieData.Kenneth.WinterMovie0.Dislike.AfterMovie": "Je n'ai pas vraiment aimé le film. Mais merci de m'avoir invité.$h",
 
 //Merveilles naturelles : explorer notre monde vibrant (VISITE) (ÉDUCATION)
 "MovieData.Kenneth.SpringMovie1.Like.BeforeMovie": "C'est une bonne utilisation du film. C'est comme de petites vacances.$h",
@@ -3487,9 +3446,9 @@
 "MovieData.Kenneth.SpringMovie1.Like.AfterMovie": "Je me suis bien amusé, @. Merci de m'avoir invité.$h",
 
 //Wumbus (SCI-FI) (COMÉDIE)
-"MovieData.Kenneth.SummerMovie1.Love.BeforeMovie": "Je suis excité pour celui-ci ! J'ai lu des articles sur les effets spéciaux qu'ils ont utilisés pour cela !$h",
+"MovieData.Kenneth.SummerMovie1.Love.BeforeMovie": "J'ai bien envie de voir celui là ! J'ai lu des articles sur les effets spéciaux qu'ils ont utilisés pour le faire !$h",
 "MovieData.Kenneth.SummerMovie1.Love.DuringMovie": "%Kenneth semble vraiment apprécier le film.",
-"MovieData.Kenneth.SummerMovie1.Love.AfterMovie": "C'était génial ! Merci de m'avoir invité @!$h",
+"MovieData.Kenneth.SummerMovie1.Love.AfterMovie": "C'était génial ! Merci de m'avoir invité @ !$h",
 
 // Hurle sous la pluie (HORREUR)
 "MovieData.Kenneth.FallMovie1.Like.BeforeMovie": "Un film d'horreur ? C'est excitant.$h",
@@ -3497,134 +3456,95 @@
 "MovieData.Kenneth.FallMovie1.Like.AfterMovie": "C'était génial ! Les effets étaient bien faits ! Hein ? L'histoire ?",
 
 //Zuzu City Express (CLASSIQUE) (ROMANCE)
-"MovieData.Kenneth.WinterMovie1.Dislike.BeforeMovie": "Film d'amour ? Hmm, je pense que la bande originale de celui-ci a été louée.$s",
+"MovieData.Kenneth.WinterMovie1.Dislike.BeforeMovie": "Film d'amour ? Hmm, je pense que la bande originale de celui-ci a été encensée.$s",
 "MovieData.Kenneth.WinterMovie1.Dislike.DuringMovie": "Euh. C'est un peu prévisible ?$s",
 "MovieData.Kenneth.WinterMovie1.Dislike.AfterMovie": "Hé, au moins la bande son était bonne. Je ne suis pas sûr qu'ils aient fait du bon travail pour restaurer les anciennes séquences, cependant.$s",
 
-//Kiwi
-//Brave Little Sapling (ANIMÉ) (FAMILLE) (COMÉDIE)
-//"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
-//"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
-//"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
-
-//Voyage du Roi de la Prairie (JEU VIDÉO)
-//"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
-//"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
-//"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
-
-//Mysterium (MINDFUCK) (MYSTÈRE)
-//"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
-//"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
-//"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
-
-//Miracle au Coldstar Ranch (SAIN) (TEAR JERKER) (FAMILLE)
-//"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
-//"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
-//"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
-
-//Merveilles naturelles : explorer notre monde vibrant (VISITE) (ÉDUCATION)
-//"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
-//"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
-//"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
-
-//Wumbus (SCI-FI) (COMÉDIE)
-//"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
-//"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
-//"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
-
-// Hurle sous la pluie (HORREUR)
-//"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
-//"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
-//"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
-
-//Zuzu City Express (CLASSIQUE) (ROMANCE)
-//"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
-//"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
-//"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",~FILE CHANGE~//Lenny
+//Lenny
 //Brave Little Sapling (ANIMÉ) (FAMILLE) (COMÉDIE)
 "MovieData.Lenny.SpringMovie0.Like.BeforeMovie": "Je connais cette histoire depuis si longtemps maintenant. J'ai hâte de la voir au cinéma.",
-"MovieData.Lenny.SpringMovie0.Like.DuringMovie": "C'est tellement mignon !$h",
+"MovieData.Lenny.SpringMovie0.Like.DuringMovie": "Il est si mignon !$h",
 "MovieData.Lenny.SpringMovie0.Like.AfterMovie": "C'était un délice, @. Merci de m'avoir invité.$h",
 
 //Voyage du Roi de la Prairie (JEU VIDÉO)
-"MovieData.Lenny.SummerMovie0.Love.BeforeMovie": "Ah! Je me souviens des jours où je suis resté éveillé toute la nuit dans les salles de jeux vidéo !$h",
-"MovieData.Lenny.SummerMovie0.Love.DuringMovie": "NICE ! MAINTENANT ALLEZ OBTENIR L'AUTRE !$4",
-"MovieData.Lenny.SummerMovie0.Love.AfterMovie": "Je suis désolé de m'être laissé emporter, @, j'étais vraiment excité ! Merci de m'avoir invité.$h",
+"MovieData.Lenny.SummerMovie0.Love.BeforeMovie": "Ah ! Je me souviens de l'époque où je faisais des nuits blanches dans les salles de jeux vidéo !$h",
+"MovieData.Lenny.SummerMovie0.Love.DuringMovie": "COOL ! MAINTENANT CHOPPE L'AUTRE !$4",
+"MovieData.Lenny.SummerMovie0.Love.AfterMovie": "Je suis désolée de m'être laissé emporter, @, j'étais vraiment excitée ! Merci de m'avoir invitée.$h",
 
 //Mysterium (MINDFUCK) (MYSTÈRE)
 "MovieData.Lenny.FallMovie0.Dislike.BeforeMovie": "Un film mystère, hein ? Hm, j'espère qu'il y a de bons rebondissements.",
 "MovieData.Lenny.FallMovie0.Dislike.DuringMovie": "%Lenny s'ennuie un peu.",
-"MovieData.Lenny.FallMovie0.Dislike.AfterMovie": "Je ne me suis pas vraiment amusé avec celui-ci. Je n'aime pas trop ces films.$s",
+"MovieData.Lenny.FallMovie0.Dislike.AfterMovie": "Je ne me suis pas vraiment amusée avec celui-ci. Je n'aime pas trop ce genre de films.$s",
 
 //Miracle au Coldstar Ranch (SAIN) (TEAR JERKER) (FAMILLE)
-"MovieData.Lenny.WinterMovie0.Like.BeforeMovie": "Un film de famille hein ? Je devrais inviter mon frère à regarder ça la prochaine fois ! Je veux le voir brailler des yeux !$h",
+"MovieData.Lenny.WinterMovie0.Like.BeforeMovie": "Un film familial hein ? Je devrais inviter mon frère à regarder ça la prochaine fois ! Je veux le voir brailler des yeux !$h",
 "MovieData.Lenny.WinterMovie0.Like.DuringMovie": "C'était assez touchant.$4",
-"MovieData.Lenny.WinterMovie0.Like.AfterMovie": "C'était un film délicieux et réconfortant. Merci de m'avoir invité, @.$h",
+"MovieData.Lenny.WinterMovie0.Like.AfterMovie": "C'était un film délicieux et réconfortant. Merci de m'avoir invitée, @.$h",
 
 //Merveilles naturelles : explorer notre monde vibrant (VISITE) (ÉDUCATION)
-"MovieData.Lenny.SpringMovie1.Like.BeforeMovie": "Cela semble intéressant. Je suis excité.$h",
+"MovieData.Lenny.SpringMovie1.Like.BeforeMovie": "Ca semble intéressant. Je suis excitée.$h",
 "MovieData.Lenny.SpringMovie1.Like.DuringMovie": "Hé, je pense que je connais cette actrice ! Je pense que c'est mon ex !$h",
-"MovieData.Lenny.SpringMovie1.Like.AfterMovie": "C'était un bon film. Je me suis amusé, @. Merci beaucoup de m'avoir invité.$h",
+"MovieData.Lenny.SpringMovie1.Like.AfterMovie": "C'était un bon film. Je me suis amusée, @. Merci beaucoup de m'avoir invitée.$h",
 
 //Wumbus (SCI-FI) (COMÉDIE)
 "MovieData.Lenny.SummerMovie1.Love.BeforeMovie": "J'attends ça avec impatience. J'ai eu une phase 'extraterrestre' avant, tu sais ?$h",
 "MovieData.Lenny.SummerMovie1.Love.DuringMovie": "Haha ! C'est hilarant !$h",
-"MovieData.Lenny.SummerMovie1.Love.AfterMovie": "Je me suis bien amusé, @. Merci pour l'invitation.$h",
+"MovieData.Lenny.SummerMovie1.Love.AfterMovie": "Je me suis bien amusée, @. Merci pour l'invitation.$h",
 
 // Hurle sous la pluie (HORREUR)
-"MovieData.Lenny.FallMovie1.Love.BeforeMovie": "Un film d'horreur, hein ? Dites-vous quoi, voyons qui flanche en premier hein ? Le perdant achète une bière au gagnant. 4 $",
-"MovieData.Lenny.FallMovie1.Love.DuringMovie": "Wahaha, accroché là, @? Je pense que je t'ai vu tressaillir plus tôt.$h",
-"MovieData.Lenny.FallMovie1.Love.AfterMovie": "C'était un bon moment. Je pense que tu me dois une bière, hein?$h",
+"MovieData.Lenny.FallMovie1.Love.BeforeMovie": "Un film d'horreur, hein ? Tu sais quoi, on va voir qui a la tremblotte en premier hein ? Le perdant achète une bière au gagnant.$4",
+"MovieData.Lenny.FallMovie1.Love.DuringMovie": "Wahaha, tu serres les dents, @ ? Je pense que je t'ai vu sursauter plus tôt.$h",
+"MovieData.Lenny.FallMovie1.Love.AfterMovie": "C'était un bon moment. Je pense que tu me dois une bière, pas vrai ?$h",
 
 //Zuzu City Express (CLASSIQUE) (ROMANCE)
-"MovieData.Lenny.WinterMovie1.Dislike.BeforeMovie": "Eh, un film d'amour, hein ? Vous avez des intentions, @? Wahaha, je plaisante. 4 $",
+"MovieData.Lenny.WinterMovie1.Dislike.BeforeMovie": "Eh, un film d'amour, hein ? Tu as des idées derrière la tête, @? Wahaha, je plaisante.$4",
 "MovieData.Lenny.WinterMovie1.Dislike.DuringMovie": "%Lenny semble s'ennuyer.",
-"MovieData.Lenny.WinterMovie1.Dislike.AfterMovie": "Ce ne sont pas vraiment ma tasse de thé. Mais merci pour l'invitation.",
+"MovieData.Lenny.WinterMovie1.Dislike.AfterMovie": "Ce n'est pas vraiment ma tasse de thé. Mais merci pour l'invitation.",
 
 //Lola
 //Brave Little Sapling (ANIMÉ) (FAMILLE) (COMÉDIE)
-"MovieData.Lola.SpringMovie0.Like.BeforeMovie": "Cette histoire remonte à loin. Je suis intrigué par ça.",
+"MovieData.Lola.SpringMovie0.Like.BeforeMovie": "Cette histoire remonte à loin. Ca m'intrigue.",
 "MovieData.Lola.SpringMovie0.Like.DuringMovie": "Haha, c'est assez délicieux.$h",
 "MovieData.Lola.SpringMovie0.Like.AfterMovie": "Je suis content que ce film se termine sur une bonne note. C'était sympa.$h",
 
 //Voyage du Roi de la Prairie (JEU VIDÉO)
-"MovieData.Lola.SummerMovie0.Love.BeforeMovie": "Un film d'action ? Cela devrait être amusant.$h",
-"MovieData.Lola.SummerMovie0.Love.DuringMovie": "GO GET EM!$h",
-"MovieData.Lola.SummerMovie0.Love.AfterMovie": "C'était vraiment amusant! Merci de m'avoir invité cher.$h",
+"MovieData.Lola.SummerMovie0.Love.BeforeMovie": "Un film d'action ? Ca devrait être amusant.$h",
+"MovieData.Lola.SummerMovie0.Love.DuringMovie": "VAS Y !$h",
+"MovieData.Lola.SummerMovie0.Love.AfterMovie": "C'était vraiment amusant ! Merci de m'avoir invitée très cher.^Merci de m'avoir invitée très chère.$h",
 
 //Mysterium (MINDFUCK) (MYSTÈRE)
-"MovieData.Lola.FallMovie0.Love.BeforeMovie": "J'attendais ça avec impatience. Je suis excité.$h",
+"MovieData.Lola.FallMovie0.Love.BeforeMovie": "J'attendais cette sortie avec impatience. Je suis excitée.$h",
 "MovieData.Lola.FallMovie0.Love.DuringMovie": "Le mystère est assez nostalgique. Je me souviens de ma jeunesse à résoudre des problèmes dans mes missions.$h",
-"MovieData.Lola.FallMovie0.Love.AfterMovie": "C'était un bon soulagement du stress. J'ai passé un bon moment, @. Merci.$h",
+"MovieData.Lola.FallMovie0.Love.AfterMovie": "Ca a bien soulagé mon stress. J'ai passé un bon moment, @. Merci.$h",
 
 //Miracle au Coldstar Ranch (SAIN) (TEAR JERKER) (FAMILLE)
-"MovieData.Lola.WinterMovie0.Dislike.BeforeMovie": "Un film de famille, hein?$s...",
+"MovieData.Lola.WinterMovie0.Dislike.BeforeMovie": "Un film de famille, hein ?$s...",
 "MovieData.Lola.WinterMovie0.Dislike.DuringMovie": "%Lola semble détourner les yeux du film autant qu'elle le peut.",
-"MovieData.Lola.WinterMovie0.Dislike.AfterMovie": "L'histoire était réconfortante et tout.. Mais ça me rappelle un souvenir douloureux.. Je suis désolé @, Mais quand même, merci de m'avoir invité.$s",
+"MovieData.Lola.WinterMovie0.Dislike.AfterMovie": "L'histoire était réconfortante et tout.. Mais ça me rappelle un souvenir douloureux.. Je suis désolée @, Mais quand même, merci de m'avoir invitée.$s",
 
 //Merveilles naturelles : explorer notre monde vibrant (VISITE) (ÉDUCATION)
 "MovieData.Lola.SpringMovie1.Love.BeforeMovie": "Je parie que j'en sais plus que ce film.$h",
-"MovieData.Lola.SpringMovie1.Love.DuringMovie": "Oups, ils ne savent pas que---$h#$b#OOPS!$u#$b#Nevermind, c'était censé être un secret d'État.$h",
-"MovieData.Lola.Sprin~FILE CHANGE~gMovie1.Love.AfterMovie": "Je me suis amusé avec ce film @. C'était nostalgique. Merci ma chère.$h",
+"MovieData.Lola.SpringMovie1.Love.DuringMovie": "Oups, ils ne savent pas que---$h#$b#OOPS !$u#$b#J'ai rien dit, c'était censé être un secret d'État.$h",
+"MovieData.Lola.SpringMovie1.Love.AfterMovie": "Je me suis amusée avec ce film @. C'était nostalgique. Merci très cher.^Merci très chère.$h",
 
 //Wumbus (SCI-FI) (COMÉDIE)
-"MovieData.Lola.SummerMovie1.Like.BeforeMovie": "Les gens deviennent plus créatifs chaque année. C'est une bonne idée.",
+"MovieData.Lola.SummerMovie1.Like.BeforeMovie": "Les gens deviennent plus créatifs d'année en année. C'est une bonne idée.",
 "MovieData.Lola.SummerMovie1.Like.DuringMovie": "%Lola apprécie le film.",
-"MovieData.Lola.SummerMovie1.Like.AfterMovie": "C'était vraiment rafraîchissant. Je souhaiterais certainement revoir un Wumbus..$h",
+"MovieData.Lola.SummerMovie1.Like.AfterMovie": "C'était vraiment rafraîchissant. J'aimerais beaucoup voir un Wumbus à nouveau..$h",
 
 // Hurle sous la pluie (HORREUR)
-"MovieData.Lola.FallMovie1.Love.BeforeMovie": "Horreur hein ? Allez-y !$h",
+"MovieData.Lola.FallMovie1.Love.BeforeMovie": "Horreur hein ? C'est parti !$h",
 "MovieData.Lola.FallMovie1.Love.DuringMovie": "Wahaha ! C'est tout ce que tu as !?$h",
-"MovieData.Lola.FallMovie1.Love.AfterMovie": "C'était amusant ! J'ai passé un bon moment, ma chère ! Merci de m'avoir invité.$h",
+"MovieData.Lola.FallMovie1.Love.AfterMovie": "C'était amusant ! J'ai passé un bon moment, mon cher !^ J'ai passé un bon moment, ma chère ! Merci de m'avoir invitée.$h",
 
 //Zuzu City Express (CLASSIQUE) (ROMANCE)
 "MovieData.Lola.WinterMovie1.Like.BeforeMovie": "J'espère qu'ils sont restés fidèles à l'original.",
 "MovieData.Lola.WinterMovie1.Like.DuringMovie": "Haha, je parie que Freddie aurait pleuré à cette scène !$h",
-"MovieData.Lola.WinterMovie1.Like.AfterMovie": "C'était un bon remake. J'ai aimé.$h#$b#Merci de m'avoir invité @.$h",
+"MovieData.Lola.WinterMovie1.Like.AfterMovie": "C'était un bon remake. J'ai aimé.$h#$b#Merci de m'avoir invitée @.$h",
 
 //Madame
 //Brave Little Sapling (ANIMÉ) (FAMILLE) (COMÉDIE)
-"MovieData.Maddie.SpringMovie0.Love.BeforeMovie": "Hmph, ce n'est pas pour les enfants ? Oh bien. 7 $",
+"MovieData.Maddie.SpringMovie0.Love.BeforeMovie": "Hmph, ce n'est pas pour les enfants ? Bon d'accord.$7",
 "MovieData.Maddie.SpringMovie0.Love.DuringMovie": "Awww c'est trop mignon !!$9",
 "MovieData.Maddie.SpringMovie0.Love.AfterMovie": "D'accord, je dois admettre. J'ai plutôt aimé ce film..$8",
 
@@ -3636,10 +3556,10 @@
 //Mysterium (MINDFUCK) (MYSTÈRE)
 "MovieData.Maddie.FallMovie0.Dislike.BeforeMovie": "Un genre mystère ? Ehh.$s",
 "MovieData.Maddie.FallMovie0.Dislike.DuringMovie": "J'ai déjà assez de maux de tête, je n'en avais pas besoin d'un autre.$s",
-"MovieData.Maddie.FallMovie0.Dislike.AfterMovie": "Euh, ce genre me stresse. Je ne l'ai pas aimé.$s",
+"MovieData.Maddie.FallMovie0.Dislike.AfterMovie": "Euh, ce genre me stresse. Je n'ai pas aimé.$s",
 
 //Miracle au Coldstar Ranch (SAIN) (TEAR JERKER) (FAMILLE)
-"MovieData.Maddie.WinterMovie0.Like.BeforeMovie": "Hmph, un larmoyant hein? Seuls les softies pleureraient à cause d'un film.$6",
+"MovieData.Maddie.WinterMovie0.Like.BeforeMovie": "Hmph, un film larmoyant hein? Seuls les chochottes pleurent à cause d'un film.$6",
 "MovieData.Maddie.WinterMovie0.Like.DuringMovie": "Awwwww... *renifle* mon coeur....$10",
 "MovieData.Maddie.WinterMovie0.Like.AfterMovie": "Hmph, qui pleurait? Phoowie....$8#$b#Merci pour l'invitation @.$8",
 
@@ -3650,8 +3570,8 @@
 
 //Wumbus (SCI-FI) (COMÉDIE)
 "MovieData.Maddie.SummerMovie1.Love.BeforeMovie": "Ce Wumbus a l'air si mignon !$9#$b#Vite @ ! Entrons déjà !$a",
-"MovieData.Maddie.SummerMovie1.Love.DuringMovie": "C'est tellement mignon ! Je veux acheter une peluche Wumbus ! 9 $",
-"MovieData.Maddie.SummerMovie1.Love.AfterMovie": "Je me suis bien amusé !! Teehee ! <$h#$b#Je veux dire, euh, hum.. C'était sympa je suppose.$8",
+"MovieData.Maddie.SummerMovie1.Love.DuringMovie": "C'est tellement mignon ! Je veux acheter une peluche Wumbus !$9",
+"MovieData.Maddie.SummerMovie1.Love.AfterMovie": "Je me suis bien amusée !! Ihi ! <$h#$b#Je veux dire, euh, hum.. C'était sympa je suppose.$8",
 
 // Hurle sous la pluie (HORREUR)
 "MovieData.Maddie.FallMovie1.Dislike.BeforeMovie": "Horror.. Uhmm, euh.. Je veux dire, qu'est-ce que tu attends ? Allez, regardons déjà.$7",
