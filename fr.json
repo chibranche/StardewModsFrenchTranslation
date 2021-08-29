@@ -5340,100 +5340,6 @@
 "Ian.Dialogue.Resort": "Je me demande si je pourrais ramener des noix de coco à la maison.#$b#Elles sont super savoureuses, et la fibre est idéale pour allumer un feu !$h",
 
 
-"Jason.Dialogue.Introduction": "Heya! D'où viens-tu? Je ne t'ai jamais vu auparavant!#$b#Je suis Keahi! Venez visiter le restaurant de mon père un jour, d'accord?$h",
-
-//Printemps
-"Jason.Dialogue.spring_1": "Enfin il ne fait plus froid dehors.#$b#Je n'ai plus besoin de porter de manteau !$h#$e#HIVER, PRINTEMPS, ÉTÉ OU AUTOMNE !$h",
-"Jason.Dialogue.spring_12": "Hé, pendant la chasse aux œufs de demain...#$b#Laissez-moi gagner, d'accord ?$4",
-"Jason.Dialogue.spring_23": "Je vais montrer mes mouvements à la Flower Dance demain.#$e#Je veux impressionner la jolie dame qui travaille à l'hôtel !$h.",
-
-//L'été
-"Jason.Dialogue.summer_1": "Mon père dit que je devrais rester à l'abri du soleil, mais ce n'est pas amusant à l'ombre !$s#$e#ALL YOU GOTTA DO IS CALL !$h",
-"Jason.Dialogue.summer_10": "Ne le dis à personne, mais...#$b#Je vais mettre un slime dans la soupe ! Ha ha ha!$h",
-"Jason.Dialogue.summer_27": "Nous allons à la plage demain soir !#$b#Tu vas y être aussi ?#$e#J'espère que nous pourrons tous pl~FILE CHANGE~oui ensemble !$h",
-
-//Tombe
-"Jason.Dialogue.fall_1": "Je vais me cacher dans un tas de feuilles et effrayer les gens !$h#$e#ET JE SUIS LÀ, YEAH YEAH YEAH!$h",
-"Jason.Dialogue.fall_15": "J'ai économisé mon allocation et je vais acheter TOUS les jetons demain!",
-"Jason.Dialogue.fall_26": "Qu'est-ce que tu vas porter demain, @?#$b#Je parie que ça va être amusant !$h",
-
-//L'hiver
-"Jason.Dialogue.winter_1": "Je n'aime pas le froid.#s#$b#Mais je veux lancer des boules de neige aux gens !$#$e#VOUS AVEZ UN AMI !$h#$e#Hahaha, as-tu vu ça ! J'ai chanté une chanson qui a duré une année entière !$h",
-"Jason.Dialogue.winter_7": "Je vais faire un bonhomme de neige géant demain pour Ysa !#$e#Ça va être génial !$h",
-"Jason.Dialogue.winter_14": "Je dois aller avec mon père au marché de nuit demain.#$e#Il a dit quelque chose à propos d'apprendre à négocier ?",
-"Jason.Dialogue.winter_15": "Je ne comprends pas ce que fait papa.#$e#Que signifie marchander ?",
-"Jason.Dialogue.winter_16": "Papa dit que je dois convaincre les gens de rendre les choses moins chères.#$e#Je ne suis pas censé me disputer avec les adultes, cependant.$u",
-"Jason.Dialogue.winter_17": "J'ai essayé de marchander un bonbon chez Pierre, puis papa a dit que ce n'était pas comme ça que le marchandage fonctionnait.$u",
-"Jason.Dialogue.winter_24": "Ça va être une nouvelle année géniale !$h#$b#J'ai hâte !$h",
-
-//Jours de la semaine
-
-// Coeurs
-"Jason.Dialogue.Mon": "Heya!#$e#Tu veux jouer ?$h",
-"Jason.Dialogue.Tue": "Quoi de neuf ?#$e#Pouvons-nous jouer dans votre ferme ?$h",
-"Jason.Dialogue.Wed": "Vincent est un bon copain à moi, c'est amusant d'être avec lui !#$e#C'est encore plus amusant quand on joue avec Trinnie et Jas !$h",
-"Jason.Dialogue.Thu": "J'ai vu Yuuma l'autre jour. Je l'ai invité à jouer mais il est parti.$s#$e#Il est tellement bizarre.$a",
-"Jason.Dialogue.Fri": "Papa dit que ma cuisine s'est améliorée!$h#$e#Ne lui dis pas, mais j'ai essayé de mieux cuisiner donc il me laissera sortir et jouer plus, ha ha.$4",
-"Jason.Dialogue.Sat": "Heya! Whatcha doin'?#$e#Tu veux jouer avec moi?$h",
-"Jason.Dialogue.Sun": "%Keahi semble retenir son souffle.",
-
-// Cœurs
-"Jason.Dialogue.Mon2": "Bonjour ! Viens jouer avec moi !#$e#Jusqu'où peux-tu frapper une canette de Joja ?$h",
-"Jason.Dialogue.Tue2": "Trinnie et Jas m'ont fait prendre le thé avec eux l'autre jour.$h#$e#Je me fiche du thé, mais ils n'arrêtaient pas de m'appeler 'Miss Keahi' !$u ",
-"Jason.Dialogue.Wed2": "Mon père se fâche parfois contre moi...$s#$e#Il y a des moments où j'aimerais qu'il me laisse tranquille !$a",
-"Jason.Dialogue.Thu2": "Heya, @! Tu veux jouer?$h#$e#C'est bien si tu es trop occupé...$s",
-"Jason.Dialogue.Fri2": "Trinnie et moi avons chassé un kiwi qui roulait hier !$u#$e#C'était si rapide !$h",
-"Jason.Dialogue.Sat2" : "J'ai fait une farce à M. Bert l'autre jour et j'ai caché un poisson pourri dans sa maison.#$e#Ha ha ha ! C'était tellement drôle !#$e#Trinnie s'est fait gronder quand elle est rentrée à la maison, cependant.$u#$e#Je lui ai dit que j'étais désolé.$s",
-"Jason.Dialogue.Sun2": "Ce vieil homme aux cheveux bleus est tellement bizarre.#$e#Il continue de mettre de l'eau dans des bouteilles puis les regarde.#$e#Pourquoi fait-il ça ?$u",
-
-// Coeurs
-"Jason.Dialogue.Mon4": "Vincent et Jas m'ont montré un petit secret avec des oignons nouveaux l'autre jour !$u#$b#Si vous êtes vraiment de bons amis avec eux, ils vous le diront peut-être aussi !$h ",
-"Jason.Dialogue.Tue4": "Trinnie dit qu'elle peut me battre dans une course de Blooming Hill à Nightingale.#$e#J'aimerais la voir essayer, ha ha!$h",
-"Jason.Dialogue.Wed4": "Nous avons trouvé une statue étrange dans la forêt de Cindersap.#$b#Cela ressemblait à une poupée effrayante.$u#$b#Je voulais la ramener à la maison, mais elle était trop grande.$s",
-"Jason.Dialogue.Thu4": "Heya, @!#$e#Pouvons-nous jouer dans votre ferme aujourd'hui ?$h",
-"Jason.Dialogue.Fri4": "Est-ce que l'agriculture est difficile? Peut-être que je peux être un agriculteur aussi.#$e#Peut-être que Jeric ou Alissa seront mes ouvriers agricoles !$h",
-"Jason.Dialogue.Sat4": "Nous avons joué à la ferme de tante Marnie l'autre jour.#$e#Une chèvre a essayé de manger les cheveux de Trinnie !$u",
-"Jason.Dialogue.Sun4": "Hé, @!#$e#Pensez-vous qu'Ysa aime le thon piquant?#$b#Peut-être que je vais lui en faire.#$e#Ou peut-être que je devrais économiser mon allocation pour un diamant !$h#$b#Alors elle devra m'épouser !$4",
-
-//6 Coeurs
-"Jason.Dialogue.Mon6": "J'ai suivi Philip l'autre jour.$h#$b#Il a passé beaucoup de temps chez Yuuma.#$e#Je me demande ce qu'il fait là-bas ?$u",
-"Jason.Dialogue.Tue6": "J'ai vu Yuuma avec un homme de grande taille l'autre jour.#$b#Ils se promenaient lentement cependant.#$e#Je pense que c'était son frère ?",
-"Jason.Dialogue.Wed6": "Jas est si calme, mais c'est une bonne amie !$h#$e#Vincent n'est jamais silencieux. Il est comme Trinnie.$h.",
-"Jason.Dialogue.Thu6": "Miss Penny est une si bonne enseignante !#$b#J'ai découvert différents animaux l'autre jour !$h#$e#Miss Flor est aussi très amusante à qui parler.$h#$b#Mais parfois elle utilise des mots que je ne connais pas et ça me donne mal à la tête !$u",
-"Jason.Dialogue.Fri6": "Heya ! Puis-je jouer dans votre ferme maintenant ?$h#$e#Je serai gentil, promis !$s",
-"Jason.Dialogue.Sat6": "J'ai essayé de faire une nouvelle recette hier.#$b#Papa a dit qu'il fallait un peu plus de saveur.$s#$e#Je vais lui donner beaucoup de saveur la prochaine fois !$h ",
-"Jason.Dialogue.Sun6": "Quoi de neuf, @?#$e#On peut jouer dans ta ferme ?$h#$e#On va nettoyer après, je pro~FILE CHANGE~mis!$s",
-
-//8 Coeurs
-"Jason.Dialogue.Mon8": "Papa s'est mis en colère contre moi et Trinnie hier.$s#$e#Nous avons essayé de coller un signe 'kick me' sur le dos de Shane.$h#$b#Jas s'est aussi mis en colère contre nous .$s#$e#On n'aurait pas dû faire ça.$s",
-"Jason.Dialogue.Tue8": "Mon père essaie de m'apprendre le Samaowaii.#$b#C'est ce qu'on parle sur les îles Fern.#$e#Je suis né dans le village mais mon père est des îles.# $e#Ma mère est trop...$s",
-"Jason.Dialogue.Wed8": "Vincent et moi sommes allés près des égouts hier !$h#$e#Je suis presque sûr que nous avons vu quelqu'un là-dedans, mais ça sentait trop mauvais pour regarder autour !$u",
-"Jason.Dialogue.Thu8": "Hé ! Puis-je jouer dans votre ferme ?#$e#Et si je vous préparais un gâteau au chocolat ? Me laisserez-vous jouer alors ?$h",
-"Jason.Dialogue.Fri8": "Trinnie et moi jouions à la maison...#$e#Elle s'est fâchée contre moi quand j'ai dit que je voulais être le cuisinier au lieu du papa.$s#$e#Mais être un papa est ennuyeux ! Être cuisinier, c'est bien plus amusant !$h",
-"Jason.Dialogue.Sat8": "Papa a dit que mes plats étaient plus savoureux que les siens !$h#$e#Je suis tellement heureux !$h",
-"Jason.Dialogue.Sun8": "%Keahi semble être à moitié endormi.",
-
-//10 Coeurs
-"Jason.Dialogue.Mon10": "Heya, @!$h#$e#Ici, tiens ça.[16 18 20 22]$h#$e#Okay. Bye!$4",
-"Jason.Dialogue.Tue10": "Salut, @!#$b# J'ai fait ça![194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 244 604 605 606 607 608 609 610 611 612 613 618 648 649 651 727 728 729 730 731 732 733]#$e# C'est bon ! J'espère qu'il vous plaira !$h",
-"Jason.Dialogue.Wed10": "Trinnie et moi avons vu un ninja sur la crête hier !!$u#$b#Il avait l'air trop cool !#$b#Je pense que je veux être comme lui quand je serai grand !$h #$e#Ou je pense que j'aimerais être un cuisinier ninja !$4#$b#Abattre des ingrédients avec mon épée comme bam, bam !#$e#%Keahi fait des bruits de combat.",
-"Jason.Dialogue.Thu10": "Hé ! Puis-je jouer dans votre ferme maintenant ?#$e#Et si j'arrosais les cultures ?$4#$e#S'il vous plait ?$s",
-"Jason.Dialogue.Fri10": "Tu es amusant, @!$h#$b#Tu peux toujours jouer avec nous, d'accord?#$e#Peut-être que je vais te faire un gâteau au chocolat !$4",
-"Jason.Dialogue.Sat10": "Un jour, je vais ouvrir mon propre restaurant !$h#$e#Viens me rendre visite quand je le ferai, d'accord ?$h",
-"Jason.Dialogue.Sun10": "J'aimerais pouvoir voler pour voir la vallée d'en haut.#$e#Ce serait tellement amusant !$h",
-
-//Dialogue spécial
-"Jason.Dialogue.MovieInvitation": "Film !?$u#$b#COOL ! Merci, @!$h#$b#Je vous verrai là-bas.",
-
-//Recours
-"Jason.Dialogue.Resort_Entering": "Wow ! Cet endroit a l'air incroyable !$h",
-"Jason.Dialogue.Resort_Leaving": "Awh, je ne voulais pas encore vraiment partir.$s",
-"Jason.Dialogue.Resort_Shore": "Hé @, combien de temps peux-tu retenir ta respiration sous l'eau ?$h",
-"Jason.Dialogue.Resort_Chair": "Je suis tellement fatigué de toute la natation.#$e#Comment les poissons font-ils ?$u",
-"Jason.Dialogue.Resort_Bar": "J'ai tellement soif.$s#$e#J'ai bu de l'eau de l'océan, mais maintenant j'ai encore plus soif !$u",
-"Jason.Dialogue.Resort": "Je vais construire le plus grand château de sable de tous les temps !$h",
-
-
 "Jeric.Dialogue.Introduction": "Oh, hé là !$h#$b#Tu es nouveau ici, non ?#$e#Oh ! Tu es le nouveau fermier, hein ?#$b#Je m'appelle Jeric . @, n'est-ce pas ?$h#$e#Eh bien, si jamais vous avez besoin de fournitures agricoles, vous pouvez toujours visiter ma boutique. A bientôt !$h",
 
 //Printemps
@@ -7333,6 +7239,7 @@
 "Flor.MarriageDialogue.Indoor_Night_3": "J'ai réglé la minuterie de la cafetière pour le matin, elle devrait donc être prête à votre réveil.$h",
 "Flor.MarriageDialogue.Indoor_Night_4": "J'ai attendu que tu rentres à la maison ! Tu m'as manqué ! $h#$b#I-- (toux, toux) $u#$e# lire quelque chose sur le fait d'être plus effusif et Je voulais l'essayer, mais je suis devenu anxieux et je l'ai survendu et j'ai fait craquer ma voix. C'était embarrassant.",
 "Flor.MarriageDialogue.Indoor_Night_Flor": "Aujourd'hui a été très long. Je suis contente de pouvoir rentrer a la maison a t'est côté.",
+
 ///En plein air
 "Flor.MarriageDialogue.Outdoor_0": "Ne vous en faites pas, je profite juste... de tout ça, vraiment.$h",
 "Flor.MarriageDialogue.Outdoor_1": "Vous êtes-vous souvenu de mettre de la crème solaire ? $s#$b#Harvey a abordé le sujet du cancer de la peau l'autre jour et j'ai commencé à m'inquiéter pour vous...$s#$b# Voulez-vous m'humilier?$s",
@@ -8268,5 +8175,51 @@
 "Ysabelle.MarriageDialogue.Bad_8": "Si tu ne fais pas d'efforts pour sauver notre mariage...$6#$b#Je ne sais plus vraiment...$s#$e#On pourrait aussi bien finir ça.$7",
 "Ysabelle.MarriageDialogue.Bad_9": "Peut-être que j'étais vraiment une femme trophée...$7",
 
+//Summit Events
+"Alissa.summit.1": "Isn't this view wonderful, love?...$l",
+"Alissa.summit.2": "All my life, I never thought that I could be as confident and happy as I am right now...$l#$b#You don't know how much you've made my life as beautiful, or even more, as this view...$h",
+"Alissa.summit.3": "I'm happy and contented, @...$l#$b#Thank you...$l#$b#I love you...$l",
 
+"Corine.summit.1": "Hey... I didn't expect you to find me here.$l",
+"Corine.summit.2": "Hey, no... I wanted you to find me.$l",
+"Corine.summit.3": "A lot of stuff has happened in my life.#$b#But whatever and however those events affected my life, All I know is they led me to you.$h",
+"Corine.summit.4": "...and...$l",
+"Corine.summit.5": "I wouldn't want it any other way...$l",
+
+"Flor.summit.1": "*giggles*$h",
+"Flor.summit.2": "Oh, hello honey.#$b#I sure am glad to see you!$h#$b#Why don’t you come and join me for a bit.$l",
+"Flor.summit.3": "It’s kind of funny, isn’t it?#$b#*Giggles*$h#$b#We both kind of started this friendship while I was wearing a towel.$h#$b#We had such fascinating interactions with one another...#$b#Eventually, I fell for you...$l",
+"Flor.summit.4": "Bu-but...$l#$b#I-I don't mind at all...$l#$b#I'm happy because you're in my life...$l#$b#And how we live our life...$h#$b#I am grateful...$l",
+
+"Maddie.summit.1": "Ah...$h",
+"Maddie.summit.2": "What brings you here babe? Miss me that much?$6#$b#Just kidding, come over here you!$h",
+"Maddie.summit.3": "The view’s stunning, isn’t it? But I’m sure it doesn’t hold a torch to how beautiful you've made my life...$6",
+"Maddie.summit.4": "On a more serious note, I was thinking about the years that have gone by.#$b#We grew so much, who would’ve thought you’d break the ice queen huh?$h#$b#Okay, I’d like to tell you something and this’ll be a one time thing only okay?$l",
+"Maddie.summit.5": "I know I’m not that showy, nor am I clingy. But I’d just like to tell you that I’m very grateful to have you in my life.$l#$b#Life would be drab without you in it, and with you, I feel content.$l#$b#I love you so much, @!",
+
+"Ysabelle.summit.1": "The view’s breathtaking isn’t it, love?$h",
+"Ysabelle.summit.2": "I’m undeniably lucky to have you here with me.$l",
+"Ysabelle.summit.3": "I couldn’t imagine surviving the past %year years without you.$6#$b#It wouldn’t have been as fun rediscovering myself and learning about new things if you weren’t there with me.$l",
+"Ysabelle.summit.4": "Thank you, love. For being patient with me.$l#$b#And for making me feel like everything is possible.$h",
+"Ysabelle.summit.5": "You made me realize that it’s never too late to fight for what you want.#$b#To go at your own pace and to block out everyone else’s opinion.$6",
+"Ysabelle.summit.6": "Without you, I wouldn’t be who I am now.$l#$b#Thank you for everything, love.$h#$b#You’ll always be my greatest blessing.$l",
+
+"Ian.summit.1": "Ya know, I’ve always been a hard worker.#$b#When I set a goal for myself, I commit myself to reaching that goal.$h",
+"Ian.summit.2": "Remember when I was trying to learn to read and write?$h#$b#I was so determined to make that a reality.#$b#You helped me with that and so much more.$l#$b#For the past %year years, my goal has been to make you happy for the rest of our lives...$l#$b#And I’ll continue to dedicate everything I have to that goal.$l#$b#I love you, @.$l",
+
+"Jeric.summit.1": "Oh, hey babe!$h#$b#I missed you!$7",
+"Jeric.summit.2": "Oh, nothing. I was just thinking about how far we’ve come.$l#$b#Couldn’t have survived it without my best guy!$l^Couldn’t have survived it without my best gal!$l",
+"Jeric.summit.3": "You know, you’re the best thing that happened to this town.$l#$b#Everything seemed to liven up when you arrived!$h#$b#I really am glad to call you mine!$l",
+"Jeric.summit.4": "Here’s to our best lifetime @!$h",
+
+"Kenneth.summit.1": "You may be easy on the eyes, but you walk loudly my @.$h",
+"Kenneth.summit.2": "Haha! Just kidding! You know I like to mess with you sometimes.$l#$b#Seeing your face all scrunched up like that is still the best view in the world.$h#$b# Even more beautiful than the view in front of us now.$l face view I was just thinking about the years that have gone by.#$b#I kinda feel nostalgic right now.$7#$b#But you know what?...",
+"Kenneth.summit.3": "Out of all the things that have happened over the years, I am most thankful for you.$l#$b#Your presence has lit up the entire town with your radiance.$l#$b#I’m incredibly blessed that I get to share each day with you.$l#$b#Here’s to our happiness @! I’m excited for what our future holds!$h Is this okay?$l",
+
+"Philip.summit.1": "Ah! Isn't the view majestic?$h",
+"Philip.summit.2": "@...$l#$b#Heh, I just want to say...$l#$b#I'm happy. And you're a huge reason why I am.$h",
+"Philip.summit.3": "Whatever happens, I'll always be by your side.$h#$b#I love you!$h",
+
+"Shiro.summit.1": "Can you believe I made it to the summit?$h",
+"Shiro.summit.2": "When we first met, there were days I struggled to get out of bed...$s#$b#...now look at me...$h#$b#You’ve been so patient and understanding.$l#$b#Your willingness to take care of me while I recover from my injuries has allowed Yuuma to be a kid again.$h#$b#I can never repay you, but I’ll never stop showing you how much I love you.$l",
 }
