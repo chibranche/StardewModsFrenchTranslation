@@ -753,7 +753,7 @@
 
 //Corine starts training (Corine 8 hearts)
 "event-75160125.01": "@? Hey, it's late.#$b#What are you still doing out here?#$b#I'm sorry if I was a bit snappish the last time.$s#$b#I was just really angry about that jerk. He wants me to hurt others? I mean, the nerve!$a",
-"event-75160125.02": "But hey, @.#$b#Thanks for being accompanying me that time.$h#$b#I really appreciate all the things you've been doing for me.#$b#You're too sweet, you know that?$h",
+"event-75160125.02": "But hey, @.#$b#Thanks for accompanying me that time.$h#$b#I really appreciate all the things you've been doing for me.#$b#You're too sweet, you know that?$h",
 "event-75160125.03": "Oh stop it, you!$h",
 "event-75160125.04": "You heard that too, right, @?$a#$b#I have a bad feeling about this.$a#$b#It sounded like it came from the ridge.$a",
 "event-75160125.05": "We should take a look.$a",
@@ -1947,7 +1947,7 @@
 "event-75160162.18": "Phew, another hard day's work.$h#$b#I can't wait to go back to the hotel and sleep like the dead!$6",
 
 //Philip in the saloon (Philip 4 hearts)
-"event-75160163.01": "Hey, Philip, I thought you still have work tomorrow?#$b#Might want to lay off the with the beers, there.$h",
+"event-75160163.01": "Hey, Philip, I thought you still have work tomorrow?#$b#Might want to lay off with the beers there.$h",
 "event-75160163.02": "*urp*$6#$b#Oops, I'm sorry Gus!$6#$b#I can manage!$6#$b#I'm just so bummed about my the latest issue of IncrediMan.$s#$b#After the switch to the new writers, the series has gone SUPER bad!$s#$b#Oh man, at this rate, they'll cancel the title. Uhhgg!$s#$b#Man, why do they do him dirty!?!$a#$b#*urp* $a",
 "event-75160163.03": "Uh, I'm sorry, Philip, but I don't really get what you're saying.$h#$b#But whatever it is, I hope things get better.$h",
 "event-75160163.04": "I hope so too, Gus.$s#$b#*urps*$a",
@@ -4180,7 +4180,7 @@
 "Festivals.IceFest.Flor_spouse": "The ice looks really solid. I mean, I don't think anyone would cut holes in it if it wasn't...$s#$e#Please be careful all the same, honey.$s",
 "Festivals.IceFest.Ian": "My gloves have holes in them. I'm not bothered by the cold, so it's not that big of a deal.#$e#I wonder if Emily can teach me how to mend them.",
 "Festivals.IceFest.Ian_spouse": "Are you competing in the fishing tournament?#$e#I'll be cheering for you!$h#$b#Quietly though, since you don't want to scare the fish away.",
-"Festivals.IceFest.Jeric": "Looking good, @.#$e#Can't lie, I love a cute snowbunny.$h",
+"Festivals.IceFest.Jeric": "Looking good, @.#$e#Can't lie, I love a cutie bunny.$h",
 "Festivals.IceFest.Jeric_spouse": "Hey, @. Be sure to catch me if I slip and fall on the ice, okay?$h",
 "Festivals.IceFest.Kenneth": "They release the fish after the festival.#$b#They'd just go bad if we didn't.",
 "Festivals.IceFest.Kenneth_spouse": "All those fish I caught, yet my favorite catch is you.$h#$e#What? Can't a guy use a terrible pickup line once in a while?$h",
@@ -4220,7 +4220,7 @@
 "Festivals.WinterStar.Flor_spouse": "Festivals like this used to feel so lonely, because I didn't know how to connect.$s#$b#But I have you now, and you've changed everything.$h #$e#Thank you.$h#$b# I love you.$l",
 "Festivals.WinterStar.Ian": "I carved a wood sculpture for my gift.#$e#It's nothing fancy, but I hope they like it. Makes the splinters worth it!",
 "Festivals.WinterStar.Ian_spouse": "You're what I'm most thankful for.$h#$e#I'll give you your winter star gift at home, okay?$l",
-"Festivals.WinterStar.Jeric": "My secret giver better not give me some rough-spun cotton, I'll tell you what.$a#$b#That's nice for Emily and all, but I'm making high-class garments.",
+"Festivals.WinterStar.Jeric": "My secret giver better not give me some low quality fabric and sewing materials.$s#$b#That's nice for Emily and all, but I'm making high-class garments.",
 "Festivals.WinterStar.Jeric_spouse": "Time sure has a way of creeping up on you. #$b#I guess it flies when you're happy or however that thing Lewis says goes.$h",
 "Festivals.WinterStar.Kenneth": "To be honest, I've got one eye on that tree.$s#$b#All those lights...$u",
 "Festivals.WinterStar.Kenneth_spouse": "Hi, @! #$b#I hope your year has been at least as great as mine.#$e#Mine's been pretty amazing, with you in it!#$b#Hm? The tree? Oh, don't worry about it, it's fiiiine...",
