@@ -4938,22 +4938,22 @@
 "Ezekiel.Dialogue.Introduction": "Hein ? Est ce qu'on se connaît ?#$b#Oh, tu es le nouveau fermier? Eh bien, c'est chouette.#$b#Je suis Ezekiel. Ravi de te rencontrer, je suppose.",
 
 //Printemps
-"Ezekiel.Dialogue.spring_1": "Printemps encore...#$b#Les oiseaux foudroyés devant ma fenêtre ne fermeront pas leurs becs abandonnés par les Yoba !$a",
-"Ezekiel.Dialogue.spring_12": "Des œufs !$a#$b#Pourquoi cela devait-il être des œufs ?$a#$e#Quel genre d'œuf pourri propose un festival sur les œufs ?$a",
-"Ezekiel.Dialogue.spring_23": "Ma petite fille va être si jolie dans sa robe de Danse des Fleurs.$h#$b#Ne me laisse pas te prendre en train de la regarder demain !$a",
+"Ezekiel.Dialogue.spring_1": "Le printemps est de retour...#$b#Les fichus oiseaux devant ma fenêtre ne fermeront pas leurs satanés becs de la saison !$a",
+"Ezekiel.Dialogue.spring_12": "Des œufs !$a#$b#Pourquoi faut il que ce soit des œufs ?$a#$e#Quel genre d'œuf pourri propose un festival sur les œufs ?$a",
+"Ezekiel.Dialogue.spring_23": "Ma fille va être si jolie dans sa robe de Danse des Fleurs.$h#$b#Que je ne t'attrapes pas en train de la regarder demain !$a",
 
 //L'été
 "Ezekiel.Dialogue.summer_1": "Pourquoi fait-il si chaud !$a#$b#Qui a augmenté le chauffage ?$u#$b#Bah ! J'ai hâte d'être en hiver.$a",
-"Ezekiel.Dialogue.summer_10": "Le culot de ce gouverneur, venu en ville juste pour manger.$a#$b#Il n'a aucune idée de ce que certains d'entre nous traversent !$a#$b#Il n'a pas~FILE CHANGE~Je ne sais pas ou il s'en fiche.#$b#De toute façon, je ne l'aime pas !$a",
+"Ezekiel.Dialogue.summer_10": "Le culot de ce gouverneur, venu en ville juste pour manger.$a#$b#Il n'a aucune idée de ce que certains d'entre nous traversent !$a#$b#Il n'en sait rien ou bien il s'en fiche.#$b#De toute façon, je ne l'aime pas !$a",
 "Ezekiel.Dialogue.summer_27": "Pourquoi aller à la plage la nuit ?#$b#La danse des gelées au clair de lune ?#$b#Je vais rester à la maison et dormir comme un homme rationnel.",
 
 //Tombe
-"Ezekiel.Dialogue.fall_1": "Qui va nettoyer toutes ces feuilles du sol, hein?",
+"Ezekiel.Dialogue.fall_1": "Qui va nettoyer toutes ces feuilles au sol, hein?",
 "Ezekiel.Dialogue.fall_15": "Une foire ? Demain ?#$b#Bah ! Il y a énormément de festivals pour une ville qui ne peut même pas réparer un bâtiment toute seule !$a",
 "Ezekiel.Dialogue.fall_26": "Je n'ai pas peur facilement.",
 
 //L'hiver
-"Ezekiel.Dialogue.winter_1": "Froid !$a#$b#Mes mains sont froides, mes pieds sont froids, mon visage est froid.$a#$e#Bah ! J'ai hâte d'être en été !$a",
+"Ezekiel.Dialogue.winter_1": "Quel froid !$a#$b#Mes mains sont froides, mes pieds sont froids, mon visage est froid.$a#$e#Bah ! J'ai hâte d'être en été !$a",
 "Ezekiel.Dialogue.winter_7": "La pêche ? J'adore la pêche !$h#$b#Je gagnerai demain, c'est sûr !$h",
 "Ezekiel.Dialogue.winter_14": "Tu vois ces bateaux à l'horizon ?$u#$b# Il faut garder un œil sur eux, tu m'entends ?$a",
 //"Ezekiel.Dialogue.winter_15": "Les bateaux n'étaient que des marchands, hein ?$u#$b#Quelles affaires ont-ils ici ?$a",
@@ -4964,13 +4964,13 @@
 //Jours de la semaine
 
 // Coeurs
-"Ezekiel.Dialogue.Mon": "Pourquoi n'êtes-vous pas à votre ferme?#$e#Ne vous relâchez pas.",
-"Ezekiel.Dialogue.Tue": "Lenny dit que je devrais le prendre 'easy peasy citron squeezy'.#$b#Bah ! Facile à dire pour elle.#$b#Ma vie a été 'difficile difficile citron difficile !'$ une",
-"Ezekiel.Dialogue.Wed": "Hé toi. As-tu rencontré ma fille ?#$b#Elle s'appelle Corine.$h#$b#Tu peux être amie avec elle, mais tu ferais mieux d'être vraiment gentil avec elle !$a ",
-"Ezekiel.Dialogue.Thu": "Qu'est-ce que c'est?#$e#@? Et maintenant?#$e#Parle ou tais-toi!$a",
-"Ezekiel.Dialogue.Fri": "Tu es dur, gamin ?$a#$b# On dirait qu'une forte brise pourrait te souffler, hah.$h",
-"Ezekiel.Dialogue.Sat": "Vous les enfants, c'est facile !#$b#Vous ne connaissez pas les vraies difficultés !$a",
-"Ezekiel.Dialogue.Sun": "Qu'est-ce que tu veux?#$e#Hmm?",
+"Ezekiel.Dialogue.Mon": "Pourquoi n'es-tu pas à ta ferme?#$e#Ne relâche pas tes efforts.",
+"Ezekiel.Dialogue.Tue": "Lenny dit que je devrais le prendre 'à la cool Raoul'.#$b#Bah ! Facile à dire pour elle.#$b#Ma vie a été 'à la dure Arthur !'$a",
+"Ezekiel.Dialogue.Wed": "Hé toi. As-tu déjà rencontré ma fille ?#$b#Elle s'appelle Corine.$h#$b#Tu peux être amie avec elle, mais tu ferais mieux d'être vraiment aimable avec elle !$a ",
+"Ezekiel.Dialogue.Thu": "Qu'est-ce que c'est ?#$e#@ ? Tu veux quelque chose ?#$e#Parle ou tais-toi!$a",
+"Ezekiel.Dialogue.Fri": "Tu es un dur, gamin ?$a#$b# On dirait qu'une forte brise pourrait te souffler, hah.$h",
+"Ezekiel.Dialogue.Sat": "Pour vous les enfants la vie est facile !#$b#Vous ne connaissez pas les vraies difficultés !$a",
+"Ezekiel.Dialogue.Sun": "Qu'est-ce que tu veux ?#$e#Hmm ?",
 
 // Cœurs
 "Ezekiel.Dialogue.Mon2": "Arrête de me harceler.$a#$e#Qu'est-ce que tu veux de toute façon ?",
