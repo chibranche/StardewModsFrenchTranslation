@@ -4973,39 +4973,40 @@
 "Ezekiel.Dialogue.Sun": "Qu'est-ce que tu veux ?#$e#Hmm ?",
 
 // Cœurs
-"Ezekiel.Dialogue.Mon2": "Arrête de me harceler.$a#$e#Qu'est-ce que tu veux de toute façon ?",
-"Ezekiel.Dialogue.Tue2": "La soupe aux haricots est meilleure quand Corine la prépare.$h#$b#Que voulez-vous dire par vous n'avez pas mangé de soupe aux haricots ?$u#$b#Quel genre de morve gâtée n'a pas eu avait de la soupe aux haricots !?$a",
-"Ezekiel.Dialogue.Wed2": "La collection d'artefacts de la bibliothèque n'est rien comparée à la mienne !$a#$e#Bien sûr, je ne l'ai pas visitée, pourquoi le devrais-je ?",
-"Ezekiel.Dialogue.Thu2": "Le docteur Harvey est un gars intelligent.#$b#Un gars à gros cerveau.#$b#Hah ! Gros cerveau, petits muscles.$h",
-"Ezekiel.Dialogue.Fri2": "Ce type de Morris en ville est odieux !$a#$b#Quelqu'un devrait le faire taire.",
-"Ezekiel.Dialogue.Sat2": "Que veux-tu maintenant ?#$e#Huh ? Comment vais-je ?$u#$b#Bien, pourquoi tu t'en soucies ?",
-"Ezekiel.Dialogue.Sun2": "Quoi?",
+"Ezekiel.Dialogue.Mon2": "Arrête de me harceler.$a#$e#Qu'est-ce que tu veux à la fin ?",
+"Ezekiel.Dialogue.Tue2": "La soupe aux haricots est meilleure quand Corine la prépare.$h#$b#Comment ça tu n'as jamais goûté la soupe aux haricots ?$u#$b#Quel genre de morveux gâté n'a jamais goûté la soupe aux haricots !?$a",
+"Ezekiel.Dialogue.Wed2": "La collection d'artefacts de la bibliothèque n'est rien comparée à la mienne !$a#$e#Bien sûr, je n'ai jamais été la voir, pour quoi faire ?",
+"Ezekiel.Dialogue.Thu2": "Le docteur Harvey est un gars intelligent.#$b#Un gars avec un gros cerveau.#$b#Hah ! Gros cerveau, petits muscles.$h",
+"Ezekiel.Dialogue.Fri2": "Ce gars en ville, Morris, est odieux !$a#$b#Quelqu'un devrait le faire taire.",
+"Ezekiel.Dialogue.Sat2": "Tu veux quoi là ?#$e#Hein ? Comment je vais ?$u#$b#Bien, pourquoi tu t'en soucies ?",
+"Ezekiel.Dialogue.Sun2": "Quoi ?",
 
 // Coeurs
-"Ezekiel.Dialogue.Mon4": "Hé gamin, as-tu visité les mines ?#$b# Il faut du cran pour faire ça. J'admire ton courage.$h",
+"Ezekiel.Dialogue.Mon4": "Hé gamin, tu es déjà allé dans les mines ?#$b# Il faut du cran pour faire ça. J'admire ton courage.$h",
 "Ezekiel.Dialogue.Tue4": "Tu es de nouveau là ?#$b# Que veux-tu maintenant ?",
-"Ezekiel.Dialogue.Wed4": "Hm?#$b#Oh, c'est vous.#$b#Je me demandais... Comment gérez-vous une grande ferme comme ça?#$b#J'avais prévu d'en acheter une un jour.#$b#Corine dit que je ne devrais pas, cependant. Elle ne veut pas que je me surmène.$s",
+"Ezekiel.Dialogue.Wed4": "Hm ?#$b#Oh, c'est toi.#$b#Je me demandais... Comment tu fais pour gérer une grande ferme comme ça ?#$b#J'avais prévu d'en acheter une un jour.#$b#Corine dit que je ne devrais pas, cependant. Elle ne veut pas que je me surmène.$s",
 "Ezekiel.Dialogue.Thu4": "Hm ? Tu es encore là.#$b#@, c'est ça ? Drôle de nom...",
-"Ezekiel.Dialogue.Fri4": "Kent sait ce que je traverse.$s#$b#Mais il a vécu bien pire.$s#$b#A tout donné pour son pays et ce qu'il a à montrer pour ça?",
-"Ezekiel.Dialogue.Sat4": "Corine ressemble beaucoup à sa mère, Helen.$h#$b#Je ne veux pas la perdre aussi...$s#$e#Qu'est-ce que tu fais en train d'écouter? $a#$b#Ce n'est pas votre affaire !$a#$b#Scram !$a",
+"Ezekiel.Dialogue.Fri4": "Kent sait ce que je traverse.$s#$b#Mais il a vécu bien pire.$s#$b#Il a tout donné pour son pays et ce qu'est ce qu'il a reçu en retour ?#$b#Hein ? Qui est Kent ? C'est le mari de Jodi, tu ne l'as jamais rencontré ? Il est en déploiement actuellement.$s
+"Ezekiel.Dialogue.Sat4": "Corine ressemble beaucoup à sa mère, Helen.$h#$b#Je ne veux pas la perdre elle aussi...$s#$e#Qu'est-ce que tu fais en train d'écouter? $a#$b#Ce n'est pas ton affaire !$a#$b#Pars !$a",
+"Ezekiel.Dialogue.Sun4": "Tu connais Andy ?#$b#Hmmm ? Quoi ?#$b#Oh lui ? C'est juste un fermier que je connais.",
 "Ezekiel.Dialogue.Sun4": "Tu connais Andy?#$b#Hmmm? Quoi?#$b#Oh lui? C'est juste un fermier que je connais.",
 
-//6 Coeurs
-"Ezekiel.Dialogue.Mon6" : "Quoi ? Vous êtes de nouveau là ?#$b#Eh bien, ça va.#$b#J'ai besoin d'aide aussi. Je veux demander, combien se vendent les fraises ?#$b#Oh ? Cela ?#$b#Hmm, peut-être que je vais me lancer dans la culture de fraises.$h",
-"Ezekiel.Dialogue.Tue6": "J'ai rencontré cet étrange professeur au restaurant aujourd'hui.#$b#Swell guy.#$b#Il a parlé d'eau et de magie, comme une sorte de conte de fées.#$b#Nonsens, mais il raconte une bonne histoire.$h",
+"Ezekiel.Dialogue.Mon6": "Quoi ? Tu es de retour ?#$b#Eh bien, ça va.#$b#J'ai besoin d'aide aussi. Je dois te demander, combien se vendent les fraises ?#$b#Oh ? Autant que ça ?#$b#Hmm, peut-être que je vais me lancer dans la culture de fraises.$h",
+"Ezekiel.Dialogue.Tue6": "J'ai rencontré cet étrange professeur au restaurant aujourd'hui.#$b#Un mec bouffi.#$b#Il a parlé d'eau et de magie, comme une sorte de conte de fées.#$b#Ca n'avait ni queue ni tête, mais c'était une belle histoire.$h",
 "Ezekiel.Dialogue.Wed6": "Hé, @.#$b#Je me souviens de toi.$h#$b#Qu'est-ce que tu veux ?",
-"Ezekiel.Dialogue.Thu6": "Corine dit que j'oublie.$s#$b#Mais je n'oublierai jamais son anniversaire !$h#$b#C'est le 26 automne !#$b#Ne fais pas tu oses dire que je me suis trompé !$a",
+"Ezekiel.Dialogue.Thu6": "Corine dit que je suis tête en l'air.$s#$b#Mais je n'oublierai jamais son anniversaire !$h#$b#C'est le 26 d'automne !#$b#Ne t'avises pas de me dire que je me trompe !$a",
 "Ezekiel.Dialogue.Fri6": "C'est quoi cette bêtise à propos d'un kiwi roulant ?$a#$b#Si ça existe, je ne l'ai pas vu, donc ça n'existe pas !$a",
 "Ezekiel.Dialogue.Sat6": "Je veux juste qu'elle soit en sécurité, @.$s#$b#La perdre me tuerait.$s",
+"Ezekiel.Dialogue.Sun6": "Fais attention à toi, @...#$b#Le monde n'est pas que soleil et arcs-en-ciel.$s",
 "Ezekiel.Dialogue.Sun6": "Restez en sécurité là-bas, @...#$b#Le monde n'est pas que soleil et arcs-en-ciel.$s",
 
-//8 Coeurs
-"Ezekiel.Dialogue.Mon8": "Je te fais confiance~FILE CHANGE~u, @.#$b#Tu es un bon garçon.$h#$b#Ne deviens pas tout sentimental, cependant !$a",
-"Ezekiel.Dialogue.Tue8": "J'ai enfin vu le kiwi roulant !$u#$b#Là ! C'est juste derrière toi !$u#$b#Ah, je t'embrouille, c'est juste un rocher.$h",
-"Ezekiel.Dialogue.Wed8": "'À Gotoro, les baies de gemmes poussent.#$b#Entre les tombes, rangée sur rangée.$s#$b#Pourquoi nous étions là, je ne sais pas.$s#$b#Les baies de gemmes poussent à Gotoro.$s'#$e#La guerre ne change jamais, @...$s",
-"Ezekiel.Dialogue.Thu8": "Quand je suis parti pour l'armée, mon vieux copain Richard s'est occupé de la petite Corine.#$b#Je dois beaucoup à cet homme. C'est un homme très respectable.#$b#L'un des le plus grand que j'aie jamais connu.$h",
-"Ezekiel.Dialogue.Fri8": "J'ai visité la ville hier avec ma fille.#$b#J'ai vu ta ferme et je dois te dire que je suis impressionné.$h#$b#Tu fais un travail décent. Bon travail, @.$h",
-"Ezekiel.Dialogue.Sat8": "ARGH!$u#$b#@? Ne me fais pas peur comme ça!$a#$b#Tu vas faire une crise cardiaque à ce vieil homme!$s#$b# De toute façon, comment vas-tu ?$h",
+"Ezekiel.Dialogue.Mon8": "Je te fais confiance, @.#$b#Tu es un bon garçon.$h#$b#Que ça ne te monte pas à la tête, cependant !$a",
+"Ezekiel.Dialogue.Tue8": "J'ai enfin vu le kiwi roulant !$u#$b#Là ! C'est juste derrière toi !$u#$b#Ah, je plaisante, c'est juste un rocher.$h",
+"Ezekiel.Dialogue.Wed8": "'À Gotoro, les baies gemmes sucrées poussent haut.#$b#Entre les tombes, on en ramasse des seaux.$s#$b#Que faisions nous là, je ne sais pas trop.$s#$b#Les baies poussent haut à Gotoro.$s'#$e#La guerre ne change jamais, @...$s",
+"Ezekiel.Dialogue.Thu8": "Quand je suis parti pour l'armée, mon vieux copain Richard s'est occupé de la petite Corine.#$b#Je dois beaucoup à cet homme. C'est un homme très respectable.#$b#L'un des plus grand que j'aie jamais connu.$h",
+"Ezekiel.Dialogue.Fri8": "Je suis allé en ville hier avec ma fille.#$b#J'ai vu ta ferme et je dois te dire que je suis impressionné.$h#$b#Tu fais un travail décent. Bien joué, @.$h",
+"Ezekiel.Dialogue.Sat8": "ARGH !$u#$b#@ ? Ne me fais pas peur comme ça !$a#$b#Tu vas faire une crise cardiaque à ce vieil homme !$s#$b#Bref, comment ça va ?$h",
+"Ezekiel.Dialogue.Sun8": "Je me souviens quand j'étais jeune. Pas le moindr soucis...$h#$b#Oh, les bons vieux souvenirs. J'avais l'habitude d'avoir la vie si facile.$s",
 "Ezekiel.Dialogue.Sun8": "Je me souviens quand j'étais jeune. Pas un souci dans le monde...$h#$b#Oh, bons vieux souvenirs. J'avais l'habitude de l'avoir si facile.$s",
 
 //10 Coeurs
