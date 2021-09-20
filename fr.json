@@ -4986,11 +4986,11 @@
 "Ezekiel.Dialogue.Tue4": "Tu es de nouveau là ?#$b# Que veux-tu maintenant ?",
 "Ezekiel.Dialogue.Wed4": "Hm ?#$b#Oh, c'est toi.#$b#Je me demandais... Comment tu fais pour gérer une grande ferme comme ça ?#$b#J'avais prévu d'en acheter une un jour.#$b#Corine dit que je ne devrais pas, cependant. Elle ne veut pas que je me surmène.$s",
 "Ezekiel.Dialogue.Thu4": "Hm ? Tu es encore là.#$b#@, c'est ça ? Drôle de nom...",
-"Ezekiel.Dialogue.Fri4": "Kent sait ce que je traverse.$s#$b#Mais il a vécu bien pire.$s#$b#Il a tout donné pour son pays et ce qu'est ce qu'il a reçu en retour ?#$b#Hein ? Qui est Kent ? C'est le mari de Jodi, tu ne l'as jamais rencontré ? Il est en déploiement actuellement.$s
+"Ezekiel.Dialogue.Fri4": "Kent sait ce que je traverse.$s#$b#Mais il a vécu bien pire.$s#$b#Il a tout donné pour son pays et ce qu'est ce qu'il a reçu en retour ?#$b#Hein ? Qui est Kent ? C'est le mari de Jodi, tu ne l'as jamais rencontré ? Il est en déploiement actuellement.$s",
 "Ezekiel.Dialogue.Sat4": "Corine ressemble beaucoup à sa mère, Helen.$h#$b#Je ne veux pas la perdre elle aussi...$s#$e#Qu'est-ce que tu fais en train d'écouter? $a#$b#Ce n'est pas ton affaire !$a#$b#Pars !$a",
 "Ezekiel.Dialogue.Sun4": "Tu connais Andy ?#$b#Hmmm ? Quoi ?#$b#Oh lui ? C'est juste un fermier que je connais.",
-"Ezekiel.Dialogue.Sun4": "Tu connais Andy?#$b#Hmmm? Quoi?#$b#Oh lui? C'est juste un fermier que je connais.",
 
+//6 Hearts
 "Ezekiel.Dialogue.Mon6": "Quoi ? Tu es de retour ?#$b#Eh bien, ça va.#$b#J'ai besoin d'aide aussi. Je dois te demander, combien se vendent les fraises ?#$b#Oh ? Autant que ça ?#$b#Hmm, peut-être que je vais me lancer dans la culture de fraises.$h",
 "Ezekiel.Dialogue.Tue6": "J'ai rencontré cet étrange professeur au restaurant aujourd'hui.#$b#Un mec bouffi.#$b#Il a parlé d'eau et de magie, comme une sorte de conte de fées.#$b#Ca n'avait ni queue ni tête, mais c'était une belle histoire.$h",
 "Ezekiel.Dialogue.Wed6": "Hé, @.#$b#Je me souviens de toi.$h#$b#Qu'est-ce que tu veux ?",
@@ -4998,8 +4998,8 @@
 "Ezekiel.Dialogue.Fri6": "C'est quoi cette bêtise à propos d'un kiwi roulant ?$a#$b#Si ça existe, je ne l'ai pas vu, donc ça n'existe pas !$a",
 "Ezekiel.Dialogue.Sat6": "Je veux juste qu'elle soit en sécurité, @.$s#$b#La perdre me tuerait.$s",
 "Ezekiel.Dialogue.Sun6": "Fais attention à toi, @...#$b#Le monde n'est pas que soleil et arcs-en-ciel.$s",
-"Ezekiel.Dialogue.Sun6": "Restez en sécurité là-bas, @...#$b#Le monde n'est pas que soleil et arcs-en-ciel.$s",
 
+//8 Hearts
 "Ezekiel.Dialogue.Mon8": "Je te fais confiance, @.#$b#Tu es un bon garçon.$h#$b#Que ça ne te monte pas à la tête, cependant !$a",
 "Ezekiel.Dialogue.Tue8": "J'ai enfin vu le kiwi roulant !$u#$b#Là ! C'est juste derrière toi !$u#$b#Ah, je plaisante, c'est juste un rocher.$h",
 "Ezekiel.Dialogue.Wed8": "'À Gotoro, les baies gemmes sucrées poussent haut.#$b#Entre les tombes, on en ramasse des seaux.$s#$b#Que faisions nous là, je ne sais pas trop.$s#$b#Les baies poussent haut à Gotoro.$s'#$e#La guerre ne change jamais, @...$s",
@@ -5007,49 +5007,48 @@
 "Ezekiel.Dialogue.Fri8": "Je suis allé en ville hier avec ma fille.#$b#J'ai vu ta ferme et je dois te dire que je suis impressionné.$h#$b#Tu fais un travail décent. Bien joué, @.$h",
 "Ezekiel.Dialogue.Sat8": "ARGH !$u#$b#@ ? Ne me fais pas peur comme ça !$a#$b#Tu vas faire une crise cardiaque à ce vieil homme !$s#$b#Bref, comment ça va ?$h",
 "Ezekiel.Dialogue.Sun8": "Je me souviens quand j'étais jeune. Pas le moindr soucis...$h#$b#Oh, les bons vieux souvenirs. J'avais l'habitude d'avoir la vie si facile.$s",
-"Ezekiel.Dialogue.Sun8": "Je me souviens quand j'étais jeune. Pas un souci dans le monde...$h#$b#Oh, bons vieux souvenirs. J'avais l'habitude de l'avoir si facile.$s",
 
-//10 Coeurs
-"Ezekiel.Dialogue.Mon10": "Hé, @.$h#$b#Venez me rendre visite à Helen et moi parfois...$h#$b#Helen?$u#$b#Bien sûr, vous ne pouvez pas rendre visite à Helen .$a#$b#Impossible de rendre visite à quelqu'un qui n'est pas là !$a",
-"Ezekiel.Dialogue.Tue10": "La bière aide à faire des cauchemars.$s#$b#Parfois je me réveille et je ne peux pas me rendormir sans une bière froide.$s ",
+//10 Hearts
+"Ezekiel.Dialogue.Mon10": "Hé, @.$h#$b#Viens nous rendre visite à Helen et moi de temps en temps...$h#$b#Helen ?$u#$b#Bien sûr, tu ne peux pas rendre visite à Helen .$a#$b#Impossible de rendre visite à quelqu'un qui n'est plus là !$a",
+"Ezekiel.Dialogue.Tue10": "La bière aide à calmer les cauchemars.$s#$b#Parfois je me réveille et je ne peux pas me rendormir sans une bière froide.$s ",
 "Ezekiel.Dialogue.Wed10": "Je sais que je peux être surprotecteur envers ma fille.$s#$b#Mais tu es un bon ami, @, et tu m'as montré que ce n'est pas mal de faire un peu confiance.$h#$b#Corine est une jeune femme maintenant.$s#$b#Même si c'est difficile à accepter pour moi...$4",
-"Ezekiel.Dialogue.Thu10": "Je visite parfois le Kent.#$b#Il s'avère que nous avons beaucoup en commun.$s",
-"Ezekiel.Dialogue.Fri10": "Corine et moi avons nettoyé ma collection plus tôt.#$b#J'ai trouvé des trucs supplémentaires qui traînent, peut-être que vous pouvez les utiliser.#$b#Ici.[334]",
-"Ezekiel.Dialogue.Sat10": "'Les jours semblent beaucoup plus courts...$s#$b#Les nuits sombres ne font que s'attarder...$s#$b#Les rêves se transforment en cauchemars...$s#$b#Quand celle que tu aimes est partie.$s#$b#Elle me manque, @.$4",
-"Ezekiel.Dialogue.Sun10": "J'ai vu l'homme le plus étrange l'autre jour.$u#$b#Il portait une robe violette. Il avait l'air vraiment drôle aussi.$h#$b#Il a juste regardé vers moi puis hocha la tête.#$b#Un gars tellement bizarre.$h",
+"Ezekiel.Dialogue.Thu10": "Je rends visite à Kent parfois.#$b#Il s'avère que nous avons beaucoup en commun.$s",
+"Ezekiel.Dialogue.Fri10": "Corine et moi avons rangé ma collection plus tôt.#$b#J'ai trouvé des trucs supplémentaires qui traînent, peut-être que tu pourras les utiliser.#$b#Tiens.[334]",
+"Ezekiel.Dialogue.Sat10": "'Les jours semblent beaucoup plus courts...$s#$b#Les nuits sombres ne font que s'allonger...$s#$b#Les rêves se transforment en cauchemars...$s#$b#Quand celle que tu aimes est partie.$s#$b#Elle me manque, @.$4",
+"Ezekiel.Dialogue.Sun10": "J'ai vu l'homme le plus étrange l'autre jour.$u#$b#Il portait une robe violette. Il avait l'air vraiment drôle aussi.$h#$b#Il a juste regardé vers moi en hochant la tête.#$b#Un gars vraiment bizarre.$h",
 
-//Dialogue spécial
-"Ezekiel.Dialogue.MovieInvitation": "Films !? Je n'en ai pas vu depuis des années !#$b#C'est mieux que ça soit bien.$a",
+//Special Dialogue
+"Ezekiel.Dialogue.MovieInvitation": "Un film !? Je n'en ai pas vu depuis des années !#$b#Ca a intérêt à être bien.$a",
 
-//Emplacements
-"Ezekiel.Dialogue.Saloon": "Bah!$a#$b#Gus appelle cette liqueur?$a",
+//Locations
+"Ezekiel.Dialogue.Saloon": "Bah !$a#$b#Gus appelle ça une liqueur ?$a",
 "Ezekiel.Dialogue.LogCabinHotelLobby": "Je suis ici pour voir Richard. C'est un vieil ami à moi.",
 
-//Recours
+//Resort
 "Ezekiel.Dialogue.Resort_Entering": "Il fait un peu ensoleillé.#$b#Corine a dit d'apporter un chapeau mais ça va aller.$h",
 "Ezekiel.Dialogue.Resort_Leaving": "Je pense que j'ai des coups de soleil sur le dessus de la tête.$s#$b#J'aurais dû porter mon chapeau !$a",
-"Ezekiel.Dialogue.Resort_Shore": "Je n'aime pas nager.$a#$b#Il faut beaucoup d'énergie pour qu'un gars comme moi reste flottant.$s",
+"Ezekiel.Dialogue.Resort_Shore": "Je n'aime pas nager.$a#$b#Il faut beaucoup d'énergie pour qu'un gars comme moi flotte.$s",
 "Ezekiel.Dialogue.Resort_Chair": "Réveille-moi quand le soleil se couche, @.$h",
 "Ezekiel.Dialogue.Resort_Bar": "Ah, je préfère rester dans ce bar toute la journée que d'aller nager !$h",
 "Ezekiel.Dialogue.Resort": "Je n'aime pas le sable.$s#$b#C'est grossier et rugueux et irritant et ça se met partout.$a",
 
 
-"Flor.Dialogue.Introduction": "Oh, bonjour. Je ne connais pas tout le monde dans la vallée, mais... êtes-vous nouveau?#$b# C'est un plaisir de vous rencontrer, @.$h#$b# I Je viens de terminer mes études supérieures en psychologie clinique et je vis à l'hôtel pour le moment.#$b#Hein ? Oh ! Je suis désolé !$u#$b#Je m'appelle Flor... Ravi de vous rencontrer vous.$l",
+"Flor.Dialogue.Introduction": "Oh, bonjour. Je ne connais pas tout le monde dans la vallée, mais... Tu es nouveau ?^Oh, bonjour. Je ne connais pas tout le monde dans la vallée, mais... Tu es nouvelle ?#$b# C'est un plaisir de te rencontrer, @.$h#$b#Je viens de terminer mes études supérieures en psychologie clinique et je vis à l'hôtel pour le moment.#$b#Hein ? Oh ! Je suis désolée !$u#$b#Je m'appelle Flor... Ravie de te rencontrer.$l",
 
 //Printemps
 "Flor.Dialogue.spring_1": "J'aime beaucoup le printemps. L'ensoleillement supplémentaire est vraiment bon pour le cerveau.$h",
-"Flor.Dialogue.spring_12": "Le festival des œufs a des racines dans la tradition païenne avant d'être adopté par ce qui est devenu la religion moderne, #$b#mais pour les habitants de la vallée, il semble être entièrement laïc.",
-"Flor.Dialogue.spring_23" : "La danse est une forme très ancienne de création de relations et de narration d'histoires.#$b# Elle est également fortement liée aux vacances de printemps et d'automne... Je me demande pourquoi ?",
+"Flor.Dialogue.spring_12": "Le festival des œufs a des racines dans une tradition païenne qui a été adoptée par ce qui est devenu la religion moderne, #$b#mais pour les habitants de la vallée, il semblerait que ce soit une célébration entièrement laïque.",
+"Flor.Dialogue.spring_23": "La danse est une tradition très ancienne pour tisser des liens et raconter des histoires.#$b# Elle est également fortement liée aux vacances de printemps et d'automne... Je me demande pourquoi ?",
 
 //L'été
-"Flor.Dialogue.summer_1": "Il va faire très chaud très rapidement... $s#$b#Je suis content que la bibliothèque soit climatisée.",
-"Flor.Dialogue.summer_10": "Il y a une attente implicite pour certaines personnes d'apporter des ingrédients pour la soupe de demain, mais pas pour d'autres. #$b# Cela semble être basé sur la maison, en gros, mais il y a plus de nuance que cela. ",
-"Flor.Dialogue.summer_27": "Je n'ai pas vraiment étudié la psychologie animale, en particulier les formes de vie non mammifères. #$b#Mais je sais que la migration est un phénomène étonnant. $h#$b#Ils viennent près de la plage exactement le même jour chaque année. C'est incroyable.$h",
+"Flor.Dialogue.summer_1": "Il va faire très chaud très rapidement... $s#$b#Je suis contente que la bibliothèque soit climatisée.",
+"Flor.Dialogue.summer_10": "Il y a une attente implicite pour que certaines personnes apportent des ingrédients pour la soupe de demain, mais pas pour tout le monde. #$b# Ca semble dépendre du foyer, en gros, mais il faut nuancer. ",
+"Flor.Dialogue.summer_27": "Je n'ai pas vraiment étudié la psychologie animale, en particulier pour les formes de vie non mammifères. #$b#Mais je sais que la migration est un phénomène fabuleux.$h#$b#Ils viennent près de la plage exactement le même jour chaque année. C'est incroyable.$h",
 
 //Tombe
-"Flor.Dialogue.fall_1": "L'automne ressemble toujours au début d'une nouvelle année, pour moi. $h#$b#C'est peut-être quelque chose à propos de l'air frais, ou de la façon dont l'école commençait toujours à l'automne. #$b# Quoi qu'il en soit, cela ressemble à des débuts.",
-"Flor.Dialogue.fall_15": "Quelqu'un de ma cohorte a écrit son~FILE CHANGE~sis sur la psychologie des jeux équitables.#$b#Ils sont conçus pour être aussi attrayants que possible et presque impossibles à battre.$a",
-"Flor.Dialogue.fall_26": "Êtes-vous superstitieux ? #$b# Je pensais que je ne l'étais pas, parce que je ne crois pas aux vieux contes populaires sur les chats noirs qui portent malheur ou qui ne marchent pas sous une échelle,#$b# mais j'ai réalisé plus tard que je suis superstitieux d'une autre manière. J'ai toujours utilisé mon stylo préféré pour passer des examens à l'université.$h",
+"Flor.Dialogue.fall_1": "L'automne ressemble toujours au début d'une nouvelle année, pour moi.$h#$b#C'est peut-être à cause de l'air frais, ou parce que l'école recommençait toujours à l'automne.#$b#Quoi qu'il en soit, c'est comme un nouveau départ.",
+"Flor.Dialogue.fall_15": "Quelqu'un de ma cohorte a écrit sa thèse sur la psychologie des jeux équitables.#$b#Ils sont conçus pour être aussi attrayants que possible et presque impossibles à battre.$a",
+"Flor.Dialogue.fall_26": "Tu es superstitieux ?^Tu es superstitieuse ?#$b# Je pensais que je ne l'étais pas, parce que je ne crois pas aux vieux contes populaires sur les chats noirs qui portent malheur ou au fait qu'il ne faille pas marcher sous une échelle,#$b#Mais j'ai réalisé plus tard que je suis superstitieuse d'une autre manière. J'ai toujours utilisé mon stylo préféré pour passer mes examens à l'université.$h",
 
 //L'hiver
 "Flor.Dialogue.winter_1": "J'aime vraiment l'hiver. #$b# J'adore boire quelque chose de chaud au coin du feu ou m'emmitoufler dans des couvertures et des pulls épais... $l#$b#C'est ma saison préférée. $h",
