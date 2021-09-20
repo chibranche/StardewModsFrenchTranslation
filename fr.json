@@ -5051,33 +5051,33 @@
 "Flor.Dialogue.fall_26": "Tu es superstitieux ?^Tu es superstitieuse ?#$b# Je pensais que je ne l'étais pas, parce que je ne crois pas aux vieux contes populaires sur les chats noirs qui portent malheur ou au fait qu'il ne faille pas marcher sous une échelle,#$b#Mais j'ai réalisé plus tard que je suis superstitieuse d'une autre manière. J'ai toujours utilisé mon stylo préféré pour passer mes examens à l'université.$h",
 
 //L'hiver
-"Flor.Dialogue.winter_1": "J'aime vraiment l'hiver. #$b# J'adore boire quelque chose de chaud au coin du feu ou m'emmitoufler dans des couvertures et des pulls épais... $l#$b#C'est ma saison préférée. $h",
-"Flor.Dialogue.winter_7" : " Oh ! C'est la fête de la glace demain, n'est-ce pas ? #$b#Pourquoi l'appellent-ils la fête de la glace alors que l'accent est mis sur le poisson au lieu des sculptures de glace ou des bonhommes de neige ?",
-"Flor.Dialogue.winter_14": "Le marché nocturne est fascinant, n'est-ce pas ? Je suis excité.$h",
-//"Flor.Dialogue.winter_15": "%Flor vous salue avec un sourire, puis recommence à tout regarder au marché avec de grands yeux.",
+"Flor.Dialogue.winter_1": "J'aime vraiment l'hiver.#$b#J'adore boire quelque chose de chaud au coin du feu ou m'emmitoufler dans des couvertures et des pulls épais... $l#$b#C'est ma saison préférée.$h",
+"Flor.Dialogue.winter_7": "Oh ! C'est le festival de glace demain, n'est-ce pas ?#$b#Pourquoi l'appelle-t-on comme ça alors que l'accent est mis sur le poisson au lieu des sculptures de glace ou des bonhommes de neige ?",
+"Flor.Dialogue.winter_14": "Le marché nocturne est fascinant, n'est-ce pas ? Je suis toute émerveillée.$h",
+//"Flor.Dialogue.winter_15": "%Flor te salue avec un sourire, puis recommence à tout regarder au marché avec de grands yeux.",
 //"Flor.Dialogue.winter_16": "%Flor vous salue avec un sourire, puis recommence à tout regarder au marché avec de grands yeux.",
-"Flor.Dialogue.winter_17": "J'ai acheté un tableau ! J'ai vraiment hâte de l'accrocher !$h",
-"Flor.Dialogue.winter_24": "L'année est presque finie. A demain au festival, non?",
+"Flor.Dialogue.winter_17": "J'ai acheté un tableau ! J'ai vraiment hâte de l'accrocher chez moi !$h",
+"Flor.Dialogue.winter_24": "L'année est presque finie. On se voit demain au festival, pas vrai ?",
 
 //Jours de la semaine
 
 // Coeurs
-"Flor.Dialogue.Mon": "Oh. Um.. Allo?",
-"Flor.Dialogue.Tue": "Euh! Salut!.. ..Excusez-moi...",
-"Flor.Dialogue.Wed": "C'est... C'est une bonne journée... euh, je veux dire, passer une bonne journée ?$s",
-"Flor.Dialogue.Thu": "Je... Euh... Vous êtes @, n'est-ce pas ? Je suis désolé, je ne suis pas doué avec les noms...$s",
-"Flor.Dialogue.Fri": "Oh! Salut!",
-"Flor.Dialogue.Sat": "Hein?... Vous semblez avoir beaucoup de temps entre vos mains...#$b# Oh, je ne voulais pas être impoli ! Je viens de... $u#$b#Parce que tu es passé dire bonjour, c'est tout...$s",
+"Flor.Dialogue.Mon": "Oh. Hmm.. Bonjour ?",
+"Flor.Dialogue.Tue": "Euh ! Salut !.. Excuse-moi...",
+"Flor.Dialogue.Wed": "C'est... C'est une belle journée... euh, je veux dire, passe une bonne journée ?$s",
+"Flor.Dialogue.Thu": "Je... Euh... Tu es @, n'est-ce pas ? Je suis désolée, je ne suis pas doué avec les noms...$s",
+"Flor.Dialogue.Fri": "Oh ! Salut !",
+"Flor.Dialogue.Sat": "Hein ?... Tu sembles avoir beaucoup de temps libre...#$b# Oh, je ne voulais pas être impolie ! Je voulais dire... $u#$b#Parce que tu es passé dire bonjour, c'est tout...^Parce que tu es passée dire bonjour, c'est tout...$s",
 "Flor.Dialogue.Sun": "Bonjour.",
 
 // Cœurs
-"Flor.Dialogue.Mon2": "Oh! Hé @... comment va la ferme?",
-"Flor.Dialogue.Tue2": "J'ai vu Ysabelle, la fille qui reste dans la chambre à côté de la mienne, au gymnase de l'hôtel hier.$h#$b#Elle danse si gracieusement.",
-"Flor.Dialogue.Wed2": "Je suis désolé mais... $s#$b#Je ne suis pas... $s#$b#uh...$s#$b# ... C'est sympa te voir...$l",
-"Flor.Dialogue.Thu2": "Avez-vous rencontré Philip ? #$b#Je le connais depuis notre université. C'est un type bien.$h",
-"Flor.Dialogue.Fri2": "Je l'aime vraiment ici. $h#$b#Et vous ? Vous l'aimez ici ?",
-"Flor.Dialogue.Sat2": "Salut... Salut !... $h#$b#Comment va la ferme @ ? Fais attention à ne pas te surmener !",
-"Flor.Dialogue.Sun2": "%Flor semble se parler à elle-même. 'Je n'arrive pas à croire que Lenny m'ait dit de parler davantage de moi... et si j'ennuyais l'autre personne ? Ou la rendais folle ?' $s ",
+"Flor.Dialogue.Mon2": "Oh ! Hé @... comment va la ferme?",
+"Flor.Dialogue.Tue2": "J'ai vu Ysabelle, la fille qui habite dans la chambre à côté de la mienne, au gymnase de l'hôtel hier.$h#$b#Elle danse si gracieusement.",
+"Flor.Dialogue.Wed2": "Je suis désolée mais... $s#$b#Je ne suis pas... $s#$b#Euh...$s#$b# ... C'est sympa te voir...$l",
+"Flor.Dialogue.Thu2": "Tu as déjà rencontré Philip ? #$b#Je le connais depuis l'université. C'est un type bien.$h",
+"Flor.Dialogue.Fri2": "J'aime vraiment vivre ici. $h#$b#Et toi ? Tu aimes bien l'endroit ?",
+"Flor.Dialogue.Sat2": "Sal... Salut !... $h#$b#Comment va la ferme @ ? Fais attention à ne pas te surmener !",
+"Flor.Dialogue.Sun2": "%Flor semble se parler à elle-même. 'Je n'arrive pas à croire que Lenny m'ait dit de parler davantage de moi... et si j'ennuyais l'autre personne ? Et si je l'énervait ?' $s ",
 
 // Coeurs
 "Flor.Dialogue.Mon4": "Je suis assez curieux au sujet de votre ferme, @. #$b#Pourrais-je visiter un jour ? #$b#C'est une entreprise énorme, mais vous semblez aimer ce que vous faites. $h ",
