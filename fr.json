@@ -5107,126 +5107,126 @@
 "Flor.Dialogue.Sun8": "Bonjour, @ ! Tu as l'air de passer une bonne journée !$h#$b# Je suis passée devant ta ferme l'autre jour et j'ai jeté un coup d'œil. Elle est vraiment incroyable !$h",
 
 //10 Coeurs
-"Flor.Dialogue.Mon10": "H-salut! Um. Salut. Euh, je peux... peu importe.$l#$e# C-je peux demander un câlin plus tard?$l",
-"Flor.Dialogue.Tue10": "Techniquement, je ne peux pas t'offrir de conseils parce que nous sommes en couple, mais s'il te plaît, dis-moi si tu as besoin de quelque chose ou si tu te sens déprimé.$l#$b# Je vais le faire de mon mieux pour vous aider en tant que... euh.#$b# Qu'est-ce qu'on est, techniquement ? Je veux dire, quel terme préférez-vous ?$l",
-"Flor.Dialogue.Wed10": "C'est un peu fou de penser à la façon dont tous les nerfs et les papillons que je rencontre autour de vous ne sont en réalité qu'un mélange de substances chimiques cérébrales et de signaux qui se déclenchent dans notre cerveau... $h#$b#and pourtant, je peux le sentir dans tout mon corps.$l",
-"Flor.Dialogue.Thu10": "J'ai eu une journée un peu étrange... #$b# J'ai vraiment besoin d'un boost de dopamine. Je pourrais aller prendre un café ou quelque chose de sucré comme collation...",
-"Flor.Dialogue.Fri10": "Promets-moi que tu me le diras si jamais je deviens ennuyeux, d'accord ? $s#$b#Je préférerais savoir que tu en as marre de m'entendre parler de psychologie et peut-être avoir un peu blesser que s'émerveiller sans jamais en être sûr.$s",
-"Flor.Dialogue.Sat10": "C'était vraiment gentil de la part du docteur Harvey de tendre la main quand je suis arrivé dans la vallée. $h#$b# Je peux aider à fournir un soutien en matière de santé comportementale aux habitants de la vallée. $h#$b#I Je ne sais pas s'il le sait, mais cette aide me rapproche de plus en plus du permis d'exercice complet.$h",
-"Flor.Dialogue.Sun10": "Travailler avec le docteur Harvey signifie qu'il sera plus facile de rester ici, si je décide de le faire. $h#$b#Er, si vous voulez que je le fasse. Non pas que je prendrais la décision en fonction juste sur toi et moi, je veux dire, ce serait malsain, mais tu es un facteur majeur dans ma décision, mais pas dans une codépendance... $u#$b#Je vais arrêter de parler maintenant.$l ",
+"Flor.Dialogue.Mon10": "Sa-salut! Euh. Salut. Euh, je peux... peu importe.$l#$e# J-je peux te demander un câlin plus tard?$l",
+"Flor.Dialogue.Tue10": "Techniquement, je ne peux pas t'offrir de conseils parce que nous sommes en couple, mais s'il te plaît, dis-moi si tu as besoin de quelque chose ou si tu as le moral dans les chaussettes.$l#$b#Je vais faire de mon mieux pour t'aider en tant que... euh.#$b# Qu'est-ce qu'on est, techniquement ? Je veux dire, quel terme préfères-tu ?$l",
+"Flor.Dialogue.Wed10": "C'est un peu fou de penser que tous les papillons dans le ventre que je ressens quand tu es près de moi ne sont en réalité qu'un mélange de substances chimiques cérébrales et de signaux qui se déclenchent dans mon cerveau... $h#$b#Et pourtant, je peux le sentir dans tout mon corps.$l",
+"Flor.Dialogue.Thu10": "J'ai eu une journée un peu étrange... #$b# J'ai vraiment besoin d'un boost de dopamine. Ca me plairait d'aller prendre un café ou une collation sucrée...",
+"Flor.Dialogue.Fri10": "Promets-moi que tu me le diras si jamais je deviens ennuyeuse, d'accord ? $s#$b#Je préférerais savoir que tu en as marre de m'entendre parler de psychologie et peut-être être un peu blessée plutôt que me demander sans cesse sans jamais en être sûre.$s",
+"Flor.Dialogue.Sat10": "C'était vraiment gentil de la part du docteur Harvey de m'avoir tendu la main quand je suis arrivée dans la vallée. $h#$b# J'ai la chance de pouvoir fournir un soutien en matière de santé comportementale aux habitants de la vallée.$h#$b#Je ne sais pas s'il le sait, mais cette aide me rapproche de plus en plus de l'obtention du permis d'exercice complet.$h",
+"Flor.Dialogue.Sun10": "Travailler avec le docteur Harvey signifie qu'il sera plus facile de rester ici, si je décide de rester. $h#$b#Euh, si tu veux que je reste. Non pas que je prendrais la décision en fonction juste de toi et moi, je veux dire, ce serait malsain, mais tu es un facteur majeur dans ma décision, mais pas de manière codépendante... $u#$b#Je vais arrêter de parler maintenant.$l ",
 
 //Dialogue spécial
-"Flor.Dialogue.breakUp": "Ne le faites pas. J'ai besoin de temps.$s",
-"Flor.Dialogue.danceRejection": "Non merci... je... je ne suis pas doué pour danser.$l",
-"Flor.Dialogue.divorced": "J'ai besoin de fixer des limites, alors c'est moi qui les fixe. Laisse-moi tranquille.$a",
-"Flor.Dialogue.MovieInvitation": "Oh ! Tu m'invites à un film ?$l#$b#Je ne suis pas souvent invité dans des endroits... Je serais ravi de te rejoindre, @!$l",
+"Flor.Dialogue.breakUp": "Laisse moi s'il te plaît. J'ai besoin de temps.$s",
+"Flor.Dialogue.danceRejection": "Non merci... je... je ne suis pas douée pour danser.$l",
+"Flor.Dialogue.divorced": "J'ai besoin de fixer des limites, alors c'est ce que je fais. Laisse-moi tranquille.$a",
+"Flor.Dialogue.MovieInvitation": "Oh ! Tu m'invites à aller voir un film ?$l#$b#Je ne suis pas souvent invitée à sortir... Je serais ravie de me joindre à toi, @ !$l",
 
 //Recours
 "Flor.Dialogue.Resort_Entering": "Oh, wow ! C'est si joli ! $u#$b#Et si chaud...$s",
-"Flor.Dialogue.Resort_Leaving": "Je suis presque sûr que j'ai eu un coup de soleil... Je vais avoir besoin d'aloès à la maison.$l",
+"Flor.Dialogue.Resort_Leaving": "Je suis presque sûre que j'ai eu un coup de soleil... Je vais avoir besoin d'aloès quand je rentrerais à la maison.$l",
 "Flor.Dialogue.Resort_Leaving_2": "Tout le monde a l'air si heureux, c'est un peu triste que nous devions partir. $s",
 "Flor.Dialogue.Resort_Shore": "Est-ce que la marée monte ou descend ? Je ne peux pas dire...",
-"Flor.Dialogue.Resort_Shore_2": "Wow... regardez à quel point l'eau est bleue, @ ! La façon dont nous classons une couleur dépend entièrement de l'interprétation culturelle, donc il n'y a pas de 'bleu' objectif, mais ça s'en rapproche ! $h",
-"Flor.Dialogue.Resort_Umbrella": "Je pense que c'est~FILE CHANGE~c'est mon endroit préféré dans tout le complexe.$h",
-"Flor.Dialogue.Resort_Umbrella_2": "Il serait impossible de lire sans ce parapluie. Je suis content qu'il y ait de l'ombre !$h",
+"Flor.Dialogue.Resort_Shore_2": "Wow... regarde à quel point l'eau est bleue, @ ! La façon dont nous classifions une couleur dépend entièrement de l'interprétation culturelle, donc il n'y a pas de 'bleu' objectif, mais ça s'en rapproche ! $h",
+"Flor.Dialogue.Resort_Umbrella": "Je pense que c'est mon endroit préféré dans toute la station.$h",
+"Flor.Dialogue.Resort_Umbrella_2": "Il serait impossible de lire sans ce parasol. Je suis content qu'il y ait de l'ombre !$h",
 "Flor.Dialogue.Resort_Umbrella_3": "Pourquoi les vagues sont-elles si apaisantes ? Ce serait si facile de s'endormir...",
-"Flor.Dialogue.Resort_Wander": "Je ne suis pas vraiment une personne de la plage, mais je suis content d'être venu ici ! $h#$b# Je suis aussi vraiment content de porter des sandales. Ce sable est vraiment chaud .$s",
+"Flor.Dialogue.Resort_Wander": "Je ne suis pas vraiment une personne de la plage, mais je suis contente d'être venue ici ! $h#$b# Je suis aussi vraiment contente de porter des sandales. Ce sable est vraiment chaud.$s",
 "Flor.Dialogue.Resort_Bar": "J'ai tellement soif ! J'ai hâte d'avoir de la limonade.$l",
-"Flor.Dialogue.Resort": "Salut, @! Vous vous amusez bien?$h",
+"Flor.Dialogue.Resort": "Salut, @ ! Tu t'amuses bien ?$h",
 
 
-"Freddie.Dialogue.Introduction": "Bonjour, étranger.#$b#Vous devez être le nouveau fermier dont tout le monde parle !$h#$b#Ravi de vous rencontrer. Je m'appelle Freddie.#$b# Je vis ici à Ridgeside avec ma femme Lola. Venez de temps en temps pour discuter, n'est-ce pas. $h",
+"Freddie.Dialogue.Introduction": "Bonjour, étranger.#$b#Tu doisi être le nouveau fermier dont tout le monde parle !^Tu doisi être la nouvelle fermière dont tout le monde parle !$h#$b#Ravi de te rencontrer. Je m'appelle Freddie.#$b# Je vis ici à Ridgeside avec ma femme Lola. Viens nous voir à l'occasion pour discuter, ça te dit ?$h",
 
 //Printemps
-"Freddie.Dialogue.spring_1": "Ah! Le printemps.#$b#La terre commence à se réveiller et le soleil réapparaît.#$e#Ma période préférée de l'année !$h",
-"Freddie.Dialogue.spring_12": "Lola aime aider à préparer la chasse de demain.#$e#Je préfère m'asseoir et savourer une assiette d'œufs à la diable.$h",
-"Freddie.Dialogue.spring_23": "Ces vieux os savent encore comment couper un tapis, tu sais.#$e#Demain sera amusant !$h",
+"Freddie.Dialogue.spring_1": "Ah ! Le printemps.#$b#La terre commence à se réveiller et le soleil réapparaît.#$e#Ma période préférée de l'année !$h",
+"Freddie.Dialogue.spring_12": "Lola aime aider à préparer la chasse aux oeufs de demain.#$e#Moi je préfère m'asseoir et savourer une assiette d'œufs à la diable.$h",
+"Freddie.Dialogue.spring_23": "Ces vieux os savent encore comment remuer des gigots, tu sais.#$e#Demain sera amusant !$h",
 
 //L'été
-"Freddie.Dialogue.summer_1": "Lola et moi avons prévu d'autres sorties à la plage cet été.#$e# Devrait pouvoir continuer au moins une fois cette année.$s",
-"Freddie.Dialogue.summer_10": "Le gouverneur vient demain, tu sais.#$b# Lui et moi sommes de vieux amis. Ce sera bon de le voir.",
-"Freddie.Dialogue.summer_27": "Lola et moi serons là demain soir. Ces méduses sont toujours un spectacle à voir.$h",
+"Freddie.Dialogue.summer_1": "Lola et moi avons prévu d'autres sorties à la plage cet été.#$e# On devrait pouvoir ne pas se dégonfler au moins une fois cette année.$s",
+"Freddie.Dialogue.summer_10": "Le gouverneur vient demain, tu sais.#$b# Lui et moi sommes de vieux amis. Ca fera du bien de le voir.",
+"Freddie.Dialogue.summer_27": "Lola et moi serons là demain soir. Ces méduses sont toujours un spectacle à ne pas rater.$h",
 
 //Tombe
-"Freddie.Dialogue.fall_1": "La nourriture est la meilleure en automne, @.#$e#Avez-vous essayé la soupe à la citrouille de Lola ?#$b#C'est comme un câlin dans un bol.$h",
-"Freddie.Dialogue.fall_15" : "Demain, vous aurez l'occasion de montrer votre travail acharné, aventurier.#$b#Bonne chance !$h",
-"Freddie.Dialogue.fall_26": "Avant, j'adorais me déguiser.#$b#Qu'est-ce qu'un déguisement sinon un costume ?$h#$e# Devient un peu vieux après vingt ans, cependant.$h",
+"Freddie.Dialogue.fall_1": "La nourriture est la meilleure en automne, @.#$e#As-tu déjà goûté la soupe à la citrouille de Lola ?#$b#C'est comme un câlin dans un bol.$h",
+"Freddie.Dialogue.fall_15": "Demain, tu auras l'occasion de montrer ton travail acharné, aventurier.#$b#Bonne chance !$h",
+"Freddie.Dialogue.fall_26": "Avant, j'adorais me déguiser.#$b#Qu'est-ce qu'un déguisement sinon un costume ?$h#$e#Ca devient un peu barbant après vingt ans, cependant.$h",
 
 //L'hiver
 "Freddie.Dialogue.winter_1": "6 couches de vêtements, et j'ai toujours froid.$u",
-"Freddie.Dialogue.winter_7": "J'attends avec impatience demain.#$e# Le froid est dur pour les vieux os, donc Lola et moi serons tous emmitouflés.",
+"Freddie.Dialogue.winter_7": "J'attends avec impatience la journée de demain.#$e#Le froid est dur pour les vieux os, donc Lola et moi serons tous emmitouflés.",
 "Freddie.Dialogue.winter_14": "Lola et moi faisions le tour du monde.#$e#C'est beaucoup plus paisible maintenant, mais ces jours me manquent parfois.",
 //"Freddie.Dialogue.winter_15": "Le marché nocturne rappelle toujours des souvenirs.",
-"Freddie.Dialogue.winter_16": "Un petit voyage dans le passé, ceci.$s#$e#Le café qu'ils préparent est le meilleur que vous ayez jamais bu, croyez-moi.$h",
-//"Freddie.Dialogue.winter_17": "Si vous avez l'œil sur quelque chose, c'est le moment de le faire !#$b#Ou vous devrez attendre l'année prochaine !",
-"Freddie.Dialogue.winter_24": "Presque à la fin d'une autre année.#$b#J'espère que Lola et moi verrons la prochaine.$s#$e#Ah, ne vous inquiétez pas, je plaisante. $h",
+"Freddie.Dialogue.winter_16": "C'est un vrai petit voyage dans le passé.$s#$e#Le café qu'ils préparent est le meilleur que tu aies jamais bu, croyez-moi.$h",
+//"Freddie.Dialogue.winter_17": "Si un objet te fais de l'œil, c'est le moment ou jamais !#$b#Sinon tu devras attendre l'année prochaine !",
+"Freddie.Dialogue.winter_24": "C'est déjà presque la fin d'une autre année.#$b#J'espère que Lola et moi verrons la prochaine.$s#$e#Ah, ne t'inquiète pas, je plaisante.$h",
 
 //Jours de la semaine
 
 // Coeurs
-"Freddie.Dialogue.Mon": "Bonjour, aventurier.$h#$b#Visite du village aujourd'hui ?#$e#J'espère que tu vas bien. ",
-"Freddie.Dialogue.Tue": "Comment va la ferme, @?$h#$b# Elle tient bien, j'espère?",
-"Freddie.Dialogue.Wed": "Je me lève tôt pour m'occuper de nos cultures.#$e#Lola dort comme une bûche, mais insiste toujours pour se réveiller avec moi pour l'aider.$h#$e#Ne le dis pas elle j'ai dit ça.$u",
+"Freddie.Dialogue.Mon": "Bonjour, aventurier.$h#$b#Tu visites le village aujourd'hui ?#$e#J'espère que tu vas bien. ",
+"Freddie.Dialogue.Tue": "Comment va la ferme, @ ?$h#$b# Elle tient le coup, j'espère ?",
+"Freddie.Dialogue.Wed": "Je me lève tôt pour m'occuper de nos cultures.#$e#Lola dort comme une bûche, mais insiste toujours pour se réveiller avec moi pour l'aider.$h#$e#Ne lui dis pas que j'ai dit ça.$u",
 "Freddie.Dialogue.Thu": "Les cascades autour du village sont magnifiques, n'est-ce pas ?#$e#Nous avons de la chance d'habiter ici.$h",
-"Freddie.Dialogue.Fri": "Bonjour, @.#$b#Comment ça s'est passé ?#$e#Vous avez déjà pensé à faire construire une grange ?",
-"Freddie.Dialogue.Sat": "Oh, redevenir jeune.#$e#Je ne perdrai pas espoir! Je peux encore être vivant dans le corps de ce vieil homme, ha ha!$h",
+"Freddie.Dialogue.Fri": "Bonjour, @.#$b#Comment ça se passe ?#$e#Tu as déjà pensé à faire construire une grange ?",
+"Freddie.Dialogue.Sat": "Oh, redevenir jeune.#$e#Je ne perdrai pas espoir ! Je peux encore être plein d'énergie dans ce corps de vieillard, ha ha !$h",
 "Freddie.Dialogue.Sun": "Lola ne se sentait pas bien ce matin.#$e# Elle a dit qu'elle allait bien...#$b#Mais je m'inquiète quand même.$s",
 
 // Cœurs
-"Freddie.Dialogue.Mon2": "Comment ça va, @?$h#$e#Tu as fini tes travaux agricoles pour la journée ?#$e#Prenez le temps d'explorer le village !$h",
-"Freddie.Dialogue.Tue2": "Les plus jeunes courent parfois à l'extérieur de notre maison.#$b#Nous pouvons les regarder jouer depuis notre porche.#$e#C'est bon de voir les enfants en sécurité et s'amuser.$h",
-"Freddie.Dialogue.Wed2" : "Connaissez-vous Evelyn ? C'est une vieille amie à nous.#$e#Nous avions l'habitude de vivre des aventures folles ensemble.#$e#Ne vous laissez pas tromper par son apparence, elle en a histoires folles.$h",
-"Freddie.Dialogue.Thu2": "Pika est un grand cuisinier.#$b#Vous pouvez goûter l'amour qu'il met dans sa nourriture.#$e#J'aime particulièrement la soupe Tom Kha.$h",
-"Freddie.Dialogue.Fri2": "Si jamais vous voyez la rumeur du kiwi rouler. Soyez amical avec lui.#$e#Je veux dire... Pourquoi pas?$h",
-"Freddie.Dialogue.Sat2": "Il n'est jamais trop tard pour essayer de nouvelles choses, @!#$e#Eh bien, c'est un peu tard, dans mon cas.#$b#Mon corps ne peut pas en supporter autant.$s ",
-"Freddie.Dialogue.Sun2": "Bonjour, @! Comment vas-tu aujourd'hui?$h",
+"Freddie.Dialogue.Mon2": "Comment ça va, @ ?$h#$e#Tu as fini tes travaux à la ferme pour la journée ?#$e#Prends le temps d'explorer le village !$h",
+"Freddie.Dialogue.Tue2": "Les plus jeunes courent parfois à l'extérieur de notre maison.#$b#Nous pouvons les regarder jouer depuis notre porche.#$e#C'est bon de voir les enfants s'amuser en sécurité.$h",
+"Freddie.Dialogue.Wed2": "Tu connais Evelyn ? C'est une vieille amie à nous.#$e#Nous avions l'habitude de vivre des aventures folles ensemble.#$e#Ne te laisse pas tromper par son apparence, elle en a des histoires folles à raconter.$h",
+"Freddie.Dialogue.Thu2": "Pika est un grand cuisinier.#$b#Tu peux sentir au goût l'amour qu'il met dans sa nourriture.#$e#J'aime particulièrement la soupe Tom Kha.$h",
+"Freddie.Dialogue.Fri2": "Si jamais tu vois le fameux kiwi roulant de la rumeur, sois amical avec lui.^Si jamais tu vois le fameux kiwi roulant de la rumeur, sois amicale avec lui.#$e#Je veux dire... Pourquoi pas ?$h",
+"Freddie.Dialogue.Sat2": "Il n'est jamais trop tard pour essayer de nouvelles choses, @ !#$e#Eh bien, c'est un peu tard, dans mon cas.#$b#Mon corps ne peut plus en supporter autant qu'avant.$s ",
+"Freddie.Dialogue.Sun2": "Bonjour, @ ! Comment vas-tu aujourd'hui ?$h",
 
 // Coeurs
-"Freddie.Dialogue.Mon4": "J'aime la façon dont les arbres changent de couleur au fil des saisons.$h#$b#Je sais~FILE CHANGE~c'est quelque chose de banal...#$b#Mais vous ne devriez jamais oublier d'apprécier les petites choses.$h",
-"Freddie.Dialogue.Tue4": "Oh! Je viens de comprendre ce que je vais faire aujourd'hui!$h#$e#Je devrais aller nettoyer le hangar.#$e#Lola m'embête depuis des semaines.",
-"Freddie.Dialogue.Wed4": "Je me souviens du petit Alex quand il n'était qu'une toute petite pousse.$h#$e#Ce gamin pourrait réussir comme joueur de gridball s'il y travaille vraiment.#$e#J'espère que George et Evelyn réalise son potentiel.",
+"Freddie.Dialogue.Mon4": "J'aime la façon dont les arbres changent de couleur au fil des saisons.$h#$b#Je sais que c'est quelque chose de banal...#$b#Mais tu ne devrais jamais oublier d'apprécier les petites choses.$h",
+"Freddie.Dialogue.Tue4": "Oh ! Je viens de trouver ce que je vais faire aujourd'hui !$h#$e#Je devrais aller nettoyer le hangar.#$e#Lola me bassine avec ça depuis des semaines.",
+"Freddie.Dialogue.Wed4": "Je me souviens du petit Alex quand il n'était qu'une toute petite pousse.$h#$e#Ce gamin pourrait réussir comme joueur de gridball s'il y travaillait vraiment.#$e#J'espère que George et Evelyn réalisent son potentiel.",
 "Freddie.Dialogue.Thu4": "Bonjour, aventurier. Comment va la ferme ?#$e#J'ai récupéré certains de tes produits chez Pierre l'autre jour !$h",
-"Freddie.Dialogue.Fri4": "Pourquoi, bonjour, @!#$e#Comment allez-vous?$h",
-"Freddie.Dialogue.Sat4": "Nous sommes une petite entreprise par rapport à vous, mais les cultures que je cultive se portent bien.$h#$e#J'achète mes graines à Jeric parce qu'il est beaucoup plus proche que Pierre , et ses graines sont de bonne qualité!",
-"Freddie.Dialogue.Sun4": "Lola et moi avons l'habitude d'avoir des ennuis, tu sais.$h#$e#Nous avons eu plus que quelques éraflures par la peau de nos dents...",
+"Freddie.Dialogue.Fri4": "Ah, bonjour, @ !#$e#Comment tu vas ?$h",
+"Freddie.Dialogue.Sat4": "Nous sommes une petite exploitation par rapport à toi, mais les cultures que je cultive se portent bien.$h#$e#J'achète mes graines à Jeric parce qu'il est beaucoup plus près que Pierre , et ses graines sont de bonne qualité !",
+"Freddie.Dialogue.Sun4": "Lola et moi avons l'habitude d'avoir des ennuis, tu sais.$h#$e#On a risqué notre peau plus de fois que je n'ose y penser...",
 
 //6 Coeurs
-"Freddie.Dialogue.Mon6": "Comment vas-tu, @? J'espère que tu vas bien.$h#$e#Attends ta santé, tu m'entends?#$e#Lola a été un peu tremblante le matin dernièrement.$s#$b#Je dois me rappeler d'appeler le Dr Harvey.$s",
+"Freddie.Dialogue.Mon6": "Comment vas-tu, @ ? J'espère que tu vas bien.$h#$e#Accroches toi à ta santé, tu m'entends ?#$e#Lola a été un peu tremblante les matin dernièrement.$s#$b#Je dois me rappeler d'appeler le Dr Harvey.$s",
 "Freddie.Dialogue.Tue6": "J'ai interrogé Philip, le kinésithérapeute, sur cette douleur que j'ai dans le dos chaque fois que je fais un pas avec mon pied droit.#$e#Il m'a donné une copie de son emploi du temps pour que je puisse prendre rendez-vous...#$b#Quel gentil garçon.$h",
-"Freddie.Dialogue.Wed6": "Ah, @! J'ai quelques conseils pour quand vous visitez les mines.#$e# Assurez-vous d'apporter de la bonne nourriture, ne rassemblez que l'essentiel et assurez-vous de rentrer chez vous avant minuit !#$e#Mais je suis sûr que vous le saviez déjà, un aventurier chevronné comme vous, ha ha !$h#$e#Restez en sécurité là-bas !",
-"Freddie.Dialogue.Thu6": "J'ai vu ta ferme dans les journaux.$u#$e#Tu fais un excellent travail, @.#$b#Tu devrais être très fier de toi, je sais que je am.$h",
+"Freddie.Dialogue.Wed6": "Ah, @ ! J'ai quelques conseils pour quand tu visiteras les mines.#$e# Assures-toi d'apporter de la bonne nourriture, ne rassemble que l'essentiel et assures-toi de rentrer chez toi avant minuit !#$e#Mais je suis sûr que tu le savais déjà, un aventurier chevronné comme toi, ha ha !^Mais je suis sûr que tu le savais déjà, une aventurière chevronnée comme toi, ha ha !$h#$e#Surveilles tes arrières là bas !",
+"Freddie.Dialogue.Thu6": "J'ai vu ta ferme dans les journaux.$u#$e#Tu fais un excellent travail, @.#$b#Tu devrais être très fier de toi, je sais que je le suis.^Tu devrais être très fière de toi, je sais que je le suis.$h",
 "Freddie.Dialogue.Fri6": "Comment vas-tu, @? Prends toujours soin de toi d'accord?#$e#Ne prends jamais la vie pour acquise.$h",
-"Freddie.Dialogue.Sat6": "N'oublie jamais, tu auras toujours tes amis à tes côtés...#$e#Et cela inclut moi.#$b#J'ai la chance de t'appeler un ami.$h",
-"Freddie.Dialogue.Sun6": "Bonjour, @! Tu devrais parfois faire une pause.#$e#C'est ce qu'on appelle un dimanche paresseux pour une raison !$h",
+"Freddie.Dialogue.Sat6": "N'oublie jamais, tu auras toujours tes amis à tes côtés...#$e#Et cela inclut moi.#$b#J'ai la chance de te compter parmis mes amis.$h",
+"Freddie.Dialogue.Sun6": "Bonjour, @ ! Tu devrais parfois faire une pause.#$e#Le dimanche ce n'est pas le jour du repos pour rien !$h",
 
 //8 Coeurs
 "Freddie.Dialogue.Mon8": "Tu es une bonne personne, @, et un très bon ami pour un vieil homme comme moi.#$e#Je te remercie de ta compagnie.$h",
-"Freddie.Dialogue.Tue8" : "Lola s'est réveillée en se sentant beaucoup mieux ces derniers jours !$h#$e#Doc dit que ce n'était pas grave, mais je me sens toujours très soulagé.$h",
-"Freddie.Dialogue.Wed8": "Si vous regardez attentivement les cascades, vous verrez peut-être des choses que vous n'aviez pas remarquées auparavant.#$e#Je me demande...$4",
-"Freddie.Dialogue.Thu8": "Peut-être que je te rejoindrai dans les mines un jour.#$e#Je suis peut-être vieux, mais je l'ai toujours !$h",
-"Freddie.Dialogue.Fri8": "Ma femme et moi attendons toujours avec impatience les festivals !$h#$e# Avant, je pensais que c'était juste une corvée, mais maintenant, je chéris le temps avec mes amis.$h",
-"Freddie.Dialogue.Sat8": "Lola adore tricoter.$h#$e#Elle l'a ramassé avant que je la rencontre, et l'a gardé pendant nos voyages.#$b#Elle a même appris quelques techniques spéciales et des points de différentes cultures à travers Ferngill.",
-"Freddie.Dialogue.Sun8": "Es-tu déjà allé à Zuzu City?#$e#Il y a un endroit à Zuzu City où Lola et moi vendons les artefacts que nous trouvons au cours de nos aventures...#$e#Le moyen le plus sûr pour ces choses pour finir dans un musée sans que quelqu'un pose des questions inutiles, si vous voyez ce que je veux dire !$h",
+"Freddie.Dialogue.Tue8": "Lola s'est réveillée en se sentant beaucoup mieux ces derniers jours !$h#$e#Doc dit que ce n'était pas grave, mais je me sens tout de même très soulagé.$h",
+"Freddie.Dialogue.Wed8": "Si tu regarde attentivement les cascades, tu verras peut-être des choses que tu n'avais pas remarquées auparavant.#$e#Je me demande...$4",
+"Freddie.Dialogue.Thu8": "Peut-être que je te rejoindrai dans les mines un jour.#$e#Je suis peut-être vieux, mais j'ai toujours la pêche !$h",
+"Freddie.Dialogue.Fri8": "Ma femme et moi attendons toujours avec impatience les festivals !$h#$e# Avant, je pensais que c'était une corvée, mais maintenant, je chéris ces moments passés avec mes amis.$h",
+"Freddie.Dialogue.Sat8": "Lola adore tricoter.$h#$e#Elle a commencé avant que je la rencontre, et a gardé ce passe-temps pendant nos voyages.#$b#Elle a même appris quelques techniques spéciales et des points de différentes cultures à travers Ferngill.",
+"Freddie.Dialogue.Sun8": "Es-tu déjà allé à Zuzu Ville ?#$e#Il y a un endroit à Zuzu Ville où Lola et moi vendons les artefacts que nous trouvons au cours de nos aventures...#$e#Le moyen le plus sûr pour ces choses de finir dans un musée sans que quelqu'un ne pose de questions inutiles, si tu vois ce que je veux dire !$h",
 
 //10 Coeurs
-"Freddie.Dialogue.Mon10": "Avez-vous déjà été aux îles Fern?#$e#Nous pensions y passer notre retraite, mais nous avons décidé que nous ne nous intégrerions pas parmi tous les autres personnes âgées.#$b#Alors nous avons déménagé au village de Ridgeside à la place.$h",
-"Freddie.Dialogue.Tue10": "Lola et moi sommes allés à Gotoro avant le début de la guerre.#$e#Nous avons rencontré un forgeron de génie nommé Ikor, qui nous a appris à fabriquer des armes à partir de pierres précieuses.#$e# Vous n'avez pas vécu tant que vous n'avez pas combattu avec un couteau en diamant. $h",
-"Freddie.Dialogue.Wed10": "Lola et moi nous sommes perdus une fois dans le désert de Calico.#$b#Nous avons été trouvés par un voyageur de commerce sur un chameau.#$b#Parfois, nous allons à Calico pour lui rendre visite.# $e#Soyez prudent si vous voyagez à travers le désert !#$b#Il a plus de secrets que vous ne pourriez en savoir cachés dans les sables.",
-"Freddie.Dialogue.Thu10": "Hmm? Oh... bonjour, @.$s#$e#Désolé, je suis un peu distrait. Lola a commencé à tousser quelque chose d'horrible ce matin, elle pouvait à peine sortir du lit. $s#$e#Nous avons immédiatement appelé le Dr Harvey, bien sûr, mais...$s#$b#Il a dit que Lola avait quelque chose qu'il n'avait jamais vu auparavant...$s",
-"Freddie.Dialogue.Fri10": "% Freddie a des poches sous les yeux. Il semble être à moitié endormi.",
-"Freddie.Dialogue.Sat10": "Lola et moi étions rivales la première fois que nous avons travaillé ensemble.#$e#Nous avons été chargés de réduire la population de monstres dans une grotte au nord de Castle Village et avons décidé de défier~FILE CHANGE~les uns les autres pour voir qui pourrait éliminer le plus de monstres d'ici la fin de la nuit.#$e#À un moment donné, une brute de l'ombre a provoqué un petit éboulement et je me suis fait piéger. Lola a essayé de me secourir, mais elle s'est retrouvée coincée !$u#$e#Nous ne voyions pas assez bien pour tenter une quelconque tentative d'évasion, alors nous avons fini par passer la nuit dans cette petite poche de décombres.#$ e#Pour une raison quelconque, j'ai senti que c'était le bon moment et j'ai avoué mes sentiments pour elle, et... eh bien, les choses sont parties de là.$h",
-"Freddie.Dialogue.Sun10": "Tu es un bon ami, @, et une bonne personne.$h#$e#Tu as tellement de potentiel.#$e#Apprécie toujours tes amis et ta famille, et jamais Prends les gens autour de toi pour acquis, tu m'entends ?#$b#Je ne vais pas tomber sur toi ou quoi que ce soit.#$b#Je veux juste m'assurer que tu entendes ça de ma part.",
+"Freddie.Dialogue.Mon10": "Tu es déjà allé aux îles Fern ?#$e#Nous pensions y passer notre retraite, mais nous avons décidé que nous ne nous intégrerions pas parmi toutes les autres personnes âgées.#$b#Alors nous avons emménagé au village de Ridgeside à la place.$h",
+"Freddie.Dialogue.Tue10": "Lola et moi sommes allés à Gotoro avant le début de la guerre.#$e#Nous avons rencontré un forgeron de génie nommé Ikor, qui nous a appris à fabriquer des armes à partir de pierres précieuses.#$e# Tu n'as pas vraiment vécu tant que vous n'as pas combattu avec un couteau en diamant. $h",
+"Freddie.Dialogue.Wed10": "Lola et moi nous sommes perdus une fois dans le désert de Calico.#$b#Nous avons été trouvés par un voyageur de commerce sur un chameau.#$b#Parfois, nous allons à Calico pour lui rendre visite.#$e#Sois prudent si tu voyages à travers le désert !^Sois prudente si tu voyages à travers le désert !#$b#Il y a plus de secrets que tu ne le penses cachés dans les sables.",
+"Freddie.Dialogue.Thu10": "Hmm? Oh... bonjour, @.$s#$e#Désolé, je suis un peu distrait. Lola a commencé à tousser de manière horrible ce matin, elle pouvait à peine sortir du lit. $s#$e#Nous avons immédiatement appelé le Dr Harvey, bien sûr, mais...$s#$b#Il a dit que Lola avait quelque chose qu'il n'avait jamais vu auparavant...$s",
+"Freddie.Dialogue.Fri10": "%Freddie a des poches sous les yeux. Il semble être à moitié endormi.",
+"Freddie.Dialogue.Sat10": "Lola et moi étions rivaus la première fois que nous avons travaillé ensemble.#$e#Nous avons été chargés de réduire la population de monstres dans une grotte au nord de Castle Village et avons décidé de nous lancer un défi pour voir qui pourrait éliminer le plus de monstres d'ici la fin de la nuit.#$e#À un moment donné, une brute de l'ombre a provoqué un petit éboulement et je me suis fait piéger. Lola a essayé de me secourir, mais elle s'est retrouvée coincée !$u#$e#Nous ne voyions pas assez bien pour tenter une quelconque manoeuvre d'évasion, alors nous avons fini par passer la nuit dans cette petite poche de décombres.#$e#Pour une raison quelconque, j'ai senti que c'était le bon moment et je lui ai avoué mes sentiments pour elle, et... eh bien, les choses sont parties de là.$h",
+"Freddie.Dialogue.Sun10": "Tu es un bon ami, @, et une bonne personne.$h#$e#Tu as tellement de potentiel.#$e#Apprécie toujours tes amis et ta famille, et ne prends jamais les gens autour de toi pour acquis, tu m'entends ?#$b#Je ne vais pas m'écrouler sur toi ou quoi que ce soit.#$b#Je veux juste m'assurer que tu entendes ça de ma part.",
 
 //Dialogue spécial
-"Freddie.Dialogue.MovieInvitation" : "Oh, je serais heureux de vous rejoindre ! Cela faisait longtemps que je n'avais pas pu regarder un film !$h#$e#Lola et j'allais souvent au cinéma en arrière dans la journée. Nous nous faufilions généralement dans une chose ou deux.",
+"Freddie.Dialogue.MovieInvitation": "Oh, je serais heureux de me joindre à toi ! Cela faisait longtemps que je n'avais pas pu regarder de film !$h#$e#Lola et moi on allait souvent au cinéma à l'époque. On s'arrangeait toujours pour faire passer discrètement des petites choses à grignoter.$4",
 
 //Recours
-"Freddie.Dialogue.Resort_Entering": "Oh, c'est autre chose.$u#$e#Wow.$u",
-"Freddie.Dialogue.Resort_Leaving": "Nous devons revenir bientôt.$h",
-"Freddie.Dialogue.Resort_Shore": "Cela me rappelle de vieux souvenirs.#$b#De bons souvenirs aussi.$h#$e#Lola a toujours été magnifique en maillot de bain, tu sais.$4",
-"Freddie.Dialogue.Resort_Chair": "Cette chaleur est bonne pour mes vieux os...#$b#...et Lola là-bas est bonne pour mon cœur.#$e#Je suis un homme chanceux.$h",
-"Freddie.Dialogue.Resort_Bar": "Whisky sur glace, s'il vous plaît.",
-"Freddie.Dialogue.Resort": "Je n'ai pas été ici depuis ce jour...$s",
+"Freddie.Dialogue.Resort_Entering": "Oh, ça c'est quelque chose.$u#$e#Wow.$u",
+"Freddie.Dialogue.Resort_Leaving": "Nous devons rentrer bientôt.$h",
+"Freddie.Dialogue.Resort_Shore": "Ca me rappelle de vieux souvenirs.#$b#De bons souvenirs.$h#$e#Lola a toujours été magnifique en maillot de bain, tu sais.$4",
+"Freddie.Dialogue.Resort_Chair": "Cette chaleur fais du bien à mes vieux os...#$b#...et Lola là-bas fais du bien à mon cœur.#$e#Je suis un homme chanceux.$h",
+"Freddie.Dialogue.Resort_Bar": "Un whisky avec glaçons, s'il te plaît.",
+"Freddie.Dialogue.Resort": "Je n'étais pas revenu ici depuis ce jour...$s",
 
 
 "Helen.Dialogue.Introduction": "Nous ne sommes pas censés nous rencontrer.",
@@ -5238,7 +5238,7 @@
 "Helen.Dialogue.winter": "Nous ne sommes pas censés nous rencontrer.",
 
 
-"Ian.Dialogue.Introduction": "Salut.#$b#Vous êtes le nouveau fermier qui vient d'emménager, n'est-ce pas ?#$b#Je suis Ian, je suis ravi de vous rencontrer.#$b#J'habite plus au village de Ridgeside.$h#$b#Généralement, je travaille juste pour qui me demande et je peux payer une bonne somme.#$b#Cela peut vous inclure, bien sûr !$h",
+"Ian.Dialogue.Introduction": "Salut.#$b#Tu es le nouveau fermier qui vient d'emménager, c'est ça ?#$b#Je suis Ian, je suis ravi de te rencontrer.#$b#J'habite au village de Ridgeside.$h#$b#Généralement, je travaille pour qui me demande et peut payer une bonne somme.#$b#Tu peux aussi louer mes services, bien sûr !$h",
 
 //Printemps
 "Ian.Dialogue.spring_1": "Aujourd'hui marque le début d'une nouvelle année.#$b#J'ai beaucoup de choses à faire.",
@@ -5246,70 +5246,70 @@
 "Ian.Dialogue.spring_23": "Aider à aménager le champ forestier pour la Danse des fleurs implique de transporter beaucoup de fleurs.#$b#Dieu merci, je n'ai pas de mauvaises allergies printanières !$h",
 
 //L'été
-"Ian.Dialogue.summer_1": "Oh, mec.#$b#Est-ce déjà l'été ?#$b#Je déteste la saison sèche.$s#$b#Le soleil brûlant me donne si soif !$s",
+"Ian.Dialogue.summer_1": "Oh, bon sang.#$b#C'est déjà l'été ?#$b#Je déteste la saison sèche.$s#$b#Le soleil brûlant me donne si soif !$s",
 "Ian.Dialogue.summer_10": "Sortir le pot géant pour la soupe demain est une si grosse corvée !$h#$b#Il faut six adultes pour le porter !$u",
-"Ian.Dialogue.summer_27": "Le festival de demain est l'un des moments où je peux me détendre et profiter du paysage.$h#$b#Vous allez vous régaler, @.",
+"Ian.Dialogue.summer_27": "Le festival de demain est l'un des moments où je peux me détendre et profiter du paysage.$h#$b#Tu vas te régaler, @.",
 
 //Tombe
-"Ian.Dialogue.fall_1": "J'aime cette saison.#$b#Beaucoup de gens ont besoin de ratisser leurs feuilles.#$b#C'est un bon moyen de faire de la monnaie !$h",
-"Ian.Dialogue.fall_15" : "Je vais devoir veiller tard ce soir.#$b#J'ai promis à Lewis et Lenny que j'aiderai à installer des stands pour le festival.#$b#Les vendeurs arrivent tôt dans la matin, nous devons donc travailler toute la nuit.",
-"Ian.Dialogue.fall_26": "Marlon veut que j'aide à construire des cages pour la fête de la veille des esprits.#$b#Dit qu'il y aura des monstres dangereux dans ces cages donc elles doivent être solides.#$b#Je suis je ne sais même pas d'où il tire ces créatures.",
+"Ian.Dialogue.fall_1": "J'aime cette saison.#$b#Beaucoup de gens ont besoin de ratisser leurs feuilles.#$b#C'est un bon moyen de faire un peu d'argent !$h",
+"Ian.Dialogue.fall_15": "Je vais devoir veiller tard ce soir.#$b#J'ai promis à Lewis et Lenny que j'aiderai à installer des stands pour le festival.#$b#Les vendeurs arrivent tôt dans la matinée, nous devons donc travailler toute la nuit.",
+"Ian.Dialogue.fall_26": "Marlon veut que j'aide à construire des cages pour la fête des esprits.#$b#Il dit qu'il y aura des monstres dangereux dans ces cages donc elles doivent être solides.#$b#Je ne sais même pas d'où il sort ces créatures.",
 
 //L'hiver
 "Ian.Dialogue.winter_1": "L'hiver est probablement ma saison préférée.#$b#Il neige beaucoup ici dans la vallée, donc j'ai presque toujours du travail à faire !$h#$b#La meilleure partie ?#$b#Je transpire moins !$h",
-"Ian.Dialogue.winter_7": "Je suis ravi de faire des bonhommes de neige demain.$h#$b#Dis, tu comptes participer au concours de pêche ?#$b#J'ai entendu dire que Willy a amélioré son jeu cette année.",
+"Ian.Dialogue.winter_7": "Je suis ravi de faire des bonhommes de neige demain.$h#$b#Dis, tu comptes participer au concours de pêche ?#$b#J'ai entendu dire que Willy a amélioré sa technique cette année.",
 "Ian.Dialogue.winter_14": "Je dois me préparer physiquement et mentalement pour ce soir.#$b#Je vais encore veiller tard pour aider Willy à préparer les quais pour les marchands.",
-//"Ian.Dialogue.winter_15": "Le type effrayant sur les quais se présente chaque année, mais personne ne sait pourquoi.$a#$b#Il ne paie pas non plus de frais de vendeur.$a#$b#If vous lui demandez de partir, il se contente de rire.$a",
-//"Ian.Dialogue.winter_16": "Le sous-marin est un bon investissement pour faire du profit.#$b#Willy achète Midnight Squid à un bon prix.",
-"Ian.Dialogue.winter_17": "J'ai toujours été un fan des lumières et de l'ambiance du marché nocturne.#$b# Quelque chose à propos des bateaux sur l'eau sombre est apaisant.",
-"Ian.Dialogue.winter_24": "Le grand sapin de Noël est si amusant à décorer !$h#$b#J'attends avec impatience demain.",
+//"Ian.Dialogue.winter_15": "Le type effrayant sur les quais est là chaque année, mais personne ne sait pourquoi.$a#$b#Il ne paie pas non plus de frais de vendeur.$a#$b#Si on lui demande de partir, il se contente de rire.$a",
+//"Ian.Dialogue.winter_16": "Le sous-marin est un bon investissement pour faire du profit.#$b#Willy achète les Calmar de Minuit à un bon prix.",
+"Ian.Dialogue.winter_17": "J'ai toujours été un fan des lumières et de l'ambiance du marché nocturne.#$b#Il y a un je ne sais quoi d'appaisant dans les bateaux flottant sur l'eau sombre.",
+"Ian.Dialogue.winter_24": "Le grand sapin de Noël est si amusant à décorer !$h#$b#J'attends avec impatience la fête de demain.",
 
 //Jours de la semaine
 
 // Coeurs
-"Ian.Dialogue.Mon": "Oh, salut.#$b#Je suis désolé.#$b#Je suis occupé.#$b#Je te parle plus tard.",
-"Ian.Dialogue.Tue": "Hé !#$b#Quoi de neuf ?#$b#~FILE CHANGE~Désolé, je travaille sur quelque chose en ce moment.",
+"Ian.Dialogue.Mon": "Oh, salut.#$b#Je suis désolé.#$b#Je suis occupé.#$b#On se parle plus tard.",
+"Ian.Dialogue.Tue": "Hé !#$b#Quoi de neuf ?#$b#Désolé, je travaille sur quelque chose en ce moment.",
 "Ian.Dialogue.Wed": "Salut @.#$b#Comment se passe la vie à la ferme ?#$b#Oh, ça va ?#$b#C'est bien.",
 "Ian.Dialogue.Thu": "Richard est un bon patron.#$b#Mais je veux dire, j'ai beaucoup d'employeurs.#$b#C'est une vie bien remplie.",
 "Ian.Dialogue.Fri": "J'essaie de faire des pauses dans mon emploi du temps.#$b#Une gorgée rapide d'un soda et une bouchée d'un sandwich suffisent.",
-"Ian.Dialogue.Sat": "Hé, @.#$b#Occupé aussi ?#$b#Eh bien, je dois y aller.#$b#À plus tard.",
+"Ian.Dialogue.Sat": "Hé, @.#$b#Tu es occupé toi aussi ?^Tu es occupée toi aussi ?#$b#Eh bien, je dois y aller.#$b#À plus tard.",
 "Ian.Dialogue.Sun": "Comment ça va ?#$b#Comment va la ferme ?",
 
 // Cœurs
-"Ian.Dialogue.Mon2": "Hé quoi de neuf, @?#$b#Non, ça va.#$b#Je peux le faire tout seul.",
-"Ian.Dialogue.Tue2": "Robin est un gentil patron.#$b#Elle me laisse faire une pause assez régulièrement.$h#$b#Même quand même, la plupart de mes pauses sont consacrées à travailler pour Pierre.",
-"Ian.Dialogue.Wed2" : "Il est peut-être rude sur les bords, mais Pierre est un drôle de patron.$h#$b#Il en fait parfois de bonnes au travail.#$b#Il rend le travail moins difficile traîne.",
-"Ian.Dialogue.Thu2": "Hier, Abigail m'a aidé à déplacer des cartons.#$b#Ses cheveux violets lui vont vraiment bien.$h#$b#Oh... h-hey !$l#$b#Ne lui dis pas que j'ai dit ça !$a",
-"Ian.Dialogue.Fri2": "Comment ça va, @?#$b#Tu as l'air d'avoir besoin d'une pause.#$b#Haha, qui suis-je pour dire ça?$h#$b#Je peux' Je ne me souviens pas de la dernière fois où je me suis assis et j'ai respiré.",
-"Ian.Dialogue.Sat2": "Philip m'a dit de prendre un peu de temps pour reposer mon corps.#$b#Je suppose qu'il a raison.#$b#C'est pourquoi j'ai augmenté mon horaire de sommeil de 10 min.$h",
-"Ian.Dialogue.Sun2": "Shane est un bon ami à moi.#$b#Nous allons tous les deux traîner autour du lac pour boire parfois.$h#$b#Il est un peu grincheux, mais c'est un type bien.",
+"Ian.Dialogue.Mon2": "Hé quoi de neuf, @ ?#$b#Non, ça va.#$b#Je peux le faire tout seul.",
+"Ian.Dialogue.Tue2": "Robin est un gentil patron.#$b#Elle me laisse faire une pause assez régulièrement.$h#$b#Mais quand même, la plupart de mes pauses sont consacrées à travailler pour Pierre.",
+"Ian.Dialogue.Wed2": "Il est peut-être rude sur les bords, mais Pierre est un drôle de patron.$h#$b#Il en fait parfois de bonnes au travail.#$b#Ca rend le travail moins difficile.",
+"Ian.Dialogue.Thu2": "Hier, Abigail m'a aidé à déplacer des cartons.#$b#Ses cheveux violets lui vont vraiment bien.$h#$b#Oh... h-hé !$l#$b#Ne lui dis pas que j'ai dit ça !$a",
+"Ian.Dialogue.Fri2": "Comment ça va, @ ?#$b#Tu as l'air d'avoir besoin d'une pause.#$b#Haha, qui suis-je pour dire ça? $h#$b#Je ne me souviens pas de la dernière fois où je me suis assis pour reprendre mon souffle.",
+"Ian.Dialogue.Sat2": "Philip m'a dit de prendre un peu de temps pour reposer mon corps.#$b#Je suppose qu'il a raison.#$b#C'est pourquoi j'ai augmenté mon temps de sommeil de 10 min.$h",
+"Ian.Dialogue.Sun2": "Shane est un bon ami à moi.#$b#Nous allons tous les deux traîner autour du lac pour boire des coups parfois.$h#$b#Il est un peu grincheux, mais c'est un type bien.",
 
 // Coeurs
-"Ian.Dialogue.Mon4": "Oh, salut @!#$b#Quoi de neuf ?#$b#Je fais une pause ?#$b#Eh bien, si tu as besoin d'aide pour ta ferme, je peux toujours trouver du temps .$h#$b#Je ne facture pas beaucoup !",
-"Ian.Dialogue.Tue4": "Je pratique la sculpture sur bois et la menuiserie la nuit.#$b#Je ne suis pas aussi bon que Leah ou Robin, cependant.#$b#C'est juste un petit passe-temps pour me changer les idées .",
-"Ian.Dialogue.Wed4": "J'ai vu ton champ hier alors que je travaillais au Ranch de Marnie.#$b#Tu dois gérer beaucoup de choses aussi grosses?#$b#Whoa!#$b#Je me souviens d'avoir aidé ton grand-père avant aussi.#$b#C'était un homme bien.",
+"Ian.Dialogue.Mon4": "Oh, salut @ !#$b#Quoi de neuf ?#$b#Tu fais une pause ?#$b#Eh bien, si tu as besoin d'aide pour ta ferme, je peux toujours trouver du temps.$h#$b#Je ne facture pas très cher !",
+"Ian.Dialogue.Tue4": "Je pratique la sculpture sur bois et la menuiserie la nuit.#$b#Je ne suis pas aussi bon que Leah ou Robin, cependant.#$b#C'est juste un petit passe-temps pour me changer les idées.",
+"Ian.Dialogue.Wed4": "J'ai vu ton champ hier alors que je travaillais au Ranch de Marnie.#$b#Tu dois gérer une surface si grande ?#$b#Whoa !#$b#Je me souviens d'avoir aidé ton grand-père dans le passé aussi.#$b#C'était un homme bien.",
 "Ian.Dialogue.Thu4": "Je me demande si je peux conduire le bus aussi ?#$b#J'ai conduit un tracteur de nombreuses fois... hmmm.",
-"Ian.Dialogue.Fri4": "Hier j'ai demandé à Pika si je pouvais faire des courses pour lui.#$b#Il m'a dit que tout allait bien et que Corine s'en est occupé.#$b#J'ai alors demandé à Corine si je pouvais donne un coup de main.#$b#Elle a dit que c'était gentil et qu'elle voulait gagner son argent elle-même.#$b#J'admire sa vision de la vie.$h",
-"Ian.Dialogue.Sat4": "Je ne gaspille pas vraiment trop d'argent et j'économise là où je peux.#$b#Je veux dire, pour quoi le dépenserais-je même ?#$b#Je comprends que c'est pour le plaisir, mais , je veux dire, j'ai déjà deux chemises et un bon jean.#$b#Comment ça ne suffit pas ?",
-"Ian.Dialogue.Sun4": "Abigail m'a appelé 'swole.'$s#$b#Je ne sais pas ce que cela signifie...$s#$b#est-ce un compliment ou une insulte ?$s",
+"Ian.Dialogue.Fri4": "Hier j'ai demandé à Pika si je pouvais faire des courses pour lui.#$b#Il m'a dit que tout allait bien et que Corine s'en est occupé.#$b#J'ai alors demandé à Corine si je pouvais donner un coup de main.#$b#Elle a dit que c'était gentil et qu'elle voulait gagner son argent elle-même.#$b#J'admire sa vision de la vie.$h",
+"Ian.Dialogue.Sat4": "Je ne gaspille pas vraiment trop d'argent et j'économise là où je peux.#$b#Et puis, qu'est ce que je pourrais bien acheter avec mon argent ?#$b#Je comprends que c'est pour le plaisir, mais, je veux dire, j'ai déjà deux chemises et un bon jean.#$b#Comment ça, ça ne suffit pas ?",
+"Ian.Dialogue.Sun4": "Abigail m'a dit que j'étais 'mastoc.'$s#$b#Je ne sais pas ce que cela signifie...$s#$b#est-ce un compliment ou une insulte ?$s",
 
 //6 Coeurs
-"Ian.Dialogue.Mon6" : "Hier, en aidant Lewis à déplacer des cartons dans sa maison, j'ai trouvé une statue cachée.#$b#Cela ressemblait à Lewis, mais elle était en or.#$b#Je n'ai pas ne le regarde pas plus longtemps que nécessaire.#$b#Je ne vais pas juger les affaires personnelles d'un autre homme.",
-"Ian.Dialogue.Tue6": "La nuit dernière, j'ai vu Caroline sortir de sa maison et dans la forêt.#$b#W-attends, je ne l'espionnais pas !$u#$b#J'étais dehors en retard aidant Kenneth avec quelques lumières ! $a",
-"Ian.Dialogue.Wed6": "Quand j'aide à la bibliothèque, j'ai parfois l'occasion de voir les cours que Penny donne aux enfants.#$b#Elle est vraiment intelligente.$h#$b#J'aimerais m'asseoir dans un certain temps, mais je suis un peu gêné.$s",
+"Ian.Dialogue.Mon6": "Hier, en aidant Lewis à déplacer des cartons dans sa maison, j'ai trouvé une statue cachée.#$b#Ca ressemblait à Lewis, mais elle était en or.#$b#Je ne l'ai pas regardée plus longtemps que nécessaire.#$b#Je ne vais pas juger les affaires personnelles d'un autre homme.",
+"Ian.Dialogue.Tue6": "La nuit dernière, j'ai vu Caroline sortir de sa maison et aller dans la forêt.#$b#A-attends, je ne l'espionnais pas !$u#$b#J'étais dehors tard pour aider Kenneth avec ses lumières ! $a",
+"Ian.Dialogue.Wed6": "Quand j'aide à la bibliothèque, j'ai parfois l'occasion de voir les cours que Penny donne aux enfants.#$b#Elle est vraiment intelligente.$h#$b#J'aimerais suivre le cour à l'occasion, mais je suis un peu gêné.$s",
 "Ian.Dialogue.Thu6": "Je ne sais pas vraiment lire et écrire, mais cela ne m'a pas arrêté jusqu'à présent.$h#$b#Lenny a dit que je devrais prendre le temps d'apprendre, même si c'est juste les bases.#$b#Je vais bien pour l'instant, mais l'idée est sympa.",
 "Ian.Dialogue.Fri6": "Je suis allé acheter un Joja Cola hier.#$b#C'était juste de l'eau gazeuse !$a#$b#Je me suis fait arnaquer !$a",
-"Ian.Dialogue.Sat6": "Parfois, pendant mes petits boulots, la personne pour qui je travaille me fait déjeuner.$h#$b#Le travail acharné a des avantages, je suppose !",
-"Ian.Dialogue.Sun6" : "J'aide parfois Robin dans les travaux de construction.#$b#Je ne lui en demande jamais trop, car elle doit s'occuper d'une grande famille.#$b#Elle est vraiment patiente avec moi, et un grand charpentier aussi.$h",
+"Ian.Dialogue.Sat6": "Parfois, pendant mes petits boulots, la personne pour qui je travaille m'offre le repas.$h#$b#Le travail acharné a des avantages, je suppose !",
+"Ian.Dialogue.Sun6": "J'aide parfois Robin dans les travaux de construction.#$b#Je ne lui en demande jamais trop, car elle doit s'occuper d'une grande famille.#$b#Elle est vraiment patiente avec moi, et c'est une très grande charpentière aussi.$h",
 
 //8 Coeurs
-"Ian.Dialogue.Mon8": "Oh!#$b#Salut!#$b#C'est vraiment bon de te voir, @!$h#$b#Oh moi?#$b#Nan!#$b#I' tout va bien !#$b#Je ne me fatigue jamais !$h",
-"Ian.Dialogue.Tue8": "Tu es superbe, @.$l#$b#On dirait que tout ce travail agricole te rend fort !$h#$b#Ça se voit.#$b#Moi, je pense que je dois travailler un peu plus dur.#$b#Je deviens un peu potelé !",
-"Ian.Dialogue.Wed8": "Hé, avez-vous besoin d'aide pour votre ferme ?#$b#Je peux faire un peu de travail gratuitement, peut-être comme un échantillon gratuit !#$b#Peut-être que vous envisagerez alors d'embaucher moi après.#$b#Haha, je plaisante... à moins que?$l",
-"Ian.Dialogue.Thu8": "Salut @!#$b#Comment ça va ?#$b#Hé, quel est ton plat préféré ?#$b#Pourquoi ?#$b#Oh n~FILE CHANGE~rien.$h#$b#J'étais juste curieux.$l",
-"Ian.Dialogue.Fri8": "J'ai aidé Robin à construire votre rénovation.#$b#Sachant que c'était pour vous, j'ai fait de mon mieux !$h",
+"Ian.Dialogue.Mon8": "Oh !#$b#Salut !#$b#C'est vraiment bon de te voir, @ !$h#$b#Oh moi ?#$b#Nan !#$b#Tout va bien !#$b#Je ne me fatigue jamais !$h",
+"Ian.Dialogue.Tue8": "Tu es superbe, @.$l#$b#On dirait que tout ce travail agricole te donne de la viguer !$h#$b#Ça se voit.#$b#Moi, je pense que je dois travailler un peu plus dur.#$b#Je deviens un peu potelé !",
+"Ian.Dialogue.Wed8": "Hé, tu as besoin d'aide pour la ferme ?#$b#Je peux faire un peu de travail gratuitement, peut-être comme un échantillon gratuit !#$b#Peut-être que tu envisageras alors de m'embaucher après.#$b#Haha, je plaisante... à moins que ?$l",
+"Ian.Dialogue.Thu8": "Salut @ !#$b#Comment ça va ?#$b#Hé, quel est ton plat préféré ?#$b#Pourquoi ?#$b#Oh non pour rien.$h#$b#J'étais juste curieux.$l",
+"Ian.Dialogue.Fri8": "J'ai aidé Robin à construire ta rénovation.#$b#Sachant que c'était pour toi, j'ai fait de mon mieux !$h",
 "Ian.Dialogue.Sat8": "J'ai pris un livre à la bibliothèque l'autre jour pour le lire tout seul.#$b#C'était dur.$s#$b#Mais j'ai réussi à lire tout le long de la Table du contenu !$h",
-"Ian.Dialogue.Sun8": "Salut @!#$b#Tu es encore plus beau aujourd'hui.$l^Tu es encore plus beau aujourd'hui.$l#$b#Ah, w-attends !$u#$b#Je suis désolé !$u#$b#W-était-ce bizarre ?$l#$b#Mais... je le pense vraiment !$l",
+"Ian.Dialogue.Sun8": "Salut @ !#$b#Tu es encore plus beau aujourd'hui.$l^Tu es encore plus belle aujourd'hui.$l#$b#Ah, a-attends !$u#$b#Je suis désolé !$u#$b#Et-était-ce bizarre ?$l#$b#Mais... je le pense vraiment !$l",
 
 //10 Coeurs
 "Ian.Dialogue.Mon10": "Hé, @!#$b#Comment va la ferme ?$h#$b#Dis juste le mot si tu as besoin d'aide aujourd'hui.#$b#Je te mettrai toujours premier.$l",
