@@ -69,9 +69,9 @@
 //--------------------
 //L'amour
 "Gift.Love.Aguar": "Je suis vraiment reconnaissant pour ce cadeau.",
-"Gift.Love.Alissa": "J'adore ça ! Merci beaucoup, @!",
+"Gift.Love.Alissa": "J'adore ça ! Merci beaucoup, @ !",
 "Gift.Love.Bert": "Waw! C'est vraiment pour moi? Merci bien!",
-"Gift.Love.Corine": "Oh waw, @! C'est fabuleux! Merci!",
+"Gift.Love.Corine": "Oh waw, @ ! C'est fabuleux! Merci!",
 "Gift.Love.Ezekiel": "Quoi!? Je l'adore! Merci du fond du coeur!",
 "Gift.Love.Flor": "C'est un de mes objets préférés! Merci!",
 "Gift.Love.Freddie": "C'est un cadeau merveilleux, aventurier. J'en suis réellement reconnaissant.",
@@ -155,7 +155,7 @@
 "Gift.Hate.Jio": "Tu veux mourir, étranger ?",
 "Gift.Hate.Keahi": "Beurk ! Je déteste ça !",
 "Gift.Hate.Kenneth": "S'il te plaît, garde tes ordures pour toi.",
-"Gift.Hate.Kiwi": "Kiwi déteste ! Kiwi déteste @! KIWI POIGNARDE !",
+"Gift.Hate.Kiwi": "Kiwi déteste ! Kiwi déteste @ ! KIWI POIGNARDE !",
 "Gift.Hate.Lenny": "Pourquoi une personne saine d'esprit voudrait-elle un tel cadeau ?",
 "Gift.Hate.Lola": "Tu sais, donner ça à quelqu'un constituant une déclaration de guerre dans certaines cultures...",
 "Gift.Hate.Maddie": "C'est affreux. Tu es affreux!",
@@ -336,7 +336,7 @@
 "event-75160186.03": "Arrête de m'appeler comme ça !$a#$b# Et c'est ta faute si tu procrastines tout le temps !$a",
 "event-75160186.04": "Pas moyen, Lewlew. C'est mon droit en tant que grande sœur. $h#$b# De toute façon, je dois y aller ! Je dois prendre le téléphérique avant qu'il ne soit plein. $h",
 "event-75160186.05": "Fais attention à toi.",
-"event-75160186.06": "@!$s#$b#Oh ! Euh... Content de te voir ! $s#$b#Alors... tu es là depuis longtemps ? $u#$b#Euh, Lenny !$u",
+"event-75160186.06": "@ !$s#$b#Oh ! Euh... Content de te voir ! $s#$b#Alors... tu es là depuis longtemps ? $u#$b#Euh, Lenny !$u",
 "event-75160186.07": "C'était Lenny, ma grande sœur. Elle est venue me donner le rapport financier de l'an dernier du village de Ridgeside.",
 "event-75160186.08": "Quoi ? Ton grand-père ne t'as jamais parlé du village de Ridgeside ? #$b#Ce sont nos voisins dans les montagnes à l'ouest. Tu peux utiliser le téléphérique pour y aller, si tu veux visiter. $h#$b#Ce téléphérique est une merveille d'ingénierie. Qui sait comment ils l'ont payé... #$b#J'ai entendu dire que quelqu'un dans le village a des bons rapports avec le gouverneur...$a",
 "event-75160186.09": "Bref ! Va y faire un tour quand tu auras le temps. Une partie de leurs revenus touristiques est reversée à Pelican ville, tu sais!$h",
@@ -383,7 +383,7 @@
 "event-75160062.04": "Un magicien ne révèle jamais ses secrets. #$b#Vous le savez mieux que moi.",
 "event-75160062.05": "Ce n'est arrivé qu'une fois et c'était il y a des décennies !",
 "event-75160062.06": "Maintenant, où en étions-nous...",
-"event-75160062.07": "@!$u#$b#Pourquoi as-tu l'habitude de me déranger seulement quand je suis occupé ?$a",
+"event-75160062.07": "@ !$u#$b#Pourquoi as-tu l'habitude de me déranger seulement quand je suis occupé ?$a",
 "event-75160062.08": "Ah, @. Je ne savais pas que tu connaissais Aguar.",
 "event-75160062.09": "Le jeune @ est-il au courant de votre secret, Aguar ?^La jeune @ est-il au courant de votre secret, Aguar ?",
 "event-75160062.10": "Malheureusement...$s#$b#Cette pie curieuse a réussi à se faufiler dans mes appartements.$a",
@@ -397,7 +397,7 @@
 "event-75160062.18": "Il y a de nombreuses années, une impulsion magique inexpliquée a commencé à émaner du sous-sol du village.#$b#Elle est encore assez faible et indétectable pour ceux qui n'ont pas les outils adaptés. #$b#Elle n'est pas assez forte pour constituer une menace, pour l'instant.#$b#Mais c'est une énergie que nous ne connaissons que trop bien.$s",
 "event-75160062.19": "Cette étrange impulsion est la cause du nombre croissant de monstres dans la mine. #$b#Elle a provoqué le réveil des anciens habitants du désert de Calico pour la première fois depuis des siècles. #$b# Le pire, c'est qu'elle me réveille sans arrêt la nuit. $a#$b#Et puis... elle est devenue plus forte après votre arrivée dans la vallée, @.#$b# Nous avons pensé que c'était une coïncidence jusqu'à ce que...",
 "event-75160062.20": "Jusqu'à ce que tu fasses irruption dans ses appartements. #$b#Ils sont scellés par la magie. Ce n'est pas n'importe qui qui peut y pénétrer.",
-"event-75160062.21": "Nous aimerions te demander ton aide.#$b#Peut-être que tu n'es pas aussi inutile que je le pensait, @!$h",
+"event-75160062.21": "Nous aimerions te demander ton aide.#$b#Peut-être que tu n'es pas aussi inutile que je le pensait, @ !$h",
 "event-75160062.22": "Je vais surveiller les mines en attendant. #$b#Si vous avez besoin d'aide, n'hésitez pas à vous téléporter vers moi, Aguar. #$b#En souvenir du bon vieux temps.",
 "event-75160062.23": "Ça ira, Rasmodius. #$b#C'est ma responsabilité.",
 "event-75160062.24": "@, voyez si vous pouvez trouver plus d'auras magiques. #$b#Je suggère le vieux centre communautaire de Pelican ville ou bien les mines. #$b#Je te recommande la plus grande prudence.",
@@ -459,9 +459,9 @@
 "event-75160115.06": "Oh !$u",
 "event-75160115.07": "Tu as vraiment aimé ? #$b# Je... merci... $u#$b#@, je... veux que tu écoutes la chanson que je suis en train d'écrire quand elle sera terminée. #$b#Je n'ai pas beaucoup d'amis de mon âge, et je ne veux pas demander à ma famille ce qu'elle en pense. #$b#Ils me soutiennent trop et ne me donneront peut-être pas un avis honnête. $s#$b#Mais s'il te plaît, n'en parle à personne, d'accord ? $a",
 "event-75160115.08": "Merci ! J-j'ai un peu hâte maintenant, @.$h#$b# Je te tiens au courant quand ça sera prêt !$h",
-"event-75160115.09": "Je ferais mieux de retourner à la ferme maintenant. #$b#Je suis seulement lieu en ville pour acheter des graines à Pierre.$h#$b#A la prochaine, @!#$b# Et encore désolée !$h",
+"event-75160115.09": "Je ferais mieux de retourner à la ferme maintenant. #$b#Je suis seulement lieu en ville pour acheter des graines à Pierre.$h#$b#A la prochaine, @ !#$b# Et encore désolée !$h",
 "event-75160115.10": "Alissa toi et vous rentrez dedans en essayant de partir chacun de votre côté",
-"event-75160115.11": "Oh ! Euh ! Je suis encore désolée, @!$7#$b#Oh, mon dieu.$u#$b#Arf. A bientôt ! ​​Salut !$u",
+"event-75160115.11": "Oh ! Euh ! Je suis encore désolée, @ !$7#$b#Oh, mon dieu.$u#$b#Arf. A bientôt ! ​​Salut !$u",
 "event-75160115.12": "Heu, @ ? Je viens de me décaller pour que tu puisses y aller. $7#$b#Oh, Yoba. Nous sommes tellement déphasés ! $h",
 "event-75160115.13": "Hahaha ! $h",
 "event-75160115.14": "Ahaha. C'était bizarre, mais aussi très rigolo.$h",
@@ -562,7 +562,7 @@
 
 //Suite
 "event-75160116.08": "Mais j'y pense @. Puisque tu es là. Peux-tu m'aider à trier certains de mes produits ? #$b#Ce sera rapide je te le jure !$h#$b# Et ça pourrait être amusant de travailler avec un ami.$h",
-"event-75160116.09": "Ohhh chouette ! Merci beaucoup @!$h#$b#Ok, je vais commencer ici. Tu prends ce coin-là. $h",
+"event-75160116.09": "Ohhh chouette ! Merci beaucoup @ !$h#$b#Ok, je vais commencer ici. Tu prends ce coin-là. $h",
 "event-75160116.10": "Alissa fredonne un air enjoué.",
 "event-75160116.11": "Alissa et moi avons trié les cartons avec facilité.# C'était un travail relaxant avec son agréable fredonnement.",
 "event-75160116.12": "Merci beaucoup pour ton aide tout à l'heure à la remise @ !$h",
@@ -608,7 +608,7 @@
 "event-75160066.18": "Vraiment ! Tu m'as beaucoup aidé ces derniers temps !$h#$b# Je suis bien content qu'on soit amis !",
 "event-75160066.19": "Dis, Papa ? @ ? De quoi est-ce que vous parlez?",
 "event-75160066.20": "De rien du tout, ma puce !#$b# Je suis juste content que tu ailles mieux !$h",
-"event-75160066.21": "Merci beaucoup pour ton aide, @!$h",
+"event-75160066.21": "Merci beaucoup pour ton aide, @ !$h",
 
 //Bert plan pour rendez-vous avec Olga (Bert 6 coeurs)
 "event-75160067.01": "Peut-être une petite croisière ? Non, trop cher...$s",
@@ -704,14 +704,14 @@
 "event-75160122.12": "Mon rêve ? Eh bien... Je veux juste aider les gens. C'est tout. #$b#Toutes ces années, j'ai cherché un travail qui me permette de faire ça..#$b#En fait, j'ai eu beaucoup de métiers différents. Mais ils deviennent toujours très vite ennuyeux.$s",
 "event-75160122.13": "Papa dit que c'est parce que je vis dans un monde imaginaire où les emplois de rêve existent, hah.$h#$b# Mais je vais continuer à chercher. Je sais que le métier qui me convient existe. #$b#Mais pour le moment, j'aime travailler chez Pika...#$b#Mais pour de vrai, je suis toujours à la recherche de ce qui me fait vibrer, je suppose ! #$b#... J'éviterai probablement tout ce qui implique des couteaux par contre ! Hahaha !$h",
 "event-75160122.14": "Ouais... Je suppose que tu as raison. #$b#Si je continue à chercher, je finirai par trouver ce que je cherche.$h",
-"event-75160122.15": "Oh !#$b#Merci de m'avoir accompagnée, @!#$b#Tu es vraiment chouette.$h",
+"event-75160122.15": "Oh !#$b#Merci de m'avoir accompagnée, @ !#$b#Tu es vraiment chouette.$h",
 "event-75160122.16": "Corine, @, le docteur a confirmé que tu es libre de partir. Assure toi juste de garder le pansement propre et sec, ok ? $h",
 "event-75160122.17": "Ça marche ! Merci, Maru !$h",
 "event-75160122.18": "Merci encore, @.#$b#Maintenant je dois rentrer chez moi et nettoyer le bazar !$h",
 "event-75160122.19": "Oh, merci de m'avoir raccompagnée aussi, @ !$h#$b#Je te suis redevable !$h",
 
 //Corine voit des ninjas (Corine 4 coeurs)
-"event-75160123.01": "Oh @!$h#$b#Tu visites aussi parfois la crête ?#$b#J'y vais parfois pendant ma pause pour me détendre un peu.$h#$b# Viens par là! Assieds-toi près de moi.",
+"event-75160123.01": "Oh @ !$h#$b#Tu visites aussi parfois la crête ?#$b#J'y vais parfois pendant ma pause pour me détendre un peu.$h#$b# Viens par là! Assieds-toi près de moi.",
 "event-75160123.02": "Ah, l'air frais et les sons de la nature sont assez relaxants, n'est-ce pas ?$h#$b#Tu devrais prendre le temps de te détendre chaque fois que tu le peux, @. J'ai entendu dire que l'agriculture peut être un travail vraiment éprouvant !",
 "event-75160123.03": "Hein ? Tu as entendu ça ?$a#$b# On dirait que ça vient de l'est.$a",
 "event-75160123.04": "Hmmm....$a#$b#Hé, regardes là-bas !$a",
@@ -747,7 +747,7 @@
 "event-75160124.08": "Une seconde ! Qu'entends-tu par 'éliminer les êtres dangereux' ?$a#$b#Et parmi les humains ?$a#$b#Tu veux que je--que---je fasse du mal aux autres ? s",
 "event-75160124.09": "Je m'attendais à cette réaction.#$b#Ne ferme pas tes oreilles tout de suite. Il existe de véritables monstruosités parmi les humains.#$b#Parfois, une force mortelle est nécessaire pour--",
 "event-75160124.10": "Ca suffit !$a#$b#Je suis venu ici dans l'espoir de trouver un meilleur moyen d'aider les autres et le monde, comme c'était convenu.$a#$b#À la place, tout ce que j'ai reçu, c'est une offre pour faire du mal à d'autres personnes, comme un... un méchant au poignard facile ! Je n'accepterai jamais ça ! $a",
-"event-75160124.11": "Allons-y, @! J'en ai assez entendu !$a",
+"event-75160124.11": "Allons-y, @ ! J'en ai assez entendu !$a",
 "event-75160124.12": "@. Méfies toi de la nuit.#$b# Si tu te soucies vraiment de son bien-être, je te suggère d'être vigilant après le crépuscule.",
 "event-75160124.13": "Hmpf ! Ca m'énerve que nous ayons perdu notre temps !$a#$b#Je ne ferai jamais de mal aux autres !$a",
 
@@ -849,7 +849,7 @@
 "event-75160071.02": "Bah ! J'ai remercié le gamin, pas vrai ?$a#$b#Qu'est-ce que tu veux que je fasse de plus, Corine ?$s#$b#Qu'est ce que ça peut te faire comment @ se sent ?$a",
 "event-75160071.03": "Papa, ne change pas de sujet.$a#$b#Tout ce que je dis, c'est que tu pourrais être plus gentil avec @. Surtout qu'il a retrouvé ta bague.$a#$b#^Surtout qu'elle a retrouvé ta bague.$a#$b#Ce que je veux c'est que tu t'excuses.$a",
 "event-75160071.04": "Bah ! Encore toi ?$a#$b#Comment es-tu entré !?$a^Comment es-tu entrée ?$a",
-"event-75160071.05": "Très bon timing, @!$h#$b#Mon père a quelque chose à te dire.",
+"event-75160071.05": "Très bon timing, @ !$h#$b#Mon père a quelque chose à te dire.",
 "event-75160071.06": "Hein ?#$b#Je n'ai rien à dire à ce cultivateur de melon !$a",
 "event-75160071.07": "Excuses-toi auprès de  @ ou je ne te parlerai pas pour le reste de la journée.$a#$b#Voire de la semaine !$a",
 "event-75160071.08": "Euh !$u#$b# Vas-y doucement maintenant, ma chérie. D'accord, d'accord ! Je vais m'excuser, bon sang !$s",
@@ -879,7 +879,7 @@
 //Ezekiel veut se détendre (Ezekiel 8 coeurs)
 "event-75160073.01": "Maintenant, fais attention de ne rien perdre pendant la balade, d'accord papa ?#$b#Attends, laisse-moi juste ajuster ta veste.",
 "event-75160073.02": "Bah ! Je peux très bien le faire, ma chérie.#$b#Je suis peut être agé, mais toujours plein d'entrain !$h",
-"event-75160073.03": "Oh ! Salut, @! Papa et moi nous préparions juste à sortir pour une promenade.$h#$b#Nous partons pour la montagne.#$b#Je suis désolé, je t'aurais bien proposé de te joindre à nous, mais papa n'aime pas avoir de la compagnie pendant ces promenades.$s",
+"event-75160073.03": "Oh ! Salut, @ ! Papa et moi nous préparions juste à sortir pour une promenade.$h#$b#Nous partons pour la montagne.#$b#Je suis désolé, je t'aurais bien proposé de te joindre à nous, mais papa n'aime pas avoir de la compagnie pendant ces promenades.$s",
 "event-75160073.04": "Bah ! Hé Corine, on dirait que tu ne me connais pas si bien que ça !#$b#Ce serait bien que @ nous accompagne.$h#$b#@ est une personne bien.$h",
 "event-75160073.05": "Whoa ! J'ai bien entendu, papa ?$h#$b#Tu es amical aujourd'hui, hein ? C'est une première !",
 "event-75160073.06": "Eh bien ! Je n'aime pas qu'on perde notre temps, les enfants.#$b#En route, on ne rajeunit pas !$a",
@@ -954,7 +954,7 @@
 "event-75160130.11": "Flor explique en détail la conception de l'expérience qu'elle planifie. Elle semble nerveuse au début, comme si elle pensait t'ennuyer... mais quand tu commences à poser des questions, elle devient de plus en plus enthousiaste.#Pendant qu'elle explique l'un des points les plus délicats de l'éthique dans la recherche sociale, elle te regarde dans les yeux et, ce qui est inhabituel pour elle, elle ne détourne pas immédiatement le regard .#Tu es frappé par son apparence vulnérable. Tu vois ses yeux sans la barrière de ses lunettes. Mais plus que ça, tu vois sa passion, incontrôlée et non filtrée.#Finalement, semblant se rendre compte qu'elle te regardes dans les yeux depuis un moment, s'arrête timidement et se cache derrière son fidèle livre.",
 "event-75160130.12": "Euh, je suis désolée si je me suis emporté...$12#$b#Je sais que c'était beaucoup d'explications pour toi alors que ce n'est même pas ton domaine... Je veux dire, ton domaine *d'expertise*, pas... avec les cultures... euh...$12",
 "event-75160130.13": "Alors! Euh... @...$12#$b#J... J'espérais que tu... Tu m'aiderais... avec mes. .. euh...$12#$b#Recherches !... Oui ! Recherches !$12#$b#Je… ne connais personne d'autre assez bien pour leur demander ça... alors, euh..$12#$b#S'il--s'il te plaît @... Je veux dire ! Si ce n'est pas trop te demander..$12",
-"event-75160130.14": "Tu le feras ?! Merci, @! Ca compte beaucoup pour moi !$1",
+"event-75160130.14": "Tu le feras ?! Merci, @ ! Ca compte beaucoup pour moi !$1",
 "event-75160130.15": "Flor sourit avec un soulagement évident.",
 "event-75160130.16": "Euh, je t'enverrai une lettre quand je serai prête à mener la recherche..$12#$b#Je suis désolée d'être si maladroite. C'est... c'est difficile pour moi de dire quand je dépasse les limites socialement...$12#$b# Alors, euh... j'espère te voir bientôt, @...$12#$b#Et... euh... ouais !$1 ",
 "event-75160130.17": "Flor murmure à elle même:",
@@ -1202,7 +1202,7 @@
 "event-75160149.14": "D'accord @... Je suis prêt.#$b#J'espère vraiment qu'ils vont bien....$s#$b#Tu peux la lire maintenant.",
 "event-75160149.15": "Vous commencez à lire la lettre à Ian.#À mon frère Ian,#Tout d'abord, je suis vraiment désolée de ne pas avoir répondu à tes nombreuses lettres. Mais je te rassure nous avons bien reçu l'argent et les lettres que tu nous as envoyées ces derniers mois.#Je suis encore désolée de ne pas avoir pu répondre à tes dernières lettres. Maman et Papa ne savaient pas comment en envoyer, et j'étais en stage. #Mais au moment où j'ai mis la main sur tes lettres et les ai lues à maman et papa, ils étaient très heureux. Nous l'étions tous.#Ma diplomation approche, Ian, et j'aimerais vraiment que tu puisses y assister.#Mais je sais que tu ne voudras pas dépenser de l'argent juste pour les frais de voyage. Alors je comprends. # J'ai très bien réussi à l'école et je veux juste te dire merci pour tout, grand frère Ian. # Tu es une telle inspiration pour moi et sans toi et le travail acharné de nos parents, je ne serais pas là où je suis en ce moment.#Je te promets que je réussirai un jour, et je te rembourserais tout !#Je te remercie tellement, grand frère. Maman te dit bonjour !#Tu nous manques tellement. S'il te plaît, repose-toi quand tu le peux, je sais que tu t'épuises à la tâche.#Prends soin de toi, pas seulement pour nous, mais pour toi aussi.#Tu es le meilleur grand frère que je puisse demander. A bientôt !#Je t'envoie plein d'amour, ta petite soeur, Khea",
 "event-75160149.16": "Je...$s#$b#Je...$6#$b#Je suis content....$7",
-"event-75160149.17": "J'arrive pas à y croire ! Ma petite sœur a obtenu son diplôme !$h#$b#Je suis si heureux, @!! Je suis si heureux !$h#$b#Je pourrais crier ! $h#$b#Ma petite soeur va avoir son diplôme !!$h",
+"event-75160149.17": "J'arrive pas à y croire ! Ma petite sœur a obtenu son diplôme !$h#$b#Je suis si heureux, @ !! Je suis si heureux !$h#$b#Je pourrais crier ! $h#$b#Ma petite soeur va avoir son diplôme !!$h",
 "event-75160149.18": "Merci beaucoup d'avoir lu la lettre pour moi, @ !$h#$b#Je ne pouvais pas espérer quelqu'un de mieux pour me lire une si bonne nouvelle..$l#$b#Merci ! Merci !$h#$b#Tu y crois toi !? Ma sœur est diplômée !$h",
 "event-75160149.19": "Je ferais mieux de commencer à apprendre à lire !$u#$b#Peut-être qu'ils enverront d'autres lettres bientôt ! J'ai hâte d'entendre parler de son diplôme !$h#$b#D'accord.. Je peux prendre un peu de temps pour apprendre....#$b#Je devrais aller à la bibliothèque plus souvent, hein....#$b#Ouais, je peux le faire. Je vais commencer à apprendre !$h#$b#Peut-être que je pourrai surprendre ma famille en apprenant beaucoup aussi ! Ils seront fiers de moi !$h#$b#Je vais demander de l'aide à Flor ou Penny, je les vois passer là souvent.$h#$b#Et euh... @ ?$l#$b#Ce serait vraiment génial si tu venais aussi à la bibliothèque.$l#$b#Je veux dire, euh, je pourrais apprendre beaucoup avec toi aussi !$h#$b#Haha !$h",
 "event-75160149.20": "Encore une fois @... Merci..$l",
@@ -1242,15 +1242,15 @@
 "event-75160152.06": "Tu trouves un centime en cuivre au fond de la boîte de fruits",
 "event-75160152.07": "Oh ? Qu'est-ce que c'est, @ ? Tu l'as trouvé ?$u#$b#J'espère que tu l'as trouvé.$s",
 "event-75160152.08": "Oh ! Bien joué ! Oui, c'est ma pièce porte-bonheur !$h",
-"event-75160152.09": "Ce petit gars est à mes côtés depuis que je suis un petit garçon qui traîne les rues !#$b#Je l'ai reçu une fois d'un fermier qui m'a donné à manger pendant que je mendiais.$h#$b#Elle ne m'a pas quitté depuis.$h#$b#Merci beaucoup de l'avoir trouvé, @!$h#$b#Tu es le meilleur !$h^Tu es la meilleure !$h",
+"event-75160152.09": "Ce petit gars est à mes côtés depuis que je suis un petit garçon qui traîne les rues !#$b#Je l'ai reçu une fois d'un fermier qui m'a donné à manger pendant que je mendiais.$h#$b#Elle ne m'a pas quitté depuis.$h#$b#Merci beaucoup de l'avoir trouvé, @ !$h#$b#Tu es le meilleur !$h^Tu es la meilleure !$h",
 "event-75160152.10": "Je t'en dois une !$h#$b#Mais je n'accepterai toujours pas la défaite dans notre propre petite compétition.#$b#Alors voici un signe de ma gratitude.[621]#$b#J'ai demandé à Kenneth d'en faire pour moi l'autre jour.#$b#J'espère que ça t'aidera !$h",
 "event-75160152.11": "Vous avez reçu un Arroseur de qualité de la part de Jeric !",
-"event-75160152.12": "Très bien ! Merci encore de m'avoir aidé, @!$h#$b#Je t'en suis vraiment reconnaissant !$h",
+"event-75160152.12": "Très bien ! Merci encore de m'avoir aidé, @ !$h#$b#Je t'en suis vraiment reconnaissant !$h",
 "event-75160152.13": "J'espère que l'arroseur t'aidera un peu.#$b#Ces trucs sont vraiment pratiques, je te le dis !$h",
 
 //Jeric et sa ferme (Jeric 6 coeurs)
 "event-75160153.01": "Et ça devrait le faire !$h",
-"event-75160153.02": "Oh ! Je ne t'ai pas vu arriver, @!$h#$b#J'étais en train d'expédier des marchandises.#$b#J'espère vraiment que je ferai de beaux bénéfices avec.$h ",
+"event-75160153.02": "Oh ! Je ne t'ai pas vu arriver, @ !$h#$b#J'étais en train d'expédier des marchandises.#$b#J'espère vraiment que je ferai de beaux bénéfices avec.$h ",
 "event-75160153.03": "Oh, tu veux venir avec moi ? Je vais aller nourrir Turbo.#$b#Le vieux canasson aime beaucoup manger !$h",
 "event-75160153.04": "Allez, je parie qu'il va t'aimer.",
 "event-75160153.05": "Hé, mon garçon !$h#$b#Allez allez, je vais remplir ta gamelle, attends.#$b#Hé, @, viens ici ! Tu peux le caresser si tu veux !$h",
@@ -1266,7 +1266,7 @@
 "event-75160153.15": "Eh bien, je vais me préparer pour la prochaine récolte maintenant.#$b#Tu veux rester un moment et me regarder travailler ?#$b#Peut-être que tu craqueras pour moi et concéder la défaite ?$6",
 
 //Jeric admet sa défaite (Jeric 8 coeurs)
-"event-75160154.01": "Ravi de te voir ici @!$h#$b#J'étais en fait en route pour visiter ta ferme.$6",
+"event-75160154.01": "Ravi de te voir ici @ !$h#$b#J'étais en fait en route pour visiter ta ferme.$6",
 "event-75160154.02": "Pourquoi ? Eh bien, puisque tu es là, autant te le dire.$h",
 "event-75160154.03": "J'admets ma défaite.#$b#Tu as une meilleure ferme que moi.",
 "event-75160154.04": "Allez ! Je vais te dire pourquoi.#$b#Premièrement, mettons-nous à l'aise pour parler.$h",
@@ -1347,7 +1347,7 @@
 "event-75160080.07": "Psst. @.",
 "event-75160080.08": "Là-haut, sur le toit.",
 "event-75160080.09": "N'oublie pas. Trente-cinq melons. Ils doivent être d'une taille et d'un poids moyens avec une fermeté appropriée.#$b#Compris ?#$b#Je t'ai déjà donné l'argent, alors pas d'inquiétude.#$b#Cela devrait être plus que suffisant.",
-"event-75160080.10": "Oh! Salut, @!#$b#Qu'est-ce que tu viens acheter aujourd'hui ?$h",
+"event-75160080.10": "Oh! Salut, @ !#$b#Qu'est-ce que tu viens acheter aujourd'hui ?$h",
 "event-75160080.11": "...Quoi ?$u#$b#Whoa ! Je veux dire, oui, bien sûr ! Ce sera un beau profit pour aujourd'hui !$h#$b#Prends tous ces vins et ces melons ! $h#$b#N'oublie pas non plus tes trois sacs !$h#$b#C'est un plaisir de faire affaire avec toi !$h",
 "event-75160080.12": "Excellent travail.$h#$b#Là, laisse-moi t'aider.",
 "event-75160080.13": "Merci pour l'aide @, je te suis redevable.#$b#C'est bon. Rentrons.",
@@ -1364,12 +1364,12 @@
 "event-75160081.08": "Ils se sont calmés",
 
 //Keahi fait une farce au fermier (Keahi 2 coeurs)
-"event-75160082.01": "Heya, @!$h#$b#Ravi de te voir !$h#$b#Qu'est-ce que tu fais aujourd'hui ? Tu viens dire bonjour ?",
+"event-75160082.01": "Heya, @ !$h#$b#Ravi de te voir !$h#$b#Qu'est-ce que tu fais aujourd'hui ? Tu viens dire bonjour ?",
 "event-75160082.02": "Oh ! C'est cool.#$b#Cool cool cool cool...$h",
 "event-75160082.03": "Alors, euh... Au fait...#$b#Mon père a acheté des légumes à toi l'autre jour.#$b#C'était un délice ! Excellent travail, monsieur le fermier !$h^C'était un délice ! Excellent travail, madame la fermière !$h#$b#Papa a dit que tes légumes ont sauvé le repas !",
 "event-75160082.04": "Tu mérites cette tape dans le dos. Bien joué !$h#$b#Je suis sûr que tu es vraiment occupé... Alors je vais arrêter de t'embêter maintenant, @.",
 "event-75160082.05": "Au revoir !$h",
-"event-75160082.06": "Ha ha ha ha.$h#$b#Oups. Tu sens super mauvais, @! Tu ferais mieux de prendre une très longue douche !$h",
+"event-75160082.06": "Ha ha ha ha.$h#$b#Oups. Tu sens super mauvais, @ ! Tu ferais mieux de prendre une très longue douche !$h",
 
 //Keahi veut rattraper Trinnie (Keahi 4 coeurs)
 "event-75160083.01": "Hmmm... Je me demande si ça irait.$s",
@@ -1576,7 +1576,7 @@
 "event-75160180.13": "Je vais reprendre mes études maintenant, @.#$b#Prends soin de toi.",
 
 //Lenny visite un fermier dans le village (Lenny 0 coeurs)
-"event-75160086.01": "Bonjour, @! Comment s'est passé le trajet en téléphérique ?$h#$b# Bienvenue au village de Ridgeside ! Un village sur le flanc de la crête ! Bon le slogan est en cours d'élaboration....$h#$b#Je suppose que tu as enfin lu la lettre qu'il t'a donnée...$s#$b#Je suis la seule et unique Lenny. S'il te plaît, retiens tes applaudissements jusqu'à la fin de la visite !$4#$b# Je suis la directrice administrative de Ridgeside.$h#$b# C'est une façon compliquée de dire : 'Celle qui fait la paperasse' !$h#$b#Nous n'avons pas beaucoup de visiteurs de l'extérieur de la vallée, alors nous sommes vraiment heureux de te voir !$h",
+"event-75160086.01": "Bonjour, @ ! Comment s'est passé le trajet en téléphérique ?$h#$b# Bienvenue au village de Ridgeside ! Un village sur le flanc de la crête ! Bon le slogan est en cours d'élaboration....$h#$b#Je suppose que tu as enfin lu la lettre qu'il t'a donnée...$s#$b#Je suis la seule et unique Lenny. S'il te plaît, retiens tes applaudissements jusqu'à la fin de la visite !$4#$b# Je suis la directrice administrative de Ridgeside.$h#$b# C'est une façon compliquée de dire : 'Celle qui fait la paperasse' !$h#$b#Nous n'avons pas beaucoup de visiteurs de l'extérieur de la vallée, alors nous sommes vraiment heureux de te voir !$h",
 "event-75160086.02": "Cela fait longtemps que personne n'a vécu dans ce vieux cottage de la ferme %farm $h#$b# Il appartenait à un bon ami à moi, alors j'espère que tu en prendras bien soin.#$b#Un bon ami, en effet...$s",
 "event-75160086.03": "Laisse-moi te montrer la ville lors d'une visite rapide.$h#$b# Boucle ta ceinture, c'est parti !",
 "event-75160086.04": "Tout d'abord, nous avons le Log Cabin Hotel. C'est un endroit idéal pour se détendre après une longue randonnée à travers les montagnes.$h#$b#Il dispose d'un balcon privé pour les événements, et même d'une salle de sport au troisième étage si tu n'es toujours pas épuisé après ta randonnée !$h",
@@ -1619,7 +1619,7 @@
 "event-75160088.16": "Lewis est TELLEMENT facile à énerver quand on sait comment. Mais c'est un secret de grande soeur.$h",
 
 //Lenny remercie le fermier pour ses contributions à RSV (Lenny 8 coeurs)
-"event-75160089.01": "Tiens bonjour, @!$h#$b#C'est si bon de te voir !$h#$b#C'est une chance que tu sois là, je dois te dire quelque chose d'important.$a ",
+"event-75160089.01": "Tiens bonjour, @ !$h#$b#C'est si bon de te voir !$h#$b#C'est une chance que tu sois là, je dois te dire quelque chose d'important.$a ",
 "event-75160089.02": "Le truc c'est...$4#$b#Comment dire ça...$4",
 "event-75160089.03": "Merci, fermier !$h",
 "event-75160089.04": "Tu ne le sais peut-être pas, mais ton travail a indirectement apporté des améliorations à la vallée.#$b#En fait, en raison de la popularité de ta ferme, nous avons reçu beaucoup de visiteurs, à la fois ici et à Pelican Ville.#$b#Et à cause de cela, les revenus de nos villes ont également augmenté.#$b#Tu ne le sais peut-être pas, @, mais tu es une bénédiction pour cette vallée.$h#$b#Alors encore une fois, au nom des villageois ici... Merci !$h",
@@ -2134,7 +2134,7 @@
 "event-75160103.06": "Oh ! C'est exact, madame !$h#$b#M. @ voici un ancien client de l'hôtel !$4^Mme @ voici un ancien client de l'hôtel !$4#$b#Si je séjournais ici, je croirais la parole de quelqu'un qui a déjà une grande expérience de l'hôtel !$4#$b#De plus, nous avons une offre limitée d'un petit-déjeuner gratuit au lit si vous réservez cette chambre aujourd'hui !$4",
 "event-75160103.07": "Oh ! C'est vrai ?#Eh bien, je vais suivre la suggestion de ce gamin.#J'attends ce petit-déjeuner avec impatience !",
 "event-75160103.08": "*chuchote* Elle est déjà partie ?",
-"event-75160103.09": "Ouf ! Mon Dieu !$s#$b#Ce type de clients causent vraiment des problèmes !$h#$b#J'ai trouvé ça assez amusant quand elle a mentionné vouloir parler au manager, parce que c'est moi le propriétaire !$h#$b#Si ma femme avait été là, elle aurait pensé à quelque chose rapidement, comme ce que tu as fait, @!$h#$b#Merci pour l'aide ! J'étais sur le point de perdre mon sang-froid, je dis!$a#$b#Cette dame se croyait tout permis, je te le dis !$a",
+"event-75160103.09": "Ouf ! Mon Dieu !$s#$b#Ce type de clients causent vraiment des problèmes !$h#$b#J'ai trouvé ça assez amusant quand elle a mentionné vouloir parler au manager, parce que c'est moi le propriétaire !$h#$b#Si ma femme avait été là, elle aurait pensé à quelque chose rapidement, comme ce que tu as fait, @ !$h#$b#Merci pour l'aide ! J'étais sur le point de perdre mon sang-froid, je dis!$a#$b#Cette dame se croyait tout permis, je te le dis !$a",
 "event-75160103.10": "Hoho ! Je pense que j'ai besoin d'une pause.$h",
 "event-75160103.11": "Merci encore pour ton aide @ !$h",
 
@@ -2253,7 +2253,7 @@
 "event-75160170.36": "Merci pour tout ça @...$h#$b#Tu n'as aucune idée à quel point j'avais besoin d'entendre ça...#$b#Merci. Tellement.$h",
 
 
-"event-75160171.01": "@!$h#$b#Juste à temps, j'ai envie que tu assistes à cette conversation.",
+"event-75160171.01": "@ !$h#$b#Juste à temps, j'ai envie que tu assistes à cette conversation.",
 "event-75160171.02": "Je pense que ça conviendra parfaitement, Shiro.$h#$b#Que penses-tu d'essayer l'hydrothérapie ?#$b#C'est un type de rééducation qui se fait dans l'eau.#$b#Ça t'aidera à augmenter ton endurance à un rythme plus confortable et ça peut soulager tes vertiges.#$b#C'est pile ce qu'il te faut !$h",
 "event-75160171.03": "Attends, vraiment, docteur ?!$h#$b#On ferait ça où ?",
 "event-75160171.04": "Dans l'océan. Nous irons à la plage.#$b#C'est proche et facile d'accès, et l'eau salée augmentera ta flottabilité.#$b#Les courants ne sont pas assez forts pour être dérangeants. Ce sont les conditions idéales.",
@@ -2360,7 +2360,7 @@
 "event-75160182.05": "Pourquoi ?#$b#Hmmm.$s#$b#Eh bien, c'est parce que tu m'as trouvée.#$b#Hmmm... Comment expliquer...$s",
 "event-75160182.06": "Disons simplement que j'avais un vieil ami à l'époque.#$b#Et il m'a dit que lorsque quelqu'un réussit à me trouver malgré mes talents de cachette,#$b#Je devrais aller à sa rencontre et être amicale. #$b#Il parlait de  'quelqu'un de digne' ou quelque chose comme ça. Je ne sais pas.$4#$b#De vieilles légendes... Mais je crois en mon vieil ami.#$b#Alors, eh bien, voilà. .. Ravie de te rencontrer...?",
 "event-75160182.07": "Oh, @ !#$b#Eh bien, c'est un nom bizarre, mais ravie de te rencontrer !$h",
-"event-75160182.08": "Dis, @! Je m'ennuie facilement... et tout ce bavardage me fait bailler.$4#$b#Donc à partir de maintenant, j'ai un petit défi pour toi!$h",
+"event-75160182.08": "Dis, @ ! Je m'ennuie facilement... et tout ce bavardage me fait bailler.$4#$b#Donc à partir de maintenant, j'ai un petit défi pour toi!$h",
 "event-75160182.09": "C'est vraiment simple. Eh bien... Se cacher a été un peu ennuyeux puisque personne ne me cherche.#$b#Alors je veux pimenter les choses !$h#$b#Je me cache toujours partout , et je change de place tous les jours.#$b#Eh bien, sauf le jeudi. Je reste a la maison le jeudi.$h",
 "event-75160182.10": "Le défi est...#$b#Je veux que tu me trouves.$h#$b#C'est simple !$h#$b#Et quand tu me trouveras. Je t'offrirai un cadeau .#$b#Et puis le lendemain, je serai ailleurs.#$b#Et si tu me retrouves, un autre cadeau !$h#$b#Ne t'inquiète pas, les cadeaux en vaudront la peine .#$b#Mais si tu décides de ne pas me chercher. C'est pas grave.$4#$b#Mais ce n'est pas sympa de me laisser être cachée toute seule.$h#$b#Compris !?$h ",
 "event-75160182.11": "Maintenant, je vais trouver une cachette parfaite !$h#$b#Je te verrai quand tu me trouveras !$h",
@@ -2368,7 +2368,7 @@
 
 //Ysabelle s'ennuie au lobby (Ysabelle 2 coeurs)
 "event-75160141.01": "Oh mince... Il ne se passe vraiment rien de rien...$6#$b#Il est presque 16h, alors enfin je pourrais partir.$h#$b#Mais que faire en attendant ? Hmm...$6",
-"event-75160141.02": "Oh ! Eh bien bonjour, @!$h#$b#Bienvenue au Log Cabin Hotel, tout ça tout ça.#$b#@, qu'est-ce qui t'amène ici ?#$b#Viens, discutons pendant un moment, ça devient parfois ennuyeux de rester ici.$h",
+"event-75160141.02": "Oh ! Eh bien bonjour, @ !$h#$b#Bienvenue au Log Cabin Hotel, tout ça tout ça.#$b#@, qu'est-ce qui t'amène ici ?#$b#Viens, discutons pendant un moment, ça devient parfois ennuyeux de rester ici.$h",
 "event-75160141.03": "Ah, je suis content de pouvoir parler avec quelqu'un.$h#$b#Aurais tu l'amabilité de me tenir compagnie un moment ?",
 "event-75160141.04": "Alors, comment va la ferme ? Grand-père m'a dit que tu avais hérité d'un immense terrain !#$b#Comment trouves tu la vie de fermier jusqu'à présent ?",
 "event-75160141.05": "Contente de te l'entendre dire !#$b#Ce serait amusant de visiter la ferme. Grand-père et moi on pourrait peut être venir un jour ?$h#$b#Ce serait une belle façon d'occuper une journée de congé !",
@@ -2539,7 +2539,7 @@
 "event-75160189.05": "Dis, @ ? Et si nous faisions de cela notre petit projet spécial ?$h#$b#Nous pouvons restaurer le système de chariots par nous-mêmes.#$b#Après tout, nous avons besoin d'un moyen plus simple pour acheminer des provisions dans le village, alors pourquoi ne pas utiliser les chariots ?$4#$b#Je suppose que tu pourrais aussi rentrer dans un chariot... Si tu n'as pas peur.$h#$b#Je suis sûr qu'une vieille charrette branlante ne te fera pas peur, ha ha !$4#$b#Je te taquines, @.$h",
 "event-75160189.06": "D'accord, ça ressemble à un plan...",
 "event-75160189.07": "Je vais convaincre un riche investisseur d'investir de l'argent dans le village. Mais pour que cela se produise, je dois le convaincre que tu es autosuffisant et financièrement indépendant.#$b#Alors, tout ce que tu dois faire c'est gagner au moins 150 000 g. Cela devrait suffire à les impressionner !$h#$b#Quand tu auras gagné autant d'argent, viens simplement au bureau pour que je puisse faire la paperasse, compris ? $h",
-"event-75160189.08": "Excellent !$h#$b#Bonne chance !$h#$b#C'est un plaisir de faire des affaires avec toi, @!$h#$b#Rappelle-toi ! Viens à mon bureau quand tu auras assez gagné d'argent !#$b#J'attends la réparation des chariots avec impatience.$h",
+"event-75160189.08": "Excellent !$h#$b#Bonne chance !$h#$b#C'est un plaisir de faire des affaires avec toi, @ !$h#$b#Rappelle-toi ! Viens à mon bureau quand tu auras assez gagné d'argent !#$b#J'attends la réparation des chariots avec impatience.$h",
 
 //Lenny obtient l'argent pour minecart
 "event-75160191.01": "Ah, @ ! Ravi de te voir !$h#$b#Je suppose que tu es ici pour le projet de restauration de chariots ? Est-ce que c'est 150 000g dans ta poche ou est ce que c'est ta joie de me voir qui déborde ?$h",
@@ -4159,7 +4159,7 @@
 "Festivals.IceFest.Aguar": "Hmmm.#$e#% Mr Aguar regarde intensément la canne en bonbon.",
 "Festivals.IceFest.Bert": "Tu te souviens de mon conseil ?#$b#Reste sur tes gardes, ne fais qu'un avec la canne, tu m'entends ?$h",
 "Festivals.IceFest.Ezekiel": "Retiens bien ça, je vais attraper plus de poissons que quiconque.$h",
-"Festivals.IceFest.Freddie": "Hé là, @!$h#$e#Tu restes au chaud ?",
+"Festivals.IceFest.Freddie": "Hé là, @ !$h#$e#Tu restes au chaud ?",
 "Festivals.IceFest.Jio": "Hier était calme et paisible.#$e#Aujourd'hui, la glace craque sous la tension.$s",
 "Festivals.IceFest.Keahi": "Cette neige est difficile à mettre en forme.$s#$e#Papa dit qu'elle n'est pas assez mouillée ! Comment la neige peut-elle être... pas mouillée ?$u",
 "Festivals.IceFest.Kiwi": "Kiwi essaie d'attraper du poisson.$h#$e#Kiwi à grosse tête et petits bras.$a#$b#Pas attraper.$s",
@@ -4199,7 +4199,7 @@
 "Festivals.WinterStar.Aguar": "Et une joyeuse fête de l'étoile d'hiver à toi, @.$h#$e#N'aies pas l'air si surpris.#$b#Je n'aime pas les plaisanteries, mais ça ne veut pas dire que je ne réalise pas leur importance.",
 "Festivals.WinterStar.Bert": "J'avais raison, @.$h#$e#Son sourire vaut le coût de cette maison de poupée et plus encore.$h",
 "Festivals.WinterStar.Ezekiel": "Je le savais. La nourriture est bonne et la bière est pourrie.$a#$b#Je vais rentrer chez moi et boire du vrai alcool !$h",
-"Festivals.WinterStar.Freddie": "Joyeuse étoile d'hiver, @!$h#$e# En espérant que tu obtiendras le maximum de ce que tu veux et tout ce dont tu as besoin !$h",
+"Festivals.WinterStar.Freddie": "Joyeuse étoile d'hiver, @ !$h#$e# En espérant que tu obtiendras le maximum de ce que tu veux et tout ce dont tu as besoin !$h",
 "Festivals.WinterStar.Jio": "Kiwi aime ces fêtes.$h",
 "Festivals.WinterStar.Keahi": "Cadeaux !$u#$e#J'adore les cadeaux !$h",
 "Festivals.WinterStar.Kiwi": "Kiwi est présent maintenant !$4#$e#Shee!$h",
@@ -4266,10 +4266,10 @@
 "Festivals.EoR.Kenneth_spouse": "Bonne année, mon coeur !$h#$e#Tu sais... chaque année, le feu de joie me rapellait le deuil.$s#$b#Maintenant ?$8#$b#Maintenant je l'attends avec impatience chaque année.$7#$b#Parce que je peux être avec toi chaque année.$7#$b#Je t'aime, @.$7",
 "Festivals.EoR.Maddie": "Bonne année, je suppose.#$b#Pourquoi doivent-ils brûler tout ce bois ?$a#$b#J'espère qu'ils n'ont pas coupé d'arbres exprès.$s#$e#J'admets que ça donne une athmosphère plutôt sereine... $h",
 "Festivals.EoR.Maddie_spouse": "Hé toi... #$b#Bonne année, gros bêta.$l#$b#Je suis vraiment contente d'avoir fait ta connaissance, tu sais.$9#$b#Merci à toi, j'ai appris à m'ouvrir à nouveau.$7#$b#J'ai appris à être honnête avec moi-même.$6#$b#J'ai appris à aimer à nouveau.$8#$e#Je t'aime, @.$h",
-"Festivals.EoR.Philip": "Bonne année, @!#$e#%Philip a l'air de trembler.#$e#J'espère qu'il ne neige pas. L'hypothermie n'est pas une blague.$s#$b#I mieux vaut aller voir les personnes âgées.#$e#Tu devrais aussi rester au chaud, @.$h",
+"Festivals.EoR.Philip": "Bonne année, @ !#$e#%Philip a l'air de trembler.#$e#J'espère qu'il ne neige pas. L'hypothermie n'est pas une blague.$s#$b#I mieux vaut aller voir les personnes âgées.#$e#Tu devrais aussi rester au chaud, @.$h",
 "Festivals.EoR.Philip_spouse": "Bonne année, chérie !$h#$e#Oh wow, il fait vraiment froid !$u#$b#Pourquoi m'as-tu laissé quitter la maison comme ça, ha ha !$h#$e#Voici une autre année de Philip et @, conquérants de l'univers.$l",
 "Festivals.EoR.Shiro": "Bonne année, @.$h#$e# C'est de mauvais augure de dire votre souhait à quelqu'un, mais...#$b#Je souhaite vraiment que Yuuma puisse avoir une enfance convenable.. . $s",
-"Festivals.EoR.Shiro_spouse": "Bonne année, @!$h#$e#Tu sais, avant de te rencontrer, je me sentais... incomplet ?$s#$b#Je me sentais moins bien qu'une personne à cause de mes... handicaps.$s#$b#Quand je t'ai rencontré, j'avais l'impression que tu me complèterais, mais...#$b#En fait, tu m'as fait réaliser que je suis déjà complet.$h",
+"Festivals.EoR.Shiro_spouse": "Bonne année, @ !$h#$e#Tu sais, avant de te rencontrer, je me sentais... incomplet ?$s#$b#Je me sentais moins bien qu'une personne à cause de mes... handicaps.$s#$b#Quand je t'ai rencontré, j'avais l'impression que tu me complèterais, mais...#$b#En fait, tu m'as fait réaliser que je suis déjà complet.$h",
 "Festivals.EoR.Ysabelle": "Bonne année, @ !#$e#Corine a vraiment envie d'aventure aujourd'hui.$6#$b#J'espère qu'elle n'aura plus d'idées bizarres et me demandera de grimper sur quelque chose comme l'année dernière !$6#$e#Bon secrètement j'espère qu'elle me demandera.$h#$b#J'ai besoin d'adrénaline !$h",
 "Festivals.EoR.Ysabelle_spouse": "Hé bébé, bonne année !$l#$b#Mon grand-père m'a raconté comment les clients de l'hôtel passaient la nouvelle année sur le balcon de la cabane en rondins.#$b#Ça a l'air assez romantique, n'est-ce pas ?$l#$b#On devrait peut-être sortir avec une bouteille de vin.$h",
 
@@ -4312,9 +4312,9 @@
 "EmberNightDialogue.Leah": "Cette belle montagne est très inspirante.#$b#Je pense que mon prochain tableau s'intitulera : Hiver à Ridgeside.'$h",
 "EmberNightDialogue.Shane": "Rien ne vaut une bière fraîche.#$b#J'espère cependant que ce festival se terminera bientôt.#$b#Il fait de plus en plus froid.$s",
 "EmberNightDialogue.Marnie": "Lenny organise la braise des résolutions chaque année.$h#$b#Elle est beaucoup plus organisée qu'elle n'en a l'air.$1#$e#J'espère que Lewis réalisera ma résolution du Nouvel An...$2#$b#Tu n'as pas entendu ça, n'est-ce pas !?$4#$b#...$4",
-"EmberNightDialogue.Elliott": "Bonne année, @!$1#$e#'Même dans les pires moments...$2#$b#Quand je sens que les années passent...$2#$b#La vie semble pleine de possibilités.#$b#Quand la nouvelle année arrive.'$1#$b#Beau poème, n'est-ce pas ?$1",
-"EmberNightDialogue.Gus": "Bonne année, @!$1#$e#Pika a certainement des recettes étranges...$2#$b#Les gens semblent apprécier sa cuisine, cependant.#$b#Peut-être que je devrais en vendre au saloon aussi ?$1",
-"EmberNightDialogue.Harvey": "Bonne année, @!$1#$e#Une autre année s'est écoulée...#$b#Je commence vraiment à me sentir vieux.$2#$b#Inutile de s'en plaindre, cependant !$1",
+"EmberNightDialogue.Elliott": "Bonne année, @ !$1#$e#'Même dans les pires moments...$2#$b#Quand je sens que les années passent...$2#$b#La vie semble pleine de possibilités.#$b#Quand la nouvelle année arrive.'$1#$b#Beau poème, n'est-ce pas ?$1",
+"EmberNightDialogue.Gus": "Bonne année, @ !$1#$e#Pika a certainement des recettes étranges...$2#$b#Les gens semblent apprécier sa cuisine, cependant.#$b#Peut-être que je devrais en vendre au saloon aussi ?$1",
+"EmberNightDialogue.Harvey": "Bonne année, @ !$1#$e#Une autre année s'est écoulée...#$b#Je commence vraiment à me sentir vieux.$2#$b#Inutile de s'en plaindre, cependant !$1",
 "EmberNightDialogue.Jas": "Bonne année Mr @^Bonne année Mme @ !$1#$e#Trinnie a donné un nom à sa bûche.#$b#Je me demande si elle se souvient que nous devons les brûler plus tard. $2",
 "EmberNightDialogue.Vincent": "Bonne année, monsieur^Bonne année, madame !$1#$e#J'ai perdu la bûche que j'avais apportée !$3#$b#Maintenant, mes souhaits ne se réaliseront pas.$2",
 "EmberNightDialogue.Willy": "Bonne année, mon gars^Bonne année, ma fille !$1#$e#Ne fais pas attention à l'odeur, j'ai pêché à l'étang de Ridgeside toute la journée avant de monter dans la montagne.$3",
@@ -4368,7 +4368,7 @@
 "GatheringDialogue.Penny.spouse": "Hé, mon amour. J'espère que tu apprécies le festival.$h#$b#Je parcours les étals pour voir si je peux trouver quelque chose de coquet pour la maison.$h",
 "GatheringDialogue.Haley.spouse": "Viens ici, mon amour ! Prenons une photo ensemble !$h#$b#C'est tellement amusant !$h",
 "GatheringDialogue.Sebastian.spouse": "Je suis en train de réparer la moto de Jeric.#$b#On discutera plus tard.$h",
-"GatheringDialogue.Sam.spouse": "Souhaites moi bonne chance pour le concert, @!$h#$b#Je vais montrer mes compétences à toute la vallée !$h",
+"GatheringDialogue.Sam.spouse": "Souhaites moi bonne chance pour le concert, @ !$h#$b#Je vais montrer mes compétences à toute la vallée !$h",
 "GatheringDialogue.Alex.spouse": "J'ai acheté des hamburgers à Gus et Pika plus tôt ! ​​Ils sont tellement bons !$h#$b#Tu veux que je t'en achète un aussi ?$h",
 "GatheringDialogue.Harvey.spouse": "Promenons-nous dans le village après le concert.#$b#Je n'y suis pas allé depuis un moment.$s",
 "GatheringDialogue.Elliott.spouse": "J'attends avec impatience les exploits de nos villageois musiciens !$h#$b#Dansons à cœur joie !$h",
@@ -4430,29 +4430,29 @@
 "Romance.FemaleWeddingFix.MaleFarmer2.Corine": "@... Corine... #$b# En tant que maire de Pelican Ville et porteur régional du sceau matrimonial, je vous prononce maintenant mari et femme !$h",
 "Romance.FemaleWeddingFix.FemaleFarmer1.Corine": "Quand @ est arrivée pour la première fois à Pelican Ville, personne ne savait si elle s'intégrerait à notre communauté...#$b#Mais à partir de ce jour, @ va être aussi une partie de cette ville comme chacun d'entre nous !$h#$b#C'est mon grand honneur en ce jour {0} de {1}, d'unir @ et Corine dans les liens du mariage.",
 "Romance.FemaleWeddingFix.FemaleFarmer2.Corine": "@... Corine... #$b# En tant que maire de Pelican Ville et porteur régional du sceau matrimonial, je vous déclare maintenant épouse et..., eh bien, épouse !$h",
-"Romance.give.flowersA.Corine": "Oh wow !$u#$b#Tu es sûr de ça ?^Tu es sûre de ça ?$l#$b#Tu me veux vraiment comme petite amie?$l#$b#Bien sûr j'adorerais être ta petite amie !#$e#Nous sommes vraiment ensemble maintenant !?$h#$b#Je suis heureuse, tellement heureuse !$l#$e#Je t'aime, @!$h",
-"Romance.give.flowersB.Corine": "Oh wow !$u#$b#Tu es sûr de ça ?^Tu es sûre de ça ?$l#$b#Tu me veux vraiment comme petite amie?$l#$b#Bien sûr j'adorerais être ta petite amie !#$e#Nous sommes vraiment ensemble maintenant !?$h#$b#Je suis heureuse, tellement heureuse !$l#$e#Je t'aime, @!$h",
+"Romance.give.flowersA.Corine": "Oh wow !$u#$b#Tu es sûr de ça ?^Tu es sûre de ça ?$l#$b#Tu me veux vraiment comme petite amie?$l#$b#Bien sûr j'adorerais être ta petite amie !#$e#Nous sommes vraiment ensemble maintenant !?$h#$b#Je suis heureuse, tellement heureuse !$l#$e#Je t'aime, @ !$h",
+"Romance.give.flowersB.Corine": "Oh wow !$u#$b#Tu es sûr de ça ?^Tu es sûre de ça ?$l#$b#Tu me veux vraiment comme petite amie?$l#$b#Bien sûr j'adorerais être ta petite amie !#$e#Nous sommes vraiment ensemble maintenant !?$h#$b#Je suis heureuse, tellement heureuse !$l#$e#Je t'aime, @ !$h",
 "Romance.stardrop.gift.Corine": "Nous avons traversé beaucoup d'épreuves et tu as été avec moi tout le long.$l#$b#Je voulais juste te donner quelque chose qui pourrait te montrer à quel point tu comptes pour moi .$h#$b#Quelque chose qui pourrait te montrer combien je t'aime.$l#$b#Je t'aimerai et te protégerai pour toujours.$h",
 "Romance.rejectNPCA.Corine": "Oh, euh... $u#$b#Je ne veux pas que tu le prennes mal... mais je ne t'aime pas de cette manière.$s#$b#On pourrait juste être amis, non ?^On pourrait juste être amies, non ?#$b#Je suis vraiment désolée, @.$s",
 "Romance.rejectNPCB.Corine": "Oh, euh... $u#$b#Je ne veux pas que tu le prennes mal... mais je ne t'aime pas de cette manière.$s#$b#On pourrait juste être amis, non ?^On pourrait juste être amies, non ?#$b#Je suis vraiment désolée, @.$s",
-"Romance.MovieInvite.Spouse.Corine": "Yeah, soirée rancard ! J'adore ton idée, @!$h#$b#Juste un instant, je serai prête en un tournemain.$h#$e#I' Je suis ravie de passer du temps avec toi !$l",
+"Romance.MovieInvite.Spouse.Corine": "Yeah, soirée rancard ! J'adore ton idée, @ !$h#$b#Juste un instant, je serai prête en un tournemain.$h#$e#I' Je suis ravie de passer du temps avec toi !$l",
 
 //Fleur
-"Romance.Engagement.Flor0": "Oh wow, ce collier a l'air intéressant, @...#$b#Attendez...$u#$b#Êtes-vous?$l#$b#@! Je... Je je ne sais pas quoi dire...$l#$b#Oui ! Oui, je vais t'épouser !$l",
+"Romance.Engagement.Flor0": "Oh wow, ce collier a l'air intéressant, @...#$b#Attendez...$u#$b#Êtes-vous?$l#$b#@ ! Je... Je je ne sais pas quoi dire...$l#$b#Oui ! Oui, je vais t'épouser !$l",
 "Romance.Engagement.Flor1": "Je suis tellement excité, @... Je t'aime!$l",
 "Romance.FemaleWeddingFix.MaleFarmer1.Flor": "Quand @ est arrivé pour la première fois à Pelican Ville, personne ne savait s'il s'intégrerait à notre communauté...#$b#Mais à partir de ce jour, @ va faire partie de cette ville comme chacun d'entre nous !$h#$b#C'est mon grand honneur, aujourd'hui le {0} {1}, d'unir @ et Flor par les liens du mariage.",
 "Romance.FemaleWeddingFix.MaleFarmer2.Flor": "@... Flor... #$b# En tant que maire de Pelican Ville et porteur régional du sceau matrimonial, je vous prononce maintenant mari et femme !$h",
 "Romance.FemaleWeddingFix.FemaleFarmer1.Flor": "Quand @ est arrivée pour la première fois à Pelican Town, personne ne savait si elle s'intégrerait à notre communauté...#$b#Mais à partir de ce jour, @ faire partie de cette ville comme chacun d'entre nous !$h#$b#C'est mon grand honneur aujourd'hui le {0} {1}, d'unir @ et Flor par les liens du mariage.",
 "Romance.FemaleWeddingFix.FemaleFarmer2.Flor": "@... Flor... #$b# En tant que maire de Pelican Ville et porteur régional du sceau matrimonial, je vous déclare maintenant épouse et..., eh bien, épouse !$h",
-"Romance.give.flowersA.Flor": "Ah, c'est un bel arrangement de fleurs.$h#$b#Attendez, euh... N'est-ce pas ?$u#$b#Bien sûr ! J'adorerais être ta petite-amie !$l#$b#Euh... Que fait une petite-amie ? Je veux dire...$l#$b#Je veux dire à quel moment la relation transcende-t-elle son état actuel...$ l#$b#Oh, désolé. Je me suis perdu dans mes pensées. Je t'aime, @!$l",
-"Romance.give.flowersB.Flor": "Ah, c'est un bel arrangement de fleurs.$h#$b#Attendez, euh... N'est-ce pas ?$u#$b#Bien sûr ! J'adorerais être ta petite amie !$l#$b#Euh... Que fait une petite amie ? Je veux dire...$l#$b#Je veux dire à quel moment la relation transcende-t-elle son état actuel...$ l#$b#Oh, désolé. Je me suis perdu dans mes pensées t~FILE CHANGE~ici. Je t'aime, @!$l",
+"Romance.give.flowersA.Flor": "Ah, c'est un bel arrangement de fleurs.$h#$b#Attendez, euh... N'est-ce pas ?$u#$b#Bien sûr ! J'adorerais être ta petite-amie !$l#$b#Euh... Que fait une petite-amie ? Je veux dire...$l#$b#Je veux dire à quel moment la relation transcende-t-elle son état actuel...$ l#$b#Oh, désolé. Je me suis perdu dans mes pensées. Je t'aime, @ !$l",
+"Romance.give.flowersB.Flor": "Ah, c'est un bel arrangement de fleurs.$h#$b#Attendez, euh... N'est-ce pas ?$u#$b#Bien sûr ! J'adorerais être ta petite amie !$l#$b#Euh... Que fait une petite amie ? Je veux dire...$l#$b#Je veux dire à quel moment la relation transcende-t-elle son état actuel...$ l#$b#Oh, désolé. Je me suis perdu dans mes pensées t~FILE CHANGE~ici. Je t'aime, @ !$l",
 "Romance.stardrop.gift.Flor": "Je pense avoir enfin trouvé cette complicité spéciale, la compréhension et le lien puissant qui peut exister entre deux personnes, @...#$b#Je pense avoir enfin trouvé mon âme soeur. $h#$b#Voici un petit cadeau de moi... pour toi. J'espère qu'il te plaira.$h#$b#Je t'aime !$l",
 "Romance.rejectNPCA.Flor": "Euh... Non, je suis désolée. Je n'ai aucune envie d'être dans une relation amoureuse. Je suis trop occupée.#$b#J'espère que tu comprendras.$h",
 "Romance.rejectNPCB.Flor": "Euh... Non, je suis désolée. Je n'ai aucune envie d'être dans une relation amoureuse. Je suis trop occupée.#$b#J'espère que tu comprendras.$h",
 "Romance.MovieInvite.Spouse.Flor": "Oh, mais bien sûr ! J'adorerais aller au cinéma avec toi, @ !$h#$b# Tu veux que j'apporte des collations, ou est ce qu'on en achèteras là-bas ?",
 
 // Yann
-"Romance.Engagement.Ian0": "Oh hey. Tu plaisantes? Ne me dis pas que tu plaisantes!$l#$b#@! Pas question! Vraiment?$h#$b#Bien sûr que je vais me marier toi! Je t'aime.$l",
+"Romance.Engagement.Ian0": "Oh hey. Tu plaisantes? Ne me dis pas que tu plaisantes!$l#$b#@ ! Pas question! Vraiment?$h#$b#Bien sûr que je vais me marier toi! Je t'aime.$l",
 "Romance.Engagement.Ian1": "Wow. Je n'arrive pas à croire que nous allons nous marier !$h",
 "Romance.give.flowersA.Ian": "@ !? Hé ? Tu sais ce que ça veut dire ?$l#$b#Attends, tu ne plaisantes pas ?$h#$b#Tu ne plaisantes pas !?$u#$b#Oh, @ !$l#$b#Bien sûr que c'est un oui ! Je t'aime, @ !$h",
 "Romance.give.flowersB.Ian": "@ !? Hé ? Tu sais ce que ça veut dire ?$l#$b#Attends, tu ne plaisantes pas ?$h#$b#Tu ne plaisantes pas !?$u#$b#Oh, @ !$l#$b#Bien sûr que c'est un oui ! Je t'aime, @ !$h",
@@ -4482,7 +4482,7 @@
 "Romance.MovieInvite.Spouse.Kenneth": "Une soirée ciné ? En voilà une bonne idée !$h#$b#J'aimerais beaucoup t'accompagner ! Allons-y !",
 
 //Madame
-"Romance.Engagement.Maddie0": "@!...$11#$b#Je.. Je...$l",
+"Romance.Engagement.Maddie0": "@ !...$11#$b#Je.. Je...$l",
 "Romance.Engagement.Maddie1": "Désolé, je suis un peu émue..$l#$b#Je suis tellement heureuse, @... Tellement heureuse !$l",
 "Romance.FemaleWeddingFix.MaleFarmer1.Maddie": "Quand @ est arrivé pour la première fois à Pelican Ville, personne ne savait s'il s'intégrerait à notre communauté...#$b#Mais à partir de ce jour, @ va faire partie de cette ville comme chacun d'entre nous !$h#$b#C'est mon grand honneur, aujourd'hui le {0} {1}, d'unir @ et Maddie par les liens du mariage.",
 "Romance.FemaleWeddingFix.MaleFarmer2.Maddie": "@... Maddie... #$b# En tant que maire de Pelican Ville et porteur régional du sceau matrimonial, je vous prononce maintenant mari et femme !$h",
@@ -4562,7 +4562,7 @@
 "Alissa.Dialogue.winter_14": "Ah ouais ! Demain c'est le début du marché nocturne non ?#$e# J'ai hâte d'écouter à nouveau la chanson de la sirène. Je vais essayer de suivre et chanter la mélodie.$7",
 "Alissa.Dialogue.winter_15": "J'ai acheté des graines exotiques. J'ai hâte de les planter la saison prochaine !$h",
 //"Alissa.Dialogue.winter_16": "Tante a vu un microphone à vendre.#$b#J'étais vraiment gêné quand elle m'a dit de le tester sur place.7$",
-//"Alissa.Dialogue.winter_17": "J'espère que vous avez des objets intéressants, @! J'ai pu acheter de bonnes choses.$h",
+//"Alissa.Dialogue.winter_17": "J'espère que vous avez des objets intéressants, @ ! J'ai pu acheter de bonnes choses.$h",
 "Alissa.Dialogue.winter_24": "L'année se termine, @. As-tu passé une bonne année ?#$b#J'espère que c'était le cas. Profitons de la prochaine hein ?$h",
 //Jours de la semaine
 // Coeurs
@@ -4852,7 +4852,7 @@
 "Corine.Dialogue.winter_14": "J'espère pouvoir acheter un joli collier demain. J'ai vu une fois un joli collier de coquillages bleus quand j'étais jeune !$h#$b#Je voulais l'acheter puis ma maman m'a dit que c'était pas pour les enfants.",
 //"Corine.Dialogue.winter_15": "Pika me donne toujours une prime avant le marché de nuit.#$h#C'est un patron tellement généreux !",
 //"Corine.Dialogue.winter_16": "Je me demande s'ils auront des perles de verre.#$b# Je pensais faire un bracelet à Ysa, tu sais, pour la remercier d'avoir été si gentille avec moi au fil des années.$l",
-"Corine.Dialogue.winter_17": "J'espère que tu as trouvé quelque chose à ton goût, @!#$h#Le marché nocturne part ce soir, alors fais tes derniers achats tant que tu le peux !$h",
+"Corine.Dialogue.winter_17": "J'espère que tu as trouvé quelque chose à ton goût, @ !#$h#Le marché nocturne part ce soir, alors fais tes derniers achats tant que tu le peux !$h",
 
 "Corine.Dialogue.winter_24": "C'est bientôt la fin de l'année, @. J'espère que tu as passé une bonne année.#$b#Papa a hâte d'être au printemps, il déteste le froid !$h",
 
@@ -5312,70 +5312,70 @@
 "Ian.Dialogue.Sun8": "Salut @ !#$b#Tu es encore plus beau aujourd'hui.$l^Tu es encore plus belle aujourd'hui.$l#$b#Ah, a-attends !$u#$b#Je suis désolé !$u#$b#Et-était-ce bizarre ?$l#$b#Mais... je le pense vraiment !$l",
 
 //10 Coeurs
-"Ian.Dialogue.Mon10": "Hé, @!#$b#Comment va la ferme ?$h#$b#Dis juste le mot si tu as besoin d'aide aujourd'hui.#$b#Je te mettrai toujours premier.$l",
-"Ian.Dialogue.Tue10": "Lorsque j'aidais Gus l'autre jour, j'ai demandé quelle était votre commande habituelle.#$b#Pas pour une raison en particulier.#$b#J'étais juste curieux, c'est tout !$h#$b#... ok peut-être que je voulais voir si je peux le faire pour toi.$l",
-"Ian.Dialogue.Wed10": "Hé, @!#$b#Je suis content que tu sois là !$h#$b#Vite, j'ai besoin d'un regain d'énergie !#$b#Puis-je avoir un baiser ? $l#$e#C'est parfait.$l#$b#Merci @!$h",
-"Ian.Dialogue.Thu10": "Je suis désolé, je suis toujours occupé, @!$s#$b#Je promets que je me rattraperai!$s#$b#Dis-moi quel jour tu' repars la semaine prochaine.#$b#Nous en ferons un rendez-vous !$h",
-"Ian.Dialogue.Fri10": "Ah !#$b#Tout ce travail est fatiguant.$s#$b#C'est quand même gratifiant quand je termine un travail !#$b#C'est en partie de ma faute, avec la façon dont je pousse moi-même.$s#$b#Je mentirais si je disais que je n'ai pas essayé de me montrer quand tu es là.$l",
-"Ian.Dialogue.Sat10": "J'ai essayé d'écrire plus tôt avant de partir travailler.#$b#Mon objectif est d'au moins 5 mots par jour.#$b#Aujourd'hui, j'ai écrit '%farm', '%favorite' , '%noun', '@' et '%place'.$h#$b#Je ne sais pas pourquoi ceux-ci m'ont traversé la tête, mais bon !$h",
-"Ian.Dialogue.Sun10": "J'ai aidé Clint l'autre jour avec quelques mises à niveau d'outils.#$b#Je ne sais pas trop lequel était le vôtre.#$b#Il reçoit beaucoup de commandes.#$b#I ça veut dire, si j'avais su, je te l'aurais livré personnellement.$h#$b#Tu sais, juste pour te voir.$l",
+"Ian.Dialogue.Mon10": "Hé, @ !#$b#Comment va la ferme ?$h#$b#N'hésites pas si tu as besoin d'aide aujourd'hui.#$b#Tu seras toujours ma priorité.$l",
+"Ian.Dialogue.Tue10": "Lorsque j'aidais Gus l'autre jour, j'ai demandé quelle était ta commande habituelle au Saloon.#$b#Sans raison particulière.#$b#J'étais juste curieux, c'est tout !$h#$b#... ok peut-être que je voulais voir si je pouvais le faire pour toi.$l",
+"Ian.Dialogue.Wed10": "Hé, @ !#$b#Je suis content que tu sois là !$h#$b#Vite, j'ai besoin d'un boost d'énergie !#$b#Puis-je avoir un baiser ? $l#$e#C'est parfait.$l#$b#Merci @ !$h",
+"Ian.Dialogue.Thu10": "Je suis désolé, je suis toujours occupé, @ !$s#$b#Je promets que je me rattraperai !$s#$b#Dis-moi quel est ton jour de repos la semaine prochaine.#$b#On se fera un rendez vous !$h",
+"Ian.Dialogue.Fri10": "Ah !#$b#Tout ce travail est fatiguant.$s#$b#Mais c'est quand même gratifiant quand je termine un projet !#$b#C'est en partie de ma faute, avec la façon que j'aie de dépasser mes limites.$s#$b#Je mentirais si je disais que je n'ai pas essayé de frimer quand tu es là.$l",
+"Ian.Dialogue.Sat10": "J'ai essayé d'écrire ce matin avant de partir travailler.#$b#Mon objectif est d'apprendre au moins 5 mots par jour.#$b#Aujourd'hui, j'ai écrit '%farm', '%favorite' , '%noun', '@' et '%place'.$h#$b#Je ne sais pas pourquoi ceux-ci m'ont traversé la tête, mais bon !$h",
+"Ian.Dialogue.Sun10": "J'ai aidé Clint l'autre jour avec quelques améliorations d'outils.#$b#Je ne sais pas trop lequel était le tiens.#$b#Il reçoit beaucoup de commandes.#$b#Si j'avais su, je te l'aurais livré personnellement.$h#$b#Tu sais, juste pour te voir.$l",
 
 //Dialogue spécial
-"Ian.Dialogue.breakUp": "Je suis désolé que nous n'ayons pas marché... J'espère que vous pourrez trouver quelqu'un pour vous donner le bonheur que je n'ai pas pu.$s",
-"Ian.Dialogue.danceRejection": "Oh, désolé @.#$b#Je dois m'occuper de certaines tables.",
-"Ian.Dialogue.divorced": "Ne me parle pas.$s#$b#Tu as assez perdu mon temps.$a",
-"Ian.Dialogue.MovieInvitation": "Une invitation au cinéma ?$u#$b#Je les reçois rarement.$l#$b#J'adorerais y aller avec toi, @!$h",
+"Ian.Dialogue.breakUp": "Je suis désolé que ça n'ai pas marché... J'espère que tu pourras trouver quelqu'un pour te donner le bonheur que je n'ai pas su te donner.$s",
+"Ian.Dialogue.danceRejection": "Oh, désolé @.#$b#J'ai du pain sur la planche..",
+"Ian.Dialogue.divorced": "Ne me parle pas.$s#$b#Tu m'as assez fait perdre mon temps.$a",
+"Ian.Dialogue.MovieInvitation": "Une invitation au cinéma ?$u#$b#C'est rare qu'on m'invite.$l#$b#J'adorerais y aller avec toi, @ !$h",
 
 //Recours
 "Ian.Dialogue.Resort_Entering": "Cela fait si longtemps que je n'ai pas quitté la vallée.$h#$b#J'ai presque oublié ce que ça fait d'être sur un bateau !",
-"Ian.Dialogue.Resort_Leaving": "C'était bien tant que ça a duré.#$b#Mais demain, c'est le retour à l'habituel, le travail et les courses.$h#$b#Je me sens reposé, cependant!",
+"Ian.Dialogue.Resort_Leaving": "C'était bien tant que ça a duré.#$b#Mais demain, c'est le retour à la routine, le travail et les petites courses habituelles.$h#$b#Par contre ça m'a bien reposé !",
 "Ian.Dialogue.Resort_Leaving_2": "Le sel dans l'air va me manquer.#$b#Ça me rappelle la maison.#$b#Je devrais écrire une autre lettre à ma famille, bientôt.",
-"Ian.Dialogue.Resort_Shore": "Est-ce vraiment bien de m'amuser comme ça ?#$b#Je n'arrête pas de penser à tout le travail qui me manque...$s",
+"Ian.Dialogue.Resort_Shore": "Est-ce vraiment la bonne chose à faire de m'amuser comme ça ?#$b#Je n'arrête pas de penser à tout le travail que j'aurais pu faire...$s",
 "Ian.Dialogue.Resort_Shore_2": "Harvey me dit que j'ai trop stressé ces derniers temps.#$b#Je pense que cela va aider.",
-"Ian.Dialogue.Resort_Umbrella": "Le bruit de l'océan est l'une de mes choses préférées.#$b#Cela me fait me sentir si calme, comme si je pouvais simplement marcher dans les vagues et vivre sans souci.#$b# Haha, désolé, c'était une chose étrange à dire ?$h",
-"Ian.Dialogue.Resort_Umbrella_2": "Je n'aime pas être au soleil quand je peux l'éviter.#$b#Je ne peux pas bronzer.#$b#Je brûle.#$b#C'est comme ça que je j'ai toutes ces taches de rousseur, haha!$h",
+"Ian.Dialogue.Resort_Umbrella": "Le bruit de l'océan est l'une de mes choses préférées.#$b#Cela me fait me sentir si calme, comme si je pouvais simplement marcher dans les vagues et vivre sans souci.#$b# Haha, désolé, c'était un peu bizarre, non ?$h",
+"Ian.Dialogue.Resort_Umbrella_2": "Je n'aime pas être au soleil quand je peux éviter.#$b#Je ne peux pas bronzer.#$b#Je brûle.#$b#C'est comme ça que je j'ai toutes ces taches de rousseur, haha !$h",
 "Ian.Dialogue.Resort_Umbrella_3": "Je me demande s'ils ont besoin d'une autre personne pour aider à nettoyer.#$b#Je devrais demander au responsable.",
-"Ian.Dialogue.Resort_Wander": "Suis-je perdu ?#$b#Je n'en ai peut-être pas l'air, mais je suis doué pour me repérer dans de nouveaux endroits !",
-"Ian.Dialogue.Resort_Bar": "Hé, @!#$b#Peux-tu croire que Gus dirige dérange le bar et le saloon ?#$b#Quel type génial !$h",
+"Ian.Dialogue.Resort_Wander": "Si je suis perdu ?#$b#Je n'en ai peut-être pas l'air, mais je suis doué pour me repérer dans de nouveaux endroits !",
+"Ian.Dialogue.Resort_Bar": "Hé, @ !#$b#Peux-tu croire que Gus gère à la fois le bar et le saloon ?#$b#Quel type génial !$h",
 "Ian.Dialogue.Resort": "Je me demande si je pourrais ramener des noix de coco à la maison.#$b#Elles sont super savoureuses, et la fibre est idéale pour allumer un feu !$h",
 
 
-"Jeric.Dialogue.Introduction": "Oh, hé là !$h#$b#Tu es nouveau ici, non ?#$e#Oh ! Tu es le nouveau fermier, hein ?#$b#Je m'appelle Jeric . @, n'est-ce pas ?$h#$e#Eh bien, si jamais vous avez besoin de fournitures agricoles, vous pouvez toujours visiter ma boutique. A bientôt !$h",
+"Jeric.Dialogue.Introduction": "Oh, hé là !$h#$b#Tu es nouveau ici, non ?#$e#Oh ! Tu es le nouveau fermier, hein ?#$b#Je m'appelle Jeric. @, c'est ça ?$h#$e#Eh bien, si jamais tu as besoin de fournitures pour la ferme, tu peux toujours visiter ma boutique. A bientôt !$h",
 
 //Printemps
-"Jeric.Dialogue.spring_1": "Il est temps d'aller chez Pierre acheter des graines!#$b#Je dois aussi me réapprovisionner!",
+"Jeric.Dialogue.spring_1": "Il est temps d'aller chez Pierre acheter des graines !#$b#Je dois aussi me réapprovisionner !",
 "Jeric.Dialogue.spring_12": "Lewis est venu l'autre jour et a acheté des œufs de poule.$h#$b#J'ai oublié que demain c'est la fête des œufs.$u#$e#Eh bien, je suis content de pouvoir aide aux festivités.$h",
-"Jeric.Dialogue.spring_23": "Hmm....Je me demande si j'ai une bonne tenue pour demain ?$s#$e#Oh, hey, @!$h#$b#Tu t'habilles pour le Flower Dance ?#$e#Je parie que quelqu'un d'aussi beau que toi n'a pas besoin d'y penser trop, hein ?$7",
+"Jeric.Dialogue.spring_23": "Hmm....Je me demande si j'ai une bonne tenue pour demain ?$s#$e#Oh, hey, @ !$h#$b#Tu as une tenue spéciale pour la Dance des Fleurs ?#$e#Je parie que quelqu'un d'aussi beau que toi n'a pas besoin d'y penser trop, hein ?$7",
 
 //L'été
-"Jeric.Dialogue.summer_1": "Je devrais probablement planter un tas de maïs cette saison, mais c'est un gosse à récolter.$a",
-"Jeric.Dialogue.summer_10": "Je dois choisir laquelle de mes récoltes apporter demain pour la soupe.#$b#Je veux qu'elle ait un goût incroyable...$h#$b#Je dois faire du bien au gouverneur après l'aide qu'il m'a apportée.$l",
-"Jeric.Dialogue.summer_27" : "Ce serait pas cool si vous pouviez capturer les méduses et les mettre dans des réservoirs pour les utiliser comme lampes ?$6#$b#Ce serait quand même assez brutal. Mieux vaut simplement profiter du spectacle. 7 $",
+"Jeric.Dialogue.summer_1": "Je devrais probablement planter un tas de maïs cette saison, mais c'est beaucoup de travail à récolter.$a",
+"Jeric.Dialogue.summer_10": "Je dois choisir laquelle de mes récoltes apporter demain pour la soupe.#$b#Je veux qu'elle ait un goût incroyable...$h#$b#Je dois rendre la pareille au gouverneur après l'aide qu'il m'a apporté.$l",
+"Jeric.Dialogue.summer_27": "Ce serait pas cool si on pouvait capturer les méduses et les mettre dans des réservoirs pour les utiliser comme lampes ?$6#$b#Ce serait quand même assez brutal. Mieux vaut simplement profiter du spectacle.$7",
 
 //Tombe
-"Jeric.Dialogue.fall_1": "N'oubliez pas d'acheter des graines de citrouille !#$b#Toutes les mamans de banlieue adorent sortir par ici et vivre l'expérience de la ferme, et elles ramassent toujours des citrouilles.$h",
-"Jeric.Dialogue.fall_15": "Une de ces années, Lewis trouvera comment installer plus d'écrans pour que je puisse réellement concourir. $6",
-"Jeric.Dialogue.fall_26": "J'ai monté mon propre costume pour demain.#$b#J'ai hâte de le montrer !$6#$e#Eh bien, c'est le même que l'année dernière. rénovation.$l#$b#Vous le verrez demain.$7",
+"Jeric.Dialogue.fall_1": "N'oubliez pas d'acheter des graines de citrouille !#$b#Toutes les mamans de banlieue adorent venir par ici et vivre l'expérience de la ferme, et elles achètent toujours des citrouilles.$h",
+"Jeric.Dialogue.fall_15": "Je suis sur qu'un jour, Lewis trouvera comment installer plus de stands pour que je puisse également concourir.$6",
+"Jeric.Dialogue.fall_26": "J'ai fabriqué mon propre costume pour demain.#$b#J'ai hâte de le montrer !$6#$e#En fait, c'est le même que l'année dernière. donc c'est plus un raccomodage qu'une fabrication.$l#$b#Tu le verra demain.$7",
 
 //L'hiver
-"Jeric.Dialogue.winter_1": "Pas grand chose à faire cette saison.$s#$b#Je dois toujours économiser toute l'année pour me préparer pour l'hiver, mais cela signifie que je peux faire une pause et me concentrer sur d'autres choses.",
-"Jeric.Dialogue.winter_7": "Je ne pêche pas vraiment, mais je serai certainement là demain.$h#$b# Faut admirer le paysage, tu sais?$6",
-"Jeric.Dialogue.winter_14": "Les marchands arrivent demain.#$b#Ils ont toujours de bonnes choses.#$e#J'ai économisé pour ça toute l'année.",
-//"Jeric.Dialogue.winter_15": "Le gouverneur m'a dit que le spectacle des sirènes était quelque chose d'autre$6$#$b# Je dois m'assurer de voir ça avant de partir.$7",
-//"Jeric.Dialogue.winter_16": "Ils ont toujours de bonnes graines que vous ne pouvez trouver nulle part ailleurs...#$b#Je veux acheter en gros et stocker ma boutique, mais je n'aurai pas d'argent pour la laine que j'ai lorgnée...$s",
-"Jeric.Dialogue.winter_17": "Tu devrais aller dire au marchand d'art que tu peux lui servir de mannequin un jour.$6#$b#Il n'y a aucune chance qu'il refuse une beauté comme toi.$7",
-"Jeric.Dialogue.winter_24": "Ça a été une bonne année, hein @?$h#$e#La prochaine sera encore meilleure.#$b#Tu as de bons plans, tu verras !$h",
+"Jeric.Dialogue.winter_1": "Pas grand chose à faire pendant cette saison.$s#$b#Je dois toujours économiser toute l'année pour me préparer pour l'hiver, mais ca signifie que je peux faire une pause et me concentrer sur d'autres choses.",
+"Jeric.Dialogue.winter_7": "Je ne pêche pas vraiment, mais je serai certainement là demain.$h#$b# Faut admirer le spectacle, tu sais ?$6",
+"Jeric.Dialogue.winter_14": "Les marchands arrivent demain.#$b#Ils ont toujours de belles choses.#$e#J'ai économisé pour ça toute l'année.",
+//"Jeric.Dialogue.winter_15": "Le gouverneur m'a dit que le spectacle des sirènes était quelque chose de fabuleux.$6#$b# Je dois m'assurer de voir ça avant qu'elles partent.$7",
+//"Jeric.Dialogue.winter_16": "Ils ont toujours de bonnes graines qu'on ne peut trouver nulle part ailleurs...#$b#Je veux acheter en gros et restocker ma boutique, mais je n'aurai pas d'argent pour la laine que j'avais repérée...$s",
+"Jeric.Dialogue.winter_17": "Tu devrais aller dire au marchand d'art que tu peux lui servir de mannequin un jour.$6#$b#Il n'y a aucune chance qu'il refuse à une beauté comme toi.$7",
+"Jeric.Dialogue.winter_24": "Ça a été une bonne année, hein @ ?$h#$e#La prochaine sera encore meilleure.#$b#J'ai déjà de belles choses de prévues, tu verras !$h",
 
 //Jours de la semaine
 
 // Coeurs
-"Jeric.Dialogue.Mon": "Hé, @! Besoin de quelque chose?#$b#Si c'est pour votre ferme, je le vends probablement.",
-"Jeric.Dialogue.Tue": "Oh, regarde-toi. Tu portes bien cette tenue, @.$7#$b#Je parie que tu pourrais être mannequin si tu avais une vraie variété dans ton placard.$6",
-"Jeric.Dialogue.Wed": "Alissa et Trinnie sont venues l'autre jour pour acheter des graines.#$e#Trinnie a dit qu'Alissa et moi devions rivaliser pour voir qui peut faire le plus de récoltes.#$b#Je veux dire, pourquoi non ? Je vais gagner, bien sûr. 6 $",
-"Jeric.Dialogue.Thu": "Pierre m'a appris à être vendeur.#$e#Je serai LA boutique de la vallée, un jour.$6#$b#Étudiant dépasse le maître, tu sais ?$7 ",
-"Jeric.Dialogue.Fri": "Hé, @. Quoi de neuf ? Pas occupé aujourd'hui ?#$e#Et si on en parlait autour d'un shake aux cerises ?$6#$b#Juste toi, moi et une paille ...$l#$b#Qu'est-ce qui ne va pas ? Pas de bonne humeur aujourd'hui ?$u",
-"Jeric.Dialogue.Sat": "Visitez ma boutique quand vous en avez l'occasion, ouais$6#$b# Je suis sûr que vous trouverez quelque chose de bien.$h",
-"Jeric.Dialogue.Sun": "Je prends un jour de congé de temps en temps pour aller en ville et rattraper les gens.#$b#Je dois faire savoir aux gens que vous aimez que vous vous souciez toujours, vous savez?$h#$b#Vous devriez aussi, @.",
+"Jeric.Dialogue.Mon": "Hé, @ ! Tu as besoin de quelque chose ?#$b#Si c'est pour ta ferme, je le vends probablement.",
+"Jeric.Dialogue.Tue": "Oh, regarde-toi. Cette tenue te vas bien, @.$7#$b#Je parie que tu pourrais être mannequin si tu avais plus de variété dans ton placard.$6",
+"Jeric.Dialogue.Wed": "Alissa et Trinnie sont venues l'autre jour pour acheter des graines.#$e#Trinnie a dit qu'Alissa et moi devions rivaliser pour voir qui peut faire le plus de récoltes.#$b#Après tout, pourquoi pas ? Je vais gagner, bien sûr.$6",
+"Jeric.Dialogue.Thu": "Pierre m'a appris à être vendeur.#$e#Je serai LA boutique de la vallée, un jour.$6#$b#L'élève dépasse le maître, tu sais ?$7 ",
+"Jeric.Dialogue.Fri": "Hé, @. Quoi de neuf ? Pas occupé aujourd'hui ?^ Pas occupée aujourd'hui ?#$e#Et si on en parlait autour d'un milkshake aux cerises ?$6#$b#Juste toi, moi et une paille ...$l#$b#Qu'est-ce qui ne va pas ? T'es pas de bonne humeur aujourd'hui ?$u",
+"Jeric.Dialogue.Sat": "Visite ma boutique quand tu en auras l'occasion.$6#$b# Je suis sûr que tu trouveras quelque chose qui te plaira.$h",
+"Jeric.Dialogue.Sun": "Je prends un jour de congé de temps en temps pour aller en ville et prendre des nouvelles des gens.#$b#Je dois faire savoir aux gens que j'aime que je ne les oublie pas, tu comprends ?$h#$b#Tu devrais faire ça aussi, @.",
 
 // Cœurs
 "Jeric.Dialogue.Mon2": "J'ai mal fait mes calculs et j'ai stocké trop d'engrais.$u#$b#Je dois travailler dur pour récupérer l'argent que je vais perdre avec ça.$s",
@@ -5392,7 +5392,7 @@
 "Jeric.Dialogue.Wed4": "Tu connais Haley, de Pelican Ville? C'est une vieille amie. Sa famille voyage beaucoup à travers le monde. Je l'ai rencontrée il y a des années quand j'étais avec le gouverneur.#$e# Elle avait l'air snob au début, mais ensuite nous avons appris à nous connaître au bout d'un moment. Dis-lui bonjour de ma part, veux-tu ?",
 "Jeric.Dialogue.Thu4": "Parfois, j'aimerais qu'il y ait des clubs dans la vallée, quelque part où je pourrais me perdre.$s#$b#Je dois me contenter d'un verre chez Pika ou au saloon, cependant.",
 "Jeric.Dialogue.Fri4": "Seb m'a rendu visite hier.#$b#Il est proche de moi depuis que j'ai emménagé ici.$h#$b#Nous sommes des copains de vélo maintenant, nous pensons prendre quelques jours pour partir en road trip très bientôt.",
-"Jeric.Dialogue.Sat4": "Bonjour, @! Quoi de neuf?#$b#Puis-je vous aider avec quelque chose?",
+"Jeric.Dialogue.Sat4": "Bonjour, @ ! Quoi de neuf?#$b#Puis-je vous aider avec quelque chose?",
 "Jeric.Dialogue.Sun4": "J'ai vu un kiwi près de la crête hier.#$b#Je suis allé le chercher, mais je jure que j'ai cligné des yeux et il a disparu.$u#$b#Strange.",
 
 //6 Coeurs
@@ -5434,7 +5434,7 @@
 "Jeric.Dialogue.'winter_Thu": "Je me sens mal pour Ian.$s#$e#Le pauvre gars a l'air de geler, il travaille tellement dehors.$s#$b#Un de ces jours, je vais invitez-le à l'intérieur pour un chocolat chaud.$h",
 "Jeric.Dialogue.winter_Sat": "Pika's ne voit pas beaucoup d'affaires pendant l'hiver.#$b# J'irais au saloon pour manger dehors, mais c'est une longue marche.$s",
 "Jeric.Dialogue.fall_Fri": "L'automne est probablement ma saison préférée pour créer.$h#$b#C'est le début de l'année de la mode !$l",
-"Jeric.Dialogue.MovieInvitation": "Oh! Un film?$l#$b#C'est une super idée, @!$h#$e# N'oublie pas les collations, je serai là à t'attendre.$7",
+"Jeric.Dialogue.MovieInvitation": "Oh! Un film?$l#$b#C'est une super idée, @ !$h#$e# N'oublie pas les collations, je serai là à t'attendre.$7",
 
 //Recours
 "Jeric.Dialogue.Resort_Entering": "Comment avez-vous réussi à trouver un endroit comme celui-ci ?#$e#Et plus important, pourquoi ne me l'avez-vous pas dit ?$6#$b#Haha, je plaisante.$7",
@@ -5585,7 +5585,7 @@
 "Keahi.Dialogue.Mon2": "Bonjour ! Viens jouer avec moi !#$e#Jusqu'où peux-tu frapper une canette de Joja ?$h",
 "Keahi.Dialogue.Tue2": "Trinnie~FILE CHANGE~et Jas m'a fait prendre le thé avec eux l'autre jour.$h#$e#Je me fiche du thé, mais ils n'arrêtaient pas de m'appeler 'Miss Keahi' !$u",
 "Keahi.Dialogue.Wed2": "Mon père se fâche parfois contre moi...$s#$e#Il y a des moments où j'aimerais qu'il me laisse tranquille !$a",
-"Keahi.Dialogue.Thu2": "Heya, @! Tu veux jouer?$h#$e#C'est bien si tu es trop occupé...$s",
+"Keahi.Dialogue.Thu2": "Heya, @ ! Tu veux jouer?$h#$e#C'est bien si tu es trop occupé...$s",
 "Keahi.Dialogue.Fri2": "Trinnie et moi avons chassé un kiwi qui roulait hier !$u#$e#C'était si rapide !$h",
 "Keahi.Dialogue.Sat2": "J'ai fait une farce à M. Bert l'autre jour et j'ai caché un poisson pourri à l'intérieur de sa maison.#$e#Ha ha ha ! C'était tellement drôle !#$e#Trinnie s'est fait gronder quand elle est rentrée à la maison, cependant.$u#$e#Je lui ai dit que j'étais désolé.$s",
 "Keahi.Dialogue.Sun2": "Ce vieil homme aux cheveux bleus est tellement bizarre.#$e#Il continue de mettre de l'eau dans des bouteilles puis les regarde.#$e#Pourquoi fait-il ça ?$u",
@@ -5594,10 +5594,10 @@
 "Keahi.Dialogue.Mon4": "Vincent et Jas m'ont montré un petit secret avec des oignons nouveaux l'autre jour !$u#$b#Si vous êtes vraiment de bons amis avec eux, ils vous le diront peut-être aussi !$h ",
 "Keahi.Dialogue.Tue4": "Trinnie dit qu'elle peut me battre dans une course de Blooming Hill à Nightingale.#$e#J'aimerais la voir essayer, ha ha!$h",
 "Keahi.Dialogue.Wed4": "Nous avons trouvé une statue étrange dans la forêt de Cindersap.#$b#Cela ressemblait à une poupée effrayante.$u#$b#Je voulais la ramener à la maison, mais elle était trop grande.$s",
-"Keahi.Dialogue.Thu4": "Heya, @!#$e#Pouvons-nous jouer dans votre ferme aujourd'hui ?$h",
+"Keahi.Dialogue.Thu4": "Heya, @ !#$e#Pouvons-nous jouer dans votre ferme aujourd'hui ?$h",
 "Keahi.Dialogue.Fri4": "Est-ce que l'agriculture est difficile? Peut-être que je peux être un agriculteur aussi.#$e#Peut-être que Jeric ou Alissa seront mes ouvriers agricoles !$h",
 "Keahi.Dialogue.Sat4": "Nous avons joué à la ferme de tante Marnie l'autre jour.#$e#Une chèvre a essayé de manger les cheveux de Trinnie !$u",
-"Keahi.Dialogue.Sun4": "Hé, @!#$e#Pensez-vous qu'Ysa aime le Zesty Tuna?#$b#Peut-être que je vais lui en faire.#$e#Ou peut-être que je devrais économiser mon allocation pour un diamant !$h#$b#Alors elle devra m'épouser !$4",
+"Keahi.Dialogue.Sun4": "Hé, @ !#$e#Pensez-vous qu'Ysa aime le Zesty Tuna?#$b#Peut-être que je vais lui en faire.#$e#Ou peut-être que je devrais économiser mon allocation pour un diamant !$h#$b#Alors elle devra m'épouser !$4",
 
 //6 Coeurs
 "Keahi.Dialogue.Mon6": "J'ai suivi Philip l'autre jour.$h#$b#Il a passé beaucoup de temps chez Yuuma.#$e#Je me demande ce qu'il fait là-bas ?$u",
@@ -5618,16 +5618,16 @@
 "Keahi.Dialogue.Sun8": "%Keahi semble être à moitié endormi.",
 
 //10 Coeurs
-"Keahi.Dialogue.Mon10": "Heya, @!$h#$e#Ici, tiens ça.[16 18 20 22]$h#$e#Okay. Bye!$4",
-"Keahi.Dialogue.Tue10": "Salut, @!#$b# J'ai fait ça![194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 244 604 605 606 607 608 609 610 611 612 613 618 648 649 651 727 728 729 730 731 732 733]#$e# C'est bon ! J'espère qu'il vous plaira !$h",
+"Keahi.Dialogue.Mon10": "Heya, @ !$h#$e#Ici, tiens ça.[16 18 20 22]$h#$e#Okay. Bye!$4",
+"Keahi.Dialogue.Tue10": "Salut, @ !#$b# J'ai fait ça![194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 244 604 605 606 607 608 609 610 611 612 613 618 648 649 651 727 728 729 730 731 732 733]#$e# C'est bon ! J'espère qu'il vous plaira !$h",
 "Keahi.Dialogue.Wed10": "Trinnie et moi avons vu un ninja sur la crête hier !!$u#$b#Il avait l'air trop cool !#$b#Je pense que je veux être comme lui quand je serai grand !$h #$e#Ou je pense que j'aimerais être un cuisinier ninja !$4#$b#Abattre des ingrédients avec mon épée comme bam, bam !#$e#%Keahi fait des bruits de combat.",
 "Keahi.Dialogue.Thu10": "Hé ! Puis-je jouer dans votre ferme maintenant ?#$e#SEt si j'arrosais les cultures ?$4#$e#S'il vous plait ?$s",
-"Keahi.Dialogue.Fri10": "Tu es amusant, @!$h#$b#Tu peux toujours jouer avec nous, d'accord?#$e#Peut-être que je vais te faire un gâteau au chocolat !$4",
+"Keahi.Dialogue.Fri10": "Tu es amusant, @ !$h#$b#Tu peux toujours jouer avec nous, d'accord?#$e#Peut-être que je vais te faire un gâteau au chocolat !$4",
 "Keahi.Dialogue.Sat10": "Un jour je vais ouvrir mon propre restaurant !$h#$e#Co~FILE CHANGE~me rendre visite quand je le fais, d'accord ?$h",
 "Keahi.Dialogue.Sun10": "J'aimerais pouvoir voler pour voir la vallée d'en haut.#$e# Ce serait tellement amusant !$h",
 
 //Dialogue spécial
-"Keahi.Dialogue.MovieInvitation": "Film !?$u#$b#COOL ! Merci, @!$h#$b#Je vous verrai là-bas.",
+"Keahi.Dialogue.MovieInvitation": "Film !?$u#$b#COOL ! Merci, @ !$h#$b#Je vous verrai là-bas.",
 
 //Recours
 "Keahi.Dialogue.Resort_Entering": "Wow ! Cet endroit a l'air incroyable !$h",
@@ -5661,7 +5661,7 @@
 "Kenneth.Dialogue.winter_14": "Est-ce que tu vas chercher quelque chose de spécifique au marché nocturne demain, @?#$e#Je ne cherche rien en particulier, mais j'aime parcourir !$h",
 "Kenneth.Dialogue.winter_15": "J'ai installé toutes les lumières suspendues autour de la jetée pour le marché nocturne de cette année.#$b# J'espère que tout se passera bien.",
 //"Kenneth.Dialogue.winter_16": "Je n'ai rien trouvé qui vaille la peine d'être acheté ce soir.#$b# Quelque chose a-t-il attiré votre attention, @?",
-//"Kenneth.Dialogue.winter_17": "Hé, @! Saviez-vous que les sous-marins ont été utilisés pendant des siècles? #$b# Et maintenant, nous pouvons même pêcher dedans!",
+//"Kenneth.Dialogue.winter_17": "Hé, @ ! Saviez-vous que les sous-marins ont été utilisés pendant des siècles? #$b# Et maintenant, nous pouvons même pêcher dedans!",
 "Kenneth.Dialogue.winter_24": "La fête de l'étoile d'hiver me rend anxieux - les décorations consomment tellement d'énergie !$s#$b#J'espère juste qu'il n'y a pas de surtension.",
 
 //Jours de la semaine
@@ -5690,12 +5690,12 @@
 "Kenneth.Dialogue.Wed4": "Willy a eu quelques problèmes avec ses lumières l'autre jour.#$b# Il m'a donné du crabe en remerciement pour l'aide.#$e# Je l'ai donné à Pika, et il l'a transformé en un dîner incroyable ! $h",
 "Kenneth.Dialogue.Thu4": "Je dois admettre que je n'aime pas trop réparer les lampes. #$b#Je veux dire que j'aime bricoler le câblage, c'est juste...$s#$e#I' j'ai peur des hauteurs.$s",
 "Kenneth.Dialogue.Fri4": "Je suis toujours ici pour tout vérifier pour essayer d'empêcher l'une de ces ampoules d'éclater. #$b#Cette ville a un budget strict et celles-ci ne sont pas bon marché à remplacer.#$ e#Je n'arrête pas de dire à Lenny que nous avons besoin de plus...",
-"Kenneth.Dialogue.Sat4": "Hé là @! Comment ça va?$h",
+"Kenneth.Dialogue.Sat4": "Hé là @ ! Comment ça va?$h",
 "Kenneth.Dialogue.Sun4": "J'ai aidé à faire le jukebox que Gus a dans son Saloon.#$e#Je suis vraiment fier, je voulais partager ça.$h",
 
 //6 Coeurs
 "Kenneth.Dialogue.Mon6": "J'ai essayé d'installer mon propre système de son surround à la maison.#$e#C'est plus difficile que vous ne le pensez. Je ne suis pas ingénieur du son.$s",
-"Kenneth.Dialogue.Tue6": "Hé là-bas @! Ravi de vous voir aujourd'hui !#$e# Si vous remarquez des lampes vacillantes dans la vallée, dites-le-moi, d'accord ?",
+"Kenneth.Dialogue.Tue6": "Hé là-bas @ ! Ravi de vous voir aujourd'hui !#$e# Si vous remarquez des lampes vacillantes dans la vallée, dites-le-moi, d'accord ?",
 "Kenneth.Dialogue.Wed6": "Je n'aime pas réparer quoi que ce soit à l'arrêt de bus la nuit.#$e#J'entends parfois des trucs vraiment étranges...$u",
 "Kenneth.Dialogue.Thu6": "Comment ça va, @? Tu vas bien?#$e#Génial ! On devrait prendre un verre un de ces jours. #$b#Eh bien, du café. Je ne bois pas beaucoup.$h",
 "Kenneth.Dialogue.Fri6" : "J'ai entendu dire que vous aviez des machines qui vous aidaient dans votre ferme.#$b#Oh oui ! J'ai toujours voulu voir l'une d'entre elles en action...#$e#I J'adorerais y jeter un œil de temps en temps. #$b# Faites-moi savoir si jamais ça casse et je le réparerai gratuitement, d'accord ?$h",
@@ -5718,7 +5718,7 @@
 "Kenneth.Dialogue.Thu10": "Bonjour @. Tu as fini ton travail ?$h#$e#Tu veux passer la journée ensemble maintenant ? Tu peux aussi m'accompagner avec mes tournées~FILE CHANGE~si tu veux.$h",
 "Kenneth.Dialogue.Fri10": "Voulez-vous que je vous enseigne quelques circuits de base ? #$b#J'ai vu que vous fabriquiez aussi votre propre artisanat dans votre ferme. J'aimerais vous aider.$h",
 "Kenneth.Dialogue.Sat10": "Parfois, les petites choses que vous faites surgissent de nulle part dans ma tête.#$e#Comme la façon dont vous tirez sur votre oreille quand vous pensez, ou me souriez...$l#$b# Je suis encore ringard, désolé !$h",
-"Kenneth.Dialogue.Sun10": "@! Je suis content que tu sois là.$h#$b#C'est juste une longue semaine et te voir aide toujours.$l",
+"Kenneth.Dialogue.Sun10": "@ ! Je suis content que tu sois là.$h#$b#C'est juste une longue semaine et te voir aide toujours.$l",
 
 //Dialogue spécial
 "Kenneth.Dialogue.breakUp": "Ai-je fait quelque chose de mal, @? Je ne pensais pas que ça arriverait à ça.$s",
@@ -5834,7 +5834,7 @@
 "Kiwi.Dialogue.Resort": "Le kiwi voit le poulet arc-en-ciel.#$b#Vole haut dans le ciel.$u#$e#Un jour, Kiwi vole aussi.$h",
 
 
-"Lenny.Dialogue.Introduction": "Bonjour, @!$h#$b#Je ne t'ai pas fait peur avec cette petite tournée, n'est-ce pas ?#$b#Heureux de te revoir.#$b#Assurez-vous vous visitez souvent!$h",
+"Lenny.Dialogue.Introduction": "Bonjour, @ !$h#$b#Je ne t'ai pas fait peur avec cette petite tournée, n'est-ce pas ?#$b#Heureux de te revoir.#$b#Assurez-vous vous visitez souvent!$h",
 
 //Printemps
 "Lenny.Dialogue.spring_1": "Les nouvelles années arrivent, les vieilles années disparaissent.#$b#Nous savons que nous rêvons, nous rêvons que nous savons.#$e#Drôle petit poème, mais plutôt approprié, n'est-ce pas pense?$h",
@@ -5866,14 +5866,14 @@
 "Lenny.Dialogue.Mon": "Pourquoi bonjour, @.#$b#Ravi de te voir.$h#$e#Comment te traite la vie à la ferme ?",
 "Lenny.Dialogue.Tue": "J'aime finir ma paperasse tôt, donc je peux me détendre le reste de la semaine.#$e#Je ne suis pas paresseux, je suis efficace !$h",
 "Lenny.Dialogue.Wed": "Uhhgg, je n'ai pas l'air si bien aujourd'hui, n'est-ce pas.$u#$e#J'ai à peine dormi la nuit dernière, j'ai passé toute la nuit à finir la paperasse.$s",
-"Lenny.Dialogue.Thu": "@! Ravi de vous voir.$h#$e#Gérer le village peut parfois être assez compliqué.$s#$b#Mais les villageois en valent la peine.$h",
+"Lenny.Dialogue.Thu": "@ ! Ravi de vous voir.$h#$e#Gérer le village peut parfois être assez compliqué.$s#$b#Mais les villageois en valent la peine.$h",
 "Lenny.Dialogue.Fri": "Merci Yoba, c'est vendredi.$h#$e#Vous devriez visiter le restaurant Pika ou le Stardrop Saloon parfois, @.#$e#Ne vous surmenez pas. Détendez-vous !$h",
 "Lenny.Dialogue.Sat": "M. Aguar est un homme gentil.#$b#Juste très passionné par ses recherches.#$e#Il a ses raisons, je pense.",
 "Lenny.Dialogue.Sun": "Ian est un homme tellement travailleur.#$b#Il demande rarement beaucoup.#$e#J'espère qu'il ne se surmene pas.$s",
 
 // Cœurs
 "Lenny.Dialogue.Mon2": "Je suis peut-être la sœur aînée de Lewis mais je suis jeune de cœur !$h#$e#Lewis dit que c'est juste une belle façon de dire immature.$s#$b#Je dis qu'il est un vieux brouillard.$h",
-"Lenny.Dialogue.Tue2": "Bonjour, @!$h#$b#Comment tu tiens le coup ?#$e# C'est un gros ajustement pour passer de la ville à notre petite vallée !$h",
+"Lenny.Dialogue.Tue2": "Bonjour, @ !$h#$b#Comment tu tiens le coup ?#$e# C'est un gros ajustement pour passer de la ville à notre petite vallée !$h",
 "Lenny.Dialogue.Wed2": "La paperasse peut ne pas vous sembler importante, mais pas de paperasse signifie pas de subventions !#$e#Certains villageois en dépendent vraiment.$s",
 "Lenny.Dialogue.Thu2": "Le village de Ridgeside et la ville de Pelican sont l'épine dorsale de la vallée.#$e#Nous avons besoin les uns des autres, et Ferngill a besoin de nous.$a",
 "Lenny.Dialogue.Fri2": "Lewis a une réputation à tenir, mais je n'ai pas de tels soucis.#$e#Tu peux être détendu autour de moi !$h",
@@ -5925,14 +5925,14 @@
 "Lenny.Dialogue.Resort_Shore": "J'ai appris à Lewis à nager.#$e#Il a appris tout seul à flotter, ha ha !$h",
 "Lenny.Dialogue.Resort_Chair": "Une pause dans toute cette paperasse est vraiment ce dont j'avais besoin.$h",
 "Lenny.Dialogue.Resort_Bar": "Aawh, ils ne vendent pas de Cherry Berry Shakey ici.$s",
-"Lenny.Dialogue.Resort": "Bonjour, @!$h#$e#Ils disent que l'eau de l'île a des propriétés curatives.#$e#Croyez-vous cela?$4",
+"Lenny.Dialogue.Resort": "Bonjour, @ !$h#$e#Ils disent que l'eau de l'île a des propriétés curatives.#$e#Croyez-vous cela?$4",
 
 
 "Lola.Dialogue.Introduction": "Bonjour, mon cher!$h#$bTu es nouveau ici, non?$h#$b#C'est tellement agréable de voir de nouveaux visages en ville.$h#$b#Je m'appelle Lola et moi vivons ici avec mon mari, Freddie.#$e#Ne faites pas attention à nous, juste de vieux tourtereaux profitant de la paix et de la tranquillité !$h",
 
 //Printemps
 "Lola.Dialogue.spring_1": "Le printemps, hmm?#$b#Je n'ai jamais vraiment compris la fascination pour cette saison.#$b#Pas vraiment ma personnalité, tu sais...",
-"Lola.Dialogue.spring_12": "Bonjour, @!#$b#Es-tu excité pour demain ?$h#$e#J'aide à cacher les œufs en vue de la chasse aux œufs.#$b#Bien que Caroline n'arrête pas de me dire de les trouver plus facilement.$s",
+"Lola.Dialogue.spring_12": "Bonjour, @ !#$b#Es-tu excité pour demain ?$h#$e#J'aide à cacher les œufs en vue de la chasse aux œufs.#$b#Bien que Caroline n'arrête pas de me dire de les trouver plus facilement.$s",
 "Lola.Dialogue.spring_23": "Oh, Freddie et moi attendons avec impatience t~FILE CHANGE~il Flower Dance chaque année.#$b#Nous n'avons pas beaucoup d'occasions de nous pavaner !$h",
 
 //L'été
@@ -5977,7 +5977,7 @@
 // Coeurs
 "Lola.Dialogue.Mon4": "La brise fraîche sur mon visage est si agréable.$h#$e#Des jours comme celui-ci me rendent heureux d'être en vie.$h",
 "Lola.Dialogue.Tue4": "Ce mari à moi n'arrête pas d'oublier de nettoyer le foutu hangar !$a#$b# Je l'embête depuis toujours, et s'il ne se dépêche pas, il il sera trop tard.$s",
-"Lola.Dialogue.Wed4": "Bonjour! Envie d'une théière et d'une conversation, si vous~FILE CHANGE~ous avez-vous du temps libre?#$b#Notre maison vous est toujours ouverte, @!$h",
+"Lola.Dialogue.Wed4": "Bonjour! Envie d'une théière et d'une conversation, si vous~FILE CHANGE~ous avez-vous du temps libre?#$b#Notre maison vous est toujours ouverte, @ !$h",
 "Lola.Dialogue.Thu4": "Je vais faire des gnocchis aux champignons violets pour Rasmodius.#$b#J'ai ramassé la recette en naviguant dans Thunderton, et il est accro depuis des années !$h#$e#Don Ne lui dites pas que je l'ai dit, mais je pense que les sorciers ont un penchant assez particulier pour les champignons violets.",
 "Lola.Dialogue.Fri4": "Je te jure, Freddie ne va jamais nettoyer ce hangar.$a#$b#Eh bien, si tu veux que quelque chose soit bien fait, fais-le toi-même...$a",
 "Lola.Dialogue.Sat4": "Vous voulez connaître le secret pour garder une longueur d'avance sur Father Time ?#$b#Exercice.#$e#Je devais être en pleine forme pour mon travail il y a toutes ces années, et j'ai gardé ces bonnes habitudes.$h#$b#Il ne m'a pas encore attrapé !$h",
@@ -5993,7 +5993,7 @@
 "Lola.Dialogue.Sun6": "Sache toujours que tu peux venir ici si jamais tu as besoin de quelque chose, d'accord @?$h",
 
 //8 Coeurs
-"Lola.Dialogue.Mon8": "@! Je suis vraiment content que tu aies décidé de reprendre la ferme de ton grand-père.#$b#Ça a vraiment fleuri.$h#$b#Et en plus, si tu ne l'avais pas fait, tu je n'aurais jamais eu le plaisir de me rencontrer, mon cher !$h",
+"Lola.Dialogue.Mon8": "@ ! Je suis vraiment content que tu aies décidé de reprendre la ferme de ton grand-père.#$b#Ça a vraiment fleuri.$h#$b#Et en plus, si tu ne l'avais pas fait, tu je n'aurais jamais eu le plaisir de me rencontrer, mon cher !$h",
 "Lola.Dialogue.Tue8": "Je me souviens quand Marlon avait encore les deux yeux.#$b#Ils étaient si verts qu'ils ressemblaient presque à des émeraudes !#$e#C'est juste dommage qu'il en ait perdu un...#$b# Dans les mines, c'était ça ?",
 "Lola.Dialogue.Wed8": "La randonnée et les longues promenades manquent à mon mari.#$b#Nous faisions des kilomètres.$h#$b#Les vieux os et articulations ne peuvent tout simplement pas gérer tout cela, de nos jours.$s",
 "Lola.Dialogue.Thu8": "J'ai du travail à faire dans le hangar aujourd'hui.#$e#Peut-être que je te montrerai l'intérieur un jour bientôt, mon cher.",
@@ -6070,10 +6070,10 @@
 
 // Coeurs
 "Maddie.Dialogue.Mon4": "Quoi de neuf, @ ? Avez-vous besoin de quelque chose ? ",
-"Maddie.Dialogue.Tue4": "Bonjour @! Voulez-vous voir sur quoi je travaille?$6#$b#C'est en fait plutôt chouette.$h",
+"Maddie.Dialogue.Tue4": "Bonjour @ ! Voulez-vous voir sur quoi je travaille?$6#$b#C'est en fait plutôt chouette.$h",
 "Maddie.Dialogue.Wed4": "J'admire vraiment la façon dont l'écologie maintient la diversité et la redondance.#$b#Elle fournit simplement un équilibre dans la nature.$h",
 "Maddie.Dialogue.Thu4": "Démêler les mystères de la science est un travail difficile.$6#$b#Je trouve cela gratifiant, cependant.$h",
-"Maddie.Dialogue.Fri4": "Bonjour @! Nous sommes un peu occupés ici aujourd'hui.#$b#Si vous avez besoin de quelque chose, écrivez-le sur un bout de papier et je m'en occupe.$h",
+"Maddie.Dialogue.Fri4": "Bonjour @ ! Nous sommes un peu occupés ici aujourd'hui.#$b#Si vous avez besoin de quelque chose, écrivez-le sur un bout de papier et je m'en occupe.$h",
 "Maddie.Dialogue.Sat4": "OH NON! J'ai oublié de nourrir les poissons !!$uM. Aguar va faire une crise à coup sûr.$s",
 "Maddie.Dialogue.Sun4": "Les facteurs abiotiques sont des composants non vivants qui... Oh je ne t'ai pas vu là-bas, @.$u#$b#What's up?$h",
 
@@ -6087,7 +6087,7 @@
 "Maddie.Dialogue.Sun6": "Je devais avoir un jour de congé aujourd'hui.$s#$e#Mais bon, M. Aguar a besoin de ses courses.$7#$b#Alors je vais en ville maintenant .$7#$b#Parfois, je me sens comme une servante pour lui.$a",
 
 //8 Coeurs
-"Maddie.Dialogue.Mon8": "Salut @! Ravi de te voir aujourd'hui.$h#$b#Tu as été un bon ami pour moi, j'aime toujours te voir arriver !$h",
+"Maddie.Dialogue.Mon8": "Salut @ ! Ravi de te voir aujourd'hui.$h#$b#Tu as été un bon ami pour moi, j'aime toujours te voir arriver !$h",
 "Maddie.Dialogue.Tue8": "Oh, je ne t'ai pas vue là-bas @. Mon esprit a été préoccupé ces derniers temps.#$b#Oh, par quoi? Rien de particulier...$8",
 "Maddie.Dialogue.Wed8": "Je suis d'humeur pour quelque chose de sucré aujourd'hui. Comme du chocolat.#$b#Ou peut-être un smoothie. Qu'en pensez-vous ?",
 "Maddie.Dialogue.Thu8": "Bonjour @, je vais chercher de la nourriture au saloon. Tu veux venir avec ?$b#Ce serait bien d'avoir de la compagnie, tu ne penses pas ?$h",
@@ -6098,7 +6098,7 @@
 //10 Coeurs
 "Maddie.Dialogue.Mon10": "J'ai beaucoup pensé à l'avenir ces derniers temps. J'ai quelques idées sur ce que je veux.$l#$b#Et toi ?$h",
 "Maddie.Dialogue.Tue10": "Oh, hey, j'ai fait des sandwichs aujourd'hui.$h#$b#Lenny dit que je suis un bon cuisinier mais je pense qu'elle est ju~FILE CHANGE~er le disant pour me flatter.$l#$e#Je ferais mieux d'en apporter un à M. Aguar bientôt ; parfois il oublie de manger son déjeuner.$6",
-"Maddie.Dialogue.Wed10": "Bonjour @! J'espère que vous restez en bonne santé.$l#$b#Vous travaillez dur là-bas et nous ne voulons pas que vous tombiez malade.$s",
+"Maddie.Dialogue.Wed10": "Bonjour @ ! J'espère que vous restez en bonne santé.$l#$b#Vous travaillez dur là-bas et nous ne voulons pas que vous tombiez malade.$s",
 "Maddie.Dialogue.Thu10": "Je pense avoir un lapin de compagnie. Ils sont si mignons !$h",
 "Maddie.Dialogue.Fri10": "Oh, @... je pensais justement à toi.$l",
 "Maddie.Dialogue.Sat10": "Je n'aurais jamais pensé que je sortirais à nouveau avec quelqu'un.$l#$b#Je suppose que les secondes chances sont réelles. Je me sens vraiment chanceux.$h",
@@ -6183,7 +6183,7 @@
 "Olga.Dialogue.Mon6": "Je vous le dis, Bert pourrait aussi bien avoir un tamis pour cerveau.$a#$b#Hmph. J'aime le grand, cependant.$4",
 "Olga.Dialogue.Tue6": "Bonne journée à toi, @. Comment va la ferme maintenant ?#$b# Je pense que tu as compris.$h",
 "Olga.Dialogue.Wed6": "Je n'arrête pas de dire à Alissa qu'elle devrait monter sur la scène Starbound et chanter devant tout le village.$h#$b#Elle a une voix incroyable. C'est dommage qu'elle soit si timide à ce sujet .$s",
-"Olga.Dialogue.Thu6": "Bonjour, @! Vous avez déjà fini le travail ?#$e#Prenez une paire de gants, alors, nous vous mettrons au travail !$h#$b#Je plaisante , mon cher. Reposez-vous si vous le pouvez, demain est une autre journée bien remplie.$h",
+"Olga.Dialogue.Thu6": "Bonjour, @ ! Vous avez déjà fini le travail ?#$e#Prenez une paire de gants, alors, nous vous mettrons au travail !$h#$b#Je plaisante , mon cher. Reposez-vous si vous le pouvez, demain est une autre journée bien remplie.$h",
 "Olga.Dialogue.Fri6": "Ian est un jeune homme si bon et travailleur.#$b#Il facture un prix très juste pour ses services.#$b#Nous lui préparons un repas en remerciement quand nous le pouvons. C'est le le moins que nous puissions faire.",
 "Olga.Dialogue.Sat6":"Je rends parfois visite à Lola et je tricote avec elle.#$e#Elle a des histoires incroyables à raconter.#$b#Elle et son mari ont parcouru le monde.$h",
 "Olga.Dialogue.Sun6": "Avez-vous visité la plage dernièrement?#$b#Je voulais prendre un après-midi de congé et aller me détendre au soleil...#$e#Hmm. Peut-être que je peux presser dans quelque temps pour rendre visite à Jodi.",
@@ -6215,7 +6215,7 @@
 "Olga.Dialogue.Resort_Shore": "Oh, j'aimerais que Bert garde un meilleur œil sur Trinnie.$s#$b#Cet homme parfois, je le jure...",
 "Olga.Dialogue.Resort_Chair": "Je pense que je pourrais fermer les yeux pour un moment...$h#$e#Qu'est-ce que mon mari fait ?$s",
 "Olga.Dialogue.Resort_Bar": "J'adorerais essayer l'une des boissons de fantaisie que Pam m'a racontées...$4#$b#Mais je ne devrais probablement pas, j'ai besoin de regarder Trinnie.$s",
-"Olga.Dialogue.Resort": "Oh, @! Quel endroit charmant c'est.$h#$e#Attends, où est mon imbécile de mari?$a#$b#Où est ma fille?!$a#$b#Oh, je ne peux pas avoir une seconde avec ces deux...$s",
+"Olga.Dialogue.Resort": "Oh, @ ! Quel endroit charmant c'est.$h#$e#Attends, où est mon imbécile de mari?$a#$b#Où est ma fille?!$a#$b#Oh, je ne peux pas avoir une seconde avec ces deux...$s",
 
 
 "Philip.Dialogue.Introduction": "Oh bonjour monsieur. Je ne vous ai jamais vu dans le coin avant...^Oh bonjour madame. Je ne vous ai pas vu dans le coin avant...#$e#Êtes-vous le nouveau fermier qui vient d'emménager dans la vallée ?#$b#Ravi de vous rencontrer ! Je m'appelle Philip. Je travaille comme physiothérapeute pour certaines personnes de la région. À bientôt !$h",
@@ -6236,7 +6236,7 @@
 "Philip.Dialogue.fall_26": "Avez-vous hâte à demain ?#$e#Je ne suis pas un grand fan de choses effrayantes, mais les costumes sont toujours cool.$h",
 
 //L'hiver
-"Philip.Dialogue.winter_1": "Attention à rester au chaud, @!#$b#L'hypothermie est une vraie déception.$s",
+"Philip.Dialogue.winter_1": "Attention à rester au chaud, @ !#$b#L'hypothermie est une vraie déception.$s",
 "Philip.Dialogue.winter_7": "Vous avez de l'expérience dans la pêche, n'est-ce pas ?#$b#Je m'inquiète que quelqu'un se surmène et tire quelque chose, demain.$s",
 "Philip.Dialogue.winter_14": "Le marché nocturne commence demain ?$u#$b#Je me demande s'ils auront des livres rares...",
 //"Philip.Dialogue.winter_15": "Avez-vous vu la sirène ?$u#$b#Je ne suis pas fou, non ?#$b#C'est vraiment arrivé ?$u",
@@ -6265,11 +6265,11 @@
 "Philip.Dialogue.Sun2": "Je suis vraiment content que l'hôtel dispose d'une salle de sport. Cela permet de rester en forme beaucoup plus facilement. #$e#Vous seriez surpris de la force dont vous avez besoin pour être un bon physique thérapeute!",
 
 // Coeurs
-"Philip.Dialogue.Mon4": "Bonne journée à toi @! Tu as l'air d'aller bien.#$b#N'oublie pas de rester hydraté, d'accord?",
+"Philip.Dialogue.Mon4": "Bonne journée à toi @ ! Tu as l'air d'aller bien.#$b#N'oublie pas de rester hydraté, d'accord?",
 "Philip.Dialogue.Tue4": "Oh, j'ai mal aux épaules.$s#$e#J'ai fait beaucoup de transferts et de levées en solo ces derniers jours.#$b#Je suppose que j'ai de suivre mes propres conseils et n'oubliez pas de vous étirer, haha !$h",
 "Philip.Dialogue.Wed4": "Est-ce juste vous à cette ferme ?#$b#Que faites-vous si vous avez besoin d'aide pour quelque chose ?$u#$e#Attendez... quel est votre plan si vous vous blessez ?$u",
 "Philip.Dialogue.Thu4": "J'ai parlé à Emily l'autre jour et elle m'a parlé des cours de yoga qu'elle et Ysa envisagent de faire à l'hôtel.#$e#Je pourrais les rejoindre si je peux trouver le temps. Le yoga est incroyable pour la flexibilité et la force de base.$h",
-"Philip.Dialogue.Fri4": "Bonjour, @! Nous avons traversé une autre semaine. Je prévois un bon long marathon Revengers ce week-end. J'espère que vous avez prévu de vous détendre!",
+"Philip.Dialogue.Fri4": "Bonjour, @ ! Nous avons traversé une autre semaine. Je prévois un bon long marathon Revengers ce week-end. J'espère que vous avez prévu de vous détendre!",
 "Philip.Dialogue.Sat4": "Parfois, je me demande si Alex a essayé de me connaître juste pour m'utiliser comme son kinésithérapeute personnel... Cela ne me dérange pas trop, cependant, parce que nous sommes amis maintenant.",
 "Philip.Dialogue.Sun4": "Je dis généralement quelque chose sur le fait de faire suffisamment d'exercice, même à mes amis...#$b#Mais vous faites probablement tout l'exercice dont vous avez besoin dans cette ferme !$h",
 
@@ -6283,9 +6283,9 @@
 "Philip.Dialogue.Sun6": "Tu as été un bon ami, @.#$b# Merci pour ça ! Si tu as besoin d'aide quand tu sens que ton corps t'enlise, je suis toujours là, d'accord ?$h",
 
 //8 Coeurs
-"Philip.Dialogue.Mon8": "@! Oh! Comment vas-tu? Désolé, désolé, j'étais juste surpris! Je veux dire, tu m'as surpris!#$b#Je suppose que j'étais perdu dans mes pensées. Quoi qu'il en soit, quoi de neuf ?$h",
+"Philip.Dialogue.Mon8": "@ ! Oh! Comment vas-tu? Désolé, désolé, j'étais juste surpris! Je veux dire, tu m'as surpris!#$b#Je suppose que j'étais perdu dans mes pensées. Quoi qu'il en soit, quoi de neuf ?$h",
 "Philip.Dialogue.Tue8" : "Hé, je suis curieux de connaître votre ferme depuis un certain temps maintenant.#$b#Comment l'avez-vous obtenu de ce qu'elle était à ce qu'elle est maintenant ? Cela semble être beaucoup de travail. ",
-"Philip.Dialogue.Wed8": "Oh salut, @! Tu as l'air bien aujourd'hui.#$b#Je ne veux pas dire ça bizarrement! Tu as juste un ressort dans ta démarche, je suppose.$l",
+"Philip.Dialogue.Wed8": "Oh salut, @ ! Tu as l'air bien aujourd'hui.#$b#Je ne veux pas dire ça bizarrement! Tu as juste un ressort dans ta démarche, je suppose.$l",
 "Philip.Dialogue.Thu8": "Si jamais tu es libre à l'heure du déjeuner, fais-le moi savoir. Ce sera mon plaisir.#$b#Pas d'arrière-pensées, promis!$h",
 "Philip.Dialogue.Fri8": "Bonne journée à vous monsieur^Bonne journée à vous madame.#$b#Je veux dire @ ! Désolé ! C'est une habitude !$h#$e#Hé, tu veux sortir un jour ? J'aime votre entreprise.$l",
 "Philip.Dialogue.Sat8": "Es-tu un muscle Risorius? Parce que je ne peux pas... euh.#$b#Désolé. J'allais utiliser une ligne de fromage et j'ai réalisé que c'était un jargon technique bizarre... euh . Ignorez ça.$l#$b#Comment se passe votre journée ?",
@@ -6304,7 +6304,7 @@
 "Philip.Dialogue.breakUp": "Je... je ne veux pas en parler, @. Oublions ça.$s",
 "Philip.Dialogue.danceRejection": "Je ne peux pas, je dois m'assurer que je suis disponible si quelqu'un a besoin de moi.",
 "Philip.Dialogue.divorced": "Ne me parle pas. J'ai fini.$a",
-"Philip.Dialogue.MovieInvitation": "Bien sûr, @! À quelle heure devrions-nous nous rencontrer ?$h#$b#Enfin, je peux m'absenter du travail.$h#$e#Merci de m'avoir invité, @. $l",
+"Philip.Dialogue.MovieInvitation": "Bien sûr, @ ! À quelle heure devrions-nous nous rencontrer ?$h#$b#Enfin, je peux m'absenter du travail.$h#$e#Merci de m'avoir invité, @. $l",
 
 //Recours
 "Philip.Dialogue.Resort_Entering": "Oh, wow ! Je sais ce que je vais faire en premier. C'est l'heure de nager !$h",
@@ -6371,7 +6371,7 @@
 "Pika.Dialogue.Tue4": "Le restaurant a été florissant ces derniers temps.$h#$b#Beaucoup de clients signifie plus d'argent à mettre de côté pour l'avenir de Keahi.#$e#Si seulement ma chérie wahine était là.$s#$b#J'espère que je la rends fière.$4",
 "Pika.Dialogue.Wed4": "Je pense faire de Keahi une cabane dans les arbres.#$b#Je pense juste au type de matériaux que je devrais utiliser.$e#Hmm... Je vais demander Robin pour son expertise.",
 "Pika.Dialogue.Thu4": "Keahi s'enfuit toujours quelque part.$a#$b#Je peux généralement compter sur Trinnie pour le garder sous contrôle mais...#$e#J'espère juste qu'il est en sécurité.$s",
-"Pika.Dialogue.Fri4": "Aloha, @! Vous devriez essayer mes poppers au poivre aujourd'hui.$h#$b#J'ai choisi la recette lorsque ma famille a visité Gotoro, de l'autre côté de la mer des Gemmes.#$e#Ils aiment vraiment leur nourriture épicée là-bas.$h",
+"Pika.Dialogue.Fri4": "Aloha, @ ! Vous devriez essayer mes poppers au poivre aujourd'hui.$h#$b#J'ai choisi la recette lorsque ma famille a visité Gotoro, de l'autre côté de la mer des Gemmes.#$e#Ils aiment vraiment leur nourriture épicée là-bas.$h",
 "Pika.Dialogue.Sat4": "%Pika ne te remarque pas. Il semble marmonner quelque chose à propos des tacos au poisson et au chocolat.",
 "Pika.Dialogue.Sun4": "Parfois, je suis absorbé par l'invention de recettes dont je perds la notion du temps, ha ha ha.$h#$e#Un grand cuisinier doit innover !",
 
@@ -6389,7 +6389,7 @@
 "Pika.Dialogue.Tue8": "J'ai eu une discussion chaleureuse avec ce couple merveilleux, Lola et Freddie.#$b#Lola m'a même appris quelques recettes qu'elle a ramassées dans le monde entier.$h",
 "Pika.Dialogue.Wed8": "Haley est venue plus tôt et a demandé des recommandations pour un nouveau régime alimentaire qu'elle essaye.#$b#J'ai recommandé la salade de chou avec un côté de pain de blé avec un yaourt spécial aux raisins que j'ai fait.$h ",
 "Pika.Dialogue.Thu8": "Aloha, mon ami!$h#$b#Keahi dit que je l'ai piégé pour qu'il mange des légumes quand il était plus jeune...$u#$b#Je les ai juste frits avec du sel et du miel et il je n'ai même pas remarqué !$h",
-"Pika.Dialogue.Fri8": "Hé, @! Saviez-vous que tous les aliments ne sont pas égaux?#$b#Certains plats peuvent vous faire récupérer plus d'endurance que d'autres...$h",
+"Pika.Dialogue.Fri8": "Hé, @ ! Saviez-vous que tous les aliments ne sont pas égaux?#$b#Certains plats peuvent vous faire récupérer plus d'endurance que d'autres...$h",
 "Pika.Dialogue.Sat8": "J'ai entendu dire que la petite Trinnie a donné des chocolats à mon Keahi hier.$u#$b#Ha ha ! Je pense qu'elle a un faible pour ka'u keiki--mon fils, je veux dire.$h#$b#Ces gamins... Ils me rappellent moi et ma wahine.$h",
 "Pika.Dialogue.Sun8" : "Le petit Keahi me rend si fier ces derniers temps !$h#$e#Il tient de sa mère.$h#$b#Il va être un beau jeune homme.#$b#Son makuahine va être si fier.$h",
 
@@ -6452,7 +6452,7 @@
 "Richard.Dialogue.Sun": "Bonjour, @. Qu'est-ce qui vous amène?#$b#N'hésitez pas à vous asseoir dans le hall si vous attendez quelqu'un.",
 
 // Cœurs
-"Richard.Dialogue.Mon2": "Mon, @! C'est gentil de ta visite.$h#$b#Comment allez-vous aujourd'hui ?#$e#Si vous cherchez à vous détendre, vous pouvez toujours louer une chambre ici à la cabane en rondins!$4",
+"Richard.Dialogue.Mon2": "Mon, @ ! C'est gentil de ta visite.$h#$b#Comment allez-vous aujourd'hui ?#$e#Si vous cherchez à vous détendre, vous pouvez toujours louer une chambre ici à la cabane en rondins!$4",
 "Richard.Dialogue.Tue2": "Beaucoup d'habitants du village traînent souvent dans le hall de l'hôtel pendant leur temps libre.#$b#Ça ne me dérange pas. J'aime discuter avec tout le monde.$h#$b#Je ne sors pas beaucoup.$s",
 "Richard.Dialogue.Wed2": "Ma défunte épouse aimait avoir des clients de l'hôtel.$h#$e#Elle aimait leur parler et écouter leurs histoires.#$b#Elle était journaliste avant de prendre sa retraite.#$ e#J'ai appris à m'ouvrir aux gens grâce à elle. Angelika était tout simplement incroyable...$s",
 "Richard.Dialogue.Thu2" : "Pourquoi, une belle journée à vous, @.$h#$b#Venez pour une visite, je vois.#$e#Si vous êtes intéressé, nous pouvons vous offrir un 30% réduction sur votre premier séjour!$h",
@@ -6470,7 +6470,7 @@
 "Richard.Dialogue.Sun4": "%Richard soupire profondément.#$b#Ma femme me manque encore plus des jours comme ceux-ci.$s#$e#Nous allions à la plage le dimanche et pêchions, ou sortions pour nager.#$b#Elle apportait toujours un panier de pique-nique et je posais ma tête sur ses genoux après le déjeuner.$h#$b#J'aimerais qu'elle soit là maintenant...$s ",
 
 //6 Coeurs
-"Richard.Dialogue.Mon6": "Une agréable matinée à toi, @!$h#$b#Tu as bien mangé ?#$e#Si jamais tu as besoin de quelque chose n'hésite pas à venir demander, d'accord ?#$b#Ma porte est toujours ouverte.$h",
+"Richard.Dialogue.Mon6": "Une agréable matinée à toi, @ !$h#$b#Tu as bien mangé ?#$e#Si jamais tu as besoin de quelque chose n'hésite pas à venir demander, d'accord ?#$b#Ma porte est toujours ouverte.$h",
 "Richard.Dialogue.Tue6": "La journée a été bonne pour nous, jusqu'à présent !$h#$e#Beaucoup de villageois sont venus nous rendre visite ces derniers temps !#$b#Je suis content qu'ils aiment ce que je fais ici. $h",
 "Richard.Dialogue.Wed6": "Je suis en route pour rendre visite au Dr Harvey.#$b#J'ai senti quelque chose éclater quand je soulevais une boîte hier.$u#$e#Je suis sûr que ce n'est rien. #$b#Après tout, je dois m'occuper d'Ysa et de l'hôtel~FILE CHANGE~.$s",
 "Richard.Dialogue.Thu6": "Je me fais un devoir d'enseigner quelque chose à Ysa chaque jour.#$e#Le temps est tellement précieux, tu sais ?#$b#'Tu ne sais jamais quand sera ton dernier jour,' j'ai toujours dis-lui.$s",
@@ -6485,7 +6485,7 @@
 "Richard.Dialogue.Thu8": "Ma femme et moi nous sommes rencontrés lorsqu'elle est entrée dans ces couloirs opportuns.#$b#J'espère qu'elle est fière de tout ce que j'ai fait pour notre hôtel et notre petite-fille.$h",
 "Richard.Dialogue.Fri8" : "Puis-je vous donner quelques conseils que ma femme m'a appris ?#$b#Souvenez-vous toujours d'avoir du courage et d'être gentil.$h#$e#On ne sait jamais si quelqu'un passe une mauvaise journée.#$b#Juste un peu de gentillesse pourrait faire une grande différence dans leur vie.$h",
 "Richard.Dialogue.Sat8": "J'adore discuter avec Lola et Freddie.$h#$b#Ces deux-là ont vu le monde !#$b#Chaque fois que je les écoute, j'ai l'impression d'avoir voyagé à leurs côtés ! $h",
-"Richard.Dialogue.Sun8": "Bonjour, @! Comment s'est passée la journée pour toi?#$e#La saison a été bonne pour nous. Je pense redonner.#$b#Peut-être que je ferai une promotion spéciale pour mes clients fidèles.$4",
+"Richard.Dialogue.Sun8": "Bonjour, @ ! Comment s'est passée la journée pour toi?#$e#La saison a été bonne pour nous. Je pense redonner.#$b#Peut-être que je ferai une promotion spéciale pour mes clients fidèles.$4",
 
 //10 Coeurs
 "Richard.Dialogue.Mon10": "J'espère que vous avez une belle journée devant vous, jeune garçon.^ J'espère que vous avez une belle journée devant vous, jeune fille.#$e#Si vous vous intéressez à l'industrie hôtelière, ne n'hésite pas à me le faire savoir, d'accord ?#$b#Je parie que je peux te montrer une chose ou deux.$h",
@@ -6494,7 +6494,7 @@
 "Richard.Dialogue.Thu10": "Parfois, je me demande à quoi ressemblerait la vie si ma chérie Angelika était là.$s#$e#Une chose est sûre, Ysa serait mieux prise en charge.#$b#Ma femme était la personne la plus forte et la plus positive que j'aie jamais connue.$h#$e#Je ne me suis jamais vraiment mêlé aux gens avant son arrivée.#$b#Elle m'a montré que le monde avait beaucoup à offrir et que je ne pouvais pas survivre cela seul.#$e#Mon espoir pour l'instant est que ma petite-fille aura toujours quelqu'un.#$b#Quelqu'un pour prendre soin d'elle même quand je serai parti.$s",
 "Richard.Dialogue.Fri10": "Bonjour, jeune!$h#$b#Je vais partager avec vous quelques mots sages que ma femme m'a laissés.#$b#'Chérissez le temps que vous avez avec ceux que vous aimez .'#$b#Le temps est le cadeau le plus précieux que vous puissiez offrir.$h",
 "Richard.Dialogue.Sat10": "Je suis tellement fier de ma petite-fille.$h#$e#Elle a tellement grandi, d'une douce petite fille à une belle femme forte et indépendante.$h#$b# Je suis convaincu que chaque fois que je me séparerai de ce monde, ma petite Ysa ira bien.$h#$e#Elle a rendu sa grand-mère et moi fiers !$h",
-"Richard.Dialogue.Sun10": "Tu es un bon ami, @!#$e#Merci d'avoir passé du temps avec un ancien comme moi.$h#$b#J'espère que tu as appris quelque chose de tous nos chats tout au long de la journée.",
+"Richard.Dialogue.Sun10": "Tu es un bon ami, @ !#$e#Merci d'avoir passé du temps avec un ancien comme moi.$h#$b#J'espère que tu as appris quelque chose de tous nos chats tout au long de la journée.",
 
 //Dialogue spécial
 "Richard.Dialogue.MovieInvitation": "Oh! Je serais honoré, jeune homme.^Oh! Je serais honoré, jeune femme.#$b#Cela me ferait oublier de diriger l'hôtel jour et nuit.$4 #$e#Je suis sûr qu'Ysa peut s'occuper de l'hôtel jusqu'à mon retour.#$b#Après tout, elle s'en occupera un jour.$h",
@@ -6528,7 +6528,7 @@
 //L'hiver
 "Shiro.Dialogue.winter_1": "L'hiver est une période étrange pour moi. D'une part, la crête et la vallée sont si belles.$h#$b#D'autre part, le froid me rend plus difficile les déplacements .$s#$b#Mais, qu'est-ce que la beauté sans un peu de douleur, n'est-ce pas ? Ha.$h",
 "Shiro.Dialogue.winter_7": "La pêche me manque. J'allais souvent avec mon père, mais...$s@#e#eh bien, disons que ça fait un moment depuis notre dernier voyage.$u",
-"Shiro.Dialogue.winter_14": "Hé, @! si tu vas au marché de nuit demain peux-tu me dire ce qui est en vente quand tu en auras l'occasion ?#$b#Je suis curieux mais je ne peux pas va à la plage tout de suite.$6",
+"Shiro.Dialogue.winter_14": "Hé, @ ! si tu vas au marché de nuit demain peux-tu me dire ce qui est en vente quand tu en auras l'occasion ?#$b#Je suis curieux mais je ne peux pas va à la plage tout de suite.$6",
 //"Shiro.Dialogue.winter_15": "Harvey a dit que je devais me tenir à l'écart de la caféine autant que possible.$s#$b#Il me manque une tasse du marchand de désert.$s",
 "Shiro.Dialogue.winter_16": "J'ai donné de la monnaie à Yuuma.#$b#J'espère qu'il choisira un nouveau jouet ou des fournitures d'art pour lui-même.$h",
 //"Shiro.Dialogue.winter_17": "As-tu trouvé quelque chose de sympa au marché ?",
@@ -6573,7 +6573,7 @@
 "Shiro.Dialogue.Sun6": "Parfois, quand le ciel est vraiment clair, Yuuma et moi nous asseyons la nuit et disons aux étoiles des messages à donner à nos parents. #$e# C'est un peu idiot, mais je pense que ça aide vraiment Yuuma. Et... je suppose que d'une certaine manière ça m'aide aussi.$h",
 
 //8 Coeurs
-"Shiro.Dialogue.Mon8": "Hey, @! Content de te revoir. Je suis content que tu ne sois pas encore fatigué de moi, haha!$h",
+"Shiro.Dialogue.Mon8": "Hey, @ ! Content de te revoir. Je suis content que tu ne sois pas encore fatigué de moi, haha!$h",
 "Shiro.Dialogue.Tue8": "Hé... merci d'être venu si souvent. Cela signifie beaucoup pour moi.",
 "Shiro.Dialogue.Wed8": "Je ne peux pas faire grand-chose, donc je ne sais pas pourquoi tu veux tellement passer du temps avec moi. #$b#Mais bon, je suis reconnaissant pour ta compagnie. $h",
 "Shiro.Dialogue.Thu8": "Philip a dit que je me débrouillais très bien. #$b#Il m'a demandé si quelque chose m'avait aidé à améliorer mon état d'esprit, car cela se voit dans les progrès que je fais.",
@@ -6603,7 +6603,7 @@
 "Shiro.Dialogue.Resort_Shore": "L'eau ne fait que continuer. Imaginez que vous dérivez sans vous soucier du monde. Parfois, je pense que ce serait bien.$h",
 "Shiro.Dialogue.Resort_Shore_2": "J'adore être dans l'océan. Mais, euh... je ne sais pas nager ici. En ce moment. Je suis... non, je suis bien ici. Ha. 8 $",
 "Shiro.Dialogue.Resort_Umbrella": "C'est fou comme il fait si chaud dehors, mais sous le parapluie c'est sympa et cool. Mais... je suppose que c'est comme ça que ça marche, hein?",
-"Shiro.Dialogue.Resort_Umbrella_2": "Hé, @! Profiter de la plage ?$h",
+"Shiro.Dialogue.Resort_Umbrella_2": "Hé, @ ! Profiter de la plage ?$h",
 "Shiro.Dialogue.Resort_Umbrella_3": "%Shiro semble dormir.",
 "Shiro.Dialogue.Resort_Wander": "J'ai déposé de l'argent quelque part ici... ne le dis pas à Yuuma.$6",
 "Shiro.Dialogue.Resort_Bar": "Shane en a bu un peu trop une fois et m'a dit que je devais essayer ce cocktail, mais je ne me souviens plus du nom...",
@@ -6643,7 +6643,7 @@
 "Trinnie.Dialogue.Tue": "Hé, Keahi et moi nous ennuyons tous les deux.$s#$e#Pouvons-nous jouer dans votre ferme ?#$e#Promets-nous que tout ira bien !$h#$b#S'il te plaît ? #$b#Jolie s'il te plait ?$h",
 "Trinnie.Dialogue.Wed": "Jas et moi adorons nous déguiser !$h#$e#Je vais être une cow-girl la prochaine fois !$h#$e#Êtes-vous un cow-boy ?^Êtes-vous une cow-girl ?",
 "Trinnie.Dialogue.Thu": "Qu'est-ce qui se passe avec Yuuma ces jours-ci?#$b#Tu sais?$u#$e#Il a juste arrêté de nous parler à l'improviste.$s#$b#C'est tellement impoli !$a",
-"Trinnie.Dialogue.Fri": "Salut, @! Comment vont tes cultures?$h#$b#Ma mère dit que j'ai la main verte!$u#$b#Je vérifie, mais je ne peux pas je le vois.$s#$e#Suis-je daltonien ?$u#$b#Papa dit que je suis peut-être daltonien, mais maman s'est fâchée et lui a dit d'arrêter de me taquiner.$s",
+"Trinnie.Dialogue.Fri": "Salut, @ ! Comment vont tes cultures?$h#$b#Ma mère dit que j'ai la main verte!$u#$b#Je vérifie, mais je ne peux pas je le vois.$s#$e#Suis-je daltonien ?$u#$b#Papa dit que je suis peut-être daltonien, mais maman s'est fâchée et lui a dit d'arrêter de me taquiner.$s",
 "Trinnie.Dialogue.Sat": "Je finis mes corvées rapidement pour pouvoir sortir et jouer !$h",
 "Trinnie.Dialogue.Sun": "Keahi est fou !$u#$b#Il dit qu'il peut retenir son souffle pendant dix minutes !$u#$e#Je lui ai dit que je le chronométrais, mais j'ai oublié.$s#$b#Cela fait probablement cinq minutes, n'est-ce pas ?$h",
 
@@ -6651,7 +6651,7 @@
 "Trinnie.Dialogue.Mon2": "À quelle distance pouvez-vous frapper Keahi, ha ha !$h#$b#Kidding !#$e#S'il vous plaît, ne frappez pas Keahi.$s",
 "Trinnie.Dialogue.Tue2": "Keahi a pris le thé avec moi et Jas !#$e# Il n'arrêtait pas de se mettre en colère quand nous l'avons appelé Miss Keahi, mais seules les princesses peuvent y aller~FILE CHANGE~parties de thé, duh!$h",
 "Trinnie.Dialogue.Wed2": "Keahi a dit qu'il me rencontrerait ici, mais il n'est pas encore là !$s#$b#Je me suis levé !$a#$e#Que veut dire se lever ?",
-"Trinnie.Dialogue.Thu2": "Hé, @! Tu veux jouer?$h",
+"Trinnie.Dialogue.Thu2": "Hé, @ ! Tu veux jouer?$h",
 "Trinnie.Dialogue.Fri2": "Keahi m'a épuisé hier.$u#$e#Nous avons chassé des kiwis roulants et joué au tag toute la journée !$h",
 "Trinnie.Dialogue.Sat2": "Je suis puni pour aujourd'hui.$s#$b#Mon père s'est fâché contre moi parce qu'il pensait que j'avais fait la farce de Keahi !$a#$e#Stupid Keahi !$4",
 "Trinnie.Dialogue.Sun2": "OH, NON!$u#$e#J'ai oublié d'arroser mes cultures aujourd'hui !$s",
@@ -6676,7 +6676,7 @@
 
 //8 Coeurs
 "Trinnie.Dialogue.Mon8": "M. Pika s'est fâché contre moi et Keahi hier à cause d'une farce que nous avons faite à Shane, et Jas ne veut pas nous parler.$s#$e#Je me sentais mal hier, mais maintenant Je me sens mieux.#$b#Keahi m'a serré dans ses bras quand j'ai pleuré hier soir.$4",
-"Trinnie.Dialogue.Tue8": "Hé, quoi de neuf, @!$h#$e#Puis-je entrer chez toi et regarder la télé ?#$b#Je n'ai pas regardé mes dessins animés et maman ne me laisse pas regarder pendant la journée.$s#$e#J'aidais Keahi à chercher quelque chose appelé papier flash, mais ensuite il est allé demander de l'aide à Maru à ma place. ",
+"Trinnie.Dialogue.Tue8": "Hé, quoi de neuf, @ !$h#$e#Puis-je entrer chez toi et regarder la télé ?#$b#Je n'ai pas regardé mes dessins animés et maman ne me laisse pas regarder pendant la journée.$s#$e#J'aidais Keahi à chercher quelque chose appelé papier flash, mais ensuite il est allé demander de l'aide à Maru à ma place. ",
 "Trinnie.Dialogue.Wed8": "Je vais à la plage pour m'entraîner à faire la roue ! Tu veux venir avec moi @ ? Ça va être tellement amusant ! Je peux faire une roue parfaite, Miss Penny le dit !",
 "Trinnie.Dialogue.Thu8": "Est-ce que tu nous laisseras jouer dans ta ferme si on te donne du gâteau ?$h",
 "Trinnie.Dialogue.Fri8": "Hé, @, j'ai offert un cadeau à Keahi !$h#$e#Et il l'a aimé !$4",
@@ -6689,11 +6689,11 @@
 "Trinnie.Dialogue.Wed10": "Psst!#$b#Je vais te dire un secret.$u#$e#J'aime Keahi.$4#$b#Mais ne lui dis pas!$h",
 "Trinnie.Dialogue.Thu10": "Peux-tu m'apprendre à danser comme Ysa ?#$b#Je veux être une ballerine !$h#$e#Tu ne sais pas comment ?$u#$b#C'est triste.$s",
 "Trinnie.Dialogue.Ven10": "Est-ce que tu vas bien ici ?#$b#Puis-je te donner un coup de main ?#$e#Je suis vraiment douée pour aider !$h#$b#Mon père dit que je suis le meilleur coup de main au monde ! $h",
-"Trinnie.Dialogue.Sat10": "Salut, @!#$e#Viens jouer!$h",
+"Trinnie.Dialogue.Sat10": "Salut, @ !#$e#Viens jouer!$h",
 "Trinnie.Dialogue.Sun10": "Je vais faire une blague à Keahi !$h#$b#Mais je ne sais pas quoi faire.#$e#Papa a dit que je devrais essayer un coussin whoopee.#$b#Qu'est-ce qu'un coussin whoopee ?$u",
 
 //Dialogue spécial
-"Trinnie.Dialogue.MovieInvitation": "Oui ! Oui ! Oui !#$b#J'adore les films ! Bien sûr, j'adorerais vous accompagner, @!$h#$e#Nous devrions certainement apporter beaucoup de collations !$h#$b#Si nous nous asseyons au milieu, nous pouvons tout voir!$h#$b#Aaah!! Je suis tellement excité!!$h",
+"Trinnie.Dialogue.MovieInvitation": "Oui ! Oui ! Oui !#$b#J'adore les films ! Bien sûr, j'adorerais vous accompagner, @ !$h#$e#Nous devrions certainement apporter beaucoup de collations !$h#$b#Si nous nous asseyons au milieu, nous pouvons tout voir!$h#$b#Aaah!! Je suis tellement excité!!$h",
 
 //Recours
 "Trinnie.Dialogue.Resort_Entering": "Whoa!$u#$b#Regarde ça!#$e#Papa, viens!$h",
@@ -6754,7 +6754,7 @@
 //"Ysabelle.Dialogue.winter_15": "J'espère que quelqu'un vend des rubans.$6#$e#Si non je vais devoir m'en passer, ou prévoir un voyage en ville...$6#$b#Non, Je préfère m'en passer.$s",
 //"Ysabelle.Dialogue.winter_16": "L'élégance des sirènes est vraiment d'un autre monde.$l#$b#Si vous n'avez pas encore vu le spectacle, qu'attendez-vous ?",
 "Ysabelle.Dialogue.winter_17": "Lupini a demandé s'il pouvait me peindre.$u#$e#J'ai été surpris de l'offre, mais je n'ai pas pu dire non !$l#$b#Son style rococo est sans pareil ! ",
-"Ysabelle.Dialogue.winter_24": "J'espère que cette saison de Noël vous apportera autant de joie que les friandises Winter Star m'apportent du bonheur!$h#$b#Passez une merveilleuse nouvelle année, @!$h",
+"Ysabelle.Dialogue.winter_24": "J'espère que cette saison de Noël vous apportera autant de joie que les friandises Winter Star m'apportent du bonheur!$h#$b#Passez une merveilleuse nouvelle année, @ !$h",
 
 //Jours de la semaine
 
@@ -6770,7 +6770,7 @@
 // Cœurs
 "Ysabelle.Dialogue.Mon2": "Je vais aider Haley plus tard.#$b#Elle veut que je lui apprenne la bonne posture lorsqu'elle marche sur la piste.#$e#Elle pense que ça lui donnera un avantage pour le prochain festival Flower Dance, mais c'est vraiment juste une bonne compétence à avoir.$h",
 "Ysabelle.Dialogue.Tue2": "Il fait beau aujourd'hui n'est-ce pas? J'ai une envie de chocolats en ce moment. Hmm, et peut-être des fraises.",
-"Ysabelle.Dialogue.Wed2": "Bonjour @! J'espère que vous passez une bonne journée aujourd'hui!$h",
+"Ysabelle.Dialogue.Wed2": "Bonjour @ ! J'espère que vous passez une bonne journée aujourd'hui!$h",
 "Ysabelle.Dialogue.Thu2": "Si tu vois mon grand-père, s'il te plaît ne lui dis pas que je suis là d'accord ?$u#$b#Je me cache de ma liste de choses à faire, aujourd'hui.$l",
 "Ysabelle.Dialogue.Fri2": "J'admire l'attitude de Léa. Elle est spécialisée dans les abstractions, mais il y a une certaine classe dans son travail.$h",
 "Ysabelle.Dialogue.Sat2" : "Avez-vous pris le temps de prendre soin de votre corps aujourd'hui ?#$b#Je vais à la salle de sport de l'hôtel. Voudriez-vous me rejoindre ?",
@@ -6781,7 +6781,7 @@
 "Ysabelle.Dialogue.Tue4": "Aujourd'hui a été une bonne journée pour l'hôtel.#$b#Je suis content pour grand-père qu'il puisse voir à quel point la vallée apprécie son travail acharné.$h",
 "Ysabelle.Dialogue.Wed4": "Quand je vais en ville, je me fais souvent un devoir de rendre visite à Harvey et de lui apporter du café.#$b#Nous aimons tous les deux parler de la vie et du travail tout en faisant une petite promenade autour de la place. $h",
 "Ysabelle.Dialogue.Thu4": "OH NON! J'ai laissé mes pointes chez Corine hier soir.$u#$b#J'espère qu'elle les a laissés tranquilles ; elle aime essayer~FILE CHANGE~em quand elle a bu un verre ou deux.$6",
-"Ysabelle.Dialogue.Fri4": "Bonjour @! Comment vas-tu?#$b#Mon, tu es rayonnante aujourd'hui. Tu dois bien manger et avoir un sommeil réparateur!$h",
+"Ysabelle.Dialogue.Fri4": "Bonjour @ ! Comment vas-tu?#$b#Mon, tu es rayonnante aujourd'hui. Tu dois bien manger et avoir un sommeil réparateur!$h",
 "Ysabelle.Dialogue.Sat4": "J'apprécie vraiment grand-père de me donner toujours une journée complète pour me concentrer sur la pratique.$h#$e#Je ne suis pas tout à fait sûr de ce que les prochaines années vont me réserver, mais je veux rester aussi pointu que je peux.$l",
 "Ysabelle.Dialogue.Sun4" : "Je vais dans la forêt aujourd'hui pour méditer.#$e#Lenny me rejoint chaque fois qu'elle se sent stressée, car c'est un bon moyen de se débarrasser de l'anxiété et de s'entraîner à être présent.#$b#C'est aussi un petit moment de complicité pour nous.$h",
 
@@ -6789,16 +6789,16 @@
 "Ysabelle.Dialogue.Mon6": "J'applaudis à quel point Corine essaie chaque fois qu'elle me rejoint dans mon entraînement.#$b#Elle s'améliore définitivement rapidement.$h",
 "Ysabelle.Dialogue.Tue6": "Je suis reconnaissant envers grand-père. Il m'a accueilli et a pris soin de moi quand j'étais perdu.#$b#Je ne sais pas comment j'aurais survécu s'il ne l'avait pas été là pour me guider.$6",
 "Ysabelle.Dialogue.Wed6": "Maddie a eu l'audace de me dire que je ne contribue pas assez pour sauver la Terre.$a#$e#Il y a beaucoup de choses que nous pouvons accomplir qui n'implique pas de ramasser les déchets. $a#$b#Elle a dû manquer de sommeil avant de m'approcher, alors laissons-lui le bénéfice du doute.$6",
-"Ysabelle.Dialogue.Thu6": "Oh, bonjour @! Avez-vous essayé l'espresso triple shot?#$b#C'est à tomber! Je pense que c'est ce que goûte l'ambroisie.$l",
+"Ysabelle.Dialogue.Thu6": "Oh, bonjour @ ! Avez-vous essayé l'espresso triple shot?#$b#C'est à tomber! Je pense que c'est ce que goûte l'ambroisie.$l",
 "Ysabelle.Dialogue.Fri6" : "Une fois que Philip a fini de travailler hier, il est venu dans le hall et a proposé son aide. Par contre, grand-père s'est méfié.#$b# Croiriez-vous qu'il pensait réellement que Philip et moi nous voyions ? $u",
 "Ysabelle.Dialogue.Sat6": "~Un autre jour, un autre plié.~$h#$e#Samedi est mon nouveau jour préféré de la semaine.#$b#C'est un jour juste pour moi et la piste de danse. Eh bien, plancher du gymnase.$h",
 "Ysabelle.Dialogue.Sun6": "Grand-père m'a rejoint pour une promenade en forêt l'autre jour.#$b#Nous avons fait un pique-nique sur l'herbe et il m'a raconté des histoires de mon enfance et de celle de Corine.$h#$e#Il a dit que j'ai toujours été plutôt guindée et correcte.$6#$b#Merci l'univers à Corine, elle m'a appris à me détendre un peu.$h",
 
 //8 Coeurs
-"Ysabelle.Dialogue.Mon8": "Bonjour, @! Mon, je pense que le ciel est un peu plus lumineux avec toi autour!$l#$b#Je ne fais que taquiner. Comment vas-tu?$h",
-"Ysabelle.Dialogue.Tue8": "Hé, @! Je t'ai cherché! Mais je ne peux pas me rappeler pourquoi.$l#$b#Eh bien! C'est bon de te voir. $h",
+"Ysabelle.Dialogue.Mon8": "Bonjour, @ ! Mon, je pense que le ciel est un peu plus lumineux avec toi autour!$l#$b#Je ne fais que taquiner. Comment vas-tu?$h",
+"Ysabelle.Dialogue.Tue8": "Hé, @ ! Je t'ai cherché! Mais je ne peux pas me rappeler pourquoi.$l#$b#Eh bien! C'est bon de te voir. $h",
 "Ysabelle.Dialogue.Wed8": "C'est bon de te voir !$h#$b#Oui, je sais qu'on s'est vu récemment, mais l'absence ne demande pas de temps pour se faire aimer.$l",
-"Ysabelle.Dialogue.Thu8": "Bonjour @! C'est une belle journée n'est-ce pas?$h#$b#Si vous avez un peu de temps libre, pensez à le passer avec moi?$l",
+"Ysabelle.Dialogue.Thu8": "Bonjour @ ! C'est une belle journée n'est-ce pas?$h#$b#Si vous avez un peu de temps libre, pensez à le passer avec moi?$l",
 "Ysabelle.Dialogue.Fri8" : "Pourquoi, bonjour le soleil. Tu es plus magnifique que d'habitude !$l#$b# Comme si tu étais sculpté dans la pierre !^Tu es aussi radieuse que le soleil !$h ",
 "Ysabelle.Dialogue.Sat8": "Hey @, je suis en route pour la salle de gym pour m'échauffer pour mon entraînement. Voudrais-tu m'accompagner?#$b#Lenny a dit qu'elle allait essayer de passer, cependant Je ne sais pas si cela vous encouragerait ou vous découragerait de me rejoindre.$l",
 "Ysabelle.Dialogue.Sun8": "Bonjour @, je voudrais juste te dire que je te suis vraiment reconnaissante.$l#$e#Surtout ces derniers jours. A la fois pour m'avoir écouté, et pour tout simplement être là.$l",
@@ -6845,7 +6845,7 @@
 "Yuuma.Dialogue.summer_27": "Je suis heureux que mon frère soit excité pour demain.$h#$b#J'espère qu'il ne se blesse pas...$s",
 
 //Tombe
-"Yuuma.Dialogue.fall_1": "@! Mon frère n'arrête pas de ratisser les feuilles le matin.$u#$e#Je lui ai dit que je le ferais, mais il ne m'écoutera pas.$s#$b#Comment le faire arrêter ?$4",
+"Yuuma.Dialogue.fall_1": "@ ! Mon frère n'arrête pas de ratisser les feuilles le matin.$u#$e#Je lui ai dit que je le ferais, mais il ne m'écoutera pas.$s#$b#Comment le faire arrêter ?$4",
 "Yuuma.Dialogue.fall_15": "Oh, la foire c'est demain, c'est excitant !$h#$b#Eh bien, en quelque sorte...#$b#Je me demande si Shiro veut y aller...",
 "Yuuma.Dialogue.fall_26": "Je suis un peu excité pour demain.$h#$b#Spirit's Eve est toujours très chouette, et je sais que mon frère l'attend avec impatience.$h#$e#J'espère il passe un bon moment, mais nous ne pouvons pas rester très longtemps ou il pourrait se fatiguer et se blesser.$s#$b#C'est mon travail de m'assurer qu'il va bien.$h",
 
@@ -6900,19 +6900,19 @@
 "Yuuma.Dialogue.Mon8": "Salut, @. Puis-je te demander quelque chose?#$b#Suis-je un enfant bizarre?#$e#Quelqu'un a dit que je l'étais.$s#$e#Eh bien... ça va .$h",
 "Yuuma.Dialogue.Tue8": "Mon frère se sent mieux et M. Philip dit qu'il devient plus fort.$h",
 "Yuuma.Dialogue.Wed8": "Tu es une personne vraiment bien et un ami incroyable, @.$h#$b#Merci, merci, merci !$h",
-"Yuuma.Dialogue.Thu8": "Bonjour, @!$h#$b#Veux-tu... me pousseras-tu sur les balançoires plus tard ?",
+"Yuuma.Dialogue.Thu8": "Bonjour, @ !$h#$b#Veux-tu... me pousseras-tu sur les balançoires plus tard ?",
 "Yuuma.Dialogue.Fri8": "J'ai joué avec Trinnie et Keahi plus tôt. C'était amusant.$h",
 "Yuuma.Dialogue.Sat8": "Pika fait de la très bonne nourriture.#$b#Mon frère et moi en achetons toujours à emporter.#$e#Shiro me laisse aller le chercher moi-même parce que c'est utile.$h ",
 "Yuuma.Dialogue.Sun8": "Je dois jouer avec Vincent et Jas aujourd'hui !$h",
 
 //10 Coeurs
-"Yuuma.Dialogue.Mon10": "@! Je suis content que tu sois là!$h#$b#On peut jouer plus tard? Mon frère dit que ça va.$h",
+"Yuuma.Dialogue.Mon10": "@ ! Je suis content que tu sois là!$h#$b#On peut jouer plus tard? Mon frère dit que ça va.$h",
 "Yuuma.Dialogue.Tue10": "Keahi est venu l'autre jour, et il m'a montré certaines de ses nouvelles figurines.$h#$b#C'était très amusant.$h",
 "Yuuma.Dialogue.Wed10": "Mon frère et moi avons arrangé la chambre de maman et papa hier.#$e#Il dit qu'ils ne reviendront pas avant un moment...$s#$b#mais ça va parce que nous 'sont tous en sécurité et ils travaillent dur.$h",
 "Yuuma.Dialogue.Thu10": "Mon frère s'est réveillé avec une douleur dans le dos ce matin.$4#$b#Je me suis vraiment inquiété mais lui et M. Philip m'ont dit que ce n'était pas parce qu'il avait fait quelque chose de mal ou travaillé trop dur, que cela arrive parfois.$s#$b#J'essaie de les croire.$s",
 "Yuuma.Dialogue.Fri10": "Hé, @. Qu'est-ce qu'une farce ?#$e#Keahi et Trinnie ont dit qu'ils étaient des experts en farces.#$b#Mon frère m'a dit de ne pas faire de farces. Je suis confus. .$u",
 "Yuuma.Dialogue.Sat10": "Mlle Flor est vraiment jolie.$h#$b#J'aime toujours quand elle parle du fonctionnement du cerveau des gens.$h#$b#Elle est vraiment adorable.$h",
-"Yuuma.Dialogue.Sun10": "Bonjour, @! Je suis content que tu sois là!$h#$b# Puis-je venir t'aider dans ta ferme un jour?$h",
+"Yuuma.Dialogue.Sun10": "Bonjour, @ ! Je suis content que tu sois là!$h#$b# Puis-je venir t'aider dans ta ferme un jour?$h",
 
 //Dialogue spécial
 "Yuuma.Dialogue.MovieInvitation": "Oh? Un film?#$b#Shiro va bien en ce moment... alors je suis prêt à partir.#$b#Merci.$h",
@@ -6948,7 +6948,7 @@
 "Alissa.MarriageDialogue.winter_14": "Pouvons-nous acheter plus de matériel agricole ?$I#$b#J'ai quelques idées pour la ferme qui, je pense, la rendront encore plus jolie.$h",
 "Alissa.MarriageDialogue.winter_15": "J'ai acheté des graines exotiques. J'ai hâte de les planter la saison prochaine !$h",
 //"Alissa.MarriageDialogue.winter_16": "Tante a vu un microphone à vendre.#$b#J'étais vraiment gêné quand elle m'a dit de le tester sur place.$7",
-//"Alissa.MarriageDialogue.winter_17": "J'espère que vous avez des objets intéressants, @! J'ai pu acheter de bonnes choses.$h",
+//"Alissa.MarriageDialogue.winter_17": "J'espère que vous avez des objets intéressants, @ ! J'ai pu acheter de bonnes choses.$h",
 "Alissa.MarriageDialogue.winter_24": "Je suis très excité pour demain !#$b#Avez-vous déjà un cadeau pour votre père Noël secret ?",
 
 ///Chambre
@@ -6985,9 +6985,9 @@
 //Nuit Intérieur
 "Alissa.MarriageDialogue.Indoor_Night_0": "Salut, chérie, comment s'est passée ta journée ? J'espère que tu as passé une bonne !$h",
 "Alissa.MarriageDialogue.Indoor_Night_1": "Tu as fini pour la journée ? Viens ! Parle-moi !$h",
-"Alissa.MarriageDialogue.Indoor_Night_2": "Allons nous allonger et parlons de notre journée, @!$h",
+"Alissa.MarriageDialogue.Indoor_Night_2": "Allons nous allonger et parlons de notre journée, @ !$h",
 "Alissa.MarriageDialogue.Indoor_Night_3": "Je ne sais pas pourquoi, ma chérie, mais je trouve vraiment la nuit inspirante.$l#$b#Ça me donne beaucoup d'idées de paroles et même de mélodies.$h",
-"Alissa.MarriageDialogue.Indoor_Night_4": "Tu es à la maison, @!#$b#J'ai passé la journée à faire des corvées.#$b#J'ai aussi rendu visite à tante plus tôt.$h",
+"Alissa.MarriageDialogue.Indoor_Night_4": "Tu es à la maison, @ !#$b#J'ai passé la journée à faire des corvées.#$b#J'ai aussi rendu visite à tante plus tôt.$h",
 "Alissa.MarriageDialogue.Indoor_Night_Alissa": "~Berceuse... et bonne nuit... Laisse la lumière des étoiles te guider.~$6#$b#Qu'est-ce que ma chérie ? Rien, je suis juste en train de pratiquer des berceuses pour plus tard.$ l#$b#Alors préparez-vous d'accord ? Teehee <$h",
 
 ///En plein air
@@ -7013,7 +7013,7 @@
 "Alissa.MarriageDialogue.TwoKids_0": "Aww, regardez-les tous les deux courir autour de notre ferme. Ça me fait tellement plaisir de voir.$h",
 "Alissa.MarriageDialogue.TwoKids_1": "Je suis content que nous ayons décidé de fonder une famille, ma chérie.#$e#Nous avons les enfants les plus mignons à qui nous pouvons laisser toute cette terre et ces cultures, ha ha ha.$h#$b#Quand ils grandiront, nous leur apprendrons nos tours de ferme !$h",
 "Alissa.MarriageDialogue.TwoKids_2": "Hé, chéri. %kid1 a donné des fruits à %kid2.#$b#C'est un tel plaisir de les voir partager.$h",
-"Alissa.MarriageDialogue.TwoKids_3": "Je t'aime, @! J'aime nos enfants. J'aime notre vie! Je suis tellement heureux avec tout ce que nous avons.$h",
+"Alissa.MarriageDialogue.TwoKids_3": "Je t'aime, @ ! J'aime nos enfants. J'aime notre vie! Je suis tellement heureux avec tout ce que nous avons.$h",
 
 //Dépend de la relation
 ///Bon%kid1
@@ -7111,7 +7111,7 @@
 "Corine.MarriageDialogue.Indoor_Night_0": "Ahhhh, enfin à la maison !$h#$b#Tu ne croirais pas le genre de journée que j'ai eu.$u",
 "Corine.MarriageDialogue.Indoor_Night_1": "Tu as terminé ton travail pour la journée, @?#$b#Prenons un bain moussant ensemble !$l",
 "Corine.MarriageDialogue.Indoor_Night_2": "Tu est à la maison! As-tu ~FILE CHANGE~déjà mangé ?$l#$b#Je peux nous préparer un plat rapide si tu veux !",
-"Corine.MarriageDialogue.Indoor_Night_3": "Oh, je suis content que tu sois à la maison, @!$h",
+"Corine.MarriageDialogue.Indoor_Night_3": "Oh, je suis content que tu sois à la maison, @ !$h",
 "Corine.MarriageDialogue.Indoor_Night_4": "Tu as l'air épuisé.$s#$b#Détends-toi et allons au lit tôt.$l",
 "Corine.MarriageDialogue.Indoor_Night_Corine": "Bienvenue à la maison ! Cette émission que vous aimez est censée être diffusée ce soir.$h#$b# Mettons-nous bien sur le canapé avec du pop-corn !",
 
@@ -7256,7 +7256,7 @@
 //Un enfant
 "Flor.MarriageDialogue.OneKid_0": "%kid1 grandit si vite !#$b# J'aurais aimé me spécialiser en psychologie de l'enfant, juste pour mieux apprécier le fonctionnement du cerveau de l'enfant.",
 "Flor.MarriageDialogue.OneKid_1": "Ouf, c'est fatiguant de s'occuper d'un enfant, hein ? #$b# Imaginez si nous en avions deux ! Je suis fatigué rien que d'y penser...$s",
-"Flor.MarriageDialogue.OneKid_2": "@! %kid1 a dit 'Maman' plus tôt ! $h#$b#C'était peut-être juste du babillage, mais je veux dire, c'est ainsi que le langage se forme, et c'était incroyable !$h ",
+"Flor.MarriageDialogue.OneKid_2": "@ ! %kid1 a dit 'Maman' plus tôt ! $h#$b#C'était peut-être juste du babillage, mais je veux dire, c'est ainsi que le langage se forme, et c'était incroyable !$h ",
 "Flor.MarriageDialogue.OneKid_3": "%kid1 et moi serons là quand vous rentrerez à la maison, et le dîner sera prêt. Nous vous aimons !$h",
 
 //Deux enfants
@@ -7319,7 +7319,7 @@
 
 ///L'hiver
 "Ian.MarriageDialogue.winter_1": "Pelleter de la neige a été une grande partie de ma vie.#$b#Mais saviez-vous que j'ai failli mourir de hi- euh... Hy-- euh... hypodermique ?#$b#Hypothermie...$s#$b#Je pense?#$b#Quand tu as trop froid?#$b#Je me souviens juste d'avoir eu froid et de m'endormir sur le trottoir.$u#$b#J'avais l'habitude de me demande parfois si j'aurais dû...$s#$b#ne pas me réveiller...$s#$b#Mais je suis vraiment content de l'avoir fait, parce que je t'ai maintenant.$l",
-"Ian.MarriageDialogue.winter_7": "@!#$b#Tu veux faire des anges et des bonhommes de neige demain ?$h#$b#Huh, la pêche ?#$b#Euh... bien sur que je sais pêcher ... C'est l'un des éléments essentiels à apprendre, surtout si vous avez grandi dans la pauvreté.$h#$b#Je n'aime pas le montrer, je suppose.",
+"Ian.MarriageDialogue.winter_7": "@ !#$b#Tu veux faire des anges et des bonhommes de neige demain ?$h#$b#Huh, la pêche ?#$b#Euh... bien sur que je sais pêcher ... C'est l'un des éléments essentiels à apprendre, surtout si vous avez grandi dans la pauvreté.$h#$b#Je n'aime pas le montrer, je suppose.",
 "Ian.MarriageDialogue.winter_14": "%Ian a l'air épuisé.#$b#L'idée du marché de demain est tellement fatigante.$s#$b#J'ai hâte de rentrer à la maison et de m'évanouir demain matin.",
 //"Ian.MarriageDialogue.winter_15": "Spectacle de sirènes ?#$b#Non, je ne suis pas vraiment intéressé.#$b#Tu es assez magique pour moi.$l",
 //"Ian.MarriageDialogue.winter_16": "Ce serait amusant de mettre des décorations autour de la ferme.#$b#Je pense que j'ai de la monnaie -- assez pour quelques cannes de bonbon !$h",
@@ -7394,7 +7394,7 @@
 ///Bien
 "Ian.MarriageDialogue.Good_0": "J'ai envie de votre parmesan d'aubergine maison.$h#$b#C'est ce que vous préférez faire.#$b#J'ai essayé de le cuisiner moi-même, mais ça marche c'est pas pareil, haha !",
 "Ian.MarriageDialogue.Good_1": "J'ai fait des progrès dans ma lecture.#$b#Penny et Flor ont dit qu'elles étaient impressionnées !$h",
-"Ian.MarriageDialogue.Good_2": "Je te rendrai fier de moi un jour, @!#$b# Je sais que tu le dis déjà, mais je ne le mérite pas encore !#$b#Je dois travailler Plus fort!",
+"Ian.MarriageDialogue.Good_2": "Je te rendrai fier de moi un jour, @ !#$b# Je sais que tu le dis déjà, mais je ne le mérite pas encore !#$b#Je dois travailler Plus fort!",
 "Ian.MarriageDialogue.Good_3": "Ma sœur a envoyé des lettres l'autre jour pour parler de leur situation à la maison.$h#$b#Elle a dit que les choses allaient bien.#$b#Je suis vraiment content d'entendre ça. #$e#Oh, ils veulent aussi te rencontrer !#$b#Peut-être qu'un jour nous pourrons leur rendre visite ?",
 "Ian.MarriageDialogue.Good_4": "J'ai eu quelques jours tranquilles...#$b#Hier j'ai aidé Robin à abattre des arbres, déplacé des cartons pour Lewis et Lenny, aidé Marnie à nettoyer la grange, attrapé des crabes et des anguilles pour Willy, extrait du charbon pour Clint, rapiécé des fûts de vin qui fuient pour Gus, réapprovisionné les étagères pour Pierre... Je n'aime pas avoir une charge de travail aussi légère.",
 "Ian.MarriageDialogue.Good_5": "La cuisine de Pika me manque.#$b#Je devrais aller visiter la crête plus souvent.#$b#Dites-moi si vous partez bientôt, nous pourrons peut-être dîner ensemble !$h",
@@ -7563,7 +7563,7 @@
 "Kenneth.MarriageDialogue.summer_27": "J'ai fait en sorte que les lumières s'éteignent exactement au moment où le maire Lewis allume la torche.#$b#Un petit éclairage d'ambiance romantique n'a jamais fait de mal à personne, n'est-ce pas ? Ha ha !$h",
 
 ///Tombe
-"Kenneth.MarriageDialogue.fall_1": "Je deviens toujours si nerveux à l'automne... Pourquoi ? Oh, euh... eh bien, ne te moque pas de moi, mais c'est comme si toutes les petites créatures des bois décident que c'est la saison des farces .#$b#J'ai l'habitude de travailler sur des machines, d'accord !$s#$b#Quand des petits lapins et des écureuils sautent d'un buisson ou d'un arbre, je ne m'attends pas à ça.$s#$b#W- Quoi ?! Arrête de rire, @!$l",
+"Kenneth.MarriageDialogue.fall_1": "Je deviens toujours si nerveux à l'automne... Pourquoi ? Oh, euh... eh bien, ne te moque pas de moi, mais c'est comme si toutes les petites créatures des bois décident que c'est la saison des farces .#$b#J'ai l'habitude de travailler sur des machines, d'accord !$s#$b#Quand des petits lapins et des écureuils sautent d'un buisson ou d'un arbre, je ne m'attends pas à ça.$s#$b#W- Quoi ?! Arrête de rire, @ !$l",
 "Kenneth.MarriageDialogue.fall_15": "Oh, hey, @. Je voulais juste te demander, euh... tu veux aller à la foire avec moi demain ?$l#$b#Je pensais que nous pourrions peut-être, vous savez, faites-en un rendez-vous. Ha ha.$h",
 "Kenneth.MarriageDialogue.fall_26": "Chut, ne le dis à personne, mais Maru et moi avons joué avec les lumières de la place de la ville.#$b#À minuit, ils deviendront rouge foncé pour être tout effrayants. Ha ha !$h#$b#Cela devrait faire peur aux enfants.$h",
 
@@ -7587,7 +7587,7 @@
 "Kenneth.MarriageDialogue.Rainy_Day_0": "Il pleut aujourd'hui. Faites très attention, d'accord ?",
 "Kenneth.MarriageDialogue.Rainy_Day_1": "Je pourrais me rendre au Log Cabin Hotel plus tard et faire quelques réparations que Richard a demandé.",
 "Kenneth.MarriageDialogue.Rainy_Day_2": "Eh bien, je pense que je vais rester à l'intérieur pour aujourd'hui. #$b#Ça me donne une excuse pour travailler sur mes inventions, ha ha.$h",
-"Kenneth.MarriageDialogue.Rainy_Day_3": "Salut, @! Je travaillais sur quelque chose plus tôt. #$b# Et voilà. [199] Oui, c'était de la nourriture! Je t'ai trompé, n'est-ce pas ? Ha ha !$h ",
+"Kenneth.MarriageDialogue.Rainy_Day_3": "Salut, @ ! Je travaillais sur quelque chose plus tôt. #$b# Et voilà. [199] Oui, c'était de la nourriture! Je t'ai trompé, n'est-ce pas ? Ha ha !$h ",
 "Kenneth.MarriageDialogue.Rainy_Day_4": "J'ai entendu des rumeurs au sujet d'une sorte de totem qui peut contrôler la météo... ça ne serait pas bizarre ?",
 "Kenneth.MarriageDialogue.Rainy_Day_Kenneth": "Je suis encore un peu somnolent.$6#$b#La pluie est vraiment relaxante, hein ?$h",
 
@@ -7595,7 +7595,7 @@
 "Kenneth.MarriageDialogue.Rainy_Night_0": "Bienvenue à la maison ! Oh, wow, tu es trempé.#$b#Vite, va te changer en quelque chose de sec.$6",
 "Kenneth.MarriageDialogue.Rainy_Night_1": "%Kenneth semble être à moitié endormi.",
 "Kenneth.MarriageDialogue.Rainy_Night_2": "Garçon, suis-je battu...$6",
-"Kenneth.MarriageDialogue.Rainy_Night_3": "Oh, Yoba! ... Oh, désolé, @! Vous venez de me surprendre. #$b# Ha ha, j'ai été dans mon propre monde à penser à mes inventions toute la journée$h#$b#et je suppose que je ne t'ai pas entendu entrer. Désolé ! Je suis tellement content que tu sois là maintenant.$l",
+"Kenneth.MarriageDialogue.Rainy_Night_3": "Oh, Yoba! ... Oh, désolé, @ ! Vous venez de me surprendre. #$b# Ha ha, j'ai été dans mon propre monde à penser à mes inventions toute la journée$h#$b#et je suppose que je ne t'ai pas entendu entrer. Désolé ! Je suis tellement content que tu sois là maintenant.$l",
 "Kenneth.MarriageDialogue.Rainy_Night_4": "Vous savez, ma maison sur la crête fuyait parfois quand il pleuvait trop.$6#$b#Mais ici tout ce que j'entends c'est le crépitement de la pluie sur le toit. C'est tellement paisible.",
 "Kenneth.MarriageDialogue.Rainy_Night_5": "Bonsoir, @. Je travaillais sur quelque chose pendant que tu étais dehors. [411] Fais juste attention, d'accord?$h",
 "Kenneth.MarriageDialogue.Rainy_Night_Kenneth": "La pluie semble vraiment relaxante, surtout la nuit.$h",
@@ -7606,7 +7606,7 @@
 "Kenneth.MarriageDialogue.Indoor_Day_2": "Bip boop, je m'appelle Kenneth, je suis ton nouveau conjoint robot...$6#$e#Oh non, ton amour a surchargé mes circuits...$l",
 "Kenneth.MarriageDialogue.Indoor_Day_3": "Certains matins, je te vois et je me demande si je rêve encore.$h",
 "Kenneth.MarriageDialogue.Indoor_Day_4": "Bonjour, chérie ! Déjeunons ensemble.$h",
-"Kenneth.MarriageDialogue.Indoor_Day_Kenneth": "Je pense que je vais juste passer un peu de temps à la maison et essayer de terminer mon petit projet aujourd'hui.#$b# J'espère que vous passez une bonne journée, @!$l",
+"Kenneth.MarriageDialogue.Indoor_Day_Kenneth": "Je pense que je vais juste passer un peu de temps à la maison et essayer de terminer mon petit projet aujourd'hui.#$b# J'espère que vous passez une bonne journée, @ !$l",
 
 //Nuit Intérieur
 "Kenneth.MarriageDialogue.Indoor_Night_0": "Bonsoir ! Comment s'est passée ta journée aujourd'hui ?$l",
@@ -7617,14 +7617,14 @@
 "Kenneth.MarriageDialogue.Indoor_Night_Kenneth": "Bienvenue !$h",
 
 ///En plein air
-"Kenneth.MarriageDialogue.Outdoor_0": "Allons à la plage, @!$h",
+"Kenneth.MarriageDialogue.Outdoor_0": "Allons à la plage, @ !$h",
 "Kenneth.MarriageDialogue.Outdoor_1": "Je pense que je veux nous construire une balançoire. #$b#Ce serait bien de s'asseoir là et de parler de notre journée.$h",
 "Kenneth.MarriageDialogue.Outdoor_2": "Ha ha! Quoi? Oh, je pensais juste à cette idée que j'avais pour un robot qui... #$b#oh, ha ha, oublie ça. C'est trop ridicule à dire à voix haute. $h",
 "Kenneth.MarriageDialogue.Outdoor_3": "J'aime le plein air !#$b# C'est agréable de sortir parfois et loin de tout, même si j'aime ce que je fais.",
 "Kenneth.MarriageDialogue.Outdoor_4": "Passons la journée~FILE CHANGE~à la crête !$h",
 
 //Sortie
-"Kenneth.MarriageDialogue.funLeave_Kenneth": "Salut, @! Je vais sortir me promener aujourd'hui. #$b#J'ai des trucs à vérifier. #$e#J'ai entendu dire que Maru a une nouvelle invention qu'elle veut à me montrer aussi. J'espère que vous passez une bonne journée !",
+"Kenneth.MarriageDialogue.funLeave_Kenneth": "Salut, @ ! Je vais sortir me promener aujourd'hui. #$b#J'ai des trucs à vérifier. #$e#J'ai entendu dire que Maru a une nouvelle invention qu'elle veut à me montrer aussi. J'espère que vous passez une bonne journée !",
 
 //Retour
 "Kenneth.MarriageDialogue.funReturn_Kenneth": "Mec, j'ai passé une excellente journée aujourd'hui. Tout fonctionne bien en ville.#$b# Comment s'est passée ta journée ? J'espère qu'elle a été géniale aussi !$h",
@@ -7652,7 +7652,7 @@
 "Kenneth.MarriageDialogue.Good_6": "Bonjour ma chérie. #$b#Tu es le plus beau des maris.$l^Tu es la plus belle des épouses.$l#$b#Je t'aime de tout mon cœur.$h ",
 "Kenneth.MarriageDialogue.Good_7": "Je pense réparer un vieux broyeur à bavures afin que nous puissions avoir de nouvelles terres chaque matin.#$b#Pensées ?",
 "Kenneth.MarriageDialogue.Good_8": "Comment allez-vous ? Vous représentez le monde pour moi. #$b# Je veux m'assurer que vous le sachiez.",
-"Kenneth.MarriageDialogue.Good_9": "Salut, @! C'est un grand jour, n'est-ce pas?",
+"Kenneth.MarriageDialogue.Good_9": "Salut, @ ! C'est un grand jour, n'est-ce pas?",
 
 ///Neutre
 "Kenneth.MarriageDialogue.Neutral_0": "Je me demande combien d'attaches-câbles j'ai besoin pour organiser tous nos câbles à la maison...",
@@ -7727,7 +7727,7 @@
 ///Journée intérieure
 "Maddie.MarriageDialogue.Indoor_Day_0": "Ughh c'est si tôt le matin ! J'ai besoin de mon café !$a#$e#Huh ? Oh quoi ? Je suis jolie même sans ça ?$l#$b#Uhh ?? connexion???$8#$b#Tu ne fais que jouer avec moi, n'est-ce pas ?$6",
 "Maddie.MarriageDialogue.Indoor_Day_1": "Hé bébé, tu as l'air bien, n'est-ce pas ? As-tu fait du sport ? 6 $",
-"Maddie.MarriageDialogue.Indoor_Day_2": "Bonjour @! Comment s'est passé ton sommeil?#$e#Avais-tu rêvé de ton côté poussin?$6#$b#Haha blague! Je suis juste en train de jouer avec toi!$h",
+"Maddie.MarriageDialogue.Indoor_Day_2": "Bonjour @ ! Comment s'est passé ton sommeil?#$e#Avais-tu rêvé de ton côté poussin?$6#$b#Haha blague! Je suis juste en train de jouer avec toi!$h",
 "Maddie.MarriageDialogue.Indoor_Day_3": "Oh mon Dieu ! C'est une si belle matinée. Ne la gâche pas avec une petite fille au fromage.$6#$e#Un petit-déjeuner au lit aurait été mieux, haha ! Je plaisante !$h#$b#Je t'aime, espèce de fou.$l",
 "Maddie.MarriageDialogue.Indoor_Day_4": "OOOOHH Bébé pourquoi ne cultiverions-nous pas des fraises dans notre jardin ?$9#$b#J'ai un peu envie de fraises ces derniers temps.$l#$e#Hmm, peut-être que je' Je vais essayer d'en acheter un chez Blooming Hill.",
 "Maddie.MarriageDialogue.Indoor_Day_Maddie": "Un autre jour, une autre agitation pour nous !$h#$e# Bonne journée à venir ! Ramène le bacon à la maison mon petit champion !$h",
@@ -7735,7 +7735,7 @@
 //Nuit Intérieur
 "Maddie.MarriageDialogue.Indoor_Night_0": "Ahhh enfin à la maison ! Qu'y a-t-il pour le dîner blubby ?$h",
 "Maddie.MarriageDialogue.Indoor_Night_1": "Brr... Il y a une brise froide qui souffle dans l'air ce soir. Tu veux prendre un chocolat chaud et peut-être faire un feu de camp à l'extérieur ?$l",
-"Maddie.MarriageDialogue.Indoor_Night_2": "@!! Tu es à la maison! Tu ne croirais pas quelle journée j'ai passé!$h#$b#Je me suis en fait amusé plus tôt parce qu'il y avait de mignons petits lapins! Hihi.$9",
+"Maddie.MarriageDialogue.Indoor_Night_2": "@ !! Tu es à la maison! Tu ne croirais pas quelle journée j'ai passé!$h#$b#Je me suis en fait amusé plus tôt parce qu'il y avait de mignons petits lapins! Hihi.$9",
 "Maddie.MarriageDialogue.Indoor_Night_3": "UGH, je me sens tellement exaspéré aujourd'hui.$8#$b#*soupirs* Puis-je avoir un câlin de ta part s'il te plaît ?$s",
 "Maddie.MarriageDialogue.Indoor_Night_4": "Salut bébé ! Je vois que tu es super fatiguée par le travail d'aujourd'hui.#$e# Aimeriez-vous que je vous fasse un massage ???$l#$b#Eh bien, comme à condition que tu m'en donnes un bientôt! Haha!$l",
 "Maddie.MarriageDialogue.Indoor_Night_Maddie": "Ouf, j'ai eu une journée difficile. Remerciez Yoba d'être là maintenant.$u#$b#Aaaaaah, enfin à la maison.$h",
@@ -7968,7 +7968,7 @@
 "Shiro.MarriageDialogue.Rainy_Night_0": "Je suis content que tu sois de retour à la maison, @. $h#$b#Whoa ! Tu es trempé ! $a#$b#Tu ferais mieux de changer de vêtements maintenant. Je ne veux pas que tu tombes malade.",
 "Shiro.MarriageDialogue.Rainy_Night_1": "Hé. Je suis un peu fatigué de faire quelques tâches ménagères à l'intérieur, mais ça va.$8#$b# Je suis désolé de t'avoir inquiété, je vais me reposer un peu maintenant ! $8 ",
 "Shiro.MarriageDialogue.Rainy_Night_2": "La pluie ne s'arrête pas, hein ? Je suis content que tu sois à la maison, cependant.#$b# J'aimerais pouvoir te rejoindre dans tes aventures sous la pluie. $s#$b#It ça a l'air amusant, s'il est mouillé. $8",
-"Shiro.MarriageDialogue.Rainy_Night_3": "Bienvenue à la maison, @! J'ai fait de mon mieux pour garder la maison propre. C'est le moins que je puisse faire.$l",
+"Shiro.MarriageDialogue.Rainy_Night_3": "Bienvenue à la maison, @ ! J'ai fait de mon mieux pour garder la maison propre. C'est le moins que je puisse faire.$l",
 "Shiro.MarriageDialogue.Rainy_Night_4": "La pluie te rend vraiment somnolent, hein? #$b# Je pense que je vais me coucher un peu tôt ce soir. Rejoins-moi quand tu peux, d'accord?$h",
 "Shiro.MarriageDialogue.Rainy_Night_5": "J'ai vu que tu as laissé ton imperméable dans le placard de devant.#$b# S'il te plaît, sois plus prudent, d'accord ? Je ne veux pas te voir tomber malade !$s",
 "Shiro.MarriageDialogue.Rainy_Night_Shiro": "Je suis content que tu sois de retour à la maison. Comment était ta journée ? #$b#Oh, avant ça, ici. Tu dois manger. [194]$h",
@@ -7990,7 +7990,7 @@
 "Shiro.MarriageDialogue.Indoor_Night_Shiro": "Bienvenue à la maison ! Va prendre un bain et détends-toi maintenant, d'accord ?$h#$b# Je veux tout savoir sur ta journée quand tu seras prêt.",
 
 ///En plein air
-"Shiro.MarriageDialogue.Outdoor_0": "@! Viens avec moi à ma séance avec Philip! Je veux te montrer mes progrès.$h",
+"Shiro.MarriageDialogue.Outdoor_0": "@ ! Viens avec moi à ma séance avec Philip! Je veux te montrer mes progrès.$h",
 "Shiro.MarriageDialogue.Outdoor_1": "Ah, la brise est si agréable. Parfois, je ferme simplement les yeux, prends une profonde inspiration et oublie mes soucis...$h",
 "Shiro.MarriageDialogue.Outdoor_2": "Je veux amener Yuuma à la plage un jour. #$b# J'aimerais le voir s'amuser, et je suis sûr qu'avec nous deux là-bas, il serait capable de détendez-vous.$h",
 "Shiro.MarriageDialogue.Outdoor_3": "Phillip dit qu'être dans l'eau pourrait être bon pour moi. Allons jusqu'à la crête et pataugeons dans la rivière, d'accord ? $h#$b#Peut-être que nous pouvons amener Yuuma, Trinnie et Keahi avec nous ! Ils peuvent s'amuser ensemble.$h",
@@ -8022,13 +8022,13 @@
 "Shiro.MarriageDialogue.Good_3": "J'ai essayé de cuisiner du pain perdu aujourd'hui, et je l'ai fait sans aucune aide !$h#$b# Je suis tellement fier de moi, ha, ha. Peut-être que la prochaine fois je pourrais même préparer un repas pour vous !$h#$b#",
 "Shiro.MarriageDialogue.Good_4": "Hé, @, avez-vous déjà vu un champ de lucioles auparavant ? #$b#Je me souviens d'une fois où nous avons campé sur un champ au sommet d'un plateau, et il y avait des lucioles partout. Cela la vue était l'un des sites les plus époustouflants que j'aie jamais vus. $s#$b#Je veux vous y amener un jour...$l",
 "Shiro.MarriageDialogue.Good_5": "Vous savez, je n'ai jamais vraiment aimé planifier l'avenir avant. Cela semblait si loin et inaccessible.$s#$b# Mais en ce moment, je pense que planifier notre avenir ensemble est tellement bien, et je ne pourrais pas être plus heureux.$h",
-"Shiro.MarriageDialogue.Good_6": "@! Ma séance avec Philip était tellement bonne aujourd'hui qu'on a pu faire le tour du village sans me fatiguer! J'espère que je garderai ce bon physique, ha ha!$h",
-"Shiro.MarriageDialogue.Good_7": "J'ai tellement d'énergie aujourd'hui, @! Je me sens bien! Et je pense que c'est grâce à toi.",
+"Shiro.MarriageDialogue.Good_6": "@ ! Ma séance avec Philip était tellement bonne aujourd'hui qu'on a pu faire le tour du village sans me fatiguer! J'espère que je garderai ce bon physique, ha ha!$h",
+"Shiro.MarriageDialogue.Good_7": "J'ai tellement d'énergie aujourd'hui, @ ! Je me sens bien! Et je pense que c'est grâce à toi.",
 "Shiro.MarriageDialogue.Good_8": "Peut-être que je vais faire renouveler ma licence de pilote et vous emmener sur un vol autour de la vallée.$l#$b# ... Quoi ? Vous ne saviez pas que j'avais ma licence de pilote ?$h",
 "Shiro.MarriageDialogue.Good_9": "Tu es si belle. Ta beauté me maintient en vie... $l#$b#Ok, peut-être que mon flirt a besoin de travail, ha ha. Désolé.$8",
 
 ///Neutre
-"Shiro.MarriageDialogue.Neutral_0": "J'ai ~FILE CHANGE~essayé de faire de l'engrais pour la ferme, mais la sève s'est répandue partout, alors j'ai passé une éternité à essayer de la nettoyer pour pas que tu  le remarque.$s #$b#Euh... Je suppose que je te le dis à ce sujet nie en quelque sorte cela, hein? Ha ha. Désolé, @!$l",
+"Shiro.MarriageDialogue.Neutral_0": "J'ai ~FILE CHANGE~essayé de faire de l'engrais pour la ferme, mais la sève s'est répandue partout, alors j'ai passé une éternité à essayer de la nettoyer pour pas que tu  le remarque.$s #$b#Euh... Je suppose que je te le dis à ce sujet nie en quelque sorte cela, hein? Ha ha. Désolé, @ !$l",
 "Shiro.MarriageDialogue.Neutral_1": "%Shiro est à bout de souffle. Hé, @. Ne t'inquiète pas, je vais bien. Je suis juste allé faire un jogging plus tôt et je me suis poussé un peu trop fort. Mais, hé, je Je dois te voir, alors je suppose que ce n'était pas si mal !",
 "Shiro.MarriageDialogue.Neutral_2": "Euh, j'ai trouvé des shorts violets près de chez Marnie plus tôt. Je me demande qui laisserait ceux qui traînent... $6",
 "Shiro.MarriageDialogue.Neutral_3": "J'ai un peu plus mal que d'habitude ces derniers temps, mais ça va aller. #$b# Philip et Yuuma m'aident beaucoup avec le traitement de physiothérapie. Je suis tellement heureux de les avoir autour de moi pour m'aider.$h",
@@ -8103,7 +8103,7 @@
 "Ysabelle.MarriageDialogue.Indoor_Day_2": "@, j'ai emballé ton déjeuner pour toi !$h#$e#Sandwichs en forme de coeurs parce que je n'ai pas pu résister, pommes tranchées et salade de chou.$l#$b#J'ai mélangé une pincée d'adoration supplémentaire dans la salade de chou rien que pour vous.$h",
 "Ysabelle.MarriageDialogue.Indoor_Day_3": "Des plans pour le dîner, mon amour ?#$b#J'ai quelques idées qui se préparent pour des rendez-vous amoureux plus tard.$l",
 "Ysabelle.MarriageDialogue.Indoor_Day_4": "Je vais dire à grand-père que je ne peux pas entrer aujourd'hui.#$b#J'ai besoin d'un jour de repos.$6#$e#Je veux juste me promener dans la maison et prendre la beauté qui est votre corps et votre âme.",
-"Ysabelle.MarriageDialogue.Indoor_Day_Ysabelle": "Lève-toi et brille, @!$h#$b# J'ai préparé un pot de café et je suis d'humeur pour une portion supplémentaire de bisous ce matin !$h",
+"Ysabelle.MarriageDialogue.Indoor_Day_Ysabelle": "Lève-toi et brille, @ !$h#$b# J'ai préparé un pot de café et je suis d'humeur pour une portion supplémentaire de bisous ce matin !$h",
 
 //Nuit Intérieur
 "Ysabelle.MarriageDialogue.Indoor_Night_0": "Mon amour, et si on prévoyait un jardin sur le toit ici à la maison ? Ou peut-être un balcon ouvert ?#$b#Peut-être même une cabane dans les arbres, pour que si jamais on décide d'avoir des enfants, ils ont leur propre maison de jeu !$h",
@@ -8195,7 +8195,7 @@
 "Maddie.summit.2": "What brings you here babe? Miss me that much?$6#$b#Just kidding, come over here you!$h",
 "Maddie.summit.3": "The view’s stunning, isn’t it? But I’m sure it doesn’t hold a torch to how beautiful you've made my life...$6",
 "Maddie.summit.4": "On a more serious note, I was thinking about the years that have gone by.#$b#We grew so much, who would’ve thought you’d break the ice queen huh?$h#$b#Okay, I’d like to tell you something and this’ll be a one time thing only okay?$l",
-"Maddie.summit.5": "I know I’m not that showy, nor am I clingy. But I’d just like to tell you that I’m very grateful to have you in my life.$l#$b#Life would be drab without you in it, and with you, I feel content.$l#$b#I love you so much, @!",
+"Maddie.summit.5": "I know I’m not that showy, nor am I clingy. But I’d just like to tell you that I’m very grateful to have you in my life.$l#$b#Life would be drab without you in it, and with you, I feel content.$l#$b#I love you so much, @ !",
 
 "Ysabelle.summit.1": "The view’s breathtaking isn’t it, love?$h",
 "Ysabelle.summit.2": "I’m undeniably lucky to have you here with me.$l",
@@ -8210,11 +8210,11 @@
 "Jeric.summit.1": "Oh, hey babe!$h#$b#I missed you!$7",
 "Jeric.summit.2": "Oh, nothing. I was just thinking about how far we’ve come.$l#$b#Couldn’t have survived it without my best guy!$l^Couldn’t have survived it without my best gal!$l",
 "Jeric.summit.3": "You know, you’re the best thing that happened to this Ville.$l#$b#Everything seemed to liven up when you arrived!$h#$b#I really am glad to call you mine!$l",
-"Jeric.summit.4": "Here’s to our best lifetime @!$h",
+"Jeric.summit.4": "Here’s to our best lifetime @ !$h",
 
 "Kenneth.summit.1": "You may be easy on the eyes, but you walk loudly my @.$h",
 "Kenneth.summit.2": "Haha! Just kidding! You know I like to mess with you sometimes.$l#$b#Seeing your face all scrunched up like that is still the best view in the world.$h#$b# Even more beautiful than the view in front of us now.$l face view I was just thinking about the years that have gone by.#$b#I kinda feel nostalgic right now.$7#$b#But you know what?...",
-"Kenneth.summit.3": "Out of all the things that have happened over the years, I am most thankful for you.$l#$b#Your presence has lit up the entire Ville with your radiance.$l#$b#I’m incredibly blessed that I get to share each day with you.$l#$b#Here’s to our happiness @! I’m excited for what our future holds!$h Is this okay?$l",
+"Kenneth.summit.3": "Out of all the things that have happened over the years, I am most thankful for you.$l#$b#Your presence has lit up the entire Ville with your radiance.$l#$b#I’m incredibly blessed that I get to share each day with you.$l#$b#Here’s to our happiness @ ! I’m excited for what our future holds!$h Is this okay?$l",
 
 "Philip.summit.1": "Ah! Isn't the view majestic?$h",
 "Philip.summit.2": "@...$l#$b#Heh, I just want to say...$l#$b#I'm happy. And you're a huge reason why I am.$h",
