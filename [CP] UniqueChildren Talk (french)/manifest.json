@@ -1,0 +1,12 @@
+{
+   "Name": "[CP] UniqueChildren Talk (english)",
+   "Author": "Shaklin",
+   "Version": "1.2",
+   "Description": "English Dialogues for UniqueChildren Talk",
+   "UniqueID": "shaklin.cpuniquechildrentalkenglish",
+   "MinimumApiVersion": "2.0",
+   "UpdateKeys": [ "Nexus: 9540" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}
