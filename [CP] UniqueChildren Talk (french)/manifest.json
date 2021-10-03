@@ -1,11 +1,11 @@
 {
-   "Name": "[CP] UniqueChildren Talk (english)",
-   "Author": "Shaklin",
+   "Name": "[CP] UniqueChildren Talk (French)",
+   "Author": "Chibranche",
    "Version": "1.2",
-   "Description": "English Dialogues for UniqueChildren Talk",
-   "UniqueID": "shaklin.cpuniquechildrentalkenglish",
+   "Description": "French Dialogues for UniqueChildren Talk",
+   "UniqueID": "chibranche.cpuniquechildrentalkfrench",
    "MinimumApiVersion": "2.0",
-   "UpdateKeys": [ "Nexus: 9540" ],
+   "UpdateKeys": [ "Nexus: 9814" ],
    "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher"
    }
