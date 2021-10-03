@@ -4196,17 +4196,17 @@
 //Fête de l'Étoile d'hiver
 
 //Non datables
-"Festivals.WinterStar.Aguar": "Et une joyeuse fête de l'étoile d'hiver à toi, @.$h#$e#N'aies pas l'air si surpris.#$b#Je n'aime pas les plaisanteries, mais ça ne veut pas dire que je ne réalise pas leur importance.",
+"Festivals.WinterStar.Aguar": "Et une joyeuse fête de l'Etoile Hivernale à toi, @.$h#$e#N'aies pas l'air si surpris.#$b#Je n'aime pas les plaisanteries, mais ça ne veut pas dire que je ne réalise pas leur importance.",
 "Festivals.WinterStar.Bert": "J'avais raison, @.$h#$e#Son sourire vaut le coût de cette maison de poupée et plus encore.$h",
 "Festivals.WinterStar.Ezekiel": "Je le savais. La nourriture est bonne et la bière est pourrie.$a#$b#Je vais rentrer chez moi et boire du vrai alcool !$h",
-"Festivals.WinterStar.Freddie": "Joyeuse étoile d'hiver, @ !$h#$e# En espérant que tu obtiendras le maximum de ce que tu veux et tout ce dont tu as besoin !$h",
+"Festivals.WinterStar.Freddie": "Joyeuse Etoile Hivernale, @ !$h#$e# En espérant que tu obtiendras le maximum de ce que tu veux et tout ce dont tu as besoin !$h",
 "Festivals.WinterStar.Jio": "Kiwi aime ces fêtes.$h",
 "Festivals.WinterStar.Keahi": "Cadeaux !$u#$e#J'adore les cadeaux !$h",
 "Festivals.WinterStar.Kiwi": "Kiwi est présent maintenant !$4#$e#Shee!$h",
 "Festivals.WinterStar.Lenny": "Comment fait la chanson déjà ?#$b#Châtaignes rôtissant sur un grand feu...$4#$b#Attends, ce n'est pas ça.$h",
 "Festivals.WinterStar.Lola": "Joyeuse étoile de l'hiver, mon chou !$h#$e#Freddie et moi partons en voyage demain.#$b#J'ai hâte de passer enfin du temps seule avec mon mari .$h",
 "Festivals.WinterStar.Olga": "Bert a offert à Trinnie la maison de poupée, l'idiot !$a#$b#Attends qu'elle laisse traîner ces morceaux et qu'il marche pieds nus.$s",
-"Festivals.WinterStar.Pika": "La fête de l'étoile d'hiver nous rappelle que peu importe d'où vous venez, vous pouvez trouver votre propre ohana, votre propre famille, entre amis.$4#$e#Je suis heureux de pouvoir la célébrer avec toi, @.$h",
+"Festivals.WinterStar.Pika": "La fête de l'Etoile Hivernale nous rappelle que peu importe d'où vous venez, vous pouvez trouver votre propre ohana, votre propre famille, entre amis.$4#$e#Je suis heureux de pouvoir la célébrer avec toi, @.$h",
 "Festivals.WinterStar.Richard": "Ysa croyait au Père Etoile d'hiver.$h#$b#Je me demande quand elle a compris que c'était moi dans le costume ?$4",
 "Festivals.WinterStar.Trinnie": "%Trinnie est fascinée par la maison de poupée ornée qu'elle vient de déballer. Elle ne te remarque même pas.",
 "Festivals.WinterStar.Yuuma": "La ville est vraiment jolie.$h#$e#Est-ce que Shiro a l'air d'avoir froid ?#$b#Il fait vraiment froid ici... $u",
@@ -4219,7 +4219,7 @@
 "Festivals.WinterStar.Flor": "Plus nous vieillissons, plus il est difficile de conserver ce sentiment d'émerveillement enfantin, mais être entouré de beaucoup de gens comme ici c'est vraiment spécial.$h",
 "Festivals.WinterStar.Flor_spouse": "Avant, les festivals comme celui-ci me faisaient me sentir si seuls, parce que je ne savais pas comment connecter avec les autres.$s#$b#Mais je t'ai maintenant, et tu as tout changé.$h # $e#Merci.$h#$b#Je t'aime.$l",
 "Festivals.WinterStar.Ian": "J'ai bricolé une sculpture en bois pour mon cadeau.#$e#Ce n'est rien d'extraordinaire, mais j'espère que ça va plaire. Toutes ses échardes en valent la peine !",
-"Festivals.WinterStar.Ian_spouse": "Tu es ce pour quoi je suis le plus reconnaissant.$h#$e#Je vais te donner ton cadeau d'étoile d'hiver à la maison, d'accord ?$l",
+"Festivals.WinterStar.Ian_spouse": "Tu es ce pour quoi je suis le plus reconnaissant.$h#$e#Je vais te donner ton cadeau d'Etoile Hivernale à la maison, d'accord ?$l",
 "Festivals.WinterStar.Jeric": "Mon père hiver secret ferait mieux de ne pas me donner du coton filé grossièrement, je vais te dire quoi.$a#$b#C'est sympa pour Emily et tout le monde, mais moi je fais des vêtements de grande qualité.",
 "Festivals.WinterStar.Jeric_spouse": "Le temps a une manière bien à lui de nous faire sentir son passage. #$b# Je suppose qu'il file quand on est heureux comme dirait Lewis.$h",
 "Festivals.WinterStar.Kenneth": "Pour être honnête, j'ai les yeux collés à cet arbre.$s#$b#Toutes ces lumières...$u",
@@ -5662,7 +5662,7 @@
 "Kenneth.Dialogue.winter_15": "J'ai installé toutes les lumières suspendues autour de la jetée pour le marché nocturne de cette année.#$b# J'espère que tout se passera bien.",
 //"Kenneth.Dialogue.winter_16": "Je n'ai rien trouvé qui vaille la peine d'être acheté ce soir.#$b# Quelque chose a-t-il attiré votre attention, @?",
 //"Kenneth.Dialogue.winter_17": "Hé, @ ! Saviez-vous que les sous-marins ont été utilisés pendant des siècles? #$b# Et maintenant, nous pouvons même pêcher dedans!",
-"Kenneth.Dialogue.winter_24": "La fête de l'étoile d'hiver me rend anxieux - les décorations consomment tellement d'énergie !$s#$b#J'espère juste qu'il n'y a pas de surtension.",
+"Kenneth.Dialogue.winter_24": "La fête de l'Etoile Hivernale me rend anxieux - les décorations consomment tellement d'énergie !$s#$b#J'espère juste qu'il n'y a pas de surtension.",
 
 //Jours de la semaine
 
@@ -7824,7 +7824,7 @@
 //"Philip.MarriageDialogue.winter_15": "Je sais que cela semble idiot, mais écoutez-moi :#$b#Ornements de pelouse en canne à sucre.$h",
 "Philip.MarriageDialogue.winter_16": "Oh my Yoba.$u#$b#Ils ont les quatre premiers numéros du redémarrage de Night Empress !$h#$b#Où trouvent-ils ce truc ?",
 //"Philip.MarriageDialogue.winter_17": "Avez-vous déjà pris une tasse de café ?#$b#Je sais que la caféine va me tenir éveillé, mais c'est tellement bon.$h",
-"Philip.MarriageDialogue.winter_24": "Bonne fête de l'étoile d'hiver, @.$h#$b#%Philip a l'air étrangement nerveux.#$b#Regarde, je sais que c'est ringard, mais...#$b#Ici .[688]#$b#Alors tu reviens toujours vers moi.$h",
+"Philip.MarriageDialogue.winter_24": "Bonne fête de l'Etoile Hivernale, @.$h#$b#%Philip a l'air étrangement nerveux.#$b#Regarde, je sais que c'est ringard, mais...#$b#Ici .[688]#$b#Alors tu reviens toujours vers moi.$h",
 
 ///Chambre
 "Philip.MarriageDialogue.spouseRoom_Philip": "J'avais l'intention de faire un sandwich et de lire des bandes dessinées aujourd'hui.#$b#Vous voulez vous joindre à moi ? J'en ai mis de côté quelques-uns qui pourraient vous plaire.$h#$b# Pas de pression!",
