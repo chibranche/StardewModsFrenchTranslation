@@ -1,0 +1,17 @@
+{
+"genericProfession1Name": "Gourmet",
+"genericProfession1Description": "+20% prix de vente",
+"genericProfession2Name": "Satisfaisant",
+"genericProfession2Description": "+25% durée des bonus de repas",
+"genericProfession3Name": "Efficace",
+"genericProfession3Description": "15% chance de ne pas consommer d'ingrédients",
+"genericProfession4Name": "Chef Professionnel",
+"genericProfession4Description": "Les plats cuisinés sont toujours de qualité argent au minimum",
+"genericProfession5Name": "Saveurs intenses",
+"genericProfession5Description": "Les bonus de nourriture sont d'un niveau plus forts\n(+20% pour énergie maximale ou magnétisme)",
+"genericProfession6Name": "Epices secrètes",
+"genericProfession6Description": "Donne un bonus aléatoire pour une nourriture sans bonus",
+"skillName" : "Cuisine",
+"levelUpInfo" : "+3% comestibilité pour les plats fait maison",
+"skillPageHoverText": "% comestibilité pour les plats fait maison"
+}

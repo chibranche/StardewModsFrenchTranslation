@@ -1,0 +1,17 @@
+{
+"genericProfession1Name": "Gourmet",
+"genericProfession1Description": "+20% sell price",
+"genericProfession2Name": "Satisfying",
+"genericProfession2Description": "+25% buff duration once eaten",
+"genericProfession3Name": "Efficient",
+"genericProfession3Description": "15% chance to not consume ingredients",
+"genericProfession4Name": "Professional Chef",
+"genericProfession4Description": "Home-cooked meals are always at least silver",
+"genericProfession5Name": "Intense Flavors",
+"genericProfession5Description": "Food buffs are one level stronger once eaten\n(+20% for max energy or magnetism)",
+"genericProfession6Name": "Secret Spices",
+"genericProfession6Description": "Provides a few random buffs when eating unbuffed food",
+"skillName" : "Cooking",
+"levelUpInfo" : "+3% edibility in home-cooked foods",
+"skillPageHoverText": "% edibility in home-cooked foods"
+}
