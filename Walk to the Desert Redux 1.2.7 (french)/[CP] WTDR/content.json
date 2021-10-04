@@ -1,0 +1,607 @@
+{
+   "Format": "1.23.0",
+    "ConfigSchema": {
+        "EemieFallVariant": {
+            "AllowValues": "Green, Orange",
+            "Default": "Orange"
+        },
+		"StarblueSpringVariant": {
+            "AllowValues": "Green, Blue",
+            "Default": "Blue"
+        },
+		"VibrantPastoralFallVariant": {
+            "AllowValues": "Green, Orange",
+            "Default": "Orange"
+        }
+    },
+	"DynamicTokens": [
+        {
+            "Name": "recolor",
+            "Value": "default"
+        },
+		{
+            "Name": "recolor",
+            "Value": "earthy",
+            "When": {
+                "HasMod": "DaisyNiko.EarthyRecolour"
+            }
+        },
+        {
+            "Name": "recolor",
+            "Value": "eemie",
+            "When": {
+                "HasMod": "minervamaga.CP.eemieMapRecolour"
+            }
+        },
+		{
+            "Name": "recolor",
+            "Value": "pastoral",
+            "When": {
+                "HasMod": "grapeponta.VibrantPastoralRecolor"
+            }
+        },
+		{
+            "Name": "recolor",
+            "Value": "starblue",
+            "When": {
+                "HasMod": "Lita.StarblueValley"
+            }
+        },
+		{
+			"Name": "recolor",
+			"Value": "wittily",
+			"When": {
+				"HasMod": "Acerbicon.Recolor"
+			}
+		}
+    ],
+	
+	"CustomLocations": [
+	// Maps
+		{
+			"Name": "Custom_WTDR_Meadow",
+			"FromMapFile": "assets/Maps/Meadow.tmx",
+			"MigrateLegacyNames": [ "Meadow" ]
+		},
+		{
+			"Name": "Custom_WTDR_ForestRoad",
+			"FromMapFile": "assets/Maps/ForestRoad.tmx",
+			"MigrateLegacyNames": [ "ForestRoad" ]
+		},
+		{
+			"Name": "Custom_WTDR_WindingRoad",
+			"FromMapFile": "assets/Maps/WindingRoad.tmx",
+			"MigrateLegacyNames": [ "WindingRoad" ]
+		},
+		{
+			"Name": "Custom_WTDR_Interchange",
+			"FromMapFile": "assets/Maps/Interchange.tmx",
+			"MigrateLegacyNames": [ "Interchange" ]
+		},
+		{
+			"Name": "Custom_WTDR_GhostTown",
+			"FromMapFile": "assets/Maps/GhostTown.tmx",
+			"MigrateLegacyNames": [ "GhostTown" ]
+		},
+		{
+			"Name": "Custom_WTDR_GhostShop",
+			"FromMapFile": "assets/Maps/GhostShop.tmx",
+			"MigrateLegacyNames": [ "GhostShop" ]
+		},
+		{
+			"Name": "Custom_WTDR_PeteHidden",
+			"FromMapFile": "assets/Maps/PeteHidden.tmx",
+			"MigrateLegacyNames": [ "PeteHidden" ]
+		},
+		{
+			"Name": "Custom_WTDR_Cave",
+			"FromMapFile": "assets/Maps/Cave.tmx"
+		},
+	],
+	
+	"Changes": [
+	{ // Adds a custom edit to the Bus Stop Map, it moves the sign.
+		"Action": "EditMap",
+		"Target": "Maps/BusStop",
+		"FromFile": "assets/Maps/MapPatches/BusStop.tmx",
+		"ToArea": { "X": 9, "Y": 18, "Width": 5, "Height": 5 }
+	},
+	{ // Adds custom Backwoods edit to the Backwoods map.
+		"Action": "EditMap",
+		"Target": "Maps/Backwoods",
+		"FromFile": "assets/Maps/MapPatches/Backwoods.tmx",
+		"ToArea": { "X": 24, "Y": 21, "Width": 13, "Height": 8 },
+		"When": {
+			"HasMod |contains=Pillow.StardewExpansion.CP": false
+		}
+	},
+	{ // Removes the barrier from the Tunnel.
+		"Action": "EditMap",
+		"Target": "Maps/Tunnel",
+		"FromFile": "assets/Maps/MapPatches/Tunnel.tmx",
+		"ToArea": { "X": 6, "Y": 6, "Width": 1, "Height": 7},
+		"When": {
+			"HasMod |contains=Pillow.StardewExpansion.CP": false
+		}
+	},
+	{ // This blocks the road going to the left towards GardenVillage if the GardenVillage mod isn't installed.
+		"Action": "EditMap",
+		"Target": "Maps/Custom_WTDR_WindingRoad",
+		"FromFile": "assets/Maps/MapPatches/WindingRoad.tmx",
+		"ToArea": { "X": 0, "Y": 81, "Width": 1, "Height": 5},
+		"When": {
+			"HasMod |contains=Tarniyar.TMX.GardenVillage": true
+		}
+	},
+	{ // This blocks the road to the North on the Interchange map if the Downtown Zuzu mod isn't installed.
+		"Action": "EditMap",
+		"Target": "Maps/Custom_WTDR_Interchange",
+		"FromFile": "assets/Maps/MapPatches/Interchange.tmx",
+		"ToArea": { "X": 20, "Y": 0, "Width": 11, "Height": 1 },
+		"When": {
+			"HasMod |contains=DTZ.DowntownZuzuCP": true
+		}
+	},
+	/* { // This patch adds a new Minecart track to the Ridgeside Villages Minecarts Cave that takes you to the cave in the Ghost Town.
+		"Action": "EditMap",
+		"Target": "Maps/RSVMinecart",
+		"FromFile": "assets/Maps/MapPatches/Minecart.tmx",
+		"ToArea": { "X": 23, "Y": 7, "Width": 6, "Height": 8 },
+		"When": {
+			"HasMod |contains=Rafseazz.RSVTMXL": true
+		}
+	}, */
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_WTDR_ForestRoad",
+		"FromFile": "assets/Maps/MapPatches/SVEForestRoad.tmx",
+		"ToArea": { "X": 48, "Y": 0, "Width": 18, "Height": 30 },
+		"When": {
+			"HasMod |contains=Pillow.StardewExpansion.CP": true
+		}
+	},
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_TSVRoad",
+		"FromFile": "assets/Maps/MapPatches/SVERoad.tmx",
+		"ToArea": { "X": 0, "Y": 28, "Width": 3, "Height": 12 },
+		"When": {
+			"HasMod |contains=Pillow.StardewExpansion.CP": true
+		}
+	},
+	/* { // Ridgeside Unlock Minecarts Thing (Not Stolen)
+		"Action": "EditMap",
+		"Target": "Maps/Custom_WTDR_Cave",
+		"MapTiles": [
+			{
+				"Position": { "X": 11, "Y": 12 },
+				"Layer": "Back",
+				"SetProperties": {
+					"TouchAction": "Warp 23 11 RSVMinecart"
+				}
+			},
+			{
+				"Position": { "X": 12, "Y": 12 },
+				"Layer": "Back",
+				"SetProperties": {
+					"TouchAction": "Warp 23 11 RSVMinecart"
+				}
+			}
+		],
+		"When": {
+			"HasSeenEvent: |contains=75160190": true,
+			"HasMod": "Rafseazz.RSVCP"
+		},
+		"Update": "OnLocationChange, OnTimeChange"
+	}, */
+	
+	// Load Tilesheets
+	{
+		"Action": "Load",
+		"Target": "Maps/desert_z_roads, Maps/fall_z_wtd_tilesheet, Maps/spring_z_wtd_tilesheet, Maps/summer_z_wtd_tilesheet, Maps/winter_z_wtd_tilesheet, Maps/z_ghostshoptiles, Maps/z_ghosttown_tilesheet, Maps/z_mine_desert",
+		"FromFile": "assets/recolors/{{recolor}}/{{TargetWithoutPath}}.png"
+	},
+	
+	// Re-Color Seasonal Variants
+	{
+		"Action": "EditImage",
+		"Target": "Maps/fall_z_wtd_tilesheet",
+		"FromFile": "assets/recolors/eemie/fall_z_wtd_tilesheet-g.png",
+		"When": {
+			"recolor": "eemie",
+			"EemieFallVariant": "Green"
+		}
+	},
+	{
+		"Action": "EditImage",
+		"Target": "Maps/spring_z_wtd_tilesheet",
+		"FromFile": "assets/recolors/starblue/spring_z_wtd_tilesheet-g.png",
+		"When": {
+			"recolor": "starblue",
+			"StarblueSpringVariant": "Green"
+		}
+	},
+	{
+		"Action": "EditImage",
+		"Target": "Maps/fall_z_wtd_tilesheet",
+		"FromFile": "assets/recolors/pastoral/fall_z_wtd_tilesheet-g.png",
+		"When": {
+			"recolor": "pastoral",
+			"VibrantPastoralFallVariant": "Green"
+		}
+	},
+	
+	// Adding Map Warps
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Backwoods",
+		"AddWarps": [
+			"30 23 Custom_WTDR_ForestRoad 50 14"
+		],
+		"When": {
+			"HasMod |contains=Pillow.StardewExpansion.CP": false
+		}
+	},
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_WTDR_ForestRoad",
+		"AddWarps": [
+			"53 13 Backwoods 32 24"
+		],
+		"When": {
+			"HasMod |contains=Pillow.StardewExpansion.CP": false
+		}
+	},
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_WTDR_Meadow",
+		"AddWarps": [
+			"11 22 Custom_WTDR_ForestRoad 9 1",
+			"12 22 Custom_WTDR_ForestRoad 10 1"
+		]
+	},
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_WTDR_ForestRoad",
+		"AddWarps": [
+			"9 -1 Custom_WTDR_Meadow 11 21",
+			"10 -1 Custom_WTDR_Meadow 12 21",
+			"-1 18 Custom_WTDR_WindingRoad 38 85",
+			"-1 17 Custom_WTDR_WindingRoad 38 84",
+			"-1 16 Custom_WTDR_WindingRoad 38 83",
+			"-1 15 Custom_WTDR_WindingRoad 38 82",
+			"-1 14 Custom_WTDR_WindingRoad 38 82"
+		]
+	},
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_WTDR_WindingRoad",
+		"AddWarps": [
+			"40 85 Custom_WTDR_ForestRoad 1 18",
+			"40 84 Custom_WTDR_ForestRoad 1 17",
+			"40 83 Custom_WTDR_ForestRoad 1 16",
+			"40 82 Custom_WTDR_ForestRoad 1 15",
+			"40 81 Custom_WTDR_ForestRoad 1 14",
+			"22 -1 Custom_WTDR_Interchange 22 58",
+			"23 -1 Custom_WTDR_Interchange 23 58",
+			"24 -1 Custom_WTDR_Interchange 24 58",
+			"25 -1 Custom_WTDR_Interchange 25 58",
+			"26 -1 Custom_WTDR_Interchange 26 58",
+			"27 -1 Custom_WTDR_Interchange 27 58",
+			"28 -1 Custom_WTDR_Interchange 28 58"
+		]
+	},
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_WTDR_Interchange",
+		"AddWarps": [
+			"22 60 Custom_WTDR_WindingRoad 22 1",
+			"23 60 Custom_WTDR_WindingRoad 23 1",
+			"24 60 Custom_WTDR_WindingRoad 24 1",
+			"25 60 Custom_WTDR_WindingRoad 25 1",
+			"26 60 Custom_WTDR_WindingRoad 26 1",
+			"27 60 Custom_WTDR_WindingRoad 27 1",
+			"28 60 Custom_WTDR_WindingRoad 28 1",
+			"-1 35 Custom_WTDR_GhostTown 68 45",
+			"-1 36 Custom_WTDR_GhostTown 68 46",
+			"-1 37 Custom_WTDR_GhostTown 68 47",
+			"-1 38 Custom_WTDR_GhostTown 68 48",
+			"-1 39 Custom_WTDR_GhostTown 68 49"
+		]
+	},
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_WTDR_GhostTown",
+		"AddWarps": [
+			"70 45 Custom_WTDR_Interchange 1 35",
+			"70 46 Custom_WTDR_Interchange 1 36",
+			"70 47 Custom_WTDR_Interchange 1 37",
+			"70 48 Custom_WTDR_Interchange 1 38",
+			"70 49 Custom_WTDR_Interchange 1 39",
+			"50 4 Custom_WTDR_Cave 12 17"
+		]
+	},
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_WTDR_Cave",
+		"AddWarps": [
+			"12 18 Custom_WTDR_GhostTown 50 6"
+		]
+	},
+	{ // This adds compatability with SVE since they overhauled the Desert Map
+		"Action": "EditMap",
+		"Target": "Maps/Desert",
+		"AddWarps": [
+			"169 24 Custom_WTDR_GhostTown 1 33",
+			"169 25 Custom_WTDR_GhostTown 1 34",
+			"169 26 Custom_WTDR_GhostTown 1 35",
+			"169 27 Custom_WTDR_GhostTown 1 36",
+			"169 28 Custom_WTDR_GhostTown 1 37",
+			"169 29 Custom_WTDR_GhostTown 1 38"
+		],
+		"When": {
+			"HasMod": "FlashShifter.StardewValleyExpandedALL"
+		}
+	},
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_WTDR_GhostTown",
+		"AddWarps": [
+			"-1 33 Desert 169 24",
+			"-1 34 Desert 169 25",
+			"-1 35 Desert 169 26",
+			"-1 36 Desert 169 27",
+			"-1 37 Desert 169 28",
+			"-1 38 Desert 169 29"
+		],
+		"When": {
+			"HasMod": "FlashShifter.StardewValleyExpandedALL"
+		}
+	},
+	{ // If SVE Isn't Loaded then load default warp values
+		"Action": "EditMap",
+		"Target": "Maps/Desert",
+		"AddWarps": [
+			"49 24 Custom_WTDR_GhostTown 1 33",
+			"49 25 Custom_WTDR_GhostTown 1 34",
+			"49 26 Custom_WTDR_GhostTown 1 35",
+			"49 27 Custom_WTDR_GhostTown 1 36",
+			"49 28 Custom_WTDR_GhostTown 1 37",
+			"49 29 Custom_WTDR_GhostTown 1 38"
+		],
+		"When": {
+			"HasMod |contains=FlashShifter.StardewValleyExpandedALL": false
+		}
+	},
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_WTDR_GhostTown",
+		"AddWarps": [
+			"-1 33 Desert 47 24",
+			"-1 34 Desert 47 25",
+			"-1 35 Desert 47 26",
+			"-1 36 Desert 47 27",
+			"-1 37 Desert 47 28",
+			"-1 38 Desert 47 29"
+		],
+		"When": {
+			"HasMod |contains=FlashShifter.StardewValleyExpandedALL": false
+		}
+	},
+	{ // Adds warps to Garden Village, but only if the Garden Village mod is installed.
+		"Action": "EditMap",
+		"Target": "Maps/MainShops",
+		"AddWarps": [
+			"54 19 Custom_WTDR_WindingRoad 0 81",
+			"54 20 Custom_WTDR_WindingRoad 0 82",
+			"54 21 Custom_WTDR_WindingRoad 0 83",
+			"54 22 Custom_WTDR_WindingRoad 0 84",
+			"54 23 Custom_WTDR_WindingRoad 0 85"
+		],
+		"When": {
+			"HasMod": "Tarniyar.TMX.GardenVillage"
+		}
+	},
+	{ // Adds warps to Garden Village, but only if the Garden Village mod is installed.
+		"Action": "EditMap",
+		"Target": "Maps/Custom_WTDR_WindingRoad",
+		"AddWarps": [
+			"-1 81 MainShops 54 19",
+			"-1 82 MainShops 54 20",
+			"-1 83 MainShops 54 21",
+			"-1 84 MainShops 54 22",
+			"-1 85 MainShops 54 23"
+		],
+		"When": {
+			"HasMod": "Tarniyar.TMX.GardenVillage"
+		}
+	},
+	{ // Adds warps to Downtown Zuzu, but only if the Downtown Zuzu mod is installed.
+		"Action": "EditMap",
+		"Target": "Maps/Custom_WTDR_Interchange",
+		"AddWarps": [
+			"22 -1 Custom_DTZ_ZuzuCityFreeway 22 35",
+			"23 -1 Custom_DTZ_ZuzuCityFreeway 23 35",
+			"24 -1 Custom_DTZ_ZuzuCityFreeway 24 35",
+			"25 -1 Custom_DTZ_ZuzuCityFreeway 25 35",
+			"26 -1 Custom_DTZ_ZuzuCityFreeway 26 35",
+			"27 -1 Custom_DTZ_ZuzuCityFreeway 27 35",
+			"28 -1 Custom_DTZ_ZuzuCityFreeway 28 35"
+		],
+		"When": {
+			"HasMod": "DTZ.DowntownZuzuCP"
+		}
+	},
+	{ // Adds warps to Downtown Zuzu, but only if the Downtown Zuzu mod is installed.
+		"Action": "EditMap",
+		"Target": "Maps/Custom_DTZ_ZuzuCityFreeway",
+		"AddWarps": [
+			"20 36 Custom_WTDR_Interchange 20 1",
+			"21 36 Custom_WTDR_Interchange 22 1",
+			"22 36 Custom_WTDR_Interchange 22 1",
+			"23 36 Custom_WTDR_Interchange 23 1",
+			"24 36 Custom_WTDR_Interchange 24 1",
+			"25 36 Custom_WTDR_Interchange 25 1",
+			"26 36 Custom_WTDR_Interchange 26 1",
+			"27 36 Custom_WTDR_Interchange 27 1",
+			"28 36 Custom_WTDR_Interchange 28 1"
+		],
+		"When": {
+			"HasMod": "DTZ.DowntownZuzuCP"
+		}
+	},
+	{ //Adds Vanilla Warps for Tunnel if Stardew Expansion Redux is not installed.
+		"Action": "EditMap",
+		"Target": "Maps/Tunnel",
+		"AddWarps": [
+			"-1 11 Custom_WTDR_ForestRoad 59 18",
+			"-1 10 Custom_WTDR_ForestRoad 59 17",
+			"-1 9 Custom_WTDR_ForestRoad 59 16",
+			"-1 8 Custom_WTDR_ForestRoad 59 15"
+		],
+		"When": {
+			"HasMod |contains=Pillow.StardewExpansion.CP": false
+		}
+	},
+	{ //Adds Vanilla Warps for ForestRoad if Stardew Expansion Redux is not installed.
+		"Action": "EditMap",
+		"Target": "Maps/Custom_WTDR_ForestRoad",
+		"AddWarps": [
+			"60 18 Tunnel 0 11",
+			"60 17 Tunnel 0 10",
+			"60 16 Tunnel 0 9",
+			"60 15 Tunnel 0 8",
+		],
+		"When": {
+			"HasMod |contains=Pillow.StardewExpansion.CP": false
+		}
+	},
+	{ //Adds Custom Warps for ForestRoad if Stardew Expansion Redux is installed.
+		"Action": "EditMap",
+		"Target": "Maps/Custom_WTDR_ForestRoad",
+		"AddWarps": [
+			"60 11 Custom_TSVRoad 0 31",
+			"60 12 Custom_TSVRoad 0 31",
+			"60 13 Custom_TSVRoad 0 32",
+			"60 14 Custom_TSVRoad 0 32",
+			"60 15 Custom_TSVRoad 0 33",
+			"60 16 Custom_TSVRoad 0 33",
+			"60 17 Custom_TSVRoad 0 34",
+			"60 18 Custom_TSVRoad 0 34",
+			"60 19 Custom_TSVRoad 0 35",
+			"60 20 Custom_TSVRoad 0 35",
+		],
+		"When": {
+			"HasMod": "Pillow.StardewExpansion.CP"
+		}
+	},
+	{ //Adds Custom Warps for TSVRoad if Stardew Expansion Redux is installed.
+		"Action": "EditMap",
+		"Target": "Maps/Custom_TSVRoad",
+		"AddWarps": [
+			"-1 31 Custom_WTDR_ForestRoad 59 14",
+			"-1 32 Custom_WTDR_ForestRoad 59 15",
+			"-1 33 Custom_WTDR_ForestRoad 59 16",
+			"-1 34 Custom_WTDR_ForestRoad 59 17",
+			"-1 35 Custom_WTDR_ForestRoad 59 18"
+		],
+		"When": {
+			"HasMod": "Pillow.StardewExpansion.CP"
+		}
+	},
+	
+	// Events
+	{
+		"Action": "Load",
+		"Target": "Data/Events/SandyHouse",
+		"FromFile": "assets/SandyEvents.json"
+    },
+	{
+		"Action": "EditData",
+		"Target": "Characters/Dialogue/Sandy",
+		"Entries": {
+			"Mon": "$d bus#Bonjour, bonjour ! Je suis tellement contente que le bus soit de nouveau en service. Je commençais à me sentir un peu seule ici. ... J’ai presque fait faillite.#Bonjour, bonjour ! Je suis tellement contente que tu aies pris le long chemin jusqu'ici. Je commençais à me sentir un peu seule ici. ... J’ai presque fait faillite.",
+		}
+	},
+	{
+		"Action": "EditData",
+		"Target": "Characters/Dialogue/Sandy",
+		"Entries": {
+			"Mon2": "Hé, mon chou, comment va la ferme ?#$e#Laisse moi deviner. Tu es là pour acheter tout un tas de graines... pas vrai, mon chou ?$h",
+		}
+	},
+	// Objects
+	{
+		"Action": "EditData",
+		"Target": "Data/ObjectInformation",
+		"Entries": {
+			"{{spacechase0.JsonAssets/ObjectId:Old Coin}}": "Old Coin/5/-300/-12/Old Coin/Ce n'est pas parce qu'elle est ancienne qu'elle a de la valeur.",
+			"{{spacechase0.JsonAssets/ObjectId:Giant Old Coin}}": "Giant Old Coin/500/-300/-12/Giant Old Coin/Cette pièce est énorme ! Quelle chance de l'avoir trouvée !"
+		}
+	},
+	{   
+		"Action": "EditData",
+		"Target": "Data/Locations",
+		"Entries": { 
+			"Custom_WTDR_ForestRoad": "-1/-1/-1/-1/-1/-1/-1/-1/{{spacechase0.JsonAssets/ObjectId:Giant Old Coin}} .05 {{spacechase0.JsonAssets/ObjectId:Old Coin}} .3 770 .25 390 .25 330 1"
+		}
+	},
+	{   
+		"Action": "EditData",
+		"Target": "Data/Locations",
+		"Entries": { 
+			"Custom_WTDR_WindingRoad": "-1/-1/-1/-1/-1/-1/-1/-1/{{spacechase0.JsonAssets/ObjectId:Giant Old Coin}} .05 {{spacechase0.JsonAssets/ObjectId:Old Coin}} .3 770 .25 390 .25 330 1"
+		}
+	},
+	{
+		"Action": "EditData",
+		"Target": "Data/Locations",
+		"Entries": { 
+			"Custom_WTDR_Interchange": "22 .5/402 .5/408 .5/283 .5/-1/-1/-1/-1/{{spacechase0.JsonAssets/ObjectId:Giant Old Coin}} .05 {{spacechase0.JsonAssets/ObjectId:Old Coin}} .3 770 .25 390 .25 330 1"
+		}
+	},
+	{
+		"Action": "EditData",
+		"Target": "Data/Locations",
+		"Entries": {
+			"Custom_WTDR_GhostTown": "88 .5 90 .5/88 .5 90 .5/88 .5 90 .5/88 .5 90 .5/-1/-1/-1/-1/{{spacechase0.JsonAssets/ObjectId:Giant Old Coin}} .05 {{spacechase0.JsonAssets/ObjectId:Old Coin}} .3 770 .25 390 .25 330 1"
+		}
+	},
+	{
+		"Action": "EditData",
+		"Target": "Strings/StringsFromMaps",
+		"Entries": {
+			"Interchange.1": "Tu n'as pas de raison d'aller à Zuzu Ville aujourd'hui, pourquoi tu voudrais y aller ?",
+			"Interchange.2": "` Autoroute 5 vers Zuzu Ville Centre-ville^@ Désert Calico",
+			"Interchange.3": "` Autoroute 5 vers Zuzu Ville Centre-ville^> Avant-poste des Glaciers",
+			"Interchange.4": "Route bloquée par une avalanche. Je suis sûr qu'elle sera dégagée dans une prochaine mise à jour.",
+			"GhostTown.1": "DANGER !",
+			"GhostTown.2": "NE PAS ENTRER !",
+			"GhostTown.3": "Ce vieux bâtiment effondré ne semble pas très sûr.",
+			"GhostTown.4": "La porte est verrouillée. Une voix sinistre murmure \"Prochaine mise à jour.\"",
+			"GhostShop.1": "La porte est verrouillée. Et la poignée de porte est couverte de toiles d'araignées collantes, Beurk.",
+			"GhostShop.2": "Pickled Pete: Ne veux-tu pas acheter certains de mes produits ?",
+			"Horsepath.1": "L'entrée du tunnel est interdite aux chevaux !^L'entrée du tunnel est interdite aux tracteurs !",
+			"Horsepath.2": "@ Chemin équestre par ici.",
+			"Horsepath.3": "> Chemin équestre par ici.",
+			"Winding.1": "` Autoroute 5 vers Zuzu Ville Centre-ville^@ Garden Village^> Pelican Ville",
+			"Winding.2": "` Autoroute 5 vers Zuzu Ville Centre-ville^@ Village de Ridgeside",
+			"Winding.3": "En raison des récents éboulements, la route menant au village de Ridgeside a été endommagée. Revenez lorsque les réparations seront terminées.",
+			"Winding.4": "Plusieurs lignes électriques coupées, un arbre tombé et plusieurs véhicules de secours vous bloquent le chemin alors que vous essayez d'atteindre le Garden Village.",
+			"Tunnel.1": "Le tunnel n'a pas encore été agrandi, peut-être quand la ville aura plus de fonds.",
+			"Cave.1": "Pour une raison étrange, cette porte semble avoir été peinte sur le mur?^ Qui ferait une telle chose ?",
+			"Cave.2": "C'est un tas d'os, rien de très intéressant.",
+			"Cave.3": "C'est un trou, tu ne peux pas sauter dedans car ce ne serait pas une bonne idée. Aussi parce que c'est illégal, alors n'essaye pas !",
+			"Cave.4": "Il s'agit d'une blague grossière écrite il y a plusieurs décennies sur la mère du superviseur de la mine.",
+			"Cave.5": "Sur ce chariot de mine il est écrit 'Ridgeside', il doit provenir d'une ancienne mine souterraine située à proximité.^Although the way it came from is blocked."
+		}
+	},
+		{
+			"Action": "EditData",
+			"Target": "Data/Quests",
+			"Entries": {
+				"1373001": "ItemDelivery/Ghost Berry/Le sorcier veut étudier une baie fantômatique. Ne demande pas pourquoi./Apportes une baie fantômatique au Sorcier./Wizard {{spacechase0.JsonAssets/ObjectId:Ghost Berry}}/-1/500/-1/true/Ah, fascinant. Le potentiel magique de ce fruit est incroyable ! Bien joué, @. Tu as toute ma gratitude. Maintenant, laisse-moi travailler en paix.",
+			}
+		}
+	]
+}

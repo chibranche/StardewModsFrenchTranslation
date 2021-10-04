@@ -1,0 +1,18 @@
+{
+    "Name": "Giant Old Coin",
+    "Description": "This coin is huge! What a lucky find!",
+    "Category": -12,  
+    "CategoryTextOverride": "Coin",
+    "Edibility": -300,
+    "Price": 500,
+    "IsColored": false,
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "fr": "Vieille Pièce Géante",
+    },
+    "DescriptionLocalization":
+    {
+        "fr": "Cette pièce est énorme ! Quelle chance de l'avoir trouvée !",
+    },
+}

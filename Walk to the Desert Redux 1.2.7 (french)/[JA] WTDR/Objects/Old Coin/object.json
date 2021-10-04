@@ -1,0 +1,18 @@
+{
+    "Name": "Old Coin",
+    "Description": "Just because it's old doesn't mean it's valuable",
+    "Category": "-12",  
+    "CategoryTextOverride": "Coin",
+    "Edibility": -300,
+    "Price": 5,
+    "IsColored": false,
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "fr": "Pièce antique",
+    },
+    "DescriptionLocalization":
+    {
+        "fr": "Ce n'est pas parce qu'elle est vieille qu'elle a de la valeur.",
+    },
+}
