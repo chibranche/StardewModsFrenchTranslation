@@ -1,0 +1,114 @@
+{
+  "Format": "1.23.0",
+  "Quests": [
+
+
+
+//KROBUS AND THE SPIRIT'S EVE
+    {
+      "Name": "Krobushalloween",
+      "Type": "ItemDelivery",
+      "Title": "Krobus et la fête des esprits",
+      "Description": "Krobus veut participar à la tradition humaine de la Fête des Esprits. Donne lui sa propre citrouille-lanterne.",
+      "Objective": "Donne une Citrouille-lanterne à Krobus",
+      "Reward": 500, // 500g
+      "Cancelable": false,
+      "Trigger": "Krobus 746", 
+      "ReactionText": "Oh. Alors comme ça une 'citrouille-lanterne' c'est une citrouille... avec une bougie à l'intérieur...?#$b#C'est vraiment très joli. Merci, @!$h#$e#%Krobus est trop hypnotisé par la citrouille-lanterne pour faire attention à toi.",
+	  "FriendshipGain": {
+			"Krobus": 150 
+      }
+    },
+
+//DWARF'S INSULT
+
+{
+      "Name": "Krobusinsult",
+      "Type": "ItemDelivery",
+      "Title": "L'insulte du nain",
+      "Description": "Le Nain à manqué de respect au peuple de Krobus. Krobus veut que vous l'aidiez à régler ses comptes.",
+      "Objective": "Donne une Carpe au Nain",
+      "Reward": 150, // 150g
+      "Cancelable": true,
+      "Trigger": "Dwarf 142", 
+      "ReactionText": "...qu'est ce que ça veut dire ?#$b#Hmph. Donc cette personne de l'ombre vivant dans les égouts t'a mis au courant de ça ? Méprisable !#$b#Tu as d'autres cadeaux humiliants pour moi ?#$b#Va-t'en !",
+	  "FriendshipGain": {
+			"Krobus": 150,
+			"Dwarf": -50, 
+      			 },
+"ConversationTopic": {
+        "AddWhenQuestCompleted": "DwarfInsultResponse 3 KrobusInsultRensponse 3",
+    }
+},
+
+
+//CROWS
+{
+      "Name": "Krobuskrows",
+      "Type": "ItemDelivery",
+      "Title": "Nouveaux amis",
+      "Description": "Krobus veut devenir ami avec les corbeaux. Aide le à trouver de la nourriture qui va plaire aux oiseaux.",
+      "Objective": "Apporte une noisette à Krobus",
+      "Reward": 300,
+	"RewardType": "Money",
+      "Cancelable": true,
+      "Trigger": "Krobus 408",
+      "ReactionText": "Merci beaucoup, @ !#$b#J'ai hâte de voir si ça va plaîre aux corbeaux.$h",
+"FriendshipGain": {
+			"Krobus": 150, 
+      			 },
+"AddMailOnComplete": "Krobushzl",
+    }
+
+
+  ],
+
+//---------
+//OFFERS   
+//---------
+
+  "Offers": [
+    {
+      "QuestName": "Krobushalloween",
+      "OfferedBy": "Mail",
+      "OfferDetails": {
+        "Topic": "Krobus et la fête des esprits",
+        "Text": "@,^J'ai entendu des enfants parler d'un objet appelé 'citrouille-lanterne'.... Je ne sais pas ce que ça veut dire, mais les enfants ont dit que c'était la partie la plus importante de la fête des esprits.^Si ce n'est pas trop gênant, j'aimerais t'en demander un, s'il te plaît.^^   -Krobus",
+      },
+      "When": {
+      "Date": "25 fall",
+		"FriendshipLevel": "Krobus 3",
+		"QuestNeverCompleted": "yes"
+      }
+    },
+
+	{
+		"QuestName": "Krobusinsult",
+		"OfferedBy": "Mail",
+		"OfferDetails": {
+			"Topic": "L'insulte du nain",
+			"Text": "@,^parfois, j'entends le Nain depuis les égouts, qui rôde dans ta ville dans le noir et se parle à lui-même. La nuit dernière, il disait des choses terriblement insultantes sur les gens de l'ombre... Je ne peux pas laisser les Nains parler de nous de cette façon, mais je ne dois pas rompre la promesse que j'ai faite au Sorcier.^Tout le monde sait qu'il y a peu de choses que le Nain déteste autant que les carpes... Peux-tu s'il te plaît donner au Nain une carpe de ma part ? Je suis sûr que ça lui apprendra à être plus poli.^^   -Krobus",
+		},
+		"When": {
+		"QuestNeverCompleted": "yes",
+		"EventSeen": "691039",
+		"Seasons": "winter",
+		"FriendshipLevel": "Krobus 3 Dwarf 3",
+		},
+	},
+
+{
+      "QuestName": "Krobuskrows",
+      "OfferedBy": "Mail",
+      "OfferDetails": {
+		"Topic": "Nouveaux amis",
+			"Text": "@,^J'essaye de ne pas y penser, mais Blinky me manque beaucoup... J'espère que son voyage se passe bien.^^En attendant, je vais essayer de me lier d'amitié avec les corbeaux. Ils apprécieront peut-être plus les noisettes que les graines. Pourrais-tu m'en apporter, s'il te plaît ?^^   -Krobus", 
+},
+"When": {
+		"QuestNeverCompleted": "yes",
+		"EventSeen": "1775332", 
+		},
+	},
+
+  ]
+}

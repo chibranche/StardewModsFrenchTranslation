@@ -1,0 +1,11 @@
+{
+  "Name": "More Krobus events",
+  "Author": "yuhvy",
+  "Version": "1.0.1",
+  "Description": "More events for Krobus",
+  "UniqueID": "yuhvy.morekrobusevents",
+  "UpdateKeys": [ "Nexus:9342" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+  }
+}
