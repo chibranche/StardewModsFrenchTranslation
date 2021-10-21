@@ -7679,215 +7679,215 @@
 "Kenneth.MarriageDialogue.Bad_9": "C'est comme si je ne te connaissais même plus...$s",
 ///Printemps
 "Maddie.MarriageDialogue.spring_1": "Bonne année !$h#$b#Je vais continuer à essayer d'améliorer le monde, une chose à la fois.$h",
-"Maddie.MarriageDialogue.spring_12": "Oh, je suis excité ! Imaginez si nous avons nos propres petits enfants à amener à ce festival!$h#$b#Je les aiderais certainement à gagner la chasse aux œufs.$6",
-"Maddie.MarriageDialogue.spring_23": "Oh, je ne danse pas vraiment bébé !$u#$b#Je pourrais marcher sur ton pied demain !$s#$e#Promets-moi juste que tu m'attraperas si je tombe .$l",
+"Maddie.MarriageDialogue.spring_12": "Oh, je suis impatiente ! Imagine si nous avions nos propres enfants à amener à ce festival !$h#$b#Je les aiderais certainement à gagner la chasse aux œufs.$6",
+"Maddie.MarriageDialogue.spring_23": "Oh, je n'aime pas vraiment la danse bébé !$u#$b#Je risque de te marcher sur les pieds demain !$s#$e#Promets-moi juste que tu me rattraperas si je tombe.$l",
 
 ///L'été
-"Maddie.MarriageDialogue.summer_1" : "assure toi de mettre de la crème solaire pour pouvoir te protéger à l'extérieur, d'accord ?#$b#Je suis surpris de ne jamais t'avoir vu attraper un coup de soleil, étant donné que vous passez autant de temps à l'extérieur.$6",
-"Maddie.MarriageDialogue.summer_10": "Si tu me demande, je ne comprends toujours pas vraiment l'intérêt de mettre un tas d'ingrédients différents.$u#$b#Essaye de mettre quelque chose de délicieux.$s",
-"Maddie.MarriageDialogue.summer_27": "Je pense que les méduses sont toujours aussi mignonnes !$h#$b#Si nous arrivons tôt, trouvons un endroit pour nous seuls pour regarder les méduses ensemble.$9",
+"Maddie.MarriageDialogue.summer_1": "Assures toi de mettre de la crème solaire pour pouvoir te protéger à l'extérieur, d'accord ?#$b#Je suis surprise de ne jamais t'avoir vu attraper un coup de soleil, étant donné que tu passes tout ton temps à l'extérieur.$6",
+"Maddie.MarriageDialogue.summer_10": "Si tu veux mon avis, je ne comprends toujours pas vraiment l'intérêt de mettre tout un tas d'ingrédients différents.$u#$b#Essaye de mettre quelque chose de délicieux.$s",
+"Maddie.MarriageDialogue.summer_27": "Je pense que les méduses sont toujours aussi mignonnes !$h#$b#Si nous arrivons tôt, on pourra trouver un endroit tranquile pour regarder les méduses ensemble.$9",
 
 ///L'autonme
-"Maddie.MarriageDialogue.fall_1": "Je pensais que les feuilles étaient simplement en désordre, mais j'en suis venu à apprécier toutes les différentes couleurs et formes.$l#$b#L'automne commence à être ma saison préférée.$9",
-"Maddie.MarriageDialogue.fall_15": "La foire demain, hein ? Ne t'emballe pas trop avec les stands de jeux, d'accord bébé ?#$b# Fais attention à ton argent.",
-"Maddie.MarriageDialogue.fall_26": "Oh mon Dieu ! Je ne porterai pas de costume en public demain ! J'aurais l'air si ridicule dans un costume !$a",
+"Maddie.MarriageDialogue.fall_1": "Avant je pensais que les feuilles faisaient désordre, mais j'en suis venue à en apprécier toutes les formes et couleurs.$l#$b#L'automne commence à être ma saison préférée.$9",
+"Maddie.MarriageDialogue.fall_15": "C'est le Grand Festival demain, pas vrai ? Ne t'emballe pas trop avec les stands de jeux, d'accord bébé ?#$b# Fais attention à ton argent.",
+"Maddie.MarriageDialogue.fall_26": "Oh mon Dieu ! Je ne porterai pas de déguisement en public demain ! J'aurais l'air si ridicule dans un déguisement !$a",
 
 ///L'hiver
-"Maddie.MarriageDialogue.winter_1": "J'aimerais être un ours, capable d'hiberner tout l'hiver.$7#$e#J'aimerais que tu sois là avec moi.$s#$b#Eh bien, nous avons tous les deux travail à faire. $6 ",
-"Maddie.MarriageDialogue.winter_7": "Je pense toujours que la pêche n'est pas éthique, mais je t'encouragerai si tu insiste pour participer à la compétition.$6#$b#Pour être honnête, je préférerais de loin construire un igloo que aller à la pêche. 6 $",
-"Maddie.MarriageDialogue.winter_14": "J'espère trouver de jolis bijoux au marché de nuit !#$b#Ce qu'ils vont vendre est toujours un mystère.7 $",
-//"Maddie.MarriageDialogue.winter_15": "Chérie, regarde celui-ci ! Je pense que je pourrais l'acheter, je parie qu'il aurait l'air bien sur le comptoir.$h",
-"Maddie.MarriageDialogue.winter_16": "En fait, le nombre de personnes ici ne me dérange pas en ce moment#$b#Hmm... Peux etre es ta presence qui me rassure, hein ?$h",
+"Maddie.MarriageDialogue.winter_1": "J'aimerais être un ours, capable d'hiberner tout l'hiver.$7#$e#J'aimerais que tu sois là avec moi.$s#$b#Mais bon, nous avons tous les deux du travail à faire. $6 ",
+"Maddie.MarriageDialogue.winter_7": "Je pense toujours que la pêche n'est pas éthique, mais je t'encouragerai si tu insiste pour participer à la compétition.$6#$b#Pour être honnête, je préférerais de loin construire un igloo que aller à la pêche.$6",
+"Maddie.MarriageDialogue.winter_14": "J'espère trouver de jolis bijoux au marché nocturne !#$b#Ce qu'ils vont vendre est toujours un mystère.$7",
+//"Maddie.MarriageDialogue.winter_15": "Mon coeur, regarde celui-ci ! Je pense que je pourrais l'acheter, je parie qu'il aurait l'air bien sur le comptoir.$h",
+"Maddie.MarriageDialogue.winter_16": "En fait, le nombre de personnes ici ne me dérange pas pour l'instant.#$b#Hmm... Peux etre est-ce ta presence qui me rassure, hein ?$h",
 //"Maddie.MarriageDialogue.winter_17": "Je pense que je vais regarder demain et voir ce que je peux trouver qui ira parfaitement pour notre bébé à la maison.$6",
-"Maddie.MarriageDialogue.winter_24": "Demain, je vais dîner comme une reine.$h#$b#Gus essaie d'améliorer son menu chaque année, alors qui sait ce qu'il nous réserve !#h",
+"Maddie.MarriageDialogue.winter_24": "Demain, je vais dîner comme une reine.$h#$b#Gus essaie d'améliorer son menu chaque année, alors qui sait ce qu'il nous réserve !$h",
 
 ///Chambre
-"Maddie.MarriageDialogue.spouseRoom_Maddie": "Petit Gupgup est un petit poisson rouge affamé ! Il mange tellement ! Il est pourtant si mignon !!$h#$b#Hé bébé, tu veux aussi nourrir Gupgup ?$h",
+"Maddie.MarriageDialogue.spouseRoom_Maddie": "Le petit Gupgup est un petit poisson rouge affamé ! Il mange tellement ! Mais il est si mignon !!$h#$b#Hé bébé, tu veux donner à manger à Gupgup toi aussi ?$h",
 
 ///Patio
-"Maddie.MarriageDialogue.patio_Maddie": "Ah... C'est relaxant... Je dois te le donner bébé.$h#$b#Tu fais un travail incroyable ! J'adore ça !$h",
+"Maddie.MarriageDialogue.patio_Maddie": "Ah... C'est relaxant... Je dois le reconnaître bébé.$h#$b#Tu fais un travail incroyable ! J'adore ça !$h",
 
 ///Jour de pluie
-"Maddie.MarriageDialogue.Rainy_Day_0": "Grand jour au laboratoire d'analyse des eau aujourd'hui, M. Aguar m'a informé d'un inspecteur qui visitera l'endroit.$u#$b#De tous les jours, pourquoi choisir un jour pluvieux ? $s",
-"Maddie.MarriageDialogue.Rainy_Day_1": "Hé toi! N'oublie pas ta veste d'accord?#$b#Je ne veux pas que tu tombes malade.$a",
-"Maddie.MarriageDialogue.Rainy_Day_2": "Que veux tu que je commande chez Pika ce soir ?#$b#Je peux manger n'importe quelle soupe que t'aime, mais pas celle palourdes, s'il te plaît.$6",
+"Maddie.MarriageDialogue.Rainy_Day_0": "Grosse journée au laboratoire d'analyse des eau aujourd'hui, M. Aguar m'a dit qu'un inspecteur va visiter l'endroit.$u#$b#Il fallait qu'il choisisse un jour de pluie, pas vrai ? $s",
+"Maddie.MarriageDialogue.Rainy_Day_1": "Hé toi ! N'oublie pas ta veste d'accord ?#$b#Je ne veux pas que tu tombes malade.$a",
+"Maddie.MarriageDialogue.Rainy_Day_2": "Que veux tu que je commande chez Pika ce soir ?#$b#Je peux tolèrer n'importe quelle soupe qui te plaira, mais pas la Soupe de palourdes s'il te plait.$6",
 "Maddie.MarriageDialogue.Rainy_Day_3": "Hé mon amour, peux-tu me faire un gros câlin avant d'aller travailler ?$l",
-"Maddie.MarriageDialogue.Rainy_Day_4": "A tu décidé de ce que tu aimeriez manger plus tard ?#$b#Je pense que je peux passer à Blooming Hill Farm avant de rentrer à la maison.",
-"Maddie.MarriageDialogue.Rainy_Day_Maddie": "Bébé, peux-tu me faire du chocolat chaud. J'ai froid brr...$l",
+"Maddie.MarriageDialogue.Rainy_Day_4": "As tu décidé de ce que tu aimerais manger tout à l'heure ?#$b#Je pense que je peux passer à la Ferme Blooming Hill avant de rentrer à la maison.",
+"Maddie.MarriageDialogue.Rainy_Day_Maddie": "Bébé, peux-tu me préparer un chocolat chaud. J'ai froid brr...$l",
 
 ///Nuit pluvieuse
-"Maddie.MarriageDialogue.Rainy_Night_0": "M. Aguar semblait en fait heureux aujourd'hui.$l#$b#Je le vois rarement sourire. Je suppose qu'il a dû se souvenir de quelque chose d'agréable.$h",
-"Maddie.MarriageDialogue.Rainy_Night_1": "J'ai toujours si froid bébé. Je pense que je pourrais avoir de la fièvre.$s#$b# Peux tu réchauffer de la soupe pour moi s'il vous plaît mon amour?$l",
-"Maddie.MarriageDialogue.Rainy_Night_2": "C'était une super journée à l'établissement.$h#$b#M. Aguar a dit que nous étions sur le point d'avoir une percée ! Ahhh je suis tellement heureux !$h",
-"Maddie.MarriageDialogue.Rainy_Night_3": "Hey bébé, voudrais tu que je passe du temps a la maison?#$b#Juste toi et moi,enroulé sous une couette avec un chocolat chaud?$l",
-"Maddie.MarriageDialogue.Rainy_Night_4": "Hey beau gosse ! Je t'ai manqué ? 6 $",
-"Maddie.MarriageDialogue.Rainy_Night_5": "Les nuits pluvieuses sont notre moment a nous !$6#$b# Pourrais-tu prendre du temps pour nous maintenant ?$l#$e#Je pensais peut-être... Dîner et soirée jeux???$h",
-"Maddie.MarriageDialogue.Rainy_Night_Maddie": "D la pluiiiiee! Oh j'aime la pluie! Je suppose que je suis vraiment un poisson dans l'eau!$h",
+"Maddie.MarriageDialogue.Rainy_Night_0": "M. Aguar semblait plutôt heureux aujourd'hui.$l#$b#Je le vois rarement sourire. Je suppose qu'il a dû se souvenir de quelque chose d'agréable.$h",
+"Maddie.MarriageDialogue.Rainy_Night_1": "J'ai encore très froid bébé. Je pense qu'il se pourrait que j'aie de la fièvre.$s#$b#Peux tu réchauffer de la soupe pour moi s'il te plaît mon amour ?$l",
+"Maddie.MarriageDialogue.Rainy_Night_2": "C'était une super journée au centre de recherche.$h#$b#M. Aguar a dit que nous étions sur le point de faire une découverte ! Ahhh je suis tellement heureuse !$h",
+"Maddie.MarriageDialogue.Rainy_Night_3": "Hey bébé, ça te dirait de passer la journée à la maison ?#$b#Juste toi et moi, enroulés sous une couette avec un chocolat chaud ?$l",
+"Maddie.MarriageDialogue.Rainy_Night_4": "Coucou beau gosse !^Coucou belle gosse ! Je t'ai manqué ?$6",
+"Maddie.MarriageDialogue.Rainy_Night_5": "Les nuits pluvieuses sont notre moment a nous bébé !$6#$b# Pourrais-tu prendre du temps pour nous maintenant ?$l#$e#Je pensais peut-être... Dîner et soirée jeux ???$h",
+"Maddie.MarriageDialogue.Rainy_Night_Maddie": "De la pluiiiiee ! Oh j'aime la pluie ! Je me sens comme un poisson dans l'eau !$h",
 
 ///Journée intérieure
-"Maddie.MarriageDialogue.Indoor_Day_0": "Ughh c'est si tôt! J'ai besoin de mon café !$a#$e#Huh ? Oh quoi ? Je suis jolie même sans maquillage ?$l#$b#Uhh ??qu'elle est le lien???$8#$b#Tu me fais une blague, n'est-ce pas ?$6",
-"Maddie.MarriageDialogue.Indoor_Day_1": "Hé bébé, tu as l'air en forme ? As-tu fait du sport ? 6 $",
-"Maddie.MarriageDialogue.Indoor_Day_2": "Bonjour @! Comment s'est passé ta nuits?#$e#Avais-tu rêvé de ton côté poussin?$6#$b#Haha je blague! Je suis juste en train de blagué avec toi!$h",
-"Maddie.MarriageDialogue.Indoor_Day_3": "Oh mon Dieu ! C'est une si belle matinée. Ne la gâche pas avec une phrase de drague a la con!.$6#$e#Un petit-déjeuner au lit aurait été mieux, haha ! Je plaisante !$h#$b#Je t'aime, espèce de fou.$l",
-"Maddie.MarriageDialogue.Indoor_Day_4": "OOOOHH Bébé pourquoi ne cultiverions-nous pas nos propre fraises dans notre jardin ?$9#$b#J'ai envie de fraises ces derniers temps.$l#$e#Hmm, peut-être que je vais essayer d'en acheter un chez Blooming Hill.",
-"Maddie.MarriageDialogue.Indoor_Day_Maddie": "Un autre jour, une autre mission pour nous !$h#$e# Une bonne journée à venir ! Rend moi fière petit champion !$h",
+"Maddie.MarriageDialogue.Indoor_Day_0": "Roh il est encore si tôt ! J'ai besoin de mon café !$a#$e#Hein ? Oh quoi ? Je suis jolie même sans maquillage ?$l#$b#Hein ??quel est le lien ???$8#$b#Tu me fais une blague, n'est-ce pas ?$6",
+"Maddie.MarriageDialogue.Indoor_Day_1": "Hé bébé, Tu as bonne mine on dirait ? Tu as fait du sport récemment ?$6",
+"Maddie.MarriageDialogue.Indoor_Day_2": "Bonjour @ ! Comment s'est passé ta nuit ?#$e#Tu as révé de ta maîtresse ?$6#$b#Haha je blague ! Je te taquines !$h",
+"Maddie.MarriageDialogue.Indoor_Day_3": "Oh mon Dieu ! C'est une si belle matinée. Ne la gâche pas avec une phrase de drague ringarde !$6#$e#Un petit-déjeuner au lit aurait été encore mieux, haha ! Je plaisante !$h#$b#Je t'aime, mon petit grain de folie.$l",
+"Maddie.MarriageDialogue.Indoor_Day_4": "OOOOHH Bébé pourquoi ne cultiverions-nous pas nos propres fraises dans le jardin ?$9#$b#J'ai envie de fraises ces derniers temps.$l#$e#Hmm, peut-être que je vais essayer d'en acheter à la Ferme Blooming Hill.",
+"Maddie.MarriageDialogue.Indoor_Day_Maddie": "Un autre jour, une autre mission pour nous !$h#$e#Passe une bonne journée ! Rends moi fière petit champion !^Rends moi fière championne !$h",
 
 //Nuit Intérieur
-"Maddie.MarriageDialogue.Indoor_Night_0": "Ahhh enfin à la maison ! Qu'y a-t-il pour le dîner blubby ?$h",
-"Maddie.MarriageDialogue.Indoor_Night_1": "Brr... Il y a une brise froide qui souffle soir. Tu veux prendre un chocolat chaud et peut-être faire un feu de camp à l'extérieur ?$l",
-"Maddie.MarriageDialogue.Indoor_Night_2": "@!! Tu es à la maison! Tu ne croira pas quelle journée j'ai passé!$h#$b#Je me suis en fait amusé plus tôt parce qu'il y avait de mignons petits lapins! Hihi.$9",
-"Maddie.MarriageDialogue.Indoor_Night_3": "UGH, je me sens tellement exaspéré aujourd'hui.$8#$b#*soupirs* Puis-je avoir un câlin de ta part s'il te plaît mon amour ?$s",
-"Maddie.MarriageDialogue.Indoor_Night_4": "Salut bébé ! Je vois que tu es super fatiguée par le travail d'aujourd'hui.#$e# Aimerai tu que je te fasse un massage ???$l#$b#Eh bien, à condition que tu m'en face un bientôt! Haha!$l",
-"Maddie.MarriageDialogue.Indoor_Night_Maddie": "Ouf, j'ai eu une journée difficile. Je temercie Yoba d'être là maintenant.$u#$b#Aaaaaah, enfin à la maison.$h",
+"Maddie.MarriageDialogue.Indoor_Night_0": "Ahhh enfin à la maison ! Qu'y a-t-il pour le dîner doudou ?$h",
+"Maddie.MarriageDialogue.Indoor_Night_1": "Brr... Il y a une brise froide qui souffle ce soir. Tu veux prendre un chocolat chaud et peut-être faire un feu de camp à l'extérieur ?$l",
+"Maddie.MarriageDialogue.Indoor_Night_2": "@ !! Tu es de retour à la maison ! Il faut que je te raconte ma journée de fou !$h#$b#Je me suis vraiment amusée tout à l'heure parce qu'il y avait de mignons petits lapins ! Hihi.$9",
+"Maddie.MarriageDialogue.Indoor_Night_3": "UGH, je me sens tellement exaspérée aujourd'hui.$8#$b#*soupirs*$s#$b# Puis-je avoir un câlin de ta part s'il te plaît mon amour ?$s",
+"Maddie.MarriageDialogue.Indoor_Night_4": "Salut bébé ! Je vois que tu es super fatigué par le travail ce soir.^Je vois que tu es super fatiguée par le travail ce soir.#$e#Ca te plaîrait que je te fasse un massage ???$l#$b#Eh bien, à condition que tu m'en face un plus tard ! Haha !$l",
+"Maddie.MarriageDialogue.Indoor_Night_Maddie": "Pfiou, j'ai eu une journée difficile. Yoba soit loué je suis de retour maintenant.$u#$b#Aaaaaah, enfin à la maison.$h",
 
 ///En plein air
-"Maddie.MarriageDialogue.Outdoor_0": "Ahhh le soleil ! Tellement relaxant, n'est-ce pas ?$h#$b# Parfois, je ne prends pas beaucoup le soleil quand je suis dans l'établissement.$7",
-"Maddie.MarriageDialogue.Outdoor_1": "Je vais sur la crête pour prendre un peu de soleil et peut-être traîner jusqu'à ce que je voie des lapins passer. Tu veux venir avec moi?$h",
-"Maddie.MarriageDialogue.Outdoor_2": "Oh s'il te plait bébé, veux-tu être gentille et me donner des rafraîchissements ?$6#$b#J'ai transpiré comme un fou !$u",
+"Maddie.MarriageDialogue.Outdoor_0": "Ahhh le soleil ! Tellement relaxant, n'est-ce pas ?$h#$b#Je ne prends pas beaucoup le soleil quand je suis dans le centre de recherche.$7",
+"Maddie.MarriageDialogue.Outdoor_1": "Je vais sur la crête pour prendre un peu de soleil et peut-être traîner jusqu'à ce que je voie des lapins passer. Tu veux venir avec moi ?$h",
+"Maddie.MarriageDialogue.Outdoor_2": "Oh s'il te plait bébé, veux-tu être un amour et me passer du café?$6#$b#J'ai besoin de ma dose journalière de cafféine !$u",
 "Maddie.MarriageDialogue.Outdoor_3": "Hé bébé, c'est une belle journée aujourd'hui ! Voudrais-tu aller sur la crête ?$h#$b#Peut-être qu'on verra les lapins !$l",
-"Maddie.MarriageDialogue.Outdoor_4": "Je pensais, et si nous avions un petit parterre de fleurs ici ?$7#$b#Juste quelque chose de joli...$l",
+"Maddie.MarriageDialogue.Outdoor_4": "Je pensais, et si nous avions un petit parterre de fleurs par ici ?$7#$b#Un petit quelque chose de joli...$l",
 
 //Sortie
-"Maddie.MarriageDialogue.funLeave_Maddie": "Au revoir bébé ! Passe une bonne journée, d'accord ?$h#$b#N'oubliez pas d'apporter de la nourriture ou tu pourrai t'évanouir !!!$a",
+"Maddie.MarriageDialogue.funLeave_Maddie": "Au revoir bébé ! Passe une bonne journée, d'accord ?$h#$b#N'oublie pas d'emporter de la nourriture ou tu pourrai t'évanouir !!!$a",
 
 //Retour
-"Maddie.MarriageDialogue.funReturn_Maddie": "Je suis de reeeettttouuuuuur, et avec quelques gourmandise pour nous cette fois.$h#$e#Teehee, nous pourrions rester debout toute la nuit et juste jouer ou parler de n'importe quoi sous les étoiles !$ l",
+"Maddie.MarriageDialogue.funReturn_Maddie": "Je suis de reeeettttouuuuuur, et avec quelques gourmandise pour nous cette fois.$h#$e#Ihi, nous pourrions rester debout toute la nuit et juste jouer ou parler de n'importe quoi sous les étoiles !$l",
 
 //Un enfant
-"Maddie.MarriageDialogue.OneKid_0": "Oh non ! %kid1 a tes yeux et tes lèvres bébé !$u#$b#Tsk, nous devons reconstruire le visage de %kid1 je suppose...$s#$b#Je plaisante ! %kid1 a un beau visage !$h",
-"Maddie.MarriageDialogue.OneKid_1": "Avez-vous entendu %kid1 aujourd'hui ? %kid1 a presque dit maman ! Je savais que ce serait SONT premier mot !$h",
-"Maddie.MarriageDialogue.OneKid_2": "Ne t'inquiète pas pour %kid1. Ce petit a mon intelligence et ta persévérance.$6",
-"Maddie.MarriageDialogue.OneKid_3": "N'est-ce pas incroyable comment %kid1 vient de changer nos vies ?$9#$b#C'est mouvementé, mais ça en vaut la peine.$h",
+"Maddie.MarriageDialogue.OneKid_0": "Oh non ! %kid1 a tes yeux et ta bouche bébé !$u#$b#Tsk, on va devoir lui faire de la chirurgie esthétique je suppose...$s#$b#Je plaisante ! %kid1 a un beau visage !$h",
+"Maddie.MarriageDialogue.OneKid_1": "Tu as entendu %kid1 aujourd'hui ? %kid1 a presque dit maman ! Je savais que ce serait son premier mot !$h",
+"Maddie.MarriageDialogue.OneKid_2": "Ne t'inquiètes pas pour %kid1. Ce petit a mon intelligence et ta persévérance.$6",
+"Maddie.MarriageDialogue.OneKid_3": "N'est-ce pas incroyable comment %kid1 a changé nos vies ?$9#$b#C'est mouvementé, mais ça en vaut la peine.$h",
 
 //Deux enfants
-"Maddie.MarriageDialogue.TwoKids_0": "Oh Yoba ! Bébé ! Tu ne croirais pas combien %kid1 et %kid2 ont mangé au petit-déjeuner !$u#$e#Nous ferions mieux d'avoir plus de poulets pour faire face au nombre d'œufs qu'ils mangent en une semaine ! $u",
-"Maddie.MarriageDialogue.TwoKids_1": "Ce sera bientôt l'heure du bain pour ces deux-là...#$b#Tu vas m'aider à les disputer, non ? Coparentalité et tout ça !$6",
-"Maddie.MarriageDialogue.TwoKids_2": "Je n'ai jamais vraiment imaginé que j'aurais ma propre famille...$l#$b# Je suis tellement reconnaissant pour ce que nous avons construit ensemble !$9",
-"Maddie.MarriageDialogue.TwoKids_3": "Ahhh. Je t'aime tout simplement, %kid1 et %kid2.$l#$b#Vous êtes tous le meilleur cadeau que l'univers m'ait offert. À part ma naissance bien sûr ! Haha !$h",
+"Maddie.MarriageDialogue.TwoKids_0": "Oh Yoba ! Bébé ! Tu ne croiras pas tout ce que %kid1 et %kid2 ont mangé au petit-déjeuner !$u#$e#Nous ferions mieux d'adopter plus de poules pour couvrir le nombre d'œufs qu'ils mangent en une semaine ! $u",
+"Maddie.MarriageDialogue.TwoKids_1": "Ce sera bientôt l'heure du bain pour ces deux-là...#$b#Tu vas m'aider à leur donner le bain, non ? Coparentalité et tout ça !$6",
+"Maddie.MarriageDialogue.TwoKids_2": "Je n'ai jamais vraiment imaginé que j'aurais ma propre famille...$l#$b# Je suis tellement reconnaissante pour tout ce que nous avons construit ensemble !$9",
+"Maddie.MarriageDialogue.TwoKids_3": "Ahhh. Je vous aime si fort, %kid1, %kid2 et toi.$l#$b#Vous êtes le meilleur cadeau que l'univers m'ait offert. À part ma naissance bien sûr ! Haha !$h",
 
 //Dépend de la relation
 ///Bien
 "Maddie.MarriageDialogue.Good_0": "J'ai passé une si bonne journée ! Et c'est encore meilleur maintenant que tu es ici avec moi !$h",
-"Ma~FILE CHANGE~ddie.MarriageDialogue.Good_1": "Hé bébé, as-tu été au soleil ? Tu as l'air radieux ! J'adore !$h",
-"Maddie.MarriageDialogue.Good_2": "Sommes-nous vraiment mariés ? Suis-je vraiment Madame @?? Tout semble si surréaliste ! $9#$e#Je n'aurais jamais pensé voir un autre autel après ce qui s'est passé, mais regardez-nous maintenant !$h",
-"Maddie.MarriageDialogue.Good_3": "Wow, tu es vraiment beau aujourd'hui ! ^Wow, tu es magnifique aujourd'hui.$l#$b#Se marier avec toi était une telle surprise. Je ne peux pas croire que je trouverais l'amour à nouveau ! $9",
-"Maddie.MarriageDialogue.Good_4": "Je n'aurais jamais imaginé que je serais heureux avec quelqu'un d'autre que moi-même.$l#$b#Je suis content que ce soit toi après tout bébé.$h",
-"Maddie.MarriageDialogue.Good_5": "Mme Lenny m'a félicité tout à l'heure pour nos noces !$h#$e#Elle a dit qu'elle voulait être marraine et m'a fait un clin d'œil très évident et un coup de coude... un peu ridicule, hein ? $u",
-"Maddie.MarriageDialogue.Good_6": "Hé bébé ! Oh, tu sors aujourd'hui ?#$b# Pourrais-tu ramener des plats à emporter pour le dîner ?",
-"Maddie.MarriageDialogue.Good_7": "Quand j'ai eu le cœur brisé, je n'aurais jamais pu faire confiance à quelqu'un d'autre.$l#$b#Merci d'avoir été patient avec moi @.$9",
-"Maddie.MarriageDialogue.Good_8": "Awwee merci de prendre soin de moi bébé ! Quand tu seras malade, je prendrai soin de toi !$7#$e#Mais s'il te plait ne tombe pas malade ??? ce genre de trucs.$u#$b#Haha mais je vais essayer pour toi.$h",
-"Maddie.MarriageDialogue.Good_9": "Ça. C'est la vie. Merci beaucoup. Je sais que je ne dis pas ça souvent... Mais je t'aime vraiment tellement.",
+"Maddie.MarriageDialogue.Good_1": "Hé bébé, as-tu été au soleil ? Tu es radieux !^Tu es radieuse ! J'adore !$h",
+"Maddie.MarriageDialogue.Good_2": "Sommes-nous vraiment mariés ? Suis-je vraiment Madame @ ?? Tout semble si surréaliste ! $9#$e#Je n'aurais jamais pensé voir un autre autel après ce qui s'est passé, mais regarde nous maintenant !$h",
+"Maddie.MarriageDialogue.Good_3": "Wow, tu es vraiment beau aujourd'hui ! ^Wow, tu es vraiment belle aujourd'hui.$l#$b#Se marier avec toi était une telle surprise. Je ne peux pas croire que j'ai trouvé l'amour à nouveau ! $9",
+"Maddie.MarriageDialogue.Good_4": "Je n'aurais jamais imaginé que je serais heureuse avec quelqu'un d'autre que moi-même.$l#$b#Je suis contente que ce soit auprès de toi bébé.$h",
+"Maddie.MarriageDialogue.Good_5": "Mme Lenny m'a félicité tout à l'heure pour nos noces !$h#$e#Elle a dit qu'elle voulait être marraine et m'a fait un clin d'œil très évident et elle m'a donné un coup de coude... un peu ridicule, hein ? $u",
+"Maddie.MarriageDialogue.Good_6": "Hé bébé ! Oh, tu sors aujourd'hui ?#$b# Pourrais-tu prendre des plats à emporter pour le dîner ?",
+"Maddie.MarriageDialogue.Good_7": "Quand j'ai eu le cœur brisé, j'ai cru que je ne pourrais plus jamais faire confiance à quelqu'un d'autre.$l#$b#Merci d'avoir été patient avec moi @.^Merci d'avoir été patiente avec moi @.$9",
+"Maddie.MarriageDialogue.Good_8": "Merci de prendre soin de moi bébé ! Quand tu seras malade, je prendrai soin de toi !$7#$e#Mais s'il te plait ne tombe pas malade ??? Je suis vraiment nulle pour dire des trucs mignons.$u#$b#Haha mais je vais continuer d'essayer pour toi.$h",
+"Maddie.MarriageDialogue.Good_9": "Ça. C'est la vraie vie. Merci beaucoup. Je sais que je ne dis pas ça souvent... Mais je t'aime vraiment très fort.",
 
 ///Neutre
 "Maddie.MarriageDialogue.Neutral_0": "Hé bébé ! Super journée, n'est-ce pas ? N'oublie pas d'arroser les plantes d'accord ?$h",
-"Maddie.MarriageDialogue.Neutral_1": "Bébé, peux-tu me faire un café avant de partir ?#$b#Je prépare des sandwichs pour toi et pour M. Aguar.$h#$e#J'espère que vous les aimerez. Si vous les aimé pas, vous pouvez faire vos propres sandwichs.$6",
-"Maddie.MarriageDialogue.Neutral_2": "Hé bébé, question aléatoire.#$b#As-tu déjà eu l'impression qu'il y avait quelque chose dans la vie que tu ne pouvais réaliser que si tu t'etais vraiment concentré dessus ?",
-"Maddie.MarriageDialogue.Neutral_3": "Je pensais honnêtement qu'Ysa était une gosse gâtée.#$b#Mais je l'ai rencontrée plus tôt et j'ai vu comment elle traite son grand-père avec tant de soin.$8#$e#Hmm. . Je suppose que j'ai dû mal comprendre sa situation.$7",
-"Maddie.MarriageDialogue.Neutral_4": "Trinnie a fait tellement d'histoires à l'établissement aujourd'hui.#$e#Je pense qu'elle pourrait s'intéresser à mon domaine.#$b#Ce serait excitant d'avoir un apprenti.$h",
+"Maddie.MarriageDialogue.Neutral_1": "Bébé, peux-tu me faire un café avant de partir ?#$b#Je prépare des sandwichs pour toi et pour M. Aguar.$h#$e#J'espère que vous les aimerez. Si vous les aimez pas, vous n'aurez qu'à faire vos propres sandwichs.$6",
+"Maddie.MarriageDialogue.Neutral_2": "Hé bébé, une question comme ça.#$b#As-tu déjà eu l'impression qu'il y avait quelque chose dans la vie que tu ne pouvais réaliser que si tu te concentrait vraiment dessus ?",
+"Maddie.MarriageDialogue.Neutral_3": "Je pensais honnêtement qu'Ysa était une enfant gâtée.#$b#Mais je l'ai croisée tout à l'heure et j'ai vu comment elle traite son grand-père avec beaucoup de soin.$8#$e#Hmm. . Je suppose que j'ai dû mal comprendre sa situation.$7",
+"Maddie.MarriageDialogue.Neutral_4": "Trinnie a fait tellement de bazard au centre de recherche aujourd'hui.#$e#Je pense qu'elle pourrait s'intéresser à mon domaine.#$b#Ce serait excitant d'avoir une apprentie.$h",
 "Maddie.MarriageDialogue.Neutral_5": "Pierre et M. Morris se sont disputés plus tôt dans la journée.$u#$b#Tu aurais dû être là, c'était tellement intense.$u",
-"Maddie.MarriageDialogue.Neutral_6": "Pika a eu un spécial aujourd'hui. L'a tu essayé ?#$e#Hehe, je suis désolé de ne pas avoir pu t'en apporter un !$l#$b# En fait, j'en ai apporté deux, mais j'ai eu faim avant la fin de mon travail, j'ai dû le manger.$l",
-"Maddie.MarriageDialogue.Neutral_7": "Oooh! J'ai appris une nouvelle technique aujourd'hui en filtrant l'eau.$h#$b#A tu du papier propre ? J'aimerais te montrer comment !$h",
-"Maddie.MarriageDialogue.Neutral_8": "Imaginez... Vous m'avez comme femme ! Vous avez de la chance ! Hahaha!$6",
-"Maddie.MarriageDialogue.Neutral_9": "Bébé! Je veux avoir une puffball!< $h#$b# J'ai lu à leur sujet quand je suis allé à la bibliothèque pour faire des recherches sur les solvants et je les ai trouvés assez fascinants.$h",
+"Maddie.MarriageDialogue.Neutral_6": "Pika faisait un plat spécial aujourd'hui. Tu as pu l'essayer ?#$e#Héhé je suis désolée de ne pas avoir pu t'en apporter un !$l#$b# En fait, j'en ai acheté deux, mais j'ai eu faim avant la fin de mon travail, du coup j'ai mangé ta part.$l",
+"Maddie.MarriageDialogue.Neutral_7": "Oooh ! J'ai appris une nouvelle technique aujourd'hui pour filtrer l'eau.$h#$b#As tu du papier propre ? J'aimerais te montrer comment !$h",
+"Maddie.MarriageDialogue.Neutral_8": "Imagine... Je suis ta femme ! Tu en as de la chance ! Hahaha !$6",
+"Maddie.MarriageDialogue.Neutral_9": "Bébé ! Je veux avoir des champignons de Paris !$h#$b# J'en ai entendu parlé quand je suis allé à la bibliothèque pour faire des recherches sur les solvants et je les ai trouvés assez fascinants.$h",
 
 ///Mal
 "Maddie.MarriageDialogue.Bad_0": "Oh, arrête de faire tant d'histoires pour moi ! Je t'ai dit que je vais bien ??$a#$b#C'est si difficile à comprendre ?$a",
 "Maddie.MarriageDialogue.Bad_1": "Euh, qui es-tu pour me dire de ne pas sortir ?$a#$b#C'est une façon de penser tellement toxique.$a",
-"Maddie.MarriageDialogue.Bad_2": "C'est le cas ! Je n'en peux plus ! tu est désespéré !$a#$b#tu préférez faire passer les autres avant nous en premier, n'est-ce pas ?? Incroyable !$a",
-"Maddie.MarriageDialogue.Bad_3": "Tu n'es pas fatiguée ? J'en ai marre de me battre comme ça tous les jours...$10#$e#Si j'avais su que ce mariage avec toi était comme ça, je serais resté célibataire. 10 $",
-"Maddie.MarriageDialogue.Bad_4": "Alors quoi ? Tu vas croire les autres plus que tu me crois ??$a#$b#Qui est ta femme hein ?!$10#$e#Si on n'a pas confiance en se mariage, nous pourrions aussi bien arrêter avant même d'avoir des enfants !$a",
-"Maddie.MarriageDialogue.Bad_5": "WOW ! C'est un coup bas ! Même pour toi !$a#$b#Tu as beaucoup changé depuis que tu me draguer.$10",
-"Maddie.MarriageDialogue.Bad_6": "Je me sens fatigué @. Je veux déjà abandonner. 10 $",
-"Maddie.MarriageDialogue.Bad_7": "Quel est mon problème ??$10#$b#Toi ! Tu es mon problème ! J'en ai marre !$a",
-"Maddie.MarriageDialogue.Bad_8": "Avec tout ce que je t'ai dit, et malgré tout ce que je t'ai dit pour t'améliorer tu n'as même pas pensé à changer @??$a",
-"Maddie.MarriageDialogue.Bad_9": "Peux-tu arrêter ça???$a#$e# Penses-tu même à moi ? A nous ? Ou es-tu juste trop égoïste pour t'en soucier ?$10",
+"Maddie.MarriageDialogue.Bad_2": "Ca suffit ! Je n'en peux plus ! Tu ne changeras pas !$a#$b#Tu préfère faire passer les autres avant notre couple, n'est-ce pas ?? Incroyable !$a",
+"Maddie.MarriageDialogue.Bad_3": "Tu n'es pas fatigué de tout ça ?^Tu n'es pas fatiguée de tout ça ? J'en ai marre de me battre comme ça tous les jours...$10#$e#Si j'avais su que ce mariage finirait comme ça, je serais restée célibataire.$10",
+"Maddie.MarriageDialogue.Bad_4": "Alors quoi ? Tu vas croire les autres plus que tu me crois moi ??$a#$b#C'est qui ta femme ?!$10#$e#Si on n'a pas confiance en ce mariage, nous pourrions aussi bien arrêter tout de suite !$a",
+"Maddie.MarriageDialogue.Bad_5": "WOW ! C'est un coup bas ! Même pour toi !$a#$b#Tu as beaucoup changé depuis l'époque ou tu me draguais.$10",
+"Maddie.MarriageDialogue.Bad_6": "Je me sens fatiguée @. J'ai envie d'abandonner. $10",
+"Maddie.MarriageDialogue.Bad_7": "C'est quoi mon problème ??$10#$b#Toi ! Tu es mon problème ! J'en ai marre !$a",
+"Maddie.MarriageDialogue.Bad_8": "Avec tout ce que je t'ai dit, et malgré tout ce que je t'ai demandé d'améliorer tu n'as même pas pensé un instant à changer @ ??$a",
+"Maddie.MarriageDialogue.Bad_9": "Peux-tu arrêter ça ???$a#$e# Est ce que tu penses à moi ? A nous ? Ou es-tu juste trop égoïste pour t'en soucier ?$10",
 
 ///Printemps
-"Philip.MarriageDialogue.spring_1": "La saison des semis commence aujourd'hui, n'est-ce pas ?$h#$b#N'oubliez pas de plier les genoux lorsque tu seme des graines, et promet-moi de me le faire savoir si ton dos commence à te déranger.",
-"Philip.MarriageDialogue.spring_12": "La nourriture de demain devrait être délicieuse, et c'est une source incroyable de protéines.#$b#Je sais que je ne cesse de t'embêter à propos de la nutrition, je veux juste m'assurer que tu a de tout ce dont ton corps a besoin.$h",
-"Philip.MarriageDialogue.spring_23": "Pour quelqu'un qui en sait beaucoup sur le mouvement, je suis vraiment nul en danse...$s#$b#Veux-tu danser avec moi demain de toute façon ?$h",
+"Philip.MarriageDialogue.spring_1": "La saison des semis commence aujourd'hui, n'est-ce pas ?$h#$b#N'oublie pas de plier les genoux lorsque tu seme des graines, et promet-moi de me faire savoir si ton dos commence à te déranger.",
+"Philip.MarriageDialogue.spring_12": "La nourriture de demain devrait être délicieuse, et c'est une source incroyable de protéines.#$b#Je sais que je ne cesse de t'embêter à propos de la nutrition, je veux juste m'assurer que ton corps à tout ce qu'il lui faut.$h",
+"Philip.MarriageDialogue.spring_23": "Pour quelqu'un qui en sait beaucoup sur le mouvement, je suis vraiment nul en danse...$s#$b#Veux-tu quand même danser avec moi demain ?$h",
 
 ///L'été
-"Philip.MarriageDialogue.summer_1": "J'ai rempli ta bouteille d'eau et j'en ai mis quelques autres dans une glacière près du champ.#$b#Reste hydraté, d'accord ?$h",
-"Philip.MarriageDialogue.summer_10": "Pouvons-nous apporter un aliment de base pour la soupe demain, comme des pommes de terre ?#$b#Je préférerais vraiment jouer la sécurité...$u",
-"Philip.MarriageDialogue.summer_27": "ve tu faire un pique-nique et manger sur le quai, demain soir ?$h",
+"Philip.MarriageDialogue.summer_1": "J'ai rempli ta bouteille d'eau et j'en ai mis quelques autres dans une glacière près du champ.#$b#Reste hydraté, d'accord ?^Reste hydratée, d'accord ?$h",
+"Philip.MarriageDialogue.summer_10": "On pourrait apporter une base pour la soupe demain, par exemple des pommes de terre ?#$b#Je préférerais vraiment jouer la sécurité...$u",
+"Philip.MarriageDialogue.summer_27": "Ca te tenterais de faire un pique-nique et de manger sur le quai, demain soir ?$h",
 
 ///fall
 "Philip.MarriageDialogue.fall_1": "Prenons du temps pour gravir la crête cet automne !$h#$b#C'est magnifique une fois que les feuilles commencent à changer de couleur.",
 "Philip.MarriageDialogue.fall_15": "Je te parie qu'Alex va à nouveau me défier au jeu de force, même si j'ai gagné l'année dernière.$h",
-"Philip.MarriageDialogue.fall_26": "Je t'aime de tout mon cœur.$h#$b#S'il te plaît, ne me fais pas porter un costume de couple.$s",
+"Philip.MarriageDialogue.fall_26": "Je t'aime de tout mon cœur.$h#$b#S'il te plaît, ne me fais pas porter un déguisement de couple.$s",
 
 ///L'hiver
-"Philip.MarriageDialogue.winter_1": "A tu fait cette chose quand tu etais enfant où vous expiriez par temps froid comme celui-ci et prétendiez que le brouillard était de la fumée ?#$b# J'avais l'habitude de prétendre que j'étais un dragon quand J'étais vraiment petit.$h",
-"Philip.MarriageDialogue.winter_7": "Je suis vraiment content qu'ils libèrent le poisson qu'ils ont pêché pendant le festival au lieu de le manger à tout le monde.$h",
-"Philip.MarriageDialogue.winter_14": "Je n'ai vraiment besoin de rien, mais je suis toujours excité que le marché nocturne soit là.$h",
-//"Philip.MarriageDialogue.winter_15": "Je sais que cela semble idiot, mais écoutez-moi :#$b#Ornements de pelouse en canne à sucre.$h",
-"Philip.MarriageDialogue.winter_16": "Oh mon Yoba.$u#$b#Ils ont les quatre premiers numéros du redémarrage de Night Empress !$h#$b#Où trouvent-ils ce truc ?",
-//"Philip.MarriageDialogue.winter_17": "A tu déjà pris une tasse de café ?#$b#Je sais que la caféine va me tenir éveillé, mais c'est tellement bon.$h",
-"Philip.MarriageDialogue.winter_24": "Bonne fête de l'étoile d'hiver, @.$h#$b#%Philip a l'air étrangement nerveux.#$b#Regarde, je sais que c'est ringard, mais...#$b#Ici .[688]#$b#Alors tu reviens toujours vers moi.$h",
+"Philip.MarriageDialogue.winter_1": "Quand tu étais enfant, toi aussi tu soufflais la vapeur quand il faisait froid en faisant semblant que c'était de la fumée ?#$b# Je faisais semblant d'être un dragon quand j'étais vraiment petit.$h",
+"Philip.MarriageDialogue.winter_7": "Je suis vraiment content qu'ils libèrent le poisson qu'ils ont pêché pendant le festival au lieu de le manger.$h",
+"Philip.MarriageDialogue.winter_14": "Je n'ai vraiment besoin de rien, mais je suis toujours très impatient que le marché nocturne soit là.$h",
+//"Philip.MarriageDialogue.winter_15": "Je sais que ça semble idiot, mais écoute-moi.#$b#Des ornements de pelouse en Canne à sucre.$h",
+"Philip.MarriageDialogue.winter_16": "Oh Yoba.$u#$b#Ils ont les quatre premiers numéros du reboot de l'Impératrice de la Nuit !$h#$b#Où trouvent-ils ce truc ?",
+//"Philip.MarriageDialogue.winter_17": "As tu déjà pris une tasse de café ce matin ?#$b#Je sais que la cafféine va m'empêcher de dormir, mais c'est tellement bon.$h",
+"Philip.MarriageDialogue.winter_24": "Bonne fête de l'Etoile Hivernale, @.$h#$b#%Philip a l'air étrangement nerveux.#$b#Regarde, je sais que c'est ringard, mais...#$b#Tiens.[688]#$b#Pour que tu reviennes toujours vers moi.$h",
 
 ///Chambre
-"Philip.MarriageDialogue.spouseRoom_Philip": "J'avais l'intention de faire un sandwich et de lire des bandes dessinées aujourd'hui.#$b#tu veux te joindre à moi ? J'en ai mis de côté quelques-uns qui pourraient te plaire.$h#$b# Pas de pression!",
+"Philip.MarriageDialogue.spouseRoom_Philip": "J'avais l'intention de faire un sandwich et de lire des bandes dessinées aujourd'hui.#$b#Tu veux te joindre à moi ? J'en ai mis de côté quelques-unes qui pourraient te plaire.$h#$b#Pas de pression!",
 
 ///Patio
-"Philip.MarriageDialogue.patio_Philip": "J'adore ça ici. Je n'ai jamais remarqué à quel point l'air de la ville était encombré jusqu'à ce que j'arrive ici.#$b#À la première heure le matin, l'air est comme une boisson fraîche d'eau pour mes poumons .$h",
+"Philip.MarriageDialogue.patio_Philip": "J'adore être ici. Je n'ai jamais remarqué à quel point l'air de la ville était pollué jusqu'à ce que j'arrive ici.#$b#À la première heure du jour, l'air est comme une boisson fraîche pour mes poumons .$h",
 
 //Jour de pluie
 "Philip.MarriageDialogue.Rainy_Day_0": "%Philip a l'air un peu somnolent#$b#Ce temps me donne envie de retourner me coucher...",
-"Philip.MarriageDialogue.Rainy_Day_1": "Bonjour, mon amour. As-tu bien dormi?",
+"Philip.MarriageDialogue.Rainy_Day_1": "Bonjour, mon amour. As-tu bien dormi ?",
 "Philip.MarriageDialogue.Rainy_Day_2": "Il y a quelque chose de si relaxant dans le bruit de la pluie sur le toit.",
-"Philip.MarriageDialogue.Rainy_Day_3": "Hé mon amour, n'oublie pas ton imperméable aujourd'hui, d'accord?",
-"Philip.MarriageDialogue.Rainy_Day_4": "J'ai des patients à voir aujourd'hui... Je ferais mieux de mettre une paire de gommages supplémentaires dans mon sac.",
-"Philip.MarriageDialogue.Rainy_Day_Philip": "Whoa, il pleut fort.$s#$b#Tu ferais mieux de faire attention si tu comptes sortir, d'accord?",
+"Philip.MarriageDialogue.Rainy_Day_3": "Hé mon amour, n'oublie pas ton imperméable aujourd'hui, d'accord ?",
+"Philip.MarriageDialogue.Rainy_Day_4": "J'ai des patients à voir aujourd'hui... Je ferais mieux de mettre une paire de blouses supplémentaires dans mon sac.",
+"Philip.MarriageDialogue.Rainy_Day_Philip": "Whoa, il pleut fort.$s#$b#Tu ferais mieux de faire attention si tu comptes sortir, d'accord ?",
 
 //Nuit pluvieuse
 "Philip.MarriageDialogue.Rainy_Night_0": "Bienvenue à la maison ! Comment s'est passée ta journée ?$h",
-"Philip.MarriageDialogue.Rainy_Night_1": "Ouf ! Je suis abattu ! Je suis allé voir mes patients malgré la pluie aujourd'hui.",
-"Philip.MarriageDialogue.Rainy_Night_2": "Est-ce que les cultures vont bien avec toute cette pluie?",
-"Philip.MarriageDialogue.Rainy_Night_3": "J'étais sur le point de te faire couler un bain. J'ai le bon timing !$l",
-"Philip.MarriageDialogue.Rainy_Night_4": "C'est un peu ringard, mais comment ça sonne un chocolat chaud et un feu ?$l",
-"Philip.MarriageDialogue.Rainy_Night_5": "Une pluie comme celle-ci fait mal aux articulations de certaines personnes. Je suis content de n'avoir jamais vécu ça.$h",
-"Philip.MarriageDialogue.Rainy_Night_Philip": "Je t'ai réchauffé une serviette, si tu veux te sécher les cheveux.$h",
+"Philip.MarriageDialogue.Rainy_Night_1": "Pfiou ! Je suis épuisé ! Je suis allé voir mes patients malgré la pluie aujourd'hui.",
+"Philip.MarriageDialogue.Rainy_Night_2": "Est-ce que les cultures vont bien avec toute cette pluie ?",
+"Philip.MarriageDialogue.Rainy_Night_3": "J'étais sur le point de te faire couler un bain. Quel timing !$l",
+"Philip.MarriageDialogue.Rainy_Night_4": "C'est un peu ringard, mais ça te tente un chocolat chaud au coin du feu ?$l",
+"Philip.MarriageDialogue.Rainy_Night_5": "Une pluie comme celle-ci fait mal aux articulations pour certaines personnes. Je suis content de n'avoir jamais vécu ça.$h",
+"Philip.MarriageDialogue.Rainy_Night_Philip": "Je t'ai chauffé une serviette, si tu veux te sécher les cheveux.$h",
 
 //Journée intérieure
-"Philip.MarriageDialogue.Indoor_Day_0": "Je prépare un autre pot de café.$h#$b#Tu veux un thermos de voyage ?",
+"Philip.MarriageDialogue.Indoor_Day_0": "Je prépare une autre caffetière.$h#$b#Tu veux emporter un thermos ?",
 "Philip.MarriageDialogue.Indoor_Day_1": "J'ai fait des flocons d'avoine hier soir. Les tiens sont dans le réfrigérateur.",
 "Philip.MarriageDialogue.Indoor_Day_2": "Que penses-tu de l'achat d'une machine à expresso ?#$b#J'ai du mal à me réveiller.$s",
-"Philip.MarriageDialogue.Indoor_Day_3": "Je pense que je vais passer une journée calme. tu est invités à me rejoindre.$l",
-"Philip.MarriageDialogue.Indoor_Day_4": "J'ai trouvé un studio de bande dessinée de niche incroyable basé à Zuzu et j'ai commandé leur premier livre de compilation.#$b#Il devrait arriver aujourd'hui !$h",
-"Philip.MarriageDialogue.Indoor_Day_Philip": "Ooh, ne m'embrasse pas, je ne me suis pas brossé les dents.$u#$b#Mais Je vais te faire un câlin ! $l",
+"Philip.MarriageDialogue.Indoor_Day_3": "Je pense que je vais passer une journée calme. Tu es invité à te joindre à moi.^Tu es invitée à te joindre à moi.$l",
+"Philip.MarriageDialogue.Indoor_Day_4": "J'ai trouvé un studio de bande dessinée de niche incroyable basé à Zuzu Ville et j'ai commandé leur première compilation.#$b#Elle devrait arriver aujourd'hui !$h",
+"Philip.MarriageDialogue.Indoor_Day_Philip": "Ooh, ne m'embrasse pas, je ne me suis pas brossé les dents.$u#$b#Mais je vais te faire un câlin !$l",
 
 //Nuit Intérieur
-"Philip.MarriageDialogue.Indoor_Night_0": "Bienvenue à la maison. A tu passé une bonne journée ?",
-"Philip.MarriageDialogue.Indoor_Night_1": "J'ai préparé le dîner, chaque fois que tu est prêt à manger.",
-"Philip.MarriageDialogue.Indoor_Night_2": "Je me suis arrêté pour discuter avec Lewis aujourd'hui.#$b#Je m'attendais à ce qu'il demande de l'aide pour quelque chose, mais il voulait juste rattraper son retard.",
-"Philip.MarriageDialogue.Indoor_Night_3": "Tu sais, je suis vraiment content d'avoir cette maison avec toi.$h",
-"Philip.MarriageDialogue.Indoor_Night_4": "D'accord, écoute moi : marathon de films ce week-end ?$l",
-"Philip.MarriageDialogue.Indoor_Night_Philip": "Bienvenue à la maison, mon amour. J'avais des restes pour le dîner, mais il y en a encore dans le réfrigérateur.",
+"Philip.MarriageDialogue.Indoor_Night_0": "Bienvenue à la maison. As tu passé une bonne journée ?",
+"Philip.MarriageDialogue.Indoor_Night_1": "J'ai préparé le dîner, on peut se mettre à table quand tu seras prêt.^J'ai préparé le dîner, on peut se mettre à table quand tu seras prête.",
+"Philip.MarriageDialogue.Indoor_Night_2": "Je me suis arrêté pour discuter avec Lewis aujourd'hui.#$b#Je m'attendais à ce qu'il demande de l'aide pour quelque chose, mais il voulait juste prendre des nouvelles.",
+"Philip.MarriageDialogue.Indoor_Night_3": "Tu sais, je suis vraiment content de partager cette maison avec toi.$h",
+"Philip.MarriageDialogue.Indoor_Night_4": "Ok, j'ai une proposition: marathon de films ce week-end ?$l",
+"Philip.MarriageDialogue.Indoor_Night_Philip": "Bienvenue à la maison, mon amour. J'ai mangé des restes pour le dîner, mais il y en a encore dans le réfrigérateur.",
 
 //En plein air
-"Philip.MarriageDialogue.Outdoor_0": "Je vais aller courir.#$b#Je sais que tu es occupé aujourd'hui, mais dis-moi si jamais tu veux me rejoindre.",
-"Philip.MarriageDialogue.Outdoor_1": "Je n'ai aucun client aujourd'hui.#$b#A tu besoin d'aide à la ferme ?",
-"Philip.MarriageDialogue.Outdoor_2": "Je vais couper du bois de chauffage.#$b#Je pense que je pourrais aussi bien me rendre utile ici pour une fois, haha.$h",
-"Philip.MarriageDialogue.Outdoor_3": "C'est tellement de terres à gérer, et tu l'as fait tout seul pendant si longtemps.#$b#Tu es incroyable, mon amour.$l",
-"Philip.MarriageDialogue.Outdoor_4" : "Est-ce que tu a beaucoup grimpé aux arbres quand yu etais enfant ? Parfois, j'ai une étrange envie de voir si j'ai toujours les compétences... mais les enfants sont beaucoup plus résistants que les adultes, et je ne le ferais pas.je veux pas prendre le risque.#$b#Peut-être que je deviens juste ennuyeux...$s",
+"Philip.MarriageDialogue.Outdoor_0": "Je vais aller courir.#$b#Je sais que tu as du travail aujourd'hui, mais dis-moi si jamais tu veux te joindre à moi.",
+"Philip.MarriageDialogue.Outdoor_1": "Je n'ai pas de client aujourd'hui.#$b#As tu besoin d'aide à la ferme ?",
+"Philip.MarriageDialogue.Outdoor_2": "Je vais couper du bois de chauffage.#$b#Je me suis dit, autant me rendre utile pour une fois, haha.$h",
+"Philip.MarriageDialogue.Outdoor_3": "C'est tellement de terrain à gérer, et tu l'as fait tout seul pendant si longtemps.^C'est tellement de terrain à gérer, et tu l'as fait toute seule pendant si longtemps.#$b#Tu es incroyable, mon amour.$l",
+"Philip.MarriageDialogue.Outdoor_4": "Est-ce que tu as beaucoup grimpé aux arbres quand tu etais enfant ? Bizarrement, parfois j'ai envie de voir si j'y arriverais toujours... Mais les enfants sont beaucoup plus résistants que les adultes, et je ne veux pas prendre le risque.#$b#Peut-être que je deviens juste ennuyeux...$s",
 
 //Sortie
-"Philip.MarriageDialogue.funLeave_Philip": "Je vais faire un petit jogging jusqu'à l'hôtel et utiliser la salle de gym avant les rendez-vous d'aujourd'hui.#$b#Je serai probablement de retour tard, alors ne m'attend pas. Je t'aime.$h",
+"Philip.MarriageDialogue.funLeave_Philip": "Je vais faire un petit jogging jusqu'à l'hôtel et utiliser la salle de gym avant mes rendez-vous d'aujourd'hui.#$b#Je serai probablement de retour tard, alors ne m'attend pas. Je t'aime.$h",
 
 //Retour
-"Philip.MarriageDialogue.funReturn_Philip": "Je suis de retour après une journée à sauver la terre une fois de plus ! Ou, au moins, à sauver quelqu'un d'un malaise supplémentaire.$h#$b#Cela compte, non ?",
+"Philip.MarriageDialogue.funReturn_Philip": "Je suis de retour après une journée à sauver la terre une fois de plus ! Ou, au moins, à sauver quelqu'un d'un malaise supplémentaire.$h#$b#Ca compte, non ?",
 
 //Un enfant
-"Philip.MarriageDialogue.OneKid_0": "A tu vu %kid1 se réveiller d'une sieste et faire exactement le même étirement que toi ?#$b#C'est vraiment mignon !$h",
-"Philip.MarriageDialogue.OneKid_1": "Ai-je encore du marqueur sur mon visage ?$u#$b#Je me suis assoupi pendant une seconde et %kid1 m'a relooké.$h",
-"Philip.MarriageDialogue.OneKid_2": "Cela semble toujours assez surréaliste, parfois. Genre, me voici, avec toi, et nous avons une famille ensemble.$l#$b#C'est plutôt bien.$h",
-"Philip.MarriageDialogue.OneKid_3": "Je pensais emmener %kid1 acheter des figurines pour que les miennes restent intouché.$h",
+"Philip.MarriageDialogue.OneKid_0": "As tu vu %kid1 se réveiller d'une sieste et faire exactement le même étirement que toi ?#$b#C'est vraiment mignon !$h",
+"Philip.MarriageDialogue.OneKid_1": "Ai-je encore du marqueur sur le visage ?$u#$b#Je me suis assoupi pendant une seconde et %kid1 m'a relooké.$h",
+"Philip.MarriageDialogue.OneKid_2": "Cela semble parfois encore assez surréaliste. Genre, je suis ici avec toi, et nous avons une famille ensemble.$l#$b#C'est plutôt bien.$h",
+"Philip.MarriageDialogue.OneKid_3": "Je pensais emmener %kid1 acheter des figurines pour qu'il ne touche pas aux miennes.$h",
 
 //Deux enfants
-"Philip.MarriageDialogue.TwoKids_0": "Parfois, %kid1 et %kid2 sont les meilleurs amis, et parfois ils sont des ennemis jurés.#$b#Je suppose que c'est comme ça que ça se passe avec les frères et sœurs.",
-"Philip.MarriageDialogue.TwoKids_1": "Evelyn m'a demandé l'autre jour si %kid2 était jaloux de %kid1. Je ne savais pas.#$b#Mais j'ai demandé à %kid2 ce qu'ils pensaient et ils ont commencé à me demander si mes bandes dessinées étaient à gagner, donc je suppose que non.$h",
-"Philip.MarriageDialogue.TwoKids_2": "Je pensais que les enfants pourraient vraiment aimer la série Force Rangers, mais c'est peut-être encore un peu vieux pour %kid2.#$b#Qu'en pense tu ?",
+"Philip.MarriageDialogue.TwoKids_0": "Parfois, %kid1 et %kid2 sont les meilleurs amis du monde, et parfois ce sont des ennemis jurés.#$b#Je suppose que c'est comme ça que ça se passe entre frères et sœurs.",
+"Philip.MarriageDialogue.TwoKids_1": "Evelyn m'a demandé l'autre jour si %kid2 était jaloux de %kid1. Je ne savais pas quoi répondre.#$b#Quand j'ai demandé à %kid2, il m'a demandé s'il pouvait lire mes bandes dessinées au lieu de répondre, donc je pense que ça va.$h",
+"Philip.MarriageDialogue.TwoKids_2": "Je pensais que les enfants pouvaient vraiment aimer la série Force Rangers, mais c'est peut-être un peu vieux pour %kid2.#$b#Qu'en penses tu ?",
 "Philip.MarriageDialogue.TwoKids_3": "Un jour, ils voudront manger autre chose que des pâtes nature et des barres aux fruits.$h#$b#Un jour. Mais pas aujourd'hui.",
 
 //Dépend de la relation
