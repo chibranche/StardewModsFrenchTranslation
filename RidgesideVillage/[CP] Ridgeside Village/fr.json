@@ -1580,10 +1580,10 @@
 "event-75160086.02": "Cela fait longtemps que personne n'a vécu dans la vieille ferme %farm $h#$b# Elle appartenait à un bon ami à moi, alors j'espère que tu en prendras bien soin.#$b#Un bon ami, c'est ça...$s",
 "event-75160086.03": "Laisse-moi te montrer la ville lors d'une visite rapide.$h#$b# Boucle ta ceinture, c'est parti !",
 "event-75160086.04": "Tout d'abord, nous avons l'Hotel Cabane en Rondins. C'est un endroit idéal pour se détendre après une longue randonnée à travers les montagnes.$h#$b#Il dispose d'un balcon privé pour les événements, et même d'une salle de sport au troisième étage si tu n'es toujours pas épuisé après ta randonnée !$h",
-"event-75160086.05": "C'est ici la place de la ville. C'est le cœur battant du village.$h#$b#Les gens aiment traîner ici et socialiser avec d'autres villageois, si le temps le permet.",
+"event-75160086.05": "Ici c'est la place de la ville. C'est le cœur battant du village.$h#$b#Les gens aiment traîner ici et socialiser avec d'autres villageois, si la météo le permet.",
 "event-75160086.06": "En haut de ces escaliers, c'est là que la magie opère. C'est mon bureau.#$b#Il est fait de bois, de briques et de paperasse !$h#$b#Je rends parfois visite à Lewis pour les tâches municipales ou, tu sais , juste pour le taquiner parce qu'il se prend trop au sérieux.#$b#C'est le droit que m'a donné Yoba en tant que sœur !$h",
-"event-75160086.07" : "Tu sens cette odeur  ? C'est chez Pika ! La plaque tournante culinaire de Ridgeside.$h#$b#J'aime les plats qu'il sert et j'adore l'atmosphère !#$b#Et je ne parle même pas de la vue ! Ne baisse pas les yeux. Si tu le fais, ça n'est pas ma faute si tu commence à avoir le vertige !$h",
-"event-75160086.08": "Rince toi les yeux sur la scène Starbound. Robin et Clint nous ont aidés à construire cette scène pour les fêtes et les activités.$4#$b#Elle n'a pas beaucoup servi ces derniers temps. C'est dommage, à vrai dire .#$b#Le moral des habitants n'a pas été très bon ces derniers temps. Il y a des rumeurs qui circulent dans la ville à propos de fruits dangereux et de fantômes effrayants.$s#$b#Je peux t'assurer que ce ne sont que des rumeurs !$h#$b#Le seul fruit dangereux ce sont les citrouilles pendant la fête des Esprits !$h",
+"event-75160086.07" : "Tu sens cette odeur ? C'est chez Pika ! La plaque tournante culinaire de Ridgeside.$h#$b#J'aime les plats qu'il sert et j'adore l'atmosphère !#$b#Et je ne parle même pas de la vue ! Ne baisse pas les yeux. Si tu le fais, ça n'est pas ma faute si tu commence à avoir le vertige !$h",
+"event-75160086.08": "Rince toi les yeux avec la scène Starbound. Robin et Clint nous ont aidés à construire cette scène pour les fêtes et les activités.$4#$b#Elle n'a pas beaucoup servi ces derniers temps. C'est dommage, à vrai dire .#$b#Le moral des habitants n'a pas été très bon ces derniers temps. Il y a des rumeurs qui circulent dans la ville à propos de fruits dangereux et de fantômes effrayants.$s#$b#Je peux t'assurer que ce ne sont que des rumeurs !$h#$b#Les seuls fruits dangereux ce sont les citrouilles pendant la fête des Esprits !$h",
 "event-75160086.09": "Il y a plusieurs autres agriculteurs qui vivent dans le village.#$b#La ferme de Jeric, la Ferme Colline Fleurie, est située dans le nord-ouest. C'est une personne très amusante, et il vend des produits agricoles utiles.$h#$b#Nous avons aussi le Verger des Rossignols dans le sud-ouest, géré par les Lidens et leur nièce, Alissa.#$b#Alissa est une douce jeune femme avec une voix merveilleuse !$h#$b#Mais elle n'a pas assez confiance en elle pour se produire en public, malheureusement.$s#$b#Peut-être que quelqu'un de spécial pourrait l'aider à se rendre compte de son talent.$h",
 "event-75160086.10": "Et notre visite touche à sa fin. Je te souhaite chaleureusement la bienvenue dans la vallée, @, et une bienvenue encore plus chaleureuse au village de Ridgeside !$h",
 
@@ -2653,7 +2653,7 @@
 "NPC.MapLocations.PelicanCableCarName": "Téléphérique - Pelican Ville",
 "NPC.MapLocations.RidgesideCableCarName": "Téléphérique - Ridgeside",
 "NPC.MapLocations.HikeName": "La randonnée",
-"NPC.MapLocations.BloomingHillName": "Ferme Blooming Hill",
+"NPC.MapLocations.BloomingHillName": "Ferme Colline Fleurie",
 "NPC.MapLocations.NightingaleName": "Verger des Rossignols",
 
 //MapsString
@@ -2706,7 +2706,7 @@
 "MapString.rsv.32": "Bien, bien, bien.#C'est un puits.",
 "MapString.rsv.33": "Résidence Akina#Pika et Keahi vivent ici.",
 "MapString.rsv.34": "Je suis presque sûr d'avoir vu ce cheval entrer dans le Saloon Stardrop.",
-"MapString.rsv.35": "Boutique de Jeric#Ferme Blooming Hill",
+"MapString.rsv.35": "Boutique de Jeric#Ferme Colline Fleurie",
 "MapString.rsv.36": "Un établi usé#Jeric est bien occupé.",
 "MapString.rsv.37": "Une vieille moto.#On dirait que Jeric y travaille.",
 "MapString.rsv.38": "Ce poulet est libre du joug de la société.",
@@ -5592,7 +5592,7 @@
 
 // Coeurs
 "Keahi.Dialogue.Mon4": "Vincent et Jas m'ont montré un petit secret avec des oignons nouveaux l'autre jour !$u#$b#Si tu es vraiment très ami avec eux, ils te le montrerons peut-être aussi !^Si tu es vraiment très amie avec eux, ils te le montrerons peut-être aussi !$h ",
-"Keahi.Dialogue.Tue4": "Trinnie dit qu'elle peut me battre dans une course de Blooming Hill jusqu'au Verger Rossignol.#$e#J'aimerais la voir essayer, ha ha !$h",
+"Keahi.Dialogue.Tue4": "Trinnie dit qu'elle peut me battre dans une course de la ferme Colline Fleurie jusqu'au Verger Rossignol.#$e#J'aimerais la voir essayer, ha ha !$h",
 "Keahi.Dialogue.Wed4": "Nous avons trouvé une statue étrange dans la forêt Sève-Cendreuse.#$b#Elle ressemblait à une poupée effrayante.$u#$b#Je voulais la ramener à la maison, mais elle était trop grande.$s",
 "Keahi.Dialogue.Thu4": "Salut, @ !#$e#Est ce qu'on peut jouer dans ta ferme aujourd'hui ?$h",
 "Keahi.Dialogue.Fri4": "Est-ce que l'agriculture est difficile ? Peut-être que je peux être un agriculteur aussi.#$e#Peut-être que Jeric ou Alissa seront mes ouvriers agricoles !$h",
@@ -7712,7 +7712,7 @@
 "Maddie.MarriageDialogue.Rainy_Day_1": "Hé toi ! N'oublie pas ta veste d'accord ?#$b#Je ne veux pas que tu tombes malade.$a",
 "Maddie.MarriageDialogue.Rainy_Day_2": "Que veux tu que je commande chez Pika ce soir ?#$b#Je peux tolérer n'importe quelle soupe qui te plaira, mais pas la Soupe de palourdes s'il te plait.$6",
 "Maddie.MarriageDialogue.Rainy_Day_3": "Hé mon amour, peux-tu me faire un gros câlin avant d'aller travailler ?$l",
-"Maddie.MarriageDialogue.Rainy_Day_4": "As tu décidé de ce que tu aimerais manger tout à l'heure ?#$b#Je pense que je peux passer à la Ferme Blooming Hill avant de rentrer à la maison.",
+"Maddie.MarriageDialogue.Rainy_Day_4": "As tu décidé de ce que tu aimerais manger tout à l'heure ?#$b#Je pense que je peux passer à la Ferme Colline Fleurie avant de rentrer à la maison.",
 "Maddie.MarriageDialogue.Rainy_Day_Maddie": "Bébé, peux-tu me préparer un chocolat chaud. J'ai froid brr...$l",
 
 ///Nuit pluvieuse
@@ -7729,7 +7729,7 @@
 "Maddie.MarriageDialogue.Indoor_Day_1": "Hé bébé, Tu as bonne mine on dirait ? Tu as fait du sport récemment ?$6",
 "Maddie.MarriageDialogue.Indoor_Day_2": "Bonjour @ ! Comment s'est passé ta nuit ?#$e#Tu as révé de ta maîtresse ?$6#$b#Haha je blague ! Je te taquines !$h",
 "Maddie.MarriageDialogue.Indoor_Day_3": "Oh mon Dieu ! C'est une si belle matinée. Ne la gâche pas avec une phrase de drague ringarde !$6#$e#Un petit-déjeuner au lit aurait été encore mieux, haha ! Je plaisante !$h#$b#Je t'aime, mon petit grain de folie.$l",
-"Maddie.MarriageDialogue.Indoor_Day_4": "OOOOHH Bébé pourquoi ne cultiverions-nous pas nos propres fraises dans le jardin ?$9#$b#J'ai envie de fraises ces derniers temps.$l#$e#Hmm, peut-être que je vais essayer d'en acheter à la Ferme Blooming Hill.",
+"Maddie.MarriageDialogue.Indoor_Day_4": "OOOOHH Bébé pourquoi ne cultiverions-nous pas nos propres fraises dans le jardin ?$9#$b#J'ai envie de fraises ces derniers temps.$l#$e#Hmm, peut-être que je vais essayer d'en acheter à la Ferme Colline Fleurie.",
 "Maddie.MarriageDialogue.Indoor_Day_Maddie": "Un autre jour, une autre mission pour nous !$h#$e#Passe une bonne journée ! Rends moi fière petit champion !^Rends moi fière championne !$h",
 
 //Nuit Intérieur
@@ -8153,7 +8153,7 @@
 
 ///Neutre
 "Ysabelle.MarriageDialogue.Neutral_0": "J'ai travaillé pour réussir la routine Black Swan et je suis tellement frustrée parce qu'il semble que je ne peux pas contrôler mes pirouettes. $6",
-"Ysabelle.MarriageDialogue.Neutral_1": "Mon amour, peux-tu passer par Blooming Hill avant de rentrer chez toi plus tard et vérifier s'ils ont des graines de fraises disponibles ?#$b# J'en ai envie ces derniers temps et je pense qu'il est plus intelligent de les cultiver que de continuer d'en acheter ailleurs, haha.$h",
+"Ysabelle.MarriageDialogue.Neutral_1": "Mon amour, peux-tu passer par la ferme Colline Fleurie avant de rentrer chez toi plus tard et vérifier s'ils ont des graines de fraises disponibles ?#$b# J'en ai envie ces derniers temps et je pense qu'il est plus intelligent de les cultiver que de continuer d'en acheter ailleurs, haha.$h",
 "Ysabelle.MarriageDialogue.Neutral_2": "Oh mon Dieu, mon grand-père a besoin que j'aille à l'hôtel tout de suite.$u#$b#Il a des problèmes avec un invité plutôt belliqueux.$a",
 "Ysabelle.MarriageDialogue.Neutral_3": "Si tu en as l'occasion @, aimerais tu voir une petite danse que j'ai chorégraphiée ?$l#$b#Je ne suis pas encore sûr du titre.$6",
 "Ysabelle.MarriageDialogue.Neutral_4": "%Ysabelle marmonne et se tord les mains, comme si elle dansait avec ses doigts. On dirait qu'elle répète une routine dans sa tête.",
