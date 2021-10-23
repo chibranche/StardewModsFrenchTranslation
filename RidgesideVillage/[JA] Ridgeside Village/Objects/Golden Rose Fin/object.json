@@ -1,0 +1,45 @@
+{
+	"Name": "Golden Rose Fin",
+	"Description": "A small fish with wide yet thin fins. As it swims across the water, the movement of its wide and long fins make it look like it's dancing as it twirls and moves along.",
+	"Category": "Fish",
+	"Edibility": 10,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 800,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Ysabelle"],
+	},
+
+    "NameLocalization":
+    { 
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        "fr": "Aileron de la Rose d'Or",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    },
+    "DescriptionLocalization":
+    {
+    	//remove the "//" from your language    	
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        "fr": "Un petit poisson avec des nageoires larges mais fines. Lorsqu'il nage dans l'eau, le mouvement de ses nageoires larges et longues lui donne l'impression de danser en tournant et en se déplaçant.",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    }
+}
