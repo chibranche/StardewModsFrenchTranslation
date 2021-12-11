@@ -10284,7 +10284,6 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 "Faye.Dialogue.ClothingTherapy": "Did you hear about Emily's clothing therapy? What a great idea. Of course, I had to help her make some clothes for it!$h#$b#I really hope someone tried the beret.",
 
-
 //IRENE DIALOGUE (mamaesh, again you the QUEEN)
 "keahiprank.Irene": "What's that smell?$a#$b#Get out of my kitchen before you infect the other dishes!$a",
 
@@ -10836,9 +10835,6 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 "keahiprank.Sean": "Bahaha! Oh, he got you good.$h",
 
 //Introduction
-"keahiprank.Sean": "Bahaha! Oh, he got you good.$h",
-
-//Introduction
 "Sean.Dialogue.Introduction": "Oh, hey, you're a new face!$h#$b#I'm pretty new to town myself. My name's Sean, let's hang out sometime.",
 
 //Spring
@@ -10921,9 +10917,6 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 //SHANICE DIALOGUE
 "keahiprank.Shanice": "Dear? I think you’ve stepped in something stinky.$s#$b#Check your shoes, okay?$s",
-
-//Introduction
-"keahiprank.Shanice": "Dear? I think you've stepped in something stinky.$s#$b#Check your shoes, okay?$s",
 
 //Introduction
 "Shanice.Dialogue.Introduction": "Why hello! I heard that the new farmer is moving in today.#$b#My name's Shanice. My husband and I manage the small general store of Ridgeside.$h#$b#It's lovely to meet you, @.$h",
@@ -12140,7 +12133,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 "RSV.Map.Text.VillageOffice": "Village Office",
 "RSV.Map.Text.Clinic": "Ridgeside Clinic\nOpen 8:00AM to 5:00PM",
 "RSV.Map.Text.Kobayashi": "Kobayashi Residence",
-"RSV.Map.Text.Amethyne": "Amethyne Residence	",
+"RSV.Map.Text.Amethyne": "Amethyne Residence",
 "RSV.Map.Text.Yojeong": "Ahn Yojeong Faye's Residence and Clothing Shop",
 "RSV.Map.Text.Akina": "Akina Residence",
 "RSV.Map.Text.Rivera": "Rivera Residence",
@@ -12416,5 +12409,4 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 "Offering.Frost.1": "Ah! The legendary stone of the winter!$h#$b#This once belonged to the spirit of blizzards and snow.#$b#But it made his power a bit too cold that it brought sadness to the humans in the village that he established a connection with.$s#$b#It's just a piece of once a powerful artifact, though it's still powerful.#$b#Its cold aura prevents dreaded Wraiths from approaching you, so it may be useful for you.#$b#So here you go!$h",
 "Offering.Music.1": "Meladila's box! It's here in the village!?$u#$b#Well that's a surprise!$h#$b#This relic was one of the harmony spirit's favorite toy!$h#$b#Its music seem to prevent those hideous Viperials from ever coming near you.#$b#So I'll be returning this to you, I hope this can be of some use.$h",
 "Offering.Hero.1": "Oh! Isn't this Cyril's statue?$h#$b#He was once a brave adventurer who saved this village from a hoard of Serpentine Beasts.#$b#In his final days, he was the one who also thought your grandmother to fight.#$b#This statue commemorates his memory, though some mysterious flash of light seemed to wipe out the memories of the locals about this.$s#$b#So his stories of heroism are now lost.$s#$b#I'm surprised you found this relic though.$h#$b#It wards off any Serpentine Beast in the forest.#$b#So I'll be returning this back to you.$h",
-
 }
