@@ -1,0 +1,13 @@
+{
+  "Name": "Pluot cerise",
+  "Description": "Un mélange sucré de prune et d'abricot, hybridé avec une varieté étrangère de cerise.",
+  "Category": "Fruit",
+  "Edibility": 18,
+  "Price": 150,
+  "IsColored": false,
+  "GiftTastes":
+  {
+  "Love": ["Blair", "Alissa", "Jeric", "Ariah"],
+  "Like": ["Sam", "Sebastian", "Vincent"],
+  },
+}

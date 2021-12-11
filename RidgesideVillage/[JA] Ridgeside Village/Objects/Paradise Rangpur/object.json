@@ -1,0 +1,14 @@
+{
+  "Name": "Rangpur paradis",
+  "Description": "Comme son nom l'indique, une fois que vous l'aurez goûté, il vous emmènera au paradis avec son goût de citron vert intensément aigre et fumé ! Parfait pour les mets raffinés.",
+  "Category": "Fruit",
+  "Edibility": 16,
+  "Price": 120,
+  "IsColored": false,
+  "GiftTastes":
+  {
+  "Love": ["Yuuma", "Lenny", "Marnie"],
+  "Like": ["Willy", "Lola", "Robin"],
+  "Hate": ["Ariah"]
+  },
+}

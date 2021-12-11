@@ -1,0 +1,13 @@
+{
+  "Name": "Tangelo du desert",
+  "Description": "Un hybride sans graines de la mandarine et du pamplemousse, qui semble avoir trop pris le soleil.",
+  "Category": "Fruit",
+  "Edibility": 22,
+  "Price": 165,
+  "IsColored": false,
+  "GiftTastes":
+  {
+  "Love": ["Zayne", "Paula", "Kiarra"],
+  "Like": ["Faye", "Bryle", "Sean"],
+  },
+}
