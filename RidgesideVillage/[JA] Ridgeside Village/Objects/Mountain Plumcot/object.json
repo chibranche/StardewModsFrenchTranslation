@@ -1,0 +1,13 @@
+{
+  "Name": "Prunicot des montagnes",
+  "Description": "Un mélange parfaitement homogène de prune et d'abricot que l'on ne trouve que dans les montagnes des continents orientaux. Certains les qualifient de fruits à noyau.",
+  "Category": "Fruit",
+  "Edibility": 15,
+  "Price": 130,
+  "IsColored": false,
+  "GiftTastes":
+  {
+  "Love": ["Kenneth", "Ariah", "Jodi"],
+  "Like": ["Flor", "Trinnie", "Gus"],
+  },
+}

@@ -1,0 +1,13 @@
+{
+  "Name": "Limequat Nordique",
+  "Description": "On le substitue souvent au citron ou au citron vert, mais ne sous-estimez pas ce fruit originaire du nord ! En raison de l'altitude élevée de son habitat naturel, il est parfait pour équilibrer les recettes sucrées.",
+  "Category": "Fruit",
+  "Edibility": 14,
+  "Price": 190,
+  "IsColored": false,
+  "GiftTastes":
+  {
+  "Love": ["Pika", "Maddie", "Leah"],
+  "Like": ["Sam", "Caroline", "Bert"],
+  },
+}

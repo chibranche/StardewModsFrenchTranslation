@@ -1,0 +1,13 @@
+{
+  "Name": "Casseille des hauts plateaux",
+  "Description": "Imaginez la fusion d'un cassis et d'une groseille. Cette variante à évolué pour pousser dans les arbres, on en trouve maintenant souvent dans les climats froids.",
+  "Category": "Fruit",
+  "Edibility": 14,
+  "Price": 170,
+  "IsColored": false,
+  "GiftTastes":
+  {
+  "Love": ["Irene", "Philip", "Harvey", "Ariah"],
+  "Like": ["Maru", "Bliss", "George"],
+  },
+}

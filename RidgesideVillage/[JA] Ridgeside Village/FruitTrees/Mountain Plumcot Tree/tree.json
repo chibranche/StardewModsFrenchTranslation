@@ -1,0 +1,8 @@
+{
+  "Name": "Prunicotier des montagnes",
+  "Product": "Prunecot des montagnes",
+  "SaplingName": "Jeune pousse de prunicotier des montagnes",
+  "SaplingDescription": "Il faut 28 jours pour produire un Prunicotier des montagnes mature. Porte des fruits au printemps. Ne se développe que si les 8 'carreaux' environnants sont vides.",
+  "Season": "spring",
+  "SaplingPurchasePrice": 5000,
+}

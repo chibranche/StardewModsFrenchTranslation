@@ -1,0 +1,8 @@
+{
+  "Name": "Casseillier des hauts plateaux",
+  "Product": "Casseille des hauts plateaux",
+  "SaplingName": "Jeune pousse de casseillier des hauts plateaux",
+  "SaplingDescription": "Il faut 28 jours pour produire un Casseillier des hauts plateaux mature. Porte des fruits à l'automne. Ne se développe que si les 8 'carreaux' environnants sont vides.",
+  "Season": "fall",
+  "SaplingPurchasePrice": 6000,
+}

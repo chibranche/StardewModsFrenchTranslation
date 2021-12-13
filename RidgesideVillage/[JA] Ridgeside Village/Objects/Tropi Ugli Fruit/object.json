@@ -1,0 +1,13 @@
+{
+  "Name": "Fruit Tropi Ugli",
+  "Description": "Ne vous laissez pas tromper par son nom, c'est un fruit magnifique et savoureux, à la fois sucré et acidulé, avec un soupçon de piquant. Il faut absolument l'essayer ! N'est-ce pas une beauté ?",
+  "Category": "Fruit",
+  "Edibility": 23,
+  "Price": 170,
+  "IsColored": false,
+  "GiftTastes":
+  {
+  "Love": ["Richard", "Ysabelle", "Pierre"],
+  "Like": ["Sebastian", "Demetrius", "Lewis"],
+  },
+}

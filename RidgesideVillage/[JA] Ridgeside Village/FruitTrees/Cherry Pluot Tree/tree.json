@@ -1,0 +1,8 @@
+{
+  "Name": "Plutier cerise",
+  "Product": "Pluot cerise",
+  "SaplingName": "Jeune plutier cerise",
+  "SaplingDescription": "Il faut 28 jours pour produire un plutier cerise mature. Porte des fruits au printemps. Ne se développe que si les 8 'carreaux' environnants sont vides.",
+  "Season": "spring",
+  "SaplingPurchasePrice": 6000,
+}
