@@ -20,36 +20,36 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 "RSVG.No": "Pas encore.",
 
 //-----------------
-//Noms d'affichage des PNJ
+//NPC Display Names
 //-----------------
 
-"Nom.Aguar": "M. Aguar",
-"Nom.Alissa": "Alissa",
-"Nom.Bert": "Bert",
-"Nom.Corine": "Corine",
-"Nom.Ezechiel": "Ézéchiel",
-"Nom.Flor": "Flor",
-"Nom.Freddie": "Freddie",
-"Nom.Ian": "Ian",
-"Nom.Jeric": "Jeric",
-"Nom.Jio": "Jio",
-"Nom.Keahi": "Keahi",
-"Nom.Kenneth": "Kenneth",
-"Nom.Kiwi": "Kiwi",
-"Nom.Lenny": "Lenny",
-"Nom.Lola": "Lola",
-"Nom.Maddie": "Maddie",
-"Nom.Olga": "Olga",
-"Nom.Philip": "Philip",
-"Nom.Pika": "Pika",
-"Nom.Richard": "Richard",
-"Nom.Shiro": "Shiro",
-"Nom.Trinnie": "Trinnie",
-"Nom.Ysabelle": "Ysabelle",
-"Nom.Yuuma": "Yuuma",
+"Name.Aguar": "Mr. Aguar",
+"Name.Alissa": "Alissa",
+"Name.Bert": "Bert",
+"Name.Corine": "Corine",
+"Name.Ezekiel": "Ezekiel",
+"Name.Flor": "Flor",
+"Name.Freddie": "Freddie",
+"Name.Ian": "Ian",
+"Name.Jeric": "Jeric",
+"Name.Jio": "Jio",
+"Name.Keahi": "Keahi",
+"Name.Kenneth": "Kenneth",
+"Name.Kiwi": "Kiwi",
+"Name.Lenny": "Lenny",
+"Name.Lola": "Lola",
+"Name.Maddie": "Maddie",
+"Name.Olga": "Olga",
+"Name.Philip": "Philip",
+"Name.Pika": "Pika",
+"Name.Richard": "Richard",
+"Name.Shiro": "Shiro",
+"Name.Trinnie": "Trinnie",
+"Name.Ysabelle": "Ysabelle",
+"Name.Yuuma": "Yuuma",
 
-"Nom.Undreya": "Undreya",
-"Nom.Hélène": "Helen",
+"Name.Undreya": "Undreya",
+"Name.Helen": "Helen",
 
 "Name.Daia": "Daia",
 "Name.Belinda": "Belinda",
@@ -79,30 +79,54 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 "Name.Sonny": "Sonny",
 "Name.Zayne": "Zayne",
 
-// Données PNJ
-"NPC_Data.Alissa": "Kimpoi 'père' Malaya 'mère' Bert 'oncle' Olga 'tante' Trinnie 'cousine_Trinnie'",
-"NPC_Data.Bert": "Olga 'femme' Trinnie 'fille' Alissa 'nièce Alissa'",
-"NPC_Data.Corine": "Ezekiel 'papa'",
-"NPC_Data.Ezekiel": "Corine 'fille'",
-"NPC_Data.Freddie": "Lola 'femme'",
-"NPC_Data.Keahi": "Pika 'papa'",
-"NPC_Data.Lenny": "Lewis 'frère'",
-"NPC_Data.Lola": "Freddie 'mari'",
-"NPC_Data.Olga": "Kimpo 'frère' Bert 'mari' Trinnie 'fille' Alissa 'nièce'",
-"NPC_Data.Pika": "Keahi 'fils'",
-"NPC_Data.Richard": "Ysabelle 'petite fille'",
-"NPC_Data.Shiro": "Naomi 'mère' Yuuma 'frère'",
-"NPC_Data.Trinnie": "Malaya 'tante' Kimpo 'oncle' Bert 'papa' Olga 'maman' Alissa 'soeur'",
-"NPC_Data.Ysabelle": "Richard 'grand-père'",
+// NPC Data
+"NPC_Data.Alissa": "Kimpoi 'dad' Malaya 'mom' Bert 'uncle' Olga 'aunt' Trinnie 'cousin_Trinnie'",
+"NPC_Data.Bert": " Olga 'wife' Trinnie 'daughter' Alissa 'niece_Alissa'",
+"NPC_Data.Corine": "Ezekiel 'dad'",
+"NPC_Data.Ezekiel": "Corine 'daughter'",
+"NPC_Data.Freddie": "Lola 'wife'",
+"NPC_Data.Keahi": "Pika 'dad'",
+"NPC_Data.Lenny": "Lewis 'brother'",
+"NPC_Data.Lola": "Freddie 'husband'",
+"NPC_Data.Olga": "Kimpoi 'brother' Bert 'husband' Trinnie 'daughter' Alissa 'niece'",
+"NPC_Data.Pika": "Keahi 'son'",
+"NPC_Data.Richard": "Ysabelle 'granddaughter'",
+"NPC_Data.Shiro": "Naomi 'mother' Yuuma 'brother'",
+"NPC_Data.Trinnie": "Malaya 'aunt' Kimpoi 'uncle' Bert 'dad' Olga 'mom' Alissa 'sister'",
+"NPC_Data.Ysabelle": "Richard 'grandfather'",
 
-"NPC_Data.Yuuma": "Naomi 'mère' Shiro 'frère'",
-"NPC_Data.Helen": "Ezekiel 'mari' Corine 'fille'",
+"NPC_Data.Yuuma": "Naomi 'mother' Shiro 'brother'",
+"NPC_Data.Helen": "Ezekiel 'husband' Corine 'daughter'",
 
-"NPC_Data.Sari": "Pipo 'fils'",
-"NPC_Data.Pipo": "Sari 'mère'",
-"NPC_Data.Naomi": "Shiro 'fils_aîné' Yuuma 'fils_cadet'",
-"NPC_Data.Malaya": "Kimpoi 'mari' Alissa 'fille' Trinnie 'nièce'",
-"NPC_Data.Kimpoi": "Malaya 'femme' Alissa 'fille' Trinnie 'nièce' Olga 'soeur'",
+"NPC_Data.Sari": "Pipo 'son'",
+"NPC_Data.Pipo": "Sari 'mom'",
+"NPC_Data.Naomi": "Shiro 'eldest_son' Yuuma 'youngest_son'",
+"NPC_Data.Malaya": "Kimpoi 'husband' Alissa 'daughter' Trinnie 'niece'",
+"NPC_Data.Kimpoi": "Malaya 'wife' Alissa 'daughter' Trinnie 'niece' Olga 'sister'",
+
+"NPC.Data.Kiarra": "Anton 'brother_Anton' Lorenzo 'oldest_brother_Lorenzo'",
+"NPC.Data.Anton": "Kiarra 'sister' Lorenzo 'brother' Paula ''",
+"NPC.Data.Lorenzo": "Shanice 'wife' Kiarra 'sister' Anton 'brother'",
+"NPC_Data.Shanice": "Lorenzo 'husband'",
+"NPC_Data.Paula": "Anton ''",
+
+"NPC.Data.Carmen": "Blair 'hija'",
+"NPC.Data.Blair": "Carmen 'mother' Sean ''",
+"NPC.Data.Sean": "Blair ''",
+
+"NPC_Data.Faye": "Maddie '' Jeric ''",
+"NPC_Data.Bryle": "Jeric '' Faye ''",
+
+"NPC_Data.Maive": "Ariah 'granddaughter' Louie 'grandson' Sonny ''",
+"NPC_Data.Zayne": "Maive 'grandmother' Louie 'little_brother' Ariah '' Irene '' Sonny ''",
+"NPC_Data.Irene": "Ariah '' Sonny ''",
+"NPC_Data.Sonny": "Maive '' Louie ''",
+"NPC_Data.Ariah": "Maive 'grandmother' Louie '' Irene ''",
+"NPC_Data.Louie": "Maive 'grandmother' Sonny ''",
+
+//Rae has this in her disposition entry but the only relationship I could think
+//of is Belinda, who isn't giftable, so I'll comment it out for now
+//"NPC_Data.Raeriyala": "Belinda ''",
 
 //--------------------
 //Dialogues de dégustation de cadeaux
@@ -487,6 +511,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 "event-75160186.09": "Bref ! Va y faire un tour quand tu auras le temps. Une partie de leurs revenus touristiques est reversée à Pelican ville, tu sais!$h",
 "event-75160186.10": "Je ferais mieux de retourner en ville. #$b#Au revoir, @.",
 "event-75160186.11": "Le village de Ridgeside, hein ? #Je devrais m'y rendre à l'occasion...",
+
 //Restauration serre1
 "event-75160174.01": "Je suis heureux que tout le monde ait pu venir à notre petite réunion !$h#$b# Nous avons finalement assez de fonds pour restaurer cette serre, ce qui marque une étape de plus dans notre développement ! $h#$b# Je voudrais remercier tout le monde pour leur dur labeur. Et maintenant...#$b#Je déclare cette serre publique ouverte !$h#$b#Certaines personnes ont déjà réclamé certaines parcelles à l'intérieur de la serre.$h#$b#Je m'attends à ce que vous y fassiez tous pousser des produits merveilleux !$h#$b#Une fois de plus, un grand merci à toutes et tous !$h",
 "event-75160174.02": "C'est excitant !",
@@ -2705,6 +2730,11 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 "event-75160191.10": "Ne t'inquiète pas, Ian. J'en ai d'autres en attente !$4#$b#Merci encore à tous !!$h",
 
 //InterModPatchs
+
+//InterModFestivalDialogue
+"InterModFestivalDialogue.StardewValleyExpanded.Winterstar.Aguar": "Je parie que vous vous demandez comment nous avons réussi à modifier l'environnement pour ajouter cette zone.#$b#C'était un sortilège très simple.$h#$b#Mappus Patchus, Replaceus Byus Layerus.$4",
+
+
 //InterModEvents
 // Scarpe Est
 // Ajoute Eloise à Trinnie 6 Heart Event
@@ -10284,6 +10314,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		
 		"Faye.Dialogue.ClothingTherapy": "As-tu entendu parler de la thérapie par les vêtements d'Emily ? Quelle idée géniale ! Bien sûr, j'ai dû l'aider à confectionner des vêtements pour elle  !$h#$b#J'espère vraiment que quelqu'un a essayé le béret.",
 		
+
 		//IRENE DIALOGUE (mamaesh, again you the QUEEN)
 		"keahiprank.Irene": "C'est quoi cette odeur ? $a#$b#Sors de ma cuisine avant d'infecter les autres plats ! $a",
 		
@@ -10355,7 +10386,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"Irene.Dialogue.Thu8": "Je n'ai pas eu l'occasion d'essayer le poisson frit à la crête de Pika.$s#$b#J'ai envie de l'essayer depuis un bon moment.",
 		"Irene.Dialogue.Fri8": "J'ai vu de nombreux plats dans le monde entier.#$b#J'ai hâte de les recréer et d'y mettre ma propre touche!$h",
 		"Irene.Dialogue.Sat8": "Oh, bonjour, @ !#$b#Tu es encore venu me rendre visite.$4#$b#Je ne peux pas te dire à quel point j'apprécie tes visites.$h#$b#C'est agréable de parler à quelqu'un qui a beaucoup de conversation.$h",
-		"Irene.Dialogue.Sun8": "Je tiens beaucoup à Mlle Ariah.$b#Elle est comme la petite sœur que je n'ai jamais eue.",
+		"Irene.Dialogue.Sun8": "Je tiens beaucoup à Mlle Ariah.#$b#Elle est comme la petite sœur que je n'ai jamais eue.",
 		
 		//10 Hearts
 		"Irene.Dialogue.Mon10": "Madame Amethyne nous demande à tous de nous préparer pour l'arrivée de M. Zayne.#$b#Je me demande ce que je devrais porter quand il arrivera...$4#$b#Oh, uhm. Je veux dire. A ton avis, que devrais-je préparer pour son arrivée ?",
@@ -10529,7 +10560,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		
 		//8 Hearts
 		"Lorenzo.Dialogue.Mon8": "Shanice me taquine pour que je devienne papa ces derniers temps.$u#$b#Je ne pense pas être prêt pour ça encore !$h",
-		"Lorenzo.Dialogue.Tue8": "En fait, Anton s'en sort bien. Je pense que je ne l'ai tout simplement pas assez regardé pour voir qu'il gère les choses mieux que prévu.$b#J'espère que les choses continueront à s'améliorer pour mon frère.",
+		"Lorenzo.Dialogue.Tue8": "En fait, Anton s'en sort bien. Je pense que je ne l'ai tout simplement pas assez regardé pour voir qu'il gère les choses mieux que prévu.#$b#J'espère que les choses continueront à s'améliorer pour mon frère.",
 		"Lorenzo.Dialogue.Wed8": "Je pense que je commence peu à peu à faire confiance au jugement de ma sœur.#$b#Elle doit avoir une raison pour faire tout cela.",
 		"Lorenzo.Dialogue.Thu8": "Je pense que je devrais bientôt organiser une soirée en famille.$h#$b#Shanice m'a souflé cette idée. Je suis un homme chanceux de l'avoir dans ma vie !$h",
 		"Lorenzo.Dialogue.Fri8": "Ma femme vient encore de me taquiner sur le fait de tomber enceinte !$u#$b#Oh mio, je ne pense pas que mon cœur puisse supporter encore beaucoup de blagues comme ça !$s",
@@ -10834,6 +10865,9 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		//SEAN DIALOGUE (tiakall and Airyn you guys are awesome)
 		"keahiprank.Sean": "Bahaha ! Oh, il t'a bien eu.$h",
 		
+//Introduction
+// "keahiprank.Sean": "Bahaha! Oh, he got you good.$h",
+
 		//Introduction
 		"Sean.Dialogue.Introduction": "Oh, hé, un nouveau visage !$h#$b#Je suis moi-même assez nouveau en ville. Je m'appelle Sean, passons un peu de temps ensemble.",
 		
@@ -10918,6 +10952,9 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		//SHANICE DIALOGUE
 		"keahiprank.Shanice": "Mon chou ? Je pense que tu as marché dans quelque chose de puant.$s#$b#Vérifie tes chaussures, ok ?$s",
 		
+		//Introduction
+// "keahiprank.Shanice": "Dear? I think you've stepped in something stinky.$s#$b#Check your shoes, okay?$s",
+
 		//Introduction
 		"Shanice.Dialogue.Introduction": "Eh bien bonjour ! J'ai entendu dire que le nouveau fermier emménage aujourd'hui.#$b#Mon nom est Shanice. Mon mari et moi gérons le petit magasin général de Ridgeside.$h#$b#C'est un plaisir de te rencontrer, @.$h",
 		
@@ -11139,7 +11176,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"Festivals.FlowerDance.Paula": "%Paula semble perdue dans ses pensées.#$b#%Elle se murmure à elle-même.#$b#Je devrais peut-être l'inviter à danser ?...$s#$b#Je devrais ? Je ne devrais pas, n'est-ce pas ?$s#$b#Cela me donne la migraine.$s",
 		"Festivals.FlowerDance.Carmen": "Oh, la danse !#$b#J'adorais danser la salsa.$h#$b#La seule chose qui m'a fait détester c'est mon bon à rien d'ex-mari !$a#$e#Je devrais peut-être chercher quelqu'un avec qui danser. Tu sais, pour m'éclater. $h",
 		"Festivals.FlowerDance.Blair": "Je me souviens avoir dansé avec mon père quand j'étais plus jeune... $s#$b#Oh bien, c'est du passé.#$e#Regarde les mouvements de Keahi !$h#$b#Je pense que la petite Trinnie aime ce qu'elle voit.$h",
-		"Festivals.FlowerDance.Lorenzo": "Je sens qu'Anton et Paula veulent danser l'un avec l'autre.$b#Mais ils sont peut-être trop timides ou trop pris dans leur tête pour le faire.$e#Hmm, je pourrais peut-être faire quelque chose pour ces deux-là. Ils ont l'air de bien s'entendre.$h",
+		"Festivals.FlowerDance.Lorenzo": "Je sens qu'Anton et Paula veulent danser l'un avec l'autre.#$b#Mais ils sont peut-être trop timides ou trop pris dans leur tête pour le faire.$e#Hmm, je pourrais peut-être faire quelque chose pour ces deux-là. Ils ont l'air de bien s'entendre.$h",
 		"Festivals.FlowerDance.Shanice": "Je me souviens quand Lorenzo m'a demandé de danser pour la première fois.$4#$b#Le pauvre gars, il dégoulinait comme une cascade.$h",
 		"Festivals.FlowerDance.Anton": "Je pense demander à Paula de danser.#$e#Tu sais, en souvenir du bon vieux temps !$h#$e#Bien sûr, je lui demanderai en tant qu'amie.$h",
 		"Festivals.FlowerDance.Kiarra": "%L'attention de Kiarra semble se porter sur les robes à fleurs.",
@@ -11147,7 +11184,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"Festivals.FlowerDance.Faye": "%Faye se marmonne à elle-même devant une fraise recouverte de chocolat.#$b#Mais faut-il vraiment s'en tenir au blanc ? Même un écru ou un beige pâle permettrait une palette plus équilibrée.",
 		"Festivals.FlowerDance.Malaya": "Oh, depuis que j'ai des pieds, tout ce que je voulais faire c'était danser!$h#$e#Oh, je suis désolée !$u#$b#Je veux dire depuis que j'ai appris à marcher. Je suis stupide.$h",
 		"Festivals.FlowerDance.Kimpoi": "Je vais demander à Malaya de danser avec moi.#$b#Elle aime vraiment bouger ses pieds.$h",
-		"Festivals.FlowerDance.Naomi": "Tu sais, j'ai rencontré le père de Shiro et de Yuuma quelques semaines seulement avant le Festival des Fleurs.$b#Il m'a demandé de danser. Il était si beau que je n'ai pas pu dire non.$h#$e#Je ne peux pas dire qu'il était un très bon danseur... mais il avait définitivement le style.$h",
+		"Festivals.FlowerDance.Naomi": "Tu sais, j'ai rencontré le père de Shiro et de Yuuma quelques semaines seulement avant le Festival des Fleurs.#$b#Il m'a demandé de danser. Il était si beau que je n'ai pas pu dire non.$h#$e#Je ne peux pas dire qu'il était un très bon danseur... mais il avait définitivement le style.$h",
 		"Festivals.FlowerDance.Daia": "Salut, beauté.$6#$b#Tu as l'air d'être doué sur le dancefloor.$7^Tu  as l'air douée sur le dancefloor.$7#$b#Je garderai un oeil sur toi.$6",
 		"Festivals.FlowerDance.Daia_spouse": "Ne t'avise pas de danser avec quelqu'un d'autre, d'accord ? $a#$b#Sans me présenter a eux d'abord, bien sûr, pour que je puisse m'amuser un peu avec vous deux.$6",
 		"Festivals.FlowerDance.Jio_spouse": "Je dois m'excuser d'avance si je ne connais pas la danse habituelle de cette ville.$s#$b#Mais je ferai de mon mieux, mon amour.$h",
@@ -11180,7 +11217,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"Festivals.Jellies.Sonny": "La nature est une belle chose à voir, n'est-ce pas M. @ ? Chaque année, les méduses viennent et c'est toujours merveilleux.$4^La nature est une belle chose à voir, n'est-ce pas Madame @ ? Chaque année, les méduses viennent et c'est toujours merveilleux.$4",
 		"Festivals.Jellies.Paula": "J'adore cette journée.$h#$b#J'ai toujours l'impression que mes angoisses et mes soucis fondent pour la nuit chaque fois que je vois ce paysage et cette ambiance magnifiques.",
 		"Festivals.Jellies.Carmen": "Cette nuit me laisse des souvenirs doux-amers.$s#$b#Oh bien, je suis juste heureuse de pouvoir voir de si beaux animaux avec ma hija.$h",
-m		"Festivals.Jellies.Blair": "Maman a toujours semblé mal à l'aise de participer à cette soirée.$s#$b#Je pense savoir pourquoi, mais je veux simplement passer une telle soirée avec elle.$s",
+		"Festivals.Jellies.Blair": "Maman a toujours semblé mal à l'aise de participer à cette soirée.$s#$b#Je pense savoir pourquoi, mais je veux simplement passer une telle soirée avec elle.$s",
 		"Festivals.Jellies.Lorenzo": "Réveille-moi quand elles arrivent.$s",
 		"Festivals.Jellies.Shanice": "Mon pauvre mari rate toujours les méduses.$h#$b#Mais ce n'est pas grave, tant que je suis à ses côtés cette nuit, même s'il est éteint comme une lumière.$l",
 		"Festivals.Jellies.Anton": "Heh, elle aimait ça avant.$s#$b#Bon, c'est fini je suppose.#$b#J'espère qu'elle est heureuse où qu'elle soit en ce moment.",
@@ -11427,7 +11464,7 @@ m		"Festivals.Jellies.Blair": "Maman a toujours semblé mal à l'aise de partici
 		"event-75160240.12": "Je reviens tout de suite, mon amour. $l",
 		"event-75160240.13": "Je ne peux pas attendre !",
 		"event-75160240.14": "Ah, elle est partie.$h#$b#Alors @, j'ai préparé tout cela pour vous donner à tous les deux une chance de danser un slow seuls dans une salle de bal.#$b#Ma petite-fille a toujours rêvé d'une telle fantaisie, surtout avec quelqu'un qui lui est cher dans son cœur.#$b#Aide-moi à la rendre heureuse, veux-tu ?$h",
-		"event-75160240.15": "Splendide !$h#$b#Maintenant, je lui ai donné une robe spéciale à porter.$b#Je suis désolé de ne pas avoir pu t'en préparer une.$s",
+		"event-75160240.15": "Splendide !$h#$b#Maintenant, je lui ai donné une robe spéciale à porter.#$b#Je suis désolé de ne pas avoir pu t'en préparer une.$s",
 		"event-75160240.16": "Je vais passer une musique dans les haut-parleurs. #$b#Tu vas vite comprendre. $h",
 		"event-75160240.17": "Amour ?$l#$b#Alors ? De quoi ai-je l'air ?$l",
 		"event-75160240.18": "Grand-père, tu es un vieil homme rusé.$13#$b#Tu te souviens encore de ce rêve idiot dont je t'ai parlé il y a longtemps !$13.",
@@ -11691,6 +11728,7 @@ m		"Festivals.Jellies.Blair": "Maman a toujours semblé mal à l'aise de partici
 		"event-75160249.NaomiAlone.01": "Je parie que Shiro et Yuuma seront heureux de revoir leur maman.",
 		"event-75160250.01": "Je suis désolé de te rendre visite si tôt @.#$b#Mais j'ai promis de t'avertir lorsque l'expansion de l'hôtel sera terminée.$h",
 		"event-75160250.02": "Je suis heureux que tu aies l'air ravi.$h#$b#Richard s'est également associé à Malaya Liden. Elle a également ouvert un café dans le hall de l'hôtel.#$b#Il semble que tu aies plus d'options de services dans le village maintenant.$h#$b#Viens nous rendre visite quand tu auras le temps.#$b#Comme le maire de cette ville, Lewis, l'a déclaré : 'Une partie des revenus touristiques de Ridgeside va à Pelican Ville'$s#$b#Même si, pour être honnête, vu la vitesse à laquelle Ridgeside se développe, elle pourrait un jour devenir une ville indépendante.$h#$b#Et je suis sûr que ces frères et sœurs s'en inquiètent.$h#$b#Lewis étant envieux et Lenny ayant peur de plus de paperasse et de responsabilités.$h#$b#Oh, comment cette vallée parvient encore à être viable doit être un miracle, surtout sous la direction de ces deux-là.$s",
+		
 		"event-75160251.01": "Mon amour... C'est embarrassant...$s#$b#Combien de temps sommes-nous partis pour ne pas savoir où aller ?$s",
 		"event-75160251.02": "Hm... Laisse-moi réfléchir... #$b#Peut-être que nous pourrions...",
 		"event-75160251.03": "Hm...",
@@ -11768,6 +11806,7 @@ m		"Festivals.Jellies.Blair": "Maman a toujours semblé mal à l'aise de partici
 		"event-75160251.75": "Nous avons beaucoup de choses à rattraper.$6#$b#Tu as magnifiquement chanté, ma chérie !$6",
 		"event-75160251.76": "Maman ! Vous avez entendu ça aussi !$u#$b#C'est vraiment embarrassant...$s",
 		"event-75160251.LidensAlone.01": "Je parie que les Lidens vont avoir de merveilleuses retrouvailles.",
+		
 		"event-75160252.01": "Bonjour, @.#$b#Uh... Belle matinée n'est-ce pas ? $h",
 		"event-75160252.02": "Quoi qu'il en soit, je suis venu ici pour te dire que je vais enfin rouvrir la boutique de semences du Verger Rossignol.#$b#Je vais y vendre des arbres fruitiers étrangers et exotiques, tout comme ceux que tu vois plantés dans notre ferme.$h#$b#Je-er, J'espère que tu pourras nous rendre visite bientôt, collègue agriculteur.",
 		"event-75160253.01": "Bonjour, @.",
@@ -11797,6 +11836,7 @@ m		"Festivals.Jellies.Blair": "Maman a toujours semblé mal à l'aise de partici
 		"event-75160256.09": "Par ici !$h",
 		"event-75160256.10": "Attends, c'est trop fort !$a#$b#Accrochez vous tous !$a",
 		"event-75160256.11": "Tu as été emporté par le vent jusqu'à la crête !",
+		
 		"event-75160262.01": "Tu vas bien, oh fermier ?$4#$b#Cette explosion était inattendue. Mais je suis contente que tout le monde soit sain et sauf.$h",
 		"event-75160262.02": "Oh mon Dieu.#$b#Les reliques que nous avons utilisées cette fois doivent être puissantes.#$b#J'aimerais y jeter un coup d'œil bientôt.",
 		"event-75160262.03": "Mais d'abord, nous devons nous débarrasser de la corruption dans le royaume des Esprits.#$b#Nous allons continuer-$h",
@@ -11810,6 +11850,7 @@ m		"Festivals.Jellies.Blair": "Maman a toujours semblé mal à l'aise de partici
 		"event-75160262.11": "Ta grand-mère a dit avoir vu des flammes violettes au sommet de cinq montagnes.$a#$b#C'est la seule chose qu'elle a mentionnée après son retour, il y a longtemps.$s#$b#Ce sont peut-être des catalyseurs. Trouve un moyen de les atteindre et d'éteindre les flammes.$a#$b#Se débarrasser de ces flammes pourrait nettoyer la corruption.$a",
 		"event-75160262.12": "Nous continuerons à protéger la vallée d'ici, ô fermier.#$b#Bonne chance !$h",
 		"event-75160262.13": "Rends ta grand-mère fière.",
+		
 		"event-75160265.01": "Oh, fermier !$4#$b#Tu as réussi !$h#$b#La corruption a été arrêtée !#$b#Cette terre est maintenant hors de portée de Gabriella.$h#$b#Nous sommes si heureux ! Nous te sommes éternellement reconnaissants.$4",
 		"event-75160265.02": "Il y aurait encore des monstres échoués et des esprits tordus dans les forêts.$s#$b#Mais nous pouvons nous en occuper nous-mêmes.#$b#Tu as rendu ta grand-mère fière, cher fermier.$4#$b#Merci.$4",
 		"event-75160265.03": "Merci, @.$h",
@@ -11821,13 +11862,13 @@ m		"Festivals.Jellies.Blair": "Maman a toujours semblé mal à l'aise de partici
 		"event-75160265.09": "Merci, mon amour.$4#$b#Je prierai bientôt à nouveau pour leurs âmes.$4",
 		"event-75160265.10": "Je suis désolé pour cette histoire si triste en cette période de victoire, tout le monde.$4#$b#Oh fermier, merci, encore une fois.$4",
 		"event-75160265.11": "Oh, fermier !#$b#Si tu as le temps, peux-tu aller voir le sommet de cette montagne pour moi ?$4#$b#Va voir le vieux couple là-haut.$4#$b#Ils ont dû avoir une vie difficile.$s",
-		"event-75160265.12": "Merci, ô fermier.$4#$b#Oh ! Les esprits semblent t'avoir fait un cadeau !$h#$b#Les cristaux sur toute cette montagne semblent émaner plus d'énergie spirituelle qu'avant.$b#Tu devrais aussi les examiner.$h",
+		"event-75160265.12": "Merci, ô fermier.$4#$b#Oh ! Les esprits semblent t'avoir fait un cadeau !$h#$b#Les cristaux sur toute cette montagne semblent émaner plus d'énergie spirituelle qu'avant.#$b#Tu devrais aussi les examiner.$h",
 		"event-75160265.13": "Ma dame !$h#$b#Je viens d'apprendre la nouvelle !$h",
 		"event-75160265.14": "Maintenant, nous avons peut-être gagné la bataille cette fois-ci.#$b#Mais je doute que Gabriella se soit installée pour ne corrompre que cette vallée.$a#$b#Nous devons la trouver et en finir avec elle.$a#$b#Poursuivons nos recherches pour elle, mes enfants.$4",
 		"event-75160265.15": "Oui, ma dame.",
 		"event-75160265.16": "D'accord, Voyante.",
 		"event-75160265.17": "Nous ferons de notre mieux, ma dame.",
-		"event-75160265.18": "Splendide !$h#$b#Je vous retrouverai tous très bientôt.$b#Pour l'instant, j'ai une tâche importante à accomplir.$4",
+		"event-75160265.18": "Splendide !$h#$b#Je vous retrouverai tous très bientôt.#$b#Pour l'instant, j'ai une tâche importante à accomplir.$4",
 		"event-75160265.19": "Mon amour, tu enquêtes toujours sur cet homme mystérieux ? $s#$b#Sois prudent. Il n'a pas l'air d'être un simple mortel.$a",
 		"event-75160265.20": "C'est une anomalie, Rae.$a#$b#Et il semble savoir qui j'étais avant de devenir un esprit corrompu.$a#$b#Je dois trouver cet homme à la peau bleue.$a",
 		"event-75160265.21": "Je comprends.$4#$b#Assure-toi juste de venir nous revoir bientôt, d'accord ? $4#$b#Et s'il te plaît, ne nous disputons plus. Je ne veux pas être scellée à nouveau.$h",
@@ -11913,7 +11954,7 @@ m		"Festivals.Jellies.Blair": "Maman a toujours semblé mal à l'aise de partici
 		"event-75160273.27": "Acorn !$a",
 		"event-75160273.28": "Huh!?$a",
 		"event-75160273.29": "Mes excuses, princesse.$s",
-		"event-75160273.30": "Je pense qu'il est préférable de tout expliquer, ou du moins la plupart des choses.$b#Pour que tout le monde soit au courant.",
+		"event-75160273.30": "Je pense qu'il est préférable de tout expliquer, ou du moins la plupart des choses.#$b#Pour que tout le monde soit au courant.",
 		"event-75160273.31": "S'il te plaît ! Je suis tout ouïe.$a",
 		"event-75160273.32": "Princesse Undreya, tu es la princesse perdue depuis longtemps du royaume elfique de Verde.#$b#Mon nom est Sari, et voici Pipo, mon fils, et Acorn, un junimo de Verde.",
 		"event-75160273.33": "Hewwoo !$h",
@@ -12001,7 +12042,7 @@ m		"Festivals.Jellies.Blair": "Maman a toujours semblé mal à l'aise de partici
 		"event-75160223.03": "Serre-moi fort...$l#$b#Tu es ma consolation après une dure journée de travail.$l",
 		"event-75160223.04": "Tu sais, j'ai vraiment envie de rentrer tôt à la maison quand je peux.$s#$b#Mais il y a tellement de monstres sur la crête.$a#$b#Et sans parler du fait que je m'en occupe seule !$a#$b#Jio et Daia s'enfoncent dans la forêt, mais je reste dans les quadrants inférieurs.#$b#Et je m'y sens seule...$s",
 		"event-75160223.05": "Chérie ! Je viens d'avoir une idée folle!$h",
-		"event-75160223.06": "Pourquoi ne m'accompagnerais-tu pas lors de ma prochaine patrouille nocturne sur la crête ? $h#$b#Je sais que tu t'occupes de monstres dans les mines aussi, ou partout ailleurs où tu vas.$b#Je suis sûre que tu as du cran aussi, n'est-ce pas mon amour ? $8#$b#S'il te plaît ?$l#$b#Faisons-en un rendez-vous.$l#$b#Un rendez-vous pour la chasse aux monstres !$h",
+		"event-75160223.06": "Pourquoi ne m'accompagnerais-tu pas lors de ma prochaine patrouille nocturne sur la crête ? $h#$b#Je sais que tu t'occupes de monstres dans les mines aussi, ou partout ailleurs où tu vas.#$b#Je suis sûre que tu as du cran aussi, n'est-ce pas mon amour ? $8#$b#S'il te plaît ?$l#$b#Faisons-en un rendez-vous.$l#$b#Un rendez-vous pour la chasse aux monstres !$h",
 		"event-75160223.07": "Viens ! On va s'amuser !$h",
 		"event-75160223.08": "Awww, tu es d'accord pour me suivre dans mes idées folles.$l#$b#Je t'aime !$h",
 		"event-75160223.09": "Corine t'embrasse à nouveau.",
