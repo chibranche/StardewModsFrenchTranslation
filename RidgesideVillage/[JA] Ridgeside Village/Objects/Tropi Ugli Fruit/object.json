@@ -1,6 +1,6 @@
 {
-  "Name": "Fruit Tropi Ugli",
-  "Description": "Ne vous laissez pas tromper par son nom, c'est un fruit magnifique et savoureux, à la fois sucré et acidulé, avec un soupçon de piquant. Il faut absolument l'essayer ! N'est-ce pas une beauté ?",
+  "Name": "Tropi Ugli Fruit",
+  "Description": "Don't get fooled by its name, this is a beautiful and tasty fruit that's sweet and tart with a hint of sharpness. Definitely worth trying! Isn't it a beaut?",
   "Category": "Fruit",
   "Edibility": 23,
   "Price": 170,
@@ -10,4 +10,34 @@
   "Love": ["Richard", "Ysabelle", "Pierre"],
   "Like": ["Sebastian", "Demetrius", "Lewis"],
   },
+  "NameLocalization":
+  { 
+    //remove the "//" from your language
+      //"es": "PLACEHOLDER",
+      //"ko": "PLACEHOLDER",
+      //"de": "PLACEHOLDER",
+      "fr": "Fruit Tropi Ugli",
+      //"hu": "PLACEHOLDER",
+      //"it": "PLACEHOLDER",
+      //"ja": "PLACEHOLDER",
+      //"pt": "PLACEHOLDER",
+      //"ru": "PLACEHOLDER",
+      //"tr": "PLACEHOLDER",
+      //"zh": "PLACEHOLDER",
+  },
+  "DescriptionLocalization":
+  {
+    //remove the "//" from your language    	
+      //"es": "PLACEHOLDER",
+      //"ko": "PLACEHOLDER",
+      //"de": "PLACEHOLDER",
+      "fr": "Ne vous laissez pas tromper par son nom, c'est un fruit magnifique et savoureux, à la fois sucré et acidulé, avec un soupçon de piquant. Il faut absolument l'essayer ! N'est-ce pas une beauté ?",
+      //"hu": "PLACEHOLDER",
+      //"it": "PLACEHOLDER",
+      //"ja": "PLACEHOLDER",
+      //"pt": "PLACEHOLDER",
+      //"ru": "PLACEHOLDER",
+      //"tr": "PLACEHOLDER",
+      //"zh": "PLACEHOLDER",
+  }
 }

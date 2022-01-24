@@ -1,6 +1,6 @@
 {
-  "Name": "Fleur de brume de montagne",
-  "Description": "Une mystérieuse fleur lumineuse qui fleurit les jours de pluie dans la forêt dense des montagnes. Elle n'émet aucune sorte d'odeur.",
+  "Name": "Mountain Mistbloom",
+  "Description": "A mysterious glowing flower that bloom during rainy days in the dense mountain forest. It doesn't emit any kind of smell at all.",
   "Category": "Flower",
   "ProvidesLight": true,
   "Edibility": 5,
