@@ -1,8 +1,9 @@
 {
-  "Name": "Plutier cerise",
-  "Product": "Pluot cerise",
-  "SaplingName": "Jeune plutier cerise",
-  "SaplingDescription": "Il faut 28 jours pour produire un plutier cerise mature. Porte des fruits au printemps. Ne se développe que si les 8 'carreaux' environnants sont vides.",
+  "Name": "Cherry Pluot Tree",
+  "Product": "Cherry Pluot",
+  "SaplingName": "Cherry Pluot Sapling",
+  "SaplingDescription": "Takes 28 days to produce a mature Cherry Pluot tree. Ready to harvest in the spring. Only grows if the 8 surrounding tiles are empty.",
   "Season": "spring",
   "SaplingPurchasePrice": 6000,
+  "SaplingPurchaseFrom": "STF.RSVKimpoiShop"
 }

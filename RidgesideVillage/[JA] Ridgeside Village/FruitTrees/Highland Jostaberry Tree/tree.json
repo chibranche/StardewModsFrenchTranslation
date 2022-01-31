@@ -1,8 +1,9 @@
 {
-  "Name": "Casseillier des hauts plateaux",
-  "Product": "Casseille des hauts plateaux",
-  "SaplingName": "Jeune pousse de casseillier des hauts plateaux",
-  "SaplingDescription": "Il faut 28 jours pour produire un Casseillier des hauts plateaux mature. Porte des fruits à l'automne. Ne se développe que si les 8 'carreaux' environnants sont vides.",
+  "Name": "Highland Jostaberry Tree",
+  "Product": "Highland Jostaberry",
+  "SaplingName": "Highland Jostaberry Sapling",
+  "SaplingDescription": "Takes 28 days to produce a mature Highland Jostaberry tree. Ready to harvest in the fall. Only grows if the 8 surrounding tiles are empty.",
   "Season": "fall",
   "SaplingPurchasePrice": 6000,
+  "SaplingPurchaseFrom": "STF.RSVKimpoiShop"
 }

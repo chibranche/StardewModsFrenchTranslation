@@ -1,8 +1,9 @@
 {
-  "Name": "Limetier sanguin ambré",
-  "Product": "Citron sanguin ambré",
-  "SaplingName": "Jeune pousse de Limetier sanguin ambré",
-  "SaplingDescription": "Il faut 28 jours pour produire un limetier sanguin ambré mature. Porte des fruits à l'automne. Ne se développe que si les 8 'carreaux' environnants sont vides.",
+  "Name": "Ember Blood Lime Tree",
+  "Product": "Ember Blood Lime",
+  "SaplingName": "Ember Blood Lime Sapling",
+  "SaplingDescription": "Takes 28 days to produce a mature Ember Blood Lime tree. Ready to harvest in the fall. Only grows if the 8 surrounding tiles are empty.",
   "Season": "fall",
   "SaplingPurchasePrice": 6000,
+  "SaplingPurchaseFrom": "STF.RSVKimpoiShop"
 }

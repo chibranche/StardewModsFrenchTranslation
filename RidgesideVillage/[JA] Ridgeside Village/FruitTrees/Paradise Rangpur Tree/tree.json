@@ -1,8 +1,9 @@
 {
-  "Name": "Rangpurnier Paradis",
-  "Product": "Rangpur Paradis",
-  "SaplingName": "Jeune pousse de Rangpurnier Paradis",
-  "SaplingDescription": "Il faut 28 jours pour produire un Rangpurnier Paradis mature. Porte des fruits en été. Ne se développe que si les 8 'carreaux' environnants sont vides.",
+  "Name": "Paradise Rangpur Tree",
+  "Product": "Paradise Rangpur",
+  "SaplingName": "Paradise Rangpur Sapling",
+  "SaplingDescription": "Takes 28 days to produce a mature Paradise Rangpur tree. Ready to harvest in the summer. Only grows if the 8 surrounding tiles are empty.",
   "Season": "summer",
   "SaplingPurchasePrice": 5000,
+  "SaplingPurchaseFrom": "STF.RSVKimpoiShop"
 }

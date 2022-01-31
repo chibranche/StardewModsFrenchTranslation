@@ -1,8 +1,9 @@
 {
-  "Name": "Limequattier Nordique",
-  "Product": "Limequat Nordique",
-  "SaplingName": "Jeune pousse de Limequattier Nordique",
-  "SaplingDescription": "Il faut 28 jours pour produire un Limequattier Nordique mature. Porte des fruits a l'automne. Ne se développe que si les 8 'carreaux' environnants sont vides.",
+  "Name": "Northern Limequat Tree",
+  "Product": "Northern Limequat",
+  "SaplingName": "Northern Limequat Sapling",
+  "SaplingDescription": "Takes 28 days to produce a mature Northern Limequat tree. Ready to harvest in the fall. Only grows if the 8 surrounding tiles are empty.",
   "Season": "fall",
   "SaplingPurchasePrice": 5000,
+  "SaplingPurchaseFrom": "STF.RSVKimpoiShop"
 }
