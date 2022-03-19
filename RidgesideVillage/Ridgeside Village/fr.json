@@ -72,6 +72,9 @@
 	"Ian.HasPetAnimals": "Les ouvriers caressent vos animaux de ferme.",
 
 	"ShowImage.Arknir": "Cette photo a été prise lors d'un karaoké à Ridgeside par le photographe de Grampleton Ark Nir.#(Gagnant du concours d'art 2021 du Discord RSV)",
+	"ShowImage.Aniv1st": "'Mia qui rends visite à ses amis pendant le grand Rassemblement de Ridgeside !'#Une copie de photo offerte par the Hime, le touriste qui a pris la photo.#(1ère place du concours de fan-art pour le 1er anniversaire du Discord de RSV)",
+	"ShowImage.Aniv2nd": "'Mademoiselle Flor sur le sol'#Une photo candide de Rajah, encadrée avec son consentement.#(2ème place du concours de fan-art pour le 1er anniversaire du Discord de RSV)",
+	"ShowImage.Aniv3rd": "'Le chant des oiseaux dans le Verger'#Une photo promotionnelle pour le Verger par Ryoma.#(3ème place du concours de fan-art pour le 1er anniversaire du Discord de RSV)",
 
 	"Clinic.Healthy": "Vous avez déjà des quantités élevées d'endurance et de santé !",
 	"Clinic.HealthyHealth": "Vous avez déjà un haut niveau de santé !",
@@ -105,13 +108,22 @@
 	"Daia.RelicHint4": "'L'Elan'^Un animal se cache derrière le banc qui regarde le ciel,^Devant l'arbre qui aspire à voler.^^'Le Renard'^Une phrase est une heure.^La patience est récompensée lorsqu'on se trouve devant la gemme violette du renard.^La patience est récompensée lorsqu'on se trouve devant la gemme violette du renard.",
 	"Daia.RelicHint5": "'Musique derrière les Murs'^Une ancienne chanteuse est piégée derrière la photo d'une danseuse,^Abattez-la pour la libérer.^^'Le Héros oublié'^Quand tu pêches au puits du riche,^Une figure oubliée est sauvée de l'endroit où elle est tombée.^^'Le peigne Elfique'^Sur le sentier de randonnée, on trouve une maison abandonnée.^Quelque part à côté, un peigne est enterré pour le secret du traître cacher.",
 
-	"CompleteCrystalsNotif": "Les montagnes semblent parler...#'Merci, fermier... Je prends le relais à partir de là...'#'Reviens d'ici demain, Et nous pourrons enfin nous rencontrer...'#'Prends soin de toi, petit-fils de mon ami...^Prends soin de toi, petite-fille de mon ami'",
+	"CompleteCrystalsNotif": "Les montagnes semblent parler...#'Merci, fermier... Je prends le relais à partir de là...'#'Reviens d'ici demain, Et nous pourrons enfin nous rencontrer...'#'Prends soin de toi, petit-enfant de mon ami...",
 
 	"RSV.MyLetter": "À tous ceux qui lisent ceci, ^Il y a si longtemps que nous avons été scellés loin du reste du monde. C'était une journée ensoleillée, quand soudain un brouillard de brume violette s'est approché de la ferme jusqu'à ce que la nature se mette en marche pour nous enfermer dans de hauts murs de terre, de plantes et d'arbres. Chaque fois que nous essayions d'abattre le mur, il repoussait plus fort. On pourrait penser que ma femme et moi en voudrions à la puissance supérieure qui nous a piégés. Mais non, ça nous à laissé indifférents.^Il doit y avoir une raison pour laquelle la nature nous a piégés, et nous aimons penser que nous avons été sauvés de cette brume sinistre. Et pour cela, nous remercions Yoba de nous avoir donné l'opportunité de vivre le reste de nos vies en paix.^Cela fait des années et nous sommes heureux. Un jour, cette terre qui était autrefois pleine de cultures que ma femme et moi chérissions comme des enfants, aura disparu.^Et quand ce jour viendra, je sais que ma femme et moi serions déjà retournés dans les bras de Yoba et que les murs seraient peut-être tombés.^^À tous ceux qui lisent ceci, cette terre est à vous.^Tout ce que je demande, c'est que vous lui donniez de l'amour comme nous l'avons fait auparavant.^Que Yoba vous bénisse.^^- R",
+	
 	"RSV.UndreyaError": "Seul l'hôte de la partie peut accèder à ceci !",
 	"RSV.UndreyaSchedStart": "Commencer à jouer à cache-cache avec Undreya ?",
 	"RSV.UndreyaSchedStop": "Arrêter de jouer à cache-cache avec Undreya?",
 	"RSV.UndreyaWillPlay": "Undreya se cachera demain !",
-	"RSV.UndreyaWontPlay": "Undreya restera à la maison demain."
+	"RSV.UndreyaWontPlay": "Undreya restera à la maison demain.",
 
+	"Aniv.1st": "Le livre de Airyn",
+	"Aniv.2nd": "Le livre de Kabuto N.",
+	"Aniv.3rd": "Le livre de Yri",
+
+	"Aniv.Airyn": "(1ère place du concours de poème pour les 1 an du Discord de RSV)^^Dad^Goofy, Loving^Grow, Laugh, Lounge^Parents, Plants, Princess, Play^Watch, Worry, Smile^Warm, Strict^Mom^^L oves hugging me^E very time she visits^I pretend it's gross but I^L ove hearing her stories^A nd I wish that she was^N ot away so much^I miss you, Mom^^My brother Shiro^I care for him every day.^I don't mind. I don't.",
+	"Aniv.ChickenNuggets": "(2ème place du concours de poème pour les 1 an du Discord de RSV)^^Trinnie, to Yuuma:^Keahi and I^Have a bunch of pranks lined up^Come join us sometime!^^Keahi, to Yuuma:^Remember the pranks^And the fun we used to have?^Let's do that again!^^Yuuma, to Trinnie and Keahi:^My dear friends^I am glad to have you both^Please wait for me",
+	"Aniv.Yri": "(3ème place du concours de poème pour les 1 an du Discord de RSV)^^Elevenie^'Ridgeside^high up^on a cliffside^looking over the valley^tranquil'",
+	"BlissBook.Title": "Index"
 }

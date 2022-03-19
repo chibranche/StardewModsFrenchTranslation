@@ -719,11 +719,11 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 "event-75160116.04": "Que dois-je lui dire ?",
 
 //Réponse 1
-"event-75160116.05": "Rien, c'est juste de la curiosité.",
+"event-75160116.05": "Rien, je fouille juste par curiosité.",
 "event-75160116.Fork1": "C'est un peu bizarre...#$b# Ça ne se fait pas de fouiller chez les gens je crois ?#$b# Je te taquine ! Mais je me rappellerai de fermer la remise à clé ce soir.$a",
 
 //Réponse 2
-"event-75160116.06": "Tu m'as manqué et je te cherchais.^Tu m'as manquée et je te cherchais.",
+"event-75160116.06": "Je te cherchais car tu me manquais",
 "event-75160116.Fork2": "Heu, quoi ? $7#$b#Hé, ne plaisante pas comme ça !$l",
 
 //Réponse 3
@@ -2682,6 +2682,10 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 "event-75160112.22": "Viens par là, toi.$h",
 "event-75160112.23": "Yuuma pleure encore plus en serrant Shiro dans ses bras ",
 "event-75160112.24": "Le docteur Harvey a confirmé que Shiro va effectivement mieux.#$b#La douleur qu'il a ressentie plus tôt était due à la guérison de son corps après sa dernière opération.",
+//Extra lines for Naomi version
+"event-75160112.04.5": "Shiro, tu ne peux pas être aussi inconscient. Que ce serait il passé si il n'y avait eu personne pour t'aider ?$5",
+"event-75160112.08.5": "Yuuma, va jouer dehors et laisse ton frère se reposer.$5",
+"event-75160112.13.alt": "Mon frère m'a dit d'aller jouer avec mes amis...$s#$b#...Mais si je l'écoute, qui prendra soin de lui ? Maman doit travailler dur pour gagner de l'argent...$s",
 
 //Yuuma avec d'autres enfants (Yuuma 8 coeurs)
 "event-75160113.01": "Whoa ! Tu as tellement de dessins, Yuuma !$h#$b#Ils ont l'air trop cool !",
@@ -2700,6 +2704,16 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 "event-75160113.14": "Ha ha ! Je n'en doute pas !$h#$b#Juste en voyant tes pitreries maladroites !$h",
 "event-75160113.15": "Ha ha ! Vous m'avez manqué !$h#$b#Merci de me remonter le moral !$h",
 "event-75160113.16": "Je me suis amusé avec mes amis aujourd'hui !$h",
+//Extra lines for Naomi version
+"event-75160113.07.alt": "Oh ! C'est la chambre de mes parents.#$b#Ma mère est partie travailler à l'hotel, et Papa n'est pas là pour l'instant.#$b#Il est parti loin pour son travail, pour pouvoir nous envoyer de l'argent de temps en temps.",
+"event-75160113.08.alt": "Whoa ! Comme mon papa ?",
+"event-75160113.09.alt": "Je  ne sais pas trop.#$b#Mais il me manque...$s",
+"event-75160113.10.alt": "Hé, ne soit pas triste, Yuuma.#$b#Tu sais quoi, en attendant qu'il revienne, je pourrais être ton papa de remplacement !$h",
+"event-75160113.11.alt": "Hmm ? Pour de vrai, Trinnie ?#$b#Tu es une fille, tu vas devoir être sa deuxième maman.$h#$b#Tu ne peux pas être un papa !$h",
+"event-75160113.12.alt": "Hé si, Jas ! Sean a dit qu'une fille peut être un garçon si elle en a envie !$h",
+"event-75160113.12.5": "Ouais, il m'a aussi dit que je pourrais être la Reine des Fleurs si j'en avais envie !$h",
+"event-75160113.13.alt": "Mmh ! Tu vois ? Je serais le meilleur papa de tous les temps !$a",
+"event-75160113.14.alt": "Haha ! Tu seras surtout le plus empoté, ça c'est sûr !$h",
 
 //Fixing Minecart Events
 //Yuuma visits
@@ -8402,7 +8416,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 ///L'été
 "Ysabelle.MarriageDialogue.summer_1": "L'été est terriblement, insupportablement chaud...$s#$e#Le seul avantage est que plus de chaleur signifie moins de couches de vêtements...$l",
-"Ysabelle.MarriageDialogue.summer_10": "Oh non. Grand-père a dit qu'il voulait ajouter un tout nouveau légume à la soupe demain !$u#$e#Amour, aide-moi à le convaincre que c'est une mauvaise idée !$6#$b#Qui sait quelle étrange bizarrerie il a en tête ?$6",
+"Ysabelle.MarriageDialogue.summer_10": "Oh non. Grand-père a dit qu'il voulait ajouter un tout nouveau légume à la soupe demain !$u#$e#Mon amour, aide-moi à le convaincre que c'est une mauvaise idée !$6#$b#Qui sait quelle étrange bizarrerie il a en tête ?$6",
 "Ysabelle.MarriageDialogue.summer_27": "Tu es motivé pour demain soir ?^Tu es motivée pour demain soir ?#$b# Honnêtement, les méduses ne m'intéressent plus. Je veux juste profiter de regarder les étoiles avec toi.$l",
 
 ///Tombe
@@ -8665,6 +8679,11 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 	"EventHall.Closed" : "La salle des fêtes est en train d'être nettoyée.",
                     	
 	//Salle des événements Événements i18n
+	//Naomi Wedding Reception Reminder
+"event-751602450.00": "Salut ! Félicitations pour ton mariage - la cérémonie était fabuleuse.$h",
+"event-751602450.01": "La salle de réception est prête pour ton événement.$h#$b#Nous attendrons ton arrivée à l'hotel.$h",
+"event-751602450.02": "Tout le monde est déjà là, alors n'oublie pas !#$b#Nous sommes impatients de vous voir tous les deux.$h",
+"event-751602459.03": "Tout est prêt pour ta réception de mariage !#$b#Tu n'as pas oublié, n'est ce pas ?$s",
 	//Réception de mariage PAS de genre indéfini IGNORE GRAMMAR CHECK
 	"event-75160245.00" : "La salle des fêtes est prête pour votre événement.$h#$b# Je vous accompagne. Pouvons-nous y aller ?$h",
 	"event-75160245.01" : "Nous nous sommes rendus à l'hôtel Cabane en Rondins pour assister à notre réception après le mariage...",
@@ -10865,9 +10884,6 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		//SEAN DIALOGUE (tiakall and Airyn you guys are awesome)
 		"keahiprank.Sean": "Bahaha ! Oh, il t'a bien eu.$h",
 		
-//Introduction
-// "keahiprank.Sean": "Bahaha! Oh, he got you good.$h",
-
 		//Introduction
 		"Sean.Dialogue.Introduction": "Oh, hé, un nouveau visage !$h#$b#Je suis moi-même assez nouveau en ville. Je m'appelle Sean, passons un peu de temps ensemble.",
 		
@@ -10952,9 +10968,6 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		//SHANICE DIALOGUE
 		"keahiprank.Shanice": "Mon chou ? Je pense que tu as marché dans quelque chose de puant.$s#$b#Vérifie tes chaussures, ok ?$s",
 		
-		//Introduction
-// "keahiprank.Shanice": "Dear? I think you've stepped in something stinky.$s#$b#Check your shoes, okay?$s",
-
 		//Introduction
 		"Shanice.Dialogue.Introduction": "Eh bien bonjour ! J'ai entendu dire que le nouveau fermier emménage aujourd'hui.#$b#Mon nom est Shanice. Mon mari et moi gérons le petit magasin général de Ridgeside.$h#$b#C'est un plaisir de te rencontrer, @.$h",
 		
@@ -11147,6 +11160,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		//SPECIAL THANKS TO LANI!!!! They grammar checked and edited almost everyone new coming to 2.0! You rock Lani!
 		
 		//FESTIVAL DIALOGUE for 2.0
+
+		// Egg Hunt Festival
 		"Festivals.EggFest.Ariah": "Peux-tu ne pas me déranger ? #$b#Je dois encore étudier pour mes procès fictifs.#$e#Je n'aurais pas dû venir à ce festival.$s",
 		"Festivals.EggFest.Maive": "Je vois que les œufs sont de bonne qualité.#$b#Au moins une chose dans ce festival est bien faite.$4",
 		"Festivals.EggFest.Louie": "Ils se moquent de moi !$a#$b#Pensent-ils vraiment qu'ils vont me blesser de cette façon ?$4#$b#J'ai plus d'amis à la maison  !$a#$b#...$s",
@@ -11168,6 +11183,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"Festivals.EggFest.Daia_spouse": "Je préfère chercher une autre paire d'objets ronds.$7#$e#Non rien !$h",
 		"Festivals.EggFest.Jio_spouse": "Je suis sûr que tu vas gagner, mon amour.$h#$b# Montre-leur de quel bois tu te chauffes.",
 		
+		// Flower Dance
 		"Festivals.FlowerDance.Ariah": "Comment digèrer un refus lors d'une invitation à danser ? #$b#Est-ce que cela ressemble à avoir une note inférieure à 18/20 ?$u",
 		"Festivals.FlowerDance.Maive": "Ton grand-père aimait beaucoup ce festival.#$b#Je me souviens qu'il avait sa propre façon de demander à une fille de danser.#$e#Pas qu'il m'ait demandé ou quoi que ce soit.$a#$b#Et même s'il l'avait fait, j'aurais dit non.$4",
 		"Festivals.FlowerDance.Louie": "Trinnie et Keahi s'amusent...",
@@ -11189,6 +11205,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"Festivals.FlowerDance.Daia_spouse": "Ne t'avise pas de danser avec quelqu'un d'autre, d'accord ? $a#$b#Sans me présenter a eux d'abord, bien sûr, pour que je puisse m'amuser un peu avec vous deux.$6",
 		"Festivals.FlowerDance.Jio_spouse": "Je dois m'excuser d'avance si je ne connais pas la danse habituelle de cette ville.$s#$b#Mais je ferai de mon mieux, mon amour.$h",
 		
+		// Luau
 		"Festivals.Luau.Ariah": "J'espère que tu n'as rien apporté de désagréable. #$b#Je ne voudrais pas me ruiner l'estomac à cause de ça. J'ai encore beaucoup de paperasse à rendre.",
 		"Festivals.Luau.Maive": "Le gouverneur et moi avons parlé du récent événement caritatif organisé par la Fondation Amethyne.#$b#Il a dit qu'il espérait en voir d'autres car il a vu que beaucoup d'investisseurs étaient présents.",
 		"Festivals.Luau.Louie": "Je ne comprends pas pourquoi les villageois de RidgeSide et de Pelican veulent que je mange dans cette 'marmite'.$4",
@@ -11210,6 +11227,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"Festivals.Luau.Daia_spouse": "Tu as faim, bébé ? #$b#%Daia se penche pour un baiser.#$b#Viens donc me goûter du bout des lèvres.$7",
 		"Festivals.Luau.Jio_spouse": "Je suppose qu'il est inévitable que tu goûtes la soupe.$s#$b#Fais attention, mon amour.",
 		
+		// Moonlight Jellies
 		"Festivals.Jellies.Ariah": "*soupir* Je pourrais être à la maison en train d'étudier.$s",
 		"Festivals.Jellies.Maive": "Il faudrait faire un peu plus de publicité pour ce spectacle de méduses exotiques.#$b#Cette vallée perd une autre occasion de gagner de l'argent, comme toujours.$s",
 		"Festivals.Jellies.Louie": "Sont-elles jolies ? Oui. Mais quel est l'intérêt de faire cet événement chaque année ? C'est toujours la même chose.",
@@ -11231,6 +11249,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"Festivals.Jellies.Daia_spouse": "Psst, bébé.#$b#Cachons nous dans les buissons sombres là-bas ?$6#$e#Okay ! Ok ! Je vais bien me comporter ! Sheesh !$h#$b#Regardons les Lunaloos ensemble...$l#$b#On peut faire ça plus tard.$6",
 		"Festivals.Jellies.Jio_spouse": "Tu vas bien, mon amour ? #$b#Tu as l'air un peu agité.#$b#Je te serrerai fort tout à l'heure quand les Lunaloos arriveront, alors détends-toi, d'accord ?$h",
 		
+		// Stardew Valley Fair
 		"Festivals.StardewFair.Ariah": "Mais grand-mère, je dois étudier pour le test de demain.$s#$b#Je n'ai pas le temps de me relaxer.$s",
 		"Festivals.StardewFair.Maive": "Ariah, tu es une idiote. $a#$b#On ne peut pas tout apprendre dans les livres, tu sais ?",
 		"Festivals.StardewFair.Louie": "Hé @, j'aurais besoin de ton aide pour distraire Sonny, il n'arrête pas de surveiller chacun de mes mouvements, je suis sûr que tu n'as rien de mieux à faire de toute façon. $4",
@@ -11252,6 +11271,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"Festivals.StardewFair.Daia_spouse": "Bébé ? Gagne-moi ceci et gagne-moi cela, d'accord ? #$b#Tu pourras ensuite en gagner pour toi plus tard.$6",
 		"Festivals.StardewFair.Jio_spouse": "J'espère que tu passes une bonne journée, mon amour.$h#$b#Kiwi et moi allons arpenter la région, alors va t'amuser sans t'inquiéter pour la sécurité de la ville.$h",
 		
+		// Spirit's Eve
 		"Festivals.SpiritEve.Ariah": "La brise d'automne et les gens qui sont là me font me sentir comme à la maison en cette saison...$4#$b#Je suis heureuse d'avoir cette journée pour faire une pause dans mes études.$h#$b#J'ai vraiment hâte de voir si tout le monde s'en sort vivant dans ce labyrinthe.$h",
 		"Festivals.SpiritEve.Maive": "C'est bien que tout semble être en ordre.#$b#Hmm, qu'est-ce que tu es censée être ?",
 		"Festivals.SpiritEve.Louie": "Contemple l'excellence qui se trouve devant toi @. C'est le meilleur costume que tu verras ce soir. $4",
@@ -11273,6 +11293,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"Festivals.SpiritEve.Daia_spouse": "Alors bonjour, bébé.$h#$b#Que penses-tu de ma tenue ? $7#$b#Après les festivités, je pourrais enfiler quelque chose d'encore plus confortable pour toi.$6",
 		"Festivals.SpiritEve.Jio_spouse": "Je suis surpris que tu sois parvenue jusqu'ici, mon amour.#$b#Est-ce que tu es une sorte de sorcier ? $u",
 		
+
+		// Ice Fishing
 		"Festivals.IceFest.Ariah": "Mon grand-père serait triste s'il savait que je ne participe pas au concours, car c'était quelque chose que nous aimions tous les deux faire.$s#$b#Mais j'ai beaucoup de choses à faire et je n'ai pas la patience en ce moment d'attendre que le poisson morde à l'hameçon.$s",
 		"Festivals.IceFest.Maive": "Ce festival n'est qu'une perte de temps et de ressources.#$b#Tu passes beaucoup de temps à attendre le poisson, mais quand tu en attrapes un, on te dit de le laisser partir à la fin de la journée.",
 		"Festivals.IceFest.Louie": "Les sculptures de glace sont cool, je vais demander à grand-mère si je peux en avoir une pour mon anniversaire.$h",
@@ -11294,6 +11316,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"Festivals.IceFest.Daia_spouse": "Bébé ! J'ai froid !$a#$b#Après avoir accroché des poissons, viens m'accrocher aussi, d'accord ?$a#$b#C'est une promesse ! Yay ! Je t'attendrai alors.$7#$e#Gagne vite !$h",
 		"Festivals.IceFest.Jio_spouse": "Je suis sûre que tu peux attraper du poisson plus que quiconque ici, mon amour.$h#$b#Mais fais attention à ne pas perturber l'équilibre de la nature.",
 		
+		// Feast of the Winter Star
 		"Festivals.WinterStar.Ariah": "Les vacances sont une excellente excuse pour faire une pause dans le travail scolaire.#$b#Cependant, mes examens sont dans 3 jours, donc pas de pause pour moi.#$e#J'espère quand même que tu passeras une bonne fête de l'Etoile Hivernale.$h",
 		"Festivals.WinterStar.Maive": "La préparation de cette fête aurait pu être meilleure si elle n'avait pas été si précipitée.#$e#Néanmoins, bonne étoile d'hiver à toi aussi, @.#$b#Que tu sois béni avec la prévoyance que ton grand-père n'a jamais eue.$4",
 		"Festivals.WinterStar.Louie": "Que veux-tu comme cadeau, @ ?#$b#Oh vraiment ? Je m'attendais à ce que tu aspires à plus.",
@@ -11315,6 +11338,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"Festivals.WinterStar.Daia_spouse": "Ok, laisse-moi être réaliste pendant un moment.$6#$b#Je suis reconnaissante d'avoir été affectée à cette vallée et d'avoir rencontré mon amour, @.$7#$b#Hey, je t'aime, tu le sais.$l#$e#Maintenant, c'est fini. Laisse-moi te mordre les lèvres ou le bras ?$6",
 		"Festivals.WinterStar.Jio_spouse": "Tu passes un agréable moment, mon amour ? #$e#Je suis reconnaissant de t'avoir rencontré.$h#$b#Je ferai de mon mieux pour protéger notre famille.$l",
 		
+		// Ridgeside Gathering
 		"Festivals.Gathering.Ariah": "%Ariah soupire.#$b#J'ai encore beaucoup à faire, alors va déranger quelqu'un d'autre...$s",
 		"Festivals.Gathering.Maive": "Madame Lenny, si tu oses recommencer une bataille de nourriture, je te jure que je vais-$a#$b#Monsieur Lewis, je te suggère de discipliner ta sœur.$a#$b#Hmph !$a",
 		"Festivals.Gathering.Louie": "Comme tu le sais, je ne suis pas la personne dont il faut attendre un travail manuel. J'ai plutôt offert aux garçons mon expérience de leader et mon intelligence élevée.$4",
@@ -11336,6 +11360,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"Festivals.Gathering.Daia_spouse": "Seulement acheter et pas de flirt dans les étals, d'accord bébé ? $6#$b#Pas sans moi, bien sûr.$7",
 		"Festivals.Gathering.Jio_spouse": "Je me demande comment les habitants ont mis la main sur des objets aussi précieux et rares.#$b#Mon amour, si tu as des informations à ce sujet, informe-moi s'il te plaît.$h",
 		
+		// Ember of Resolutions
 		"Festivals.EoR.Ariah": "Je pense que je devrais prendre une résolution...#$b#Je devrais m'efforcer de me reposer de temps en temps.#$e#Tu devrais aussi inclure cela dans tes résolutions.#$b#Tu travailles toujours si dur.",
 		"Festivals.EoR.Maive": "Tu as survécu à une année entière, fermier. #$b#Tu es bien plus résistant que je ne le pensais.",
 		"Festivals.EoR.Louie": "Ces enfants, hah ! Ils ont des bâtons et des bûches tellement bon marché.$h#$b#Tu vois ? Ma bûche provient de l'un des arbres les plus rares du monde.$h#$e#La brûler ? Comment oses-tu suggérer une telle idée ?$a#$b#Je vais utiliser ma bûche de secours pour cela.$h#$e#.",
@@ -11368,7 +11393,9 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"ian.14heart.8": "Uhmm... Ok...$8#$b#T-O-U-J-O-U-R-S !$h#$b#Comme quoi ça ne me dérangerait pas de me réveiller devant ton visage pour toujours.$l",
 		"ian.14heart.9": "Quoi ? $u#$b#Uhhh...$8#$b#Uhmmm...$s#$b#Allez, mon amour !$s#$b#C'est un peu trop dur, n'est-ce pas ?$8#$b#Tu aimes me torturer, n'est-ce pas ?$a",
 		
-		//New Events
+//--New Events--//
+
+// Ian 14 heart event part 2
 		"event-75160228.01": "Hmmm...$s#$b#Okay, je pense que je peux mieux gérer les petits mots maintenant !$h",
 		"event-75160228.02": "Très bien ! Je suis prêt pour les mots durs !$h",
 		"event-75160228.03": "Mon amour, donne-moi un mot, et j'essaierai de l'épeler !$h",
@@ -11389,6 +11416,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160228.18": "Oui... $l#$b#Merci, pour tout mon amour.$l#$b#Merci d'avoir fait preuve de patience avec moi et tout...$l#$b#Je suis euh... vraiment heureux de commencer mes journées chargées en me réveillant à tes côtés...$l#$b#Puis en rentrant chez moi, j'attends avec impatience tes câlins !$h#$b#Ça enlève toute la fatigue.$l",
 		"event-75160228.19": "Eh bien... Euh... $l#$b#Apprenons plus de mots, mon amour ? $l#$b#Je veux passer plus de temps avec toi.$l",
 		"event-75160228.20": "Ah ! Mon cerveau est fatigué !$h",
+
+		// Shiro 14 heart event part 2
 		"event-75160238.01": "Je gère toujours. $h",
 		"event-75160238.02": "Oui, je vais bien.$h#$b#Je suis heureux de me souvenir encore de quelques trucs de survie de l'armée.$h",
 		"event-75160238.03": "Cette atmosphère me manque.$h#$b#Tu sais ? Quand j'étais plus jeune, après une longue journée de surf, j'avais l'habitude de passer quelques nuits à la plage comme ça.#$b#La seule différence, c'est que j'étais seul.#$b#Mais ça ne me dérangeait pas, car j'avais l'impression que le bruit des vagues qui s'écrasaient et le feu qui crépitait me tenaient compagnie.#$b#Avec ma planche à côté, et du poisson qui cuisait sur un bâton.$h#$b#Quels merveilleux souvenirs.$h",
@@ -11402,6 +11431,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160238.11": "Ne cesse jamais d'être incroyable, @.$l#$b#Et je ferai de mon mieux pour l'être aussi.#$b#Un jour, je surferai à nouveau sur les vagues.$h#$b#Paula et Harvey ont dit que cela pourrait prendre beaucoup de temps...$s#$b#Mais je ferai de mon mieux.#$b#Même si nos cheveux sont tout gris et blancs.$h",
 		"event-75160238.12": "Quoi ? Je suis incroyable aussi ?$l#$b#Psh ! Oh toi !$h",
 		"event-75160238.13": "Que dis-tu de cela, vivons tous les deux et devenons peut-être meilleurs que ce que nous étions hier.#$b#Vivons, d'accord ? $l",
+		
+		// Philip 14 heart event part 2
 		"event-75160236.01": "Oh ! Désolé, mon coeur !$h#$b#Je lisais justement le numéro de la BD de référence du film que nous allons voir.#$b#Je veux voir ce qu'ils ont gardé et ce qu'ils ont changé !$h",
 		"event-75160236.02": "C'est parti !$h#$b#Woohoo !$h",
 		"event-75160236.03": "Tu vas bien, mon coeur ? #$b#C'est parti !$h",
@@ -11426,6 +11457,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160236.22": "Oh, c'est vrai !$u#$b#On aurait pu faire ça.$s#$b#Bien, c'est embarrassant.$l",
 		"event-75160236.23": "Après un moment, Kiarra est arrivée et nous a donné la copie.#Philip et moi avons regardé le film à la maison.",
 		"event-75160236.24": "C'était génial !$h",
+		
+		// Flor 14 heart event part 2
 		"event-75160226.01": "Je suis content que tu sois là, @ !$h#$b#Ta femme a prévu une merveilleuse soirée pour toi.",
 		"event-75160226.02": "Ouf ! Il y a eu tellement de commandes précipitées !$h#$b#Bienvenue, @ !",
 		"event-75160226.03": "Nous espérons que tu apprécies ta soirée !$h#$b#Nous avons été surpris lorsque Flor nous a demandé de l'aider à préparer quelque chose.#$b#Quelle est l'occasion spéciale?$h",
@@ -11450,6 +11483,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160226.22": "@...$12#$b#Je--$12#$b#Je suis heureuse...$l#$b#Je suis heureuse de t'avoir épousée...$l#$b#J'espère que tu l'es aussi...$l",
 		"event-75160226.23": "Nous avons passé une merveilleuse soirée...",
 		"event-75160226.24": "J'ai remercié tous ceux qui ont fait de notre rendez-vous un succès!$h",
+		
+		// Ysabelle 14 heart event part 2
 		"event-75160240.01": "Heureux de vous voir tous les deux !$h#$b#Maintenant, ce n'est que le design préliminaire, et il est susceptible d'être modifié.#$b#Mais j'aimerais savoir ce que vous pensez tous les deux avant de poursuivre les plans.#$b#Spécialement ta critique, Ysa chérie.$h",
 		"event-75160240.02": "Oh, grand-père !$h#$b# Tu me connais si bien ! Je suis tellement heureuse de mettre le pied dans une salle de bal après toutes ces années !$h",
 		"event-75160240.03": "Merveilleux !$h#$b#Et bien, suis-moi.",
@@ -11479,6 +11514,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160240.27": "Amour ?$l#$b#Merci, pour tout.$l#$b#Tu ne sais pas à quel point je suis reconnaissante de t'avoir dans ma vie.$l#$b#Je t'aime.$l#$b#Je t'aime, @ !$h#$b#Ihi. <$l",
 		"event-75160240.28": "Ysabelle s'est penchée pour un baiser.",
 		"event-75160240.29": "C'était tout simplement merveilleux. N'est-ce pas, mon amour ? $l",
+		
+		// Maddie 14 heart event part 2
 		"event-75160234.01": "Enfin !$h#$b#Arg ! Tu as pris ton temps, tu sais ça ?$9#$b#Mais peu importe, tu es là, c'est tout ce qui compte.$h",
 		"event-75160234.02": "Ok, alors... #$b#Il y a environ un mois, j'ai commandé un colis rempli de tenues de princesse.$h#$b#Ce que tu vas voir n'est que pour tes yeux.$l#$b#Alors n'en parle JAMAIS à personne !$a#$b#Ou bien tu dormiras dans le canapé, compris ?$9",
 		"event-75160234.03": "Génial !$h#$b#J'ai hâte de les porter !$h#$b#J'ai vraiment envie de te les montrer.$l#$b#Alors dis-moi ce que tu en penses, d'accord ?$h",
@@ -11511,6 +11548,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160234.30": "Eh...$l#$b#J'adore ça...$l",
 		"event-75160234.31": "Ne lâche pas cette reine des glaces tout de suite...$l#$b#Serre-moi fort dans tes bras.$l#$b#Je veux rester comme ça pendant un moment.$l",
 		"event-75160234.32": "C'était... Uhm... Chouette.$l",
+		
+		// Belinda arrives
 		"event-75160255.01": "C'est peut-être le jour, Rae...",
 		"event-75160255.02": "J'ai enfin rencontré son héritier.#$b#Tu ne lui ressembles pas beaucoup, n'est-ce pas ?$4#$b#Je suis Belinda, la voyante de la Dame à la queue rouge.#$b#Je suis la seule à pouvoir communiquer avec elle et j'existe donc pour exécuter sa volonté.#$b#Et cela consiste à trouver le royaume de l'Esprit et à nettoyer la corruption spirituelle de cette montagne.#$b#Maintenant, fermier...$h#$b#Je suis heureuse que tu aies réussi à accomplir les tâches.#$b#Honnêtement, tu es la seule personne à pouvoir voir quelque chose dans ce livre.#$b#Tu es... une personne spéciale. D'une certaine façon.$4",
 		"event-75160255.03": "Bon sang !$h#$b#Tu as une aura si intéressante.#$b#Tu es peut-être ce dont j'ai besoin.$h#$b#Viens, suis-moi.#$b#Nous ne pouvons pas perdre plus de temps.#$b#Cette corruption spirituelle doit être nettoyée le plus vite possible.",
@@ -11565,6 +11604,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160255.52": "A demain, petit chou !$6",
 		"event-75160255.53": "Tu devrais te reposer, @.",
 		"event-75160255.54": "Ma grand-mère ?#Le royaume des esprits ?#Et qui était cette voix ?",
+		
+		// Rae unseal
 		"event-75160259.01": "Magnifique travail sur les cristaux, cher fermier.#$b#Maintenant je vais m'occuper du reste.#$b#Décale toi un peu, veux tu ?$h",
 		"event-75160259.02": "Ah...#$b#Je n'ai jamais pensé que je devrais défaire son sceau pour son aide.#$b#Après des années et des années sans m'aider avec mon propre plan.#$b#Je me demande ce qu'elle a trouvé avec le fermier qui l'a fait changer d'avis.$4#$b#Oh bien, nous le découvrirons bien assez tôt.$4",
 		"event-75160259.03": "Ah... $h#$b#Je pense que cela a besoin de plus...",
@@ -11624,6 +11665,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160259.57": "Bel...$4",
 		"event-75160259.58": "Rae...$4",
 		"event-75160259.59": "Tu as déverrouillé de nouvelles pages dans le livre de la Maison Ninja !#Tu as déverrouillé les piédestaux dans les chutes de la crête !#Tu as déverrouillé la fonction d'offrande de l'esprit de la montagne !#Tu peux te rendre aux chutes de la crête et offrir des objets à Raeriyala pour obtenir des bénédictions.",
+		
+		// Kenneth 14 heart event part 2
 		"event-75160232.01": "Il faut se dépêcher !$s",
 		"event-75160232.02": "Et, ça devrait le faire !$h",
 		"event-75160232.03": "Je me demande où est @.$6",
@@ -11640,6 +11683,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160232.14": "Eh bien... Uhh-$u#$b#Je suppose que c'est à ça que ressemble mon monde quand tu n'y es pas ?$l#$b#Oui ! Ehr-Ca faisait partie du plan !$u#$b#C'est embarrassant.$l",
 		"event-75160232.15": "Eh bien, je suis juste heureux d'avoir pu te voir sourire. $h#$b#Pourquoi ne pas rester ici un moment et regarder les étoiles, hein ?$h.",
 		"event-75160232.16": "Ouf ! Je suis désolé que nous ayons dû tout nettoyer ensuite.$h",
+		
+		// Belinda explains crystal quests
 		"event-75160257.01": "Salutations, @.",
 		"event-75160257.02": "Ma dame, le fermier est arrivé.",
 		"event-75160257.03": "Tu es enfin là, fermier.",
@@ -11657,6 +11702,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160257.15": "Oui, ma dame. #$b#J'ai contacté Helen pour qu'elle informe les troupes de la recherche des artefacts restants.",
 		"event-75160257.16": "Splendide !$h#$b#Cet esprit de la montagne agaçant m'a dit que nous avions besoin de nouveaux artefacts.$4#$b#On ne peut pas s'en passer.",
 		"event-75160257.17": "À bientôt, cher fermier.",
+		
+		// Daia introduction
 		"event-75160254.01": "Et ce sont les ordres de la Voyante ? #$b#Je suppose que tu as terminé ta tâche à la ville des ombres avant de venir ici.",
 		"event-75160254.02": "Oui, bien sûr !$h#$b#Qu'attendais-tu de moi, Jio ? $6",
 		"event-75160254.03": "@#$b#Donc, tu es toujours en vie après ta visite dans la forêt.",
@@ -11669,7 +11716,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160254.10": "C'est rassurant d'entendre ça. #$b#Tu peux parcourir mon registre juste là à tout moment.",
 		"event-75160254.11": "Ooh...#$b#Le fameux loup solitaire accepte de l'aide ?$6#$b#Cet endroit vient de devenir beaucoup plus intéressant.$h#$b#J'ai hâte de traîner ici pendant quelques temps.$h",
 		"event-75160254.12": "Je ne fais qu'utiliser les ressources disponibles.$a",
-		"event-75160254.13": "Comme tu veux, mon chou.$h#$b#Maintenant, puisque le fermier-err...#$b#C'est quoi ton nom déjà ?$h",
+		"event-75160254.13": "Comme tu veux, mon chou.$h#$b#Maintenant, puisque le fermier...hum#$b#C'est quoi ton nom déjà ?$h",
 		"event-75160254.14": "@, quel joli nom.$h#$b#D'accord, donc puisque tu aides cette elfe sexy.#$b#Pourquoi ne pas m'aider aussi ?$7#$b#J'ai un tas de petites tâches à faire dans les environs.#$b#Peux-tu t'en occuper pour moi ?$6#$b#Je te promets que ça en vaudra la peine.$7",
 		"event-75160254.15": "Daia, arrête de faire des bêtises.$a",
 		"event-75160254.16": "Ok ! Ok !$h#$b#Mais pour de vrai, ces tâches ont été envoyées spécialement pour toi, fermier @.$6#$b#La Voyante s'intéresse à toi.$7",
@@ -11678,8 +11725,12 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160254.19": "Je ne sais pas pourquoi tu dois faire ces tâches et comment ce livre vide peut t'aider.#$b#Ce truc n'a que des pages blanches !$h#$b#Ou peut-être que tu pourras voir quelque chose que nous ne voyons pas.",
 		"event-75160254.20": "Mais dis-moi si tu trouves quelque chose d'intéressant. $7#$b#Je te donnerai une belle récompense si tu vois ce que je veux dire.$6#$b#Je plaisante !$h",
 		"event-75160254.21": "La boutique du Culte est déverrouillée !#Tu as reçu une quête ! Vérifie le journal des quêtes pour plus d'informations.",
+		
+		// Bliss fetches farmer for Rae Unseal
 		"event-75160258.01": "Tu as terminé ta tâche.#$b#Bien joué.$h",
 		"event-75160258.02": "La Voyante t'attendra sur la crête à 20h#$b#Ne sois pas en retard.",
+		
+		// Naomi returns
 		"event-75160249.01": "Et toutes ces péripéties te sont arrivées en un seul trajet de bus ? $h#$b#Je suis désolée, Naomi, mais c'est juste hilarant !$h#$b#Mais je suis quand même contente que tu sois de retour.$h",
 		"event-75160249.02": "Ugh, ce n'est pas drôle, Lenny.$a#$b#Maintenant je devrais accueillir mes enfants avec une tenue couverte de taches.$s#$b#Que vont-ils penser de leur mère ?$s",
 		"event-75160249.03": "Ma chère, tu peux me remettre ta tenue avant de retourner au village.#$b#Je le ferai nettoyer à l'hôtel et te le rendrai une fois restauré.$h#$b#Tu devrais aller voir tes enfants, Naomi.#$b#Je suis sûre que tu leur manques.",
@@ -11726,9 +11777,13 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160249.44": "Uhm... Maman ? Où est papa ?",
 		"event-75160249.45": "Ton père a dû rester là bas pour le moment.$s#$b#Mais ne t'inquiète pas, nous pourrons l'appeler plus tard.$h#$b#Pour l'instant, rentrons à la maison, d'accord ?$b#Cela a été une longue journée.$h",
 		"event-75160249.NaomiAlone.01": "Je parie que Shiro et Yuuma seront heureux de revoir leur maman.",
+		
+		// Naomi hotel expansion notice
 		"event-75160250.01": "Je suis désolé de te rendre visite si tôt @.#$b#Mais j'ai promis de t'avertir lorsque l'expansion de l'hôtel sera terminée.$h",
 		"event-75160250.02": "Je suis heureux que tu aies l'air ravi.$h#$b#Richard s'est également associé à Malaya Liden. Elle a également ouvert un café dans le hall de l'hôtel.#$b#Il semble que tu aies plus d'options de services dans le village maintenant.$h#$b#Viens nous rendre visite quand tu auras le temps.#$b#Comme le maire de cette ville, Lewis, l'a déclaré : 'Une partie des revenus touristiques de Ridgeside va à Pelican Ville'$s#$b#Même si, pour être honnête, vu la vitesse à laquelle Ridgeside se développe, elle pourrait un jour devenir une ville indépendante.$h#$b#Et je suis sûr que ces frères et sœurs s'en inquiètent.$h#$b#Lewis étant envieux et Lenny ayant peur de plus de paperasse et de responsabilités.$h#$b#Oh, comment cette vallée parvient encore à être viable doit être un miracle, surtout sous la direction de ces deux-là.$s",
 		
+
+		// Kimpoi and Malaya return
 		"event-75160251.01": "Mon amour... C'est embarrassant...$s#$b#Combien de temps sommes-nous partis pour ne pas savoir où aller ?$s",
 		"event-75160251.02": "Hm... Laisse-moi réfléchir... #$b#Peut-être que nous pourrions...",
 		"event-75160251.03": "Hm...",
@@ -11807,12 +11862,19 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160251.76": "Maman ! Vous avez entendu ça aussi !$u#$b#C'est vraiment embarrassant...$s",
 		"event-75160251.LidensAlone.01": "Je parie que les Lidens vont avoir de merveilleuses retrouvailles.",
 		
+		// Kimpoi notice - shop opening
 		"event-75160252.01": "Bonjour, @.#$b#Uh... Belle matinée n'est-ce pas ? $h",
-		"event-75160252.02": "Quoi qu'il en soit, je suis venu ici pour te dire que je vais enfin rouvrir la boutique de semences du Verger Rossignol.#$b#Je vais y vendre des arbres fruitiers étrangers et exotiques, tout comme ceux que tu vois plantés dans notre ferme.$h#$b#Je-er, J'espère que tu pourras nous rendre visite bientôt, collègue agriculteur.",
+		"event-75160252.02": "Quoi qu'il en soit, je suis venu ici pour te dire que je vais enfin rouvrir la boutique de semences du Verger Rossignol.#$b#Je vais y vendre des arbres fruitiers étrangers et exotiques, tout comme ceux que tu vois plantés dans notre ferme.$h#$b#Je..euh, J'espère que tu pourras nous rendre visite bientôt, collègue agriculteur.",
+		
+		// Kimpoi notice - new trees
 		"event-75160253.01": "Bonjour, @.",
 		"event-75160253.02": "Je suis venu te dire que le Verger Rossignol aura de nouvelles marchandises à partir de cette année.#$b#Plus de jeunes arbres que ma femme et moi avons collectés au cours de nos voyages.#$b#Si ça t'intéresse, passe quand tu veux.$h",
+		
+		// Health clinic
 		"event-75160253.healthCheckup.01": "Ca y est tu devrais aller mieux !$h#$b#Tu devrais faire plus attention la prochaine fois.#$b#Okay ?$h",
 		"event-75160253.staminaCheckup.01": "Et voilà !$h#$b#Tu devrais faire plus attention la prochaine fois.#$b#Okay ?$h",
+		
+		// Rae and Bel secret event
 		"event-75160261.01": "Malgré le fait que tu m'aies mis à l'écart.$s#$b#Je n'ai pas pu trouver la force de me mettre en colère contre toi, Bel.$4",
 		"event-75160261.02": "Silence, Rae.$a#$b#J'ai dû te sceller pour que tu ne m'empêches pas d'ouvrir le portail !$a#$b#Tu n'as pas arrêté de t'y opposer, en disant que c'est pour mon bien.$a#$b#Pourquoi ne m'as-tu pas simplement laissé faire ce que je voulais faire ?$a#$b#Tu sais que c'est pour toi, n'est-ce pas ? Pour que je puisse nettoyer cette terre maudite que nous appelions autrefois notre maison !$a#$b#Pour que cette montagne soit nettoyée, et que tu n'aies plus à porter le fardeau de garder ces créatures maléfiques loin de ces humains seuls.$a#$b#Je pourrais m'en occuper !$a",
 		"event-75160261.03": "Et ensuite quoi, Bel ? Je te perds ? $a#$b#Nous connaissons toutes les deux le prix à payer si un autre esprit pénètre dans le royaume alors qu'il est sous le contrôle de Gabriella.$s#$b#Spécialement toi, qui était autrefois l'un des siens--$s",
@@ -11822,9 +11884,13 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160261.07": "Elle nous manque à tous les deux...$s#$b#Mais je ne pense pas qu'elle serait heureuse de voir ses amis se battre comme ça.$4#$b#Pas vrai ? $4",
 		"event-75160261.08": "Eh bien, oui.$4#$b#Tu as raison.$4#$b#Oh, comme tu m'as manquée, mon amour.$4",
 		"event-75160261.09": "Et toi aussi, mon amour.$4#$b#Tout ce que je sais, c'est que... Les choses s'améliorent...$h#$b#Et tout finira par s'arranger.$h",
+		
+		// Rae explains offerings
 		"event-75160260.01": "Tu me cherches, ô fermier ?",
 		"event-75160260.02": "Je réside partout dans la montagne comme la force qui fait avancer la flore et la faune, Oh @.$h#$b#Mais si jamais tu as besoin de me parler, tu peux le faire en offrant n'importe quoi dans ces eaux.#$b#Tiens-toi juste au bord là-bas.",
 		"event-75160260.03": "C'est ça.$h#$b#Tu n'as qu'à lever un objet et interagir avec l'eau.#$b#Tâche de m'apporter des offrandes appropriées, d'accord @ ?$4#$b#Ces offrandes me rendent vraiment heureuse !$h#$b#Qui sait ? Je pourrais même te raconter des histoires intéressantes sur certains objets.#$b#Ou même te donner des bénédictions en échange de belles offrandes !$h#$b#J'ai hâte de te voir bientôt, oh @.$h",
+		
+		// Opening the spirit realm portal
 		"event-75160256.01": "Tu as réussi, @ !$h#$b#Tu as activé tous les piédestaux !$h#$b#Merci beaucoup pour ton travail acharné.$4",
 		"event-75160256.02": "Quel spectacle merveilleux !$h#$b#Beau travail, cher fermier.$4",
 		"event-75160256.03": "Il est temps pour nous d'ouvrir le portail, mon amour.",
@@ -11851,6 +11917,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160262.12": "Nous continuerons à protéger la vallée d'ici, ô fermier.#$b#Bonne chance !$h",
 		"event-75160262.13": "Rends ta grand-mère fière.",
 		
+		// Spirit realm saved
 		"event-75160265.01": "Oh, fermier !$4#$b#Tu as réussi !$h#$b#La corruption a été arrêtée !#$b#Cette terre est maintenant hors de portée de Gabriella.$h#$b#Nous sommes si heureux ! Nous te sommes éternellement reconnaissants.$4",
 		"event-75160265.02": "Il y aurait encore des monstres échoués et des esprits tordus dans les forêts.$s#$b#Mais nous pouvons nous en occuper nous-mêmes.#$b#Tu as rendu ta grand-mère fière, cher fermier.$4#$b#Merci.$4",
 		"event-75160265.03": "Merci, @.$h",
@@ -11887,20 +11954,30 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160265.34": "Mais j'admets... #$b#Je ne te fais toujours pas confiance.#$b#Tu es venu ici à un moment si opportun, un moment où les activités de Gabriella semblent avoir diminué.#$b#Pardon si je suis sceptique.#$b#Mais il vaut mieux être sûr.#$b#Alors je garderai un œil sur toi.",
 		"event-75160265.35": "Adieu.",
 		"event-75160265.36": "Un nouvel endroit a été révélé au sommet de la montagne à l'ouest!#Jio et Daia peuvent maintenant être romancés !#De nouvelles quêtes et pages ont été ajoutées à la Maison des Ninjas !#Les cristaux sur toute la montagne se sont transformés en portails !",
+		
+		// Spirit Realm saved - spirits
 		"event-75160264.01": "'Merci...' # 'Nous sommes libérés de son emprise...' # 'Nous pouvons reposer en paix...' # 'Merci...'",
 		"event-75160263.01": "Une voix se fait entendre au loin.#'Mon emprise sur la vallée!'#'Elle s'affaiblit !? Qui est responsable de cela ? #'QUI ! ?",
 		"event-75160263.02": "La voix s'est estompée...",
+		
+		// Bliss Phantom Greenhouse first event
 		"event-75160266.01": "Hm ?#$b#Je pense que tu feras l'affaire.",
 		"event-75160266.02": "Si tu veux sauver une âme, reviens ici avant minuit.#$b#Et entre dans ce bâtiment.",
 		"event-75160266.03": "Pas de porte ? #$b#Hmm, tu verras bien assez tôt.$h#$b#Retourne ici à minuit, fermier.",
+		
+		// Bliss Phantom Greenhouse second event
 		"event-75160268.01": "Intéressant.#$b#Ce que tu as fait semble affecter cette structure maudite.",
 		"event-75160268.02": "Non, tu n'étais pas en danger. #$b#Cette structure est juste coincée entre le royaume des esprits et le royaume physique.#$b#Elle est maudite, et il y a une entité solitaire à l'intérieur.",
 		"event-75160268.03": "Plus de questions.#$b#Retourne ici avant minuit.#$b#Je soupçonne que quelque chose d'intéressant pourrait se produire.",
+		
+		// Bliss Phantom Greenhouse third event
 		"event-75160271.01": "Intéressant...#$b#Tu as réussi à sauver cette âme, fermier.$h#$b#La Voyante avait raison, tu as une magie intéressante.",
 		"event-75160271.02": "Cette âme était une ancienne gardienne de cette serre.#$b#Un jour, elle a eu la malchance que des forces maléfiques lui jouent un tour cruel.#$b#Et elle et sa serre bien-aimée ont été maudites.#$b#Mais, je suis heureux qu'elle soit en paix maintenant.#$b#Tout cela grâce à toi, fermier.$h",
 		"event-75160271.03": "Eh bien, nous n'avons aucune utilité pour cet endroit. #$b#Libre à toi de l'utiliser, @.",
 		"event-75160271.04": "A la prochaine.",
 		"event-75160271.05": "Tu as débloqué la serre de la Marche !",
+		
+		// Lost Princess arc first event
 		"event-75160272.01": "Acorn, nous sommes en train de nous faire tremper !$s#$b#Est-tu certain d'avoir senti sa présence ici ?",
 		"event-75160272.02": "Chip chip ! Acorn est sûr !$a#$b#Acorn a ressenti la magie de la princesse pendant un tout petit moment.$s",
 		"event-75160272.03": "Mais je ne ressens rien pour le moment.#$b#Y avait-il une heure et un jour précis, mon ami ?",
@@ -11925,6 +12002,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160272.22": "Oui, nous devrions. $h",
 		"event-75160272.23": "@ ! Je suis désolé de devoir écourter notre conversation.#$b#Nous devrions y aller maintenant.$h#$b#A plus !$h",
 		"event-75160272.24": "Buh-bye, humain !$h",
+		
+		// Lost Princess arc second event
 		"event-75160273.01": "Nous devions rencontrer ce fermier, Pipo.#$b#J'ai un pressentiment.$h",
 		"event-75160273.02": "Am i!$h#$b#Acorn content de te revoir !$h",
 		"event-75160273.03": "Bonjour, @ !$h",
@@ -11987,19 +12066,27 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160273.60": "Merci beaucoup, princesse.$h",
 		"event-75160273.61": "Oh, et @...#$b#Ne me traite pas différemment maintenant parce que nous avons découvert que je suis une princesse, d'accord ? $h#$b#Nous ferons toujours notre partie de cache-cache quotidienne !$h#$b#Et je perfectionnerai toujours mon art du vol à la tire!$h",
 		"event-75160273.62": "Il est maintenant possible de faire des cadeaux à Undreya..#Le jeu de cache-cache d'Undreya peut maintenant être désactivé par le biais de son calendrier.",
+		
+		// Phantom greenhouse spirit meeting
 		"event-75160267.01": "Un froid glacial a parcouru ta colonne vertébrale.",
 		"event-75160267.02": "Tu entends une voix faible.",
 		"event-75160267.03": "'???' : 'S'il te plaît.... Reste...#Je ne veux pas être seule...",
 		"event-75160267.04": "Une force inconnue semble s'accrocher à toi.",
 		"event-75160267.05": "Tu as très sommeil.# Pendant ton sommeil, tu as l'impression d'avoir été transportée chez toi...",
 		"event-75160267.06": "'???' : 'Merci... tu...'.",
+		
+		// Phantom greenhouse quest giving
 		"event-75160269.01": "'???' : 'Ami...'#'Tu es revenu...'#'Cela me rend.... Si heureuse...'",
 		"event-75160269.02": "'???' : 'Ami.... J'ai besoin de ton aide...'# 'L'homme violet et la dame m'ont retenu captif...'.",
 		"event-75160269.03": "'???' : 'Je ne connais pas leurs noms...'#'Tout ce dont je me souviens, c'est qu'ils m'ont lancé un défi mais que j'ai échoué...'#'Peut-être que si tu terminais ce défi pour moi, je pourrais être sauvé...'#'S'il te plaît... Ami... Libère-moi...'",
 		"event-75160269.04": "'???' : 'Merci....",
 		"event-75160269.05": "Un aperçu soudain du défi inconnu est apparu dans ton esprit !",
 		"event-75160269.06": "'???' : 'Je t'ai donné les détails de la quête...'#'Merci, encore une fois...'#'J'attendrai ton succès...'.",
+		
+		// Phantom greenhouse curse lifted
 		"event-75160270.01": "'???' : 'Ami.... Tu l'as terminé...'#'La malédiction semble se lever...'#'Merci... Merci...'#'Je peux enfin être en paix...'",
+		
+		// Alissa 14 heart event part 1
 		"event-75160221.01": "*Chante* Tu es la chose la plus douce que je connaisse...$6#$b#Tu devrais voir la façon dont mon monde s'illumine quand tu me tiens dans tes bras dans le noir...$6",
 		"event-75160221.02": "@ !$a#$b#Ne te faufile pas derrière moi !$l#$b#C'est embarrassant !$l",
 		"event-75160221.03": "@...$7",
@@ -12011,6 +12098,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160221.09": "Je vais te montrer !$h#$b#Faisons bientôt un pique-nique sur la falaise, d'accord ?$b#Prépare-toi à goûter certains des meilleurs plats sur lesquels tu poseras tes papilles !$h",
 		"event-75160221.10": "...et d'autres surprises.$l#$b#Teehee <$h",
 		"event-75160221.11": "Non rien mon amour !$h#$b#Retrouve-moi ici à la maison à partir de demain entre 10h00 et 16h00 par une journée ensoleillée, d'accord ?#$b#Teehee <$h",
+		
+		// Alissa 14 heart event part 2
 		"event-75160222.01": "Prêt à partir ? $u#$b#J'ai notre nourriture emballée et je suis prête pour le départ !$h",
 		"event-75160222.02": "Voilà ! Tout est prêt !$h#$b#Alors ? Qu'est-ce que tu en penses, mon coeur ? $u#$b#Elles ont l'air délicieuses, n'est-ce pas ?$h",
 		"event-75160222.03": "Bien sûr ! Je me suis tellement entraînée !$h",
@@ -12037,6 +12126,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160222.24": "Bon sang...$s#$b#C'est embarrassant !$7",
 		"event-75160222.25": "Ces biscuits salés étaient les plus doux.#Elle apporte de la musique dans ma vie...#J'ai de la chance de l'avoir.",
 		"event-75160222.26": "Je dois m'améliorer en cuisine !$h",
+		
+		// Corine 14 heart event part 1
 		"event-75160223.01": "Salut, mon coeur.$s#$b#Je suis désolée d'arriver à la maison si tard...$s#$b#Tu devais t'inquièter...$s",
 		"event-75160223.02": "Corine t'embrasse.",
 		"event-75160223.03": "Serre-moi fort...$l#$b#Tu es ma consolation après une dure journée de travail.$l",
@@ -12048,6 +12139,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160223.09": "Corine t'embrasse à nouveau.",
 		"event-75160223.10": "Nous irons mardi prochain par temps clair, d'accord ? $h#$b#Maintenant, gâte ta femme fatiguée avec des câlins et des caresses...$l",
 		"event-75160223.11": "Amour ?...$l#$b#Porte-moi aussi au lit...$l#$b#S'il te plaît ?..$l#$b#Je te rembourserai avec des câlins quand nous y serons !$h",
+		
+		// Corine 14 heart event part 2
 		"event-75160224.01": "Nous sommes prêts !$h#$b#Assure toi d'avoir pris tes armes avec toi, amour !$h",
 		"event-75160224.02": "Comment tu tiens le coup, mon amour ? $h#$b#Allons leur botter le derrière !$7",
 		"event-75160224.03": "Je t'ai fait peur pendant une seconde, hein ? $h",
@@ -12062,6 +12155,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160224.12": "Mon amour.$l#$b#Je n'arrive pas à croire que j'ai autant de chance de t'avoir dans ma vie.$h#$b#Je n'ai pas pu m'en empêcher.$l",
 		"event-75160224.13": "Eh bien ?$l#$b#Tu te contenterais d'un baiser sur une joue ?$l",
 		"event-75160224.14": "Eh bien, c'était une belle expédition.$l",
+		
+		// Flor 14 heart event part 1
 		"event-75160225.01": "@ ?",
 		"event-75160225.02": "Suis-je une bonne épouse ?",
 		"event-75160225.03": "En termes d'efficacité, de qualité, d'apparence, d'effort, d'honnêteté... #$b#%Flor poursuit en mentionnant de nombreuses autres variables.",
@@ -12070,18 +12165,24 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160225.06": "Je vais orchestrer l'activité romantique parfaite pour nous !$h",
 		"event-75160225.07": "J'ai hâte d'y être !$h#$b#En attendant, retiens ta réponse à ma question de tout à l'heure jusqu'après mon test.#$b#Okay ?$l",
 		"event-75160225.08": "Retrouve-moi à l'Hôtel Cabane en Rondins ce soir, @.#$b#Entre 20h et 22h.#$b#Habille toi de façon décontractée ou formelle si tu le souhaites, d'accord ?$l#$b#Je te verrai là-bas !$h",
+		
+		// Ian 14 heart event part 1
 		"event-75160227.01": "Ouf...$s#$b#Ah ! J'ai oublié d'aller à la bibliothèque aujourd'hui.$s",
 		"event-75160227.02": "Oh ! mon amour !$h#$b#Quel est le problème ?#$b#Eh bien... Je pense que j'ai des problèmes avec mes leçons.$s",
 		"event-75160227.03": "Dernièrement, j'ai été trop occupée pour prendre le temps de lire.#$b#Et j'ai peur d'oublier ce que j'ai appris auparavant !$s#$b#Je suis dans le pétrin.$s",
 		"event-75160227.04": "M'aider ? #$b#Je veux dire, j'aimerais bien que tu m'aides, mon amour !$l#$b#Mais je pensais que tu n'avais pas le temps ?",
 		"event-75160227.05": "Ah chouette.$l#$b#Je suis content que tu aies du temps pour moi.$l",
 		"event-75160227.06": "Ok alors.#$b#Retrouve-moi à la bibliothèque du musée vendredi !$h#$b#J'ai besoin d'aide pour certains mots difficiles.$h#$b#Comme épeler le mot construction.$s#$b#C'est 'K-O-N-S-T-R-O-C-S-H-U-N'?$l#$b#Je sais qu'il y a un 'C' quelque part !$h",
+		
+		// Jeric 14 heart event part 1
 		"event-75160229.01": "Hé, bébé !$h#$b#Lenny a envoyé une invitation pour un concours !$h#$b#Tu veux l'ouvrir avec moi ? $6",
 		"event-75160229.02": "Très bien, c'est parti.",
 		"event-75160229.03": "Jeric ouvre la lettre d'invitation.",
 		"event-75160229.04": "Woah ! C'est une lettre très colorée !$h#$b#'Chers Jeric et @,#$b#Vous êtes invités à participer à un concours de couples spontané au Village de Ridgeside ce soir, organisé par votre serviteur, la belle Lenny !'#$b#'Le gagnant recevra un fabuleux prix en argent ! Généreusement offert par l'hôtel Cabane en Rondins et Amethyne Corporation !#$b#Soyez là et prouvez que votre amour est plus grand que celui de n'importe qui d'autre !'#$b#'- Lenny'#$b#Et c'est tout, bébé.$h",
 		"event-75160229.05": "Hé ! Ça a l'air amusant !$h#$b#Allez, @ ! Participons !$8#$b#C'est une bonne façon de se détendre, non ? $h#$b#Je suis sûr que nous gagnerons, bébé !$8",
 		"event-75160229.06": "C'est ça l'idée !$h#$b#Ah ! Je ne peux pas attendre !$h#$b# Partons tous les deux au village tout à l'heure.#$b#L'événement commencera tard, alors retrouve-moi ici à 20h. D'accord, bébé ?$h",
+		
+		// Jeric 14 heart event part 2
 		"event-75160230.01": "Tout est prêt, bébé ? $h",
 		"event-75160230.02": "Gagnons !$h",
 		"event-75160230.03": "Bonsoir à tous !$h#$b#Et bienvenue au concours de couples puissants de Lenny !$h#$b#Je suis votre hôte, Lenny ! Et nous allons commencer par vous présenter nos concurrents !$h#$b#.",
@@ -12133,17 +12234,23 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160230.49": "Hé...$l#$b#Je veux juste te dire que je t'aime bébé.$l#$b#Et merci de m'avoir suivi dans mes combines.$h#$b#Même si nous n'avons pas gagné ce soir, je m'en fiche.$l#$b#Car je sais que j'ai gagné le cœur de la personne la plus incroyable que j'ai jamais rencontrée.$7",
 		"event-75160230.50": "Allez !$h#$b# Rentrons à la maison et continuons ce moment là-bas.$l",
 		"event-75160230.51": "Wooh ! C'était amusant !$h",
+		
+		// Kenneth 14 heart event part 1
 		"event-75160231.01": "Hé, @.#$b#Retrouve-moi à la crête ce soir, ok ? $h",
 		"event-75160231.02": "Oh ? Pourquoi ? $3#$b#Nous allons...$l#$b#Uhm, oui. Trainer dans la forêt !$h",
 		"event-75160231.03": "Euh, fais-moi confiance !$6#$b#Ce sera amusant.$9#$b#C'est-uhm...$6#$b#Sain !$h#$b#Oui j'ai entendu dire que c'était sain et romantique !$h",
 		"event-75160231.04": "Retrouve-moi là-bas à 20 heures, d'accord ? $l",
 		"event-75160231.05": "Oui ! Tu as accepté!$h",
+		
+		// Maddie 14 heart event part 1
 		"event-75160233.01": "Oui!$h",
 		"event-75160233.02": "Oh rien, c'était juste moi qui était excitée par quelque chose d'idiot. $l#$b#Tu n'as rien vu !$h",
 		"event-75160233.03": "Teehee <$h#$b#Il faudra que j'aille chercher le paquet !$h",
 		"event-75160233.04": "C'est un secret, et je ne te le dirai pas encore, alors arrête de fouiner.$h#$b#Viens juste me retrouver dans mon ancienne maison au village de Ridgeside.$6#$b#Ok, mon coeur ?$9",
 		"event-75160233.05": "On se voit là-bas!$h",
 		"event-75160233.06": "Je suis juste en train de réparer mes affaires. Je vais rattraper le temps perdu.$h",
+		
+		// Philip 14 heart event part 1
 		"event-75160235.01": "Woohoo !$h",
 		"event-75160235.02": "@ !$h#$b#Kiarra a dit qu'elle a pu le trouver ! Un livestream limité du film original d'Incrediman !$h#$b#Nous devons y aller maintenant !$h#$b#Allez, chérie !$h",
 		"event-75160235.03": "Oh !$u#$b#Je suis désolé, mon amour. L'excitation m'a emporté.$s#$b#Mais oui, si tu veux ?$b#Tu veux te joindre à moi ?$l",
@@ -12154,6 +12261,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160237.03": "Je voulais juste faire une activité de plein air avec toi pour changer. #$b#Ça doit être ennuyeux de voir ton mari enfermé à l'intérieur de la maison presque à chaque fois que tu pars et que tu reviens, n'est-ce pas ? #$b#Profitons de chaque moment quand nous le pouvons, d'accord ?$h",
 		"event-75160237.04": "Génial ! Je te retrouve à la plage plus tard dans la soirée, à 20h.$h#$b#Philip et Yuuma ont dit qu'ils m'aideront à m'installer, alors tu n'as pas à t'inquiéter.",
 		"event-75160237.05": "Très bien, je pense que je devrais faire la liste des choses que je dois apporter.",
+		
+		// Ysabelle 14 heart event part 1
 		"event-75160239.01": "Amour !$h#$b#WAW !$h",
 		"event-75160239.02": "Ok, voici l'essentiel.#$b#Grand-père a pensé à ajouter une salle de bal pour l'hôtel.#$b#Et il a récemment mis en place un prototype pour voir si cela fonctionnerait.#$b#Je ne sais pas ce qu'il voulait dire par là, mais tout ce que je sais, c'est qu'il nous a invités tous les deux à le voir !$h#$b#Nous jugerons si le design est bon ou pas, quelque chose comme ça.$h",
 		"event-75160239.03": "Ah ! Je suis excitée !$h#$b#Cela fait un moment que je n'ai pas été dans une salle de bal, alors pardonne mon enthousiasme.$13",
@@ -12256,10 +12365,22 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		
 		"RSV.SpecialOrder.ExoticIngredients_Name": "Ingrédients exotiques !",
 		"RSV.SpecialOrder.ExoticIngredients_Text": "J'ai essayé de trouver de nouvelles recettes avec des ingrédients uniques comme l'insaisissable palourde à pointe cramoisie, les pluots cerises, les lilas de lave et les fruits Tropi Ugli ! Quelqu'un veut-il m'aider ?",
-		"RSV.SpecialOrder.ExoticIngredients_Objective1_Text": "Fais don de 1 palourde à pointe cramoisie",
-		"RSV.SpecialOrder.ExoticIngredients_Objective2_Text": "Donne 10 Pluot cerise",
-		"RSV.SpecialOrder.ExoticIngredients_Objective3_Text": "Donne 30 Lilas de lave",
-		"RSV.SpecialOrder.ExoticIngredients_Objective4_Text": "Donne 10 fruits Tropi Ugli",
+		"RSV.SpecialOrder.ExoticIngredients_Objective1_Text-spring": "Faire don de 1 alourde à pointes cramoisies",
+		"RSV.SpecialOrder.ExoticIngredients_Objective2_Text-spring": "Faire don de 10 Prunicot cerise",
+		"RSV.SpecialOrder.ExoticIngredients_Objective3_Text-spring": "Faire don de 10 Prunicot des montagnes",
+		"RSV.SpecialOrder.ExoticIngredients_Objective4_Text-spring": "Faire don de 20 Roquette de montagne",
+		"RSV.SpecialOrder.ExoticIngredients_Objective1_Text-summer": "Faire don de 1 Esturgeon à queue de lame",
+		"RSV.SpecialOrder.ExoticIngredients_Objective2_Text-summer": "Faire don de 10 Rangpur paradis",
+		"RSV.SpecialOrder.ExoticIngredients_Objective3_Text-summer": "Faire don de 10 Fruit Tropi Ugli",
+		"RSV.SpecialOrder.ExoticIngredients_Objective4_Text-summer": "Faire don de 20 Chico de Montagne",
+		"RSV.SpecialOrder.ExoticIngredients_Objective1_Text-fall": "Faire don de 1 Anguille réparatrice",
+		"RSV.SpecialOrder.ExoticIngredients_Objective2_Text-fall": "Faire don de 10 Limequat du nord",
+		"RSV.SpecialOrder.ExoticIngredients_Objective3_Text-fall": "Faire don de 10 Jostaberry des haut plateaux",
+		"RSV.SpecialOrder.ExoticIngredients_Objective4_Text-fall": "Faire don de 20 Lila de lave",
+		"RSV.SpecialOrder.ExoticIngredients_Objective1_Text-winter": "Faire don de 1 Méduse du septum cardia",
+		"RSV.SpecialOrder.ExoticIngredients_Objective2_Text-winter": "Faire don de 5 Corégone de montagne",
+		"RSV.SpecialOrder.ExoticIngredients_Objective3_Text-winter": "Faire don de 20 Gaulthérie de la Sierra",
+		"RSV.SpecialOrder.ExoticIngredients_Objective4_Text-winter": "Faire don de 20 Baies en motte givrée",
 		
 		"RSV.SpecialOrder.HotelPower_Name": "Alimentation de secours de l'hôtel !",
 		"RSV.SpecialOrder.HotelPower_Text": "Au cas où ! J'ai pensé qu'il serait sage d'avoir des réserves de sources d'énergie pour l'alimentation de l'hôtel si jamais le village connaît des pannes soudaines.",
@@ -12291,7 +12412,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"RSV.SpecialOrder.MythFlower_Name": "La Fleur Mythique !",
 		"RSV.SpecialOrder.MythFlower_Text": "Cette fleur insaisissable et mythique doit exister quelque part. Je remettrai un beau prix à tout adepte qui pourra m'apporter cette fleur. La littérature sur son mythe est stockée dans l'une des étagères de la base. Utilise-la.",
 		"RSV.SpecialOrder.MythFlower_Objective1_Text": "Fais un don de Fleur de renard",
-		
+		"RSV.SpecialOrder.MythFlower_BelText": "Superbe travail, cher fermier.#$b#Maintenant, pars !$a#$b#Et ne dis pas à mon aimé que c'est toi qui à trouvé ça, ok ?$h",
+
 		"Mail.DaiaDate": "Hé bébé,^^ Viens dans la forêt de la crête à minuit.^^Gros bisous, Daia.",
 		
 		"event-75160200.01": "Je suis désolé une fois de plus.$s",
@@ -12312,6 +12434,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160200.16": "Jio attrape le côté de ton visage avec ses mains.",
 		"event-75160200.17": "Je veux juste te dire...#$b#Merci, d'avoir aidé à ouvrir le portail de ce lieu.#$b#Merci, pour l'opportunité de tourner la page sur mon passé.#$b#Et merci, d'être là dans ma vie.$h",
 		"event-75160200.18": "'Merci... Pour lui avoir appris à aimer...'#'Puissiez-vous tous deux vivre une vie heureuse...'",
+		
 		"event-75160202.01": "Fascinant.#$b#Je n'avais jamais pensé que le sable spirituel était littéralement des perles écrasées.$h#$b#Cet endroit est dingue.$h#$b#Je suppose que je ferai d'autres tests plus tard à la base principale.#$b#Je dois encore comprendre pourquoi elles émettent une douce lueur bleue.$s",
 		"event-75160202.02": "Et pourquoi ce joli humain reste-t-il planté là ? $6#$b#Salut, @ !$h",
 		"event-75160202.03": "Qu'est-ce qui t'amène ici, @?$h#$b#Juste en train d'explorer?#$b#Ou à la recherche de mes vieux os ?$6",
@@ -12364,6 +12487,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160201.37": "J'ai marché avec Daia jusqu'à ce que nous soyons sur la crête.",
 		"event-75160201.38": "Merci de ne pas avoir grillé ma couverture!$h#$b#Bisous, petit chou !$h",
 		"event-75160201.39": "J'ai obtenu les données dont j'avais besoin !$h",
+		
 		"event-75160203.01": "*Baille...*",
 		"event-75160203.02": "Oh ! Bonjour, petit chou !$h#$b#Ce n'est pas un plaisir ? Pouvoir voir ton visage si tôt.$6",
 		"event-75160203.03": "Hm ? Où sont mes vêtements ?",
@@ -12378,6 +12502,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"event-75160204.06": "C'est bien de profiter des choses normales de temps en temps, tu sais ? $h#$b#Loin des monstres, loin de tout le gore, loin de tous les ordres d'assassinat et des recherches dans un autre monde.#$b#Juste profiter de la normalité de temps en temps me permet de rester saine d'esprit.$h#$b#Cher Yoba, j'ai déjà du mal à tenir le coup.$h#$b#Je ne sais pas...$s#$b#Peut-être que j'essaie juste de compenser la perte de mon enfance que je n'ai jamais eue avec des choses comme celles-ci...$s",
 		"event-75160204.07": "Wow, je ne sais pas d'où ça vient.$h#$b#Tu n'as rien entendu.$6",
 		"event-75160204.08": "En tout cas, il est temps de partir.$h#$b#Retournee au travail, n'est-ce pas fermier ? $h#$b#A plus, @.",
+		
 		"event-75160205.01": "Tiens, c'est mon petit chou @ ?$h#$b#Tu veux te joindre à moi ? #$b#Je promets de bien me tenir. $6",
 		"event-75160205.02": "Teehee ! <$h#$b#Regardes-nous, sous la lune, sur un toit.$6#$b#N'est-ce pas romantique ?$7",
 		"event-75160205.03": "Ok, ok ! Je vais bien me comporter!$h",
@@ -12450,4 +12575,111 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 		"Offering.Frost.1": "Ah ! La pierre légendaire de l'hiver !$h#$b#Elle appartenait autrefois à l'esprit des blizzards et de la neige.#$b#Mais elle a rendu son pouvoir un peu trop froid au point d'apporter de la tristesse aux humains du village avec lesquels il a établi un lien.$s#$b#Ce n'est qu'un morceau d'un artefact autrefois puissant, bien qu'il le soit toujours.#$b#Son aura froide empêche les redoutables Spectres de t'approcher, alors il peut t'être utile.#$b#So here you go !$h",
 		"Offering.Music.1": "La boîte de Meladila ! Elle est ici au village !$u#$b#C'est une surprise !$h#$b#Cette relique était le jouet préféré de l'esprit de l'harmonie !$h#$b#Sa musique semble empêcher ces affreux Viperials de s'approcher de toi.#$b#Je vais donc te la rendre, j'espère qu'elle te sera utile.$h",
 		"Offering.Hero.1": "Oh ! Ce n'est pas la statue de Cyril ? $h#$b#Il était autrefois un brave aventurier qui a sauvé ce village d'une horde de bêtes serpentines.#$b#Dans ses derniers jours, c'est lui qui a également pensé que ta grand-mère devait se battre.#$b#Cette statue commémore sa mémoire, mais un mystérieux éclair de lumière a semblé effacer les souvenirs des habitants à ce sujet.$s#$b#Son histoire d'héroïsme est donc perdue.$s#$b#Je suis surpris que tu aies trouvé cette relique.$h#$b#Elle éloigne toutes les bêtes serpentines de la forêt.#$b#Donc je te la rend.$h",
-		}
+		
+	//Island dialogue for 2.0 NPCs
+	"Anton.Dialogue.Resort_Entering": "Joli !$h#$b#Je vais faire un saut au bar avant de me poser dans une chaise longue.$h",
+	"Anton.Dialogue.Resort_Leaving": "Ca fait du bien d'oublier le monde réel pendant un moment.$4",
+	"Anton.Dialogue.Resort_Shore": "Sais-tu ce qu'il y a de plus beau dans le littoral ? #$b#C'est le fait que c'est là où la terre rencontre la mer.#$e#Pour ma part, j'y trouve une belle symétrie.",
+	"Anton.Dialogue.Resort_Bar": "Bon sang, j'adorerais partager ça avec Paula, elle adorerait cet endroit !$h#$b#Tu bois quelque chose, @ ?",
+	"Anton.Dialogue.Resort": "C'est génial d'avoir du temps pour se détendre.#$b#S'évader pour quelques instants de la réalité est toujours agréable.$h",
+
+	"Ariah.Dialogue.Resort_Entering": "Oh, bonjour.#$e#J'aimerais profiter de ces courtes vacances en paix.#$b#Alors si tu n'as besoin de rien, ne me dérange pas.",
+	"Ariah.Dialogue.Resort_Leaving": "Je suppose que c'est le retour à la réalité pour moi.$s#$b#C'était amusant le temps que ça a duré, cependant.$h",
+	"Ariah.Dialogue.Resort_Shore": "Aller à la plage aide à se vider l'esprit, le corps et l'âme.#$e#C'est vraiment une excellente façon de passer la journée.$h#$b#Je suis contente d'être venue.$h",
+	"Ariah.Dialogue.Resort_Bar": "Je n'ai pas le droit de boire.$s#$b#Grand-mère dit que cela bloque les signaux chimiques entre les cellules du cerveau.",
+	"Ariah.Dialogue.Resort": "Oh, comme c'est pittoresque.$h#$b#Je commence déjà à me sentir mieux.$h",
+
+	"Blair.Dialogue.Resort_Entering": "J'ai hâte d'entrer dans l'eau et de montrer comme je nage bien !$h",
+	"Blair.Dialogue.Resort_Leaving": "Ohh, devons-nous vraiment partir ? $s#$b#C'est naze.$s",
+	"Blair.Dialogue.Resort_Shore": "Tu veux que je fasse une sculpture de sable de ton visage ? #$b#J'ai appris à faire des sculptures de sable quand j'étais plus jeune. Mon grand-père m'a appris comment faire.$h",
+	"Blair.Dialogue.Resort_Bar": "Voyons voir... #$b#Quelle serait la meilleure boisson à commander ? Je suis desséché.",
+	"Blair.Dialogue.Resort": "Tu as l'air en forme, @.#$e#Je me demande quel genre de poisson tu peux attraper dans ces eaux ?#$b#Eh bien, c'est une question pour un autre jour ! Je suis ici pour me détendre !$h",
+
+	"Carmen.Dialogue.Resort_Entering": "Bon sang de bois.$h#$b#C'est tellement beau ! J'ai hâte de m'allonger sur la chaise longue et de regarder les enfants jouer.$h#$e#C'est plus beau qu'un banc de poissons !$h",
+	"Carmen.Dialogue.Resort_Leaving": "Hé, j'avais besoin de ces 'vacances'. #$b#C'était bien tant que ça a duré, non ? $h",
+	"Carmen.Dialogue.Resort_Shore": "Je n'ai pas l'habitude de me détendre avec mon travail. Ça fait du bien de profiter du moment présent.$h#$e#Dis, où est ma fille ? Je veux faire un plongeon avec elle.$b#Tu veux te joindre à nous ?$h",
+	"Carmen.Dialogue.Resort_Bar": "Ooh ! Tant de boissons exotiques !$h",
+	"Carmen.Dialogue.Resort": "Ah, enfin !$h#$b#Je vais prendre un verre et passer les meilleures vacances de ma vie !$h",
+
+	"Faye.Dialogue.Resort_Entering": "Quelle belle journée ! J'attendais ça avec impatience.$h",
+	"Faye.Dialogue.Resort_Leaving": "Ah, c'était rafraîchissant !$h",
+	"Faye.Dialogue.Resort_Shore": "Quelle nuance de bleu parfaite !$h#$b#Je devrais voir si je peux faire une teinture assortie quand je rentrerai chez moi.",
+	"Faye.Dialogue.Resort_Bar": "Mm ! Il n'y a rien de tel qu'une boisson fraîche et sucrée par une journée pareille !$h",
+	"Faye.Dialogue.Resort": "Le sable est si chaud... Je pourrais faire une sieste juste ici !",
+
+	"Irene.Dialogue.Resort_Entering": "Oh wow !$h#$b#Cet endroit est si majestueux ! C'est comme un rêve.$4",
+	"Irene.Dialogue.Resort_Leaving": "Aww, pourquoi cette journée doit-elle se terminer ? $s",
+	"Irene.Dialogue.Resort_Shore": "Le soleil à l'horizon me fait penser à un œuf au plat.$h#$e#Oh, je suis désolée.$u#$b#Je pense à nouveau à la nourriture. Il faut que j'arrête de faire ça.$4#$b#Profitons de cette journée, d'accord ? $h#$b#.",
+	"Irene.Dialogue.Resort_Bar": "Je suis curieux de savoir quel goût ont les boissons ici.#$b#Je devrais peut-être développer mes compétences de barman. Qu'en penses-tu, @ ?",
+	"Irene.Dialogue.Resort": "Ah, cela me rappelle l'un des voyages que j'ai fait pour mes études culinaire.$e#Mais je préfère ici.$u#$b#C'est comme à la maison, tu ne trouves pas ?$4",
+
+	"Kiarra.Dialogue.Resort_Entering": "Le dernier dans l'eau est un œuf de Joja!$h",
+	"Kiarra.Dialogue.Resort_Leaving": "J'ai pris quelques clichés vraiment cool pour les partager avec mon groupe d'écologie.$h",
+	"Kiarra.Dialogue.Resort_Shore": "Tout ici est encore intact. Je suppose que même Joja ne peut pas étendre ses tentacules aussi loin.",
+	"Kiarra.Dialogue.Resort_Bar": "Assure-toi de boire quelque chose qui ne contient pas d'alcool. Il faut rester hydraté par cette chaleur !",
+	"Kiarra.Dialogue.Resort": "Heureusement que je n'ai pas porté mes dix kilos habituels de faux cuir dans la jungle. Cela aurait été TELLEMENT irritant.$h",
+
+	"Kimpoi.Dialogue.Resort_Entering": "Ah, la brise de l'océan m'a manqué.$h",
+	"Kimpoi.Dialogue.Resort_Leaving": "En route pour le retour à la maison.#$b#Bien, à la prochaine fois.$h",
+	"Kimpoi.Dialogue.Resort_Shore": "C'était la nageoire d'une sirène ? Je suppose que non.#$b#Oh, rien.$h#$e#Faire le tour du rivage est vraiment relaxant, hein ?",
+	"Kimpoi.Dialogue.Resort_Bar": "Une bouteille de rhum ou de whisky ?$s#$b#Oh, j'aimerais pouvoir boire les deux, mais j'ai peur d'être un peu trop turbulent.$s",
+	"Kimpoi.Dialogue.Resort": "J'aimerais me promener dans les environs et chercher des pousses d'arbres exotiques.#$b#Mais j'ai peur de me perdre, alors je vais rester ici.$h",
+
+	"Lorenzo.Dialogue.Resort_Entering": "Ah ! Il est temps de ne rien faire d'autre que de prendre une chaise et de bronzer.$h",
+	"Lorenzo.Dialogue.Resort_Leaving": "J'ai déjà hâte de revenir ici.$s",
+	"Lorenzo.Dialogue.Resort_Shore": "Ca c'est la belle vie.$h",
+	"Lorenzo.Dialogue.Resort_Bar": "Penses-tu que ce serait une bonne décision commerciale de vendre de l'alcool au magasin ? #$b#Peut-être même des cocktails en bouteille.",
+	"Lorenzo.Dialogue.Resort": "Je pense que cet endroit serait une bonne destination pour une seconde lune de miel.#$b#J'adorerais faire une promenade sur l'île avec Shanice.$4",
+
+	"Louie.Dialogue.Resort_Entering": "Enfin, un changement de décor !",
+	"Louie.Dialogue.Resort_Leaving": "Cette expérience n'était pas mauvaise du tout.$h#$b#Je suis plutôt content d'être venu.$h",
+	"Louie.Dialogue.Resort_Shore": "Moi ? Construire un château de sable ? $4#$b#Je peux engager des domestiques pour en construire un pour moi !$h",
+	"Louie.Dialogue.Resort_Bar": "Qu'est-ce qu'un invité doit faire pour avoir du jus frais ici ? $a",
+	"Louie.Dialogue.Resort": "Ma famille a visité des plages bien supérieures à celle-ci.$4#$b#Mais je suppose que cela fera l'affaire.",
+
+	"Maive.Dialogue.Resort_Entering": "C'est une sacrée petite île. Elle a beaucoup de potentiel non développé. $b#Il faudra que j'en parle à Zayne.",
+	"Maive.Dialogue.Resort_Leaving": "Je vais devoir prendre des dispositions quand nous arriverons à la maison.#$b#Je pense qu'une nouvelle maison de plage ici serait bien pour la famille.",
+	"Maive.Dialogue.Resort_Shore": "Sais-tu que les échanges se font parfois en mer ? #$b#C'est là que l'une des entreprises de notre famille a commencé.",
+	"Maive.Dialogue.Resort_Bar": "Je te recommande une Pina Colada sans alcool si tu as envie de boire un verre. #$b#C'est un vrai régal.",
+	"Maive.Dialogue.Resort": "C'est très joli.#$b#J'ai été dans de nombreuses stations comme celle-ci, mais celle-ci est vraiment pas mal.",
+
+	"Malaya.Dialogue.Resort_Entering": "*gigs*#$b#Je me sens si joyeuse !$h#$b#Je suis si excitée d'être ici!$h",
+	"Malaya.Dialogue.Resort_Leaving": "Si tôt ? $s#$b#Aww, ça va me manquer.$s#$e#Mais j'ai hâte de rentrer à la maison et de passer du temps à la ferme avec ma petite Lissa.$4",
+	"Malaya.Dialogue.Resort_Shore": "Je suis heureuse de pouvoir découvrir la mer une fois de plus.$h#$b#Je veux partager ce sentiment avec ma famille, surtout avec ma fille.$h",
+	"Malaya.Dialogue.Resort_Bar": "Que recommanderais-tu ici, @?#$b#Oh, j'espère que l'alcool n'attirera aucune créature marine.$s",
+	"Malaya.Dialogue.Resort": "Quelles sont tes activités préférées dans l'eau, @ ?#$b#J'ai beaucoup d'idées si tu veux. Je peux te montrer quelques trucs !$4",
+
+	"Naomi.Dialogue.Resort_Entering": "Mon Dieu, n'est-ce pas agréable ? $h#$b#J'ai vraiment hâte de me reposer et de me détendre.$h",
+	"Naomi.Dialogue.Resort_Leaving": "Eh bien, c'était amusant tant que ça a duré.#$b#Mais nous devons revenir à la réalité maintenant.",
+	"Naomi.Dialogue.Resort_Shore": "La plage est bonne pour Shiro, tu sais ? #$b#J'ai lu quelque part que cela favorise la santé respiratoire et stimule le système immunitaire.",
+	"Naomi.Dialogue.Resort_Bar": "Tu bois, @ ?#$b# Je ne sais pas trop quoi prendre.",
+	"Naomi.Dialogue.Resort": "J'aimerais que mon mari soit là.#$b#Nous nous amuserions tellement avec les enfants.$h#$e#Mais ce n'est pas grave, c'est pour nous. Pour notre famille.",
+
+	"Paula.Dialogue.Resort_Entering": "Je suis si heureuse d'être ici !$h#$b#Je n'ai pas été à l'océan depuis des semaines !$s",
+	"Paula.Dialogue.Resort_Leaving": "J'ai passé un moment très excitant aujourd'hui !$h#$b#Je rêve déjà de ma prochaine visite.",
+	"Paula.Dialogue.Resort_Shore": "Cette vue est tout simplement à couper le souffle.$4",
+	"Paula.Dialogue.Resort_Bar": "Anton adorerait ces boissons.$h#$b#Il est un peu mon compagnon de boisson.",
+	"Paula.Dialogue.Resort": "J'ai apporté une trousse de premiers soins au cas où quelque chose arriverait.#$b#On ne sait jamais ce qui peut mal tourner.$6",
+
+	"Sean.Dialogue.Resort_Entering": "Oof, j'ai toujours l'impression que tout tangue. J'ai dû laisser mon pied marin à Ridgeside.$s",
+	"Sean.Dialogue.Resort_Leaving": "Ok, estomac, ne me trahis pas sur le chemin du retour. Je ne veux pas goûter ce curry une deuxième fois.",
+	"Sean.Dialogue.Resort_Shore": "Tu veux m'aider à construire une sculpture de sable, @ ? J'ai vu ce design vraiment cool en ligne et je veux l'essayer.$h",
+	"Sean.Dialogue.Resort_Bar": "Tu dois essayer ce curry de mangue, @. Je pense que je pourrais en manger six.$h",
+	"Sean.Dialogue.Resort": "Lenny a dit que nous devions rester sur la plage... mais un *petit* coup d'œil sur l'ile ne fera de mal à personne.$h",
+
+	"Shanice.Dialogue.Resort_Entering": "Hm, le voyage a été plus long que prévu.#$b#Mais ce n'est pas grave, nous allons profiter au maximum de notre temps ici.$h",
+	"Shanice.Dialogue.Resort_Leaving": "Tout mon stress a complètement disparu !$h#$b#Je suis prête à rentrer chez moi et à commencer tôt au magasin.$h",
+	"Shanice.Dialogue.Resort_Shore": "As-tu pris soin d'appliquer de la crème solaire avant d'aller au soleil, @ ?#$b#Assure-toi de prendre soin de ta peau, ok, mon chou ?$h",
+	"Shanice.Dialogue.Resort_Bar": "Qu'est-ce que tu prends, @ ?#$e#Oh pas d'alcool pour moi, je dois être vigilante à tout moment.#$b#Je dois encore finir mes comptes quand je rentre chez moi.",
+	"Shanice.Dialogue.Resort": "J'aimerais explorer l'île.#$b#Une petite promenade dans la nature sera juste ce qu'il faut.$h",
+
+	"Sonny.Dialogue.Resort_Entering": "Oh ! Si tu veux bien m'excuser, @. Je cherche le sanctuaire qu'on dit être caché ici.#$e#J'ai entendu dire qu'il te permet de te sentir plus proche des divinités.$h",
+	"Sonny.Dialogue.Resort_Leaving": "Oh bien, je n'ai pas trouvé le sanctuaire cette fois-ci.$s#$b#Au moins, j'ai eu le temps de me reposer.$h",
+	"Sonny.Dialogue.Resort_Shore": "On dirait l'Eden, n'est-ce pas ? $h#$b#Les dieux nous ont en effet bénis avec tout ce dont nous pouvons avoir envie et besoin.$h",
+	"Sonny.Dialogue.Resort_Bar": "Oh mon dieu, je ne pensait pas que cela pouvait contenir de l'alcool.$4#$b#Ca ne va pas le faire. Madame n'approuverait certainement pas cela.$u",
+	"Sonny.Dialogue.Resort": "Si par hasard tu vois le sanctuaire, pourrais-tu m'indiquer la bonne direction ?#$b#J'apprécierais vraiment.$h",
+
+	"RSV.SpecialOrder.SpiritRealmFlames_Name": "Nettoie le royaume des esprits",
+	"RSV.SpecialOrder.SpiritRealmFlames_Text": "Gabriella a placé le royaume des esprits sous son influence maléfique. Éteins les flammes qui la relient à ce royaume pour le purifier !",
+	"RSV.SpecialOrder.SpiritRealmFlames_Objective1_Text" : "Éteins les flammes corrompues",
+	}

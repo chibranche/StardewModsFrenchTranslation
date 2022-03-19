@@ -164,6 +164,35 @@
 	"mysticfalls_3.objective": "Trouve les cascades cachées entourées d'obscurité dans la forêt de la crète.",
 	"mysticfalls_3.rewardDesc": "Epée d'Obsidienne",
 
+	// Story guideline quests
+	"preparations_complete.title": "Préparations terminées !",
+	"preparations_complete.description": "Maintenant que vous avez collecté tous les objets étranges demandés par Daia, retournez demain à la maison des ninjas pour recevoir de nouvelles instructions.",
+	"preparations_complete.objective": "Revenez à la maison des ninjas demain.",
+
+	"follow_ninja_note.title": "Un message des ninjas",
+	"follow_ninja_note.description": "Vous avez lu une note sur la porte de la base qui disait de revenir ce soir pour rencontrer la Voyante.",
+	"follow_ninja_note.objective": "Venez sur la crète après 20h par temps clair.",
+
+	"rae_pre_unseal.title": "Préparations additionelles ",
+	"rae_pre_unseal.description": "Belinda t'as demandé de revenir à la forêt de la crète demain pour l'aider à \"libèrer son amour\".",
+	"rae_pre_unseal.objective": "Viens à la forêt de la crète une journée ensoleillée avant 19h.",
+
+	"rae_unseal.title": "La Libération",
+	"rae_unseal.description": "Bliss t'as demandé de venir ce soir sur la Crète pour la Libération.",
+	"rae_unseal.objective": "Viens à la crète par temps clair après 20h.",
+
+	"open_spirit_portal.title": "Ouvrir le portail",
+	"open_spirit_portal.description": "Belinda et Raeriyala t'ont demandé de retrouver les 9 Artéfacts Bénis et de trouver les emplacements de piédestal qui font briller les yeux du renard. Tu peux en apprendre plus sur les artefacts dans le livre rouge de la maison des ninjas.",
+	"open_spirit_portal.objective": "Trouve les 9 reliques et place les dans le bon ordre sur les piedestaux.",
+
+	"phantom_greenhouse_1.title": "Bliss et ignorance",
+	"phantom_greenhouse_1.description": "Bliss a dit quelquechose de vague sur le fait de venir à la serre abandonnée après minuit... Ca vaut sans doute le coup d'aller voir ?",
+	"phantom_greenhouse_1.objective": "Va a la serre abandonnée après minuit.",
+
+	"phantom_greenhouse_2.title": "La serre hantée",
+	"phantom_greenhouse_2.description": "Sur le chemin de la montagne, Bliss à parlé d'une \"malédiction\" et à suggeré que tu reviennes quand la serre est ouverte la nuit.",
+	"phantom_greenhouse_2.objective": "Va a la serre abandonnée après minuit.",
+
 	//Offers
 	"trinnie_sunflower.offer.topic": "Princesse Tournesol",
 	"trinnie_sunflower.offer.text": "Cher @,^ Ici Trinnie. Je voulais te demander si tu pouvais m'apporter des tournesols. C'est parce que je veux devenir la princesse tournesol... J'ai entendu Keahi dire que les tournesols sont jolis et qu'une princesse tournesol sera encore plus jolie. Alors je vais peut-être faire une robe à fleurs avec de vrais tournesols. ^Papa a dit qu'il te paierait ! Merci, @!^     - Trinnie",
