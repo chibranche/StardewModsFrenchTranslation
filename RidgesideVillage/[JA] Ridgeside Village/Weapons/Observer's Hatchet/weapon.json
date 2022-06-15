@@ -1,5 +1,5 @@
 {
-	"Name": "Observer's Axe",
+	"Name": "Observer's Hatchet",
 	"Description": "Legends surrounding this axe say that the first to wield it was a silent, deadly warrior who enjoyed constantly observing others. It is said that the ruby embedded in the axe body contains the warrior's soul, still observing keenly in the afterlife.",
 	"Type": "club",
 	"PurchasePrice": 50000,
@@ -16,12 +16,12 @@
 	"CritMultiplier": 2,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
-        "fr": "Hache de l'observateur",
+        "fr": "Hachette de l'observateur",
         //"hu": "PLACEHOLDER",
         //"it": "PLACEHOLDER",
         //"ja": "PLACEHOLDER",
@@ -32,11 +32,11 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
-        "fr": "Une arme nommée d'après la légende qui l'entoure. On dit que son premier manieur était un guerrier silencieux mais mortel qui aimait observer les autres. On dit que le rubis incrusté dans le corps de la hache contient l'âme du guerrier, qui l'observe toujours, même dans l'au-delà.",
+        "fr": "Les légendes qui entourent cette hache racontent que le premier à l'avoir maniée était un guerrier silencieux et mortel qui aimait observer constamment les autres. On dit que le rubis incrusté dans le corps de la hache contient l'âme du guerrier, qui continue d'observer attentivement dans l'au-delà.",
         //"hu": "PLACEHOLDER",
         //"it": "PLACEHOLDER",
         //"ja": "PLACEHOLDER",

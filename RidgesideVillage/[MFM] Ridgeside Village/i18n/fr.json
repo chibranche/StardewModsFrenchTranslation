@@ -35,6 +35,11 @@
         "faye.recipe.title": "Friandise Sucrée et Moelleuse",
         "maive.recipe.title": "Friandise Exotique",
 
+        "lola.so.title": "Gratitude d'Assassin",
+        "ezekiel.so.title": "Le cadeau du Vétéran",
+        "olga.so.title": "Règler le débat thé ou café",
+        "aguar.so.title": "Le Totem de la crête",
+
     //Texts
         "shanice.recipe.text": "@,^J'ai trouvé une vieille recette pour l'un de mes gâteaux préférés ! Si jamais tu en fais un, ne m'oublie pas. D'accord ? J'espère que tu aimes ça.^^- Shanice Legame",
         "paula.recipe.text": "@,^J'ai remarqué que tu avais un petit coup de mou ces derniers temps. Tu trouveras ci-joint une copie de ma recette de bagels croustillants, qui te donnera l'énergie dont tu as besoin pour ton voyage au village.^^- Paula Faheem",
@@ -51,5 +56,9 @@
         "irene.recipe.text": "Salutations, @ !^J'ai ici une recette que j'ai apprise dans la ville romantique de Princessville. Tu peux l'utiliser pour séduire l'être aimé. Comme on dit, le meilleur chemin vers le coeur d'un être cher passe par son estomac.^^Bonne chance dans ta recherche de l'amour,^Irene de Pilar",
         "faye.recipe.text": "@,^Bonjour à toi ! J'ai envoyé une adorable recette pour l'une de mes pâtisserie préférés. Apporte-m'en si tu en as l'occasion, d'accord ?^^La fabuleuse Faye Yojeong",
         "maive.recipe.text": "A l'attention de: @^De la part de: Manoir Amethyne.^^La recette d'un plat de pâtisserie exotique est jointe à cette lettre. Ce plat est l'un des délices des îles de Braise, une région lointaine réputée pour ses aménagements tropicaux, ses attractions et ses plats. Je suppose que tu pourrais en faire usage et potentiellement l'utiliser à ton profit.^^Meilleurs voeux,^Maive Amethyne",
-}
+
+        "LolaSOLetter.text": "@,^Merci beaucoup pour ton aide avec les anneaux, mon chou. Que dirais-tu d'un petit échange ? Celle-ci est dans ma boîte à bijoux depuis toujours, de toute façon. J'espère qu'elle pourra t'être utile.^^- Lola",
+        "EzekielSOLetter.text": "@,^Merci encore pour l'artéfact. je pensais que tu m'apporterais de la camelotte, mais c'est quasi-neuf... En échange, je te donne un peu de camelotte à moi ! Maintenant que je suis à la retraite, ça te servira plus qu'à moi.^^- Ezekiel^^P.S. Si tu t'en débarasses, je le saurais...",
+        "OlgaSOLetter.text": "@,^Avec les ingrédients que tu m'as fourni, J'ai réglé le débat thé ou café une fois pour toutes, et le gagnant est... les deux ! Je vous envoie la recette pour que tu puisse l'essayer par toi-même.^^-Olga^P.S. Ma belle-sœur a dit qu'elle allait voler cette recette pour son magasin, aussi !",
+        "AguarSOLetter.text": "@,^Excellent travail sur les géodes. Ce sont clairement des spécimens de très haute qualité. Au cas où j'aurais à nouveau besoin de votre aide, je pense qu'il est préférable que vous ayez un moyen plus rapide de te rendre au village. Peut-être que cela te sera utile.^^- Aguar^P.S. Si on te demande, ce n'est pas moi qui t'ai appris ça...",}
 
