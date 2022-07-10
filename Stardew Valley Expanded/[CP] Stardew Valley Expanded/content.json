@@ -1,5 +1,5 @@
 ﻿{
-  "Format": "1.23",
+  "Format": "1.24",
   //Hey. You. Yes, you. The person who opened the Content Json. There are spoilers in here!
 
   "ConfigSchema": {
@@ -90,6 +90,11 @@
         },
 		
   "MatureEvents": {
+  "AllowValues": "true, false",
+  "Default": "false"
+        },
+
+          "ShorterPathToBlueMoonVineyard": {
   "AllowValues": "true, false",
   "Default": "false"
         },
@@ -644,6 +649,26 @@
   {
     "Name": "Custom_VoidDen",
     "FromMapFile": "assets/Maps/NewLocations/VoidDen.tmx",
+  },
+  {
+    "Name": "Custom_GrampletonSuburbsTrainStation",
+    "FromMapFile": "assets/Maps/NewLocations/GrampletonSuburbsTrainStation.tbin",
+  },
+  {
+    "Name": "Custom_GrampletonSuburbs",
+    "FromMapFile": "assets/Maps/NewLocations/GrampletonSuburbs.tbin",
+  },
+  {
+    "Name": "Custom_ScarlettHouse",
+    "FromMapFile": "assets/Maps/NewLocations/ScarlettHouse.tmx",
+  },
+  {
+    "Name": "Custom_HanksGarage",
+    "FromMapFile": "assets/Maps/NewLocations/HanksGarage.tmx",
+  },
+  {
+    "Name": "Custom_GrampletonCoast",
+    "FromMapFile": "assets/Maps/NewLocations/GrampletonCoast.tmx",
   },
 ],
 
@@ -1385,16 +1410,6 @@
   ]
 },
 
-
-
-
-
-
-
-
-
-
-
 {  //Forest, Hilltop, Riverland, Wilderness Farm - A quality parsnip
    "Action": "EditData",
    "Target": "data/events/Farmhouse",
@@ -1412,21 +1427,89 @@
 	"Update": "OnLocationChange",
 	"PatchMode": "Overlay"
 },
-{   //Forest, Hilltop, Riverland, Wilderness Farm  - Patches warp point on farm
-    "Action": "EditMap",
-    "Target": "Maps/Farm, Maps/Farm_Mining, Maps/Farm_Foraging, Maps/Farm_Fishing, Maps/Farm_Combat",
-	"When": { "FarmType": "Forest, Hilltop, Riverland, Wilderness", "HasSeenEvent": "908074" },
-	"Update": "OnLocationChange",
-    "MapTiles": [
-      {
-        "Position": { "X": 48, "Y": 7 },
-        "Layer": "Back",
-        "SetProperties": {
-        "TouchAction": "MagicWarp Custom_EnchantedGrove 30 14"
-      }
+
+
+{   //Standard Farm  - Patches warp point on farm
+  "Action": "EditMap",
+  "Target": "Maps/Farm",
+"When": { "FarmType": "Standard", "HasSeenEvent": "908074" },
+"Update": "OnLocationChange",
+  "MapTiles": [
+    {
+      "Position": { "X": 48, "Y": 7 },
+      "Layer": "Back",
+      "SetProperties": {
+      "TouchAction": "MagicWarp Custom_EnchantedGrove 30 14"
     }
-  ]
+  }
+]
 },
+
+{   //Forest Farm  - Patches warp point on farm
+  "Action": "EditMap",
+  "Target": "Maps/Farm_Foraging",
+"When": { "FarmType": "Forest", "HasSeenEvent": "908074" },
+"Update": "OnLocationChange",
+  "MapTiles": [
+    {
+      "Position": { "X": 48, "Y": 7 },
+      "Layer": "Back",
+      "SetProperties": {
+      "TouchAction": "MagicWarp Custom_EnchantedGrove 30 14"
+    }
+  }
+]
+},
+
+{   //Hilltop Farm  - Patches warp point on farm
+  "Action": "EditMap",
+  "Target": "Maps/Farm_Mining",
+"When": { "FarmType": "Hilltop", "HasSeenEvent": "908074" },
+"Update": "OnLocationChange",
+  "MapTiles": [
+    {
+      "Position": { "X": 48, "Y": 7 },
+      "Layer": "Back",
+      "SetProperties": {
+      "TouchAction": "MagicWarp Custom_EnchantedGrove 30 14"
+    }
+  }
+]
+},
+
+{   //Riverland Farm  - Patches warp point on farm
+  "Action": "EditMap",
+  "Target": "Maps/Farm_Fishing",
+"When": { "FarmType": "Riverland", "HasSeenEvent": "908074" },
+"Update": "OnLocationChange",
+  "MapTiles": [
+    {
+      "Position": { "X": 48, "Y": 7 },
+      "Layer": "Back",
+      "SetProperties": {
+      "TouchAction": "MagicWarp Custom_EnchantedGrove 30 14"
+    }
+  }
+]
+},
+
+{   //Wilderness Farm  - Patches warp point on farm
+  "Action": "EditMap",
+  "Target": "Maps/Farm_Combat",
+"When": { "FarmType": "Forest, Hilltop, Riverland, Wilderness", "HasSeenEvent": "908074" },
+"Update": "OnLocationChange",
+  "MapTiles": [
+    {
+      "Position": { "X": 48, "Y": 7 },
+      "Layer": "Back",
+      "SetProperties": {
+      "TouchAction": "MagicWarp Custom_EnchantedGrove 30 14"
+    }
+  }
+]
+},
+
+
 {   //Forest, Hilltop, Riverland, Wilderness Farm  - statue light
     "Action": "EditMap",
     "Target": "Maps/Farm_Mining, Maps/Farm_Foraging, Maps/Farm_Fishing, Maps/Farm_Combat",
@@ -1752,6 +1835,14 @@
 	"ToArea": { "X": 18, "Y": 39, "Width": 5, "Height": 5 },
     "When": { "HasSeenEvent|contains=7776012": true },
 	"Update": "OnLocationChange"
+},
+{   //Aurora Vineyard Cellar - Nexus Light
+  "Action": "EditMap",
+  "Target": "Maps/Custom_EnchantedGrove",
+  "FromFile": "assets/Maps/MapPatches/EnchantedGrove_WarpLights.tbin",
+"ToArea": { "X": 18, "Y": 39, "Width": 5, "Height": 5 },
+  "When": { "HasSeenEvent|contains=7776012": true },
+"Update": "OnLocationChange"
 },
 
 
@@ -2159,6 +2250,9 @@
 	 "GuntherSilvian": {
 	 "MarkerCropOffset": 4
 	 },
+	 "ScarlettFake": {
+	 "MarkerCropOffset": 5
+	 },
 
    }
 },
@@ -2176,31 +2270,33 @@
 	"Action": "EditData",
 	"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
 	"Entries": {
-     "Camilla": { "Exclude": true },
-	 "Alesia": { "Exclude": true },
-	 "Isaac": { "Exclude": true },
-	 "Jadu": { "Exclude": true },
-	 "Brianna": { "Exclude": true },
-	 "Brock": { "Exclude": true },
-	 "Cassandra": { "Exclude": true },
-	 "Cordelia": { "Exclude": true },
-	 "Drake": { "Exclude": true },
-	 "Edmund": { "Exclude": true },
-	 "Jolyne": { "Exclude": true },
-	 "Emin": { "Exclude": true },
-	 "Freya": { "Exclude": true },
-	 "Gertrude": { "Exclude": true },
-	 "Sawyer": { "Exclude": true },
-	 "Gale": { "Exclude": true }
-   }
+    "Camilla": { "Exclude": true },
+  "Alesia": { "Exclude": true },
+  "Isaac": { "Exclude": true },
+  "Jadu": { "Exclude": true },
+  "Brianna": { "Exclude": true },
+  "Brock": { "Exclude": true },
+  "Cassandra": { "Exclude": true },
+  "Cordelia": { "Exclude": true },
+  "Drake": { "Exclude": true },
+  "Edmund": { "Exclude": true },
+  "Jolyne": { "Exclude": true },
+  "Emin": { "Exclude": true },
+  "Freya": { "Exclude": true },
+  "Gertrude": { "Exclude": true },
+  "Sawyer": { "Exclude": true },
+  "Gale": { "Exclude": true },
+  "HankSVE": { "Exclude": true },
+  "Treyvon": { "Exclude": true },
+  }
 },
 
 {
 	"Action": "EditData",
 	"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
-	"When": { "Spouse|contains=Lance": false },
+	"When": { "HasSeenEvent |contains=3691371": true },
 	"Entries": {
-     "Lance": { "Exclude": true },
+     "ScarlettFake": { "Exclude": true }
    }
 },
 
@@ -2209,8 +2305,16 @@
 	"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
 	"When": { "HasSeenEvent": "7776012" },
 	"Entries": {
-     "Apples": { "Exclude": true },
 	 "Peaches": { "Exclude": true },
+   }
+},
+
+{
+	"Action": "EditData",
+	"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+	"When": { "HasSeenEvent|contains=7776012": true, "Roommate|contains=Apples": false },
+	"Entries": {
+	 "Apples": { "Exclude": true },
    }
 },
 
@@ -2246,11 +2350,16 @@
 	"Custom_Emin_WarpRoom": { "Exclude": true },
 	"Custom_HighlandsDwarf_WarpRoom": { "Exclude": true },
 	"Custom_Krobus_WarpRoom": { "Exclude": true },
+	"Custom_GrampletonSuburbs": { "Exclude": true },
+	"Custom_GrampletonSuburbsTrainStation": { "Exclude": true },
+	"Custom_ScarlettHouse": { "Exclude": true },
+	"Custom_Highlands": { "Exclude": true },
+	"Custom_HighlandsOutpost": { "Exclude": true },
+	"Custom_CastleVillageOutpost": { "Exclude": true },
 
     //Fake tracking (prevents SMAPI console text reporting unknown locations)
 	"Custom_CrimsonBadlands": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"Custom_CrimsonBadlandsMap": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-	"Custom_CastleVillageOutpost": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"Custom_SpriteSpring2": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"Custom_SpriteSpringCave": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"Custom_JunimoWoods": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
@@ -2273,8 +2382,6 @@
 	"WizardsRoom": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"ApplesRoommate": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"LancesRoom": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-    "Custom_Highlands": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-	"Custom_HighlandsOutpost": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"Custom_HighlandsCavern": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"Custom_HighlandsCavernPrison": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"Custom_HighlandsCavernPrisonEvent": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
@@ -2288,7 +2395,8 @@
 	"Custom_FirstSlashGuestRoom": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"Custom_LanceSecretWarp": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"Custom_VoidDen": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-
+	"Custom_HanksGarage": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
+	
 
     //Map tracking Blue Moon Vineyard
 	"Custom_BlueMoonVineyard": {
@@ -2893,84 +3001,120 @@
 },
 
 {
-	 "Action": "EditData",
-	 "Target": "Data/CustomNPCExclusions",
-	 "Entries": {
-		"Martin": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		"Apples": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, MovieInvite, BeGreeted, Greet",
-		"Morgan": "ItemDelivery, WinterStar, ShopDialog, IslandVisit",
-		"Wizard": "WinterStar",
-		"MorrisTod": "Socialize, ItemDelivery, WinterStar, ShopDialog, IslandVisit, PerfectFriend",
-		"MarlonFay": "Socialize, IslandVisit",
-		"GuntherSilvian": "ItemDelivery, WinterStar, ShopDialog, IslandVisit",
-		"Isaac": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite",
-		"Camilla": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite",
-		"Alesia": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite",
-		"Jadu": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite",
-		"Scarlett": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite",
-		"Peaches": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
-		"Brianna": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
-		"Cassandra": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
-		"Cordelia": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
-		"Drake": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
-		"Edmund": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
-		"Jolyne": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
-		"Emin": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
-		"Freya": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
-		"Gertrude": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
-		"Sawyer": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
-		"Gale": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
-		"Brock": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
-		"HighlandsDwarf": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+  "Action": "EditData",
+  "Target": "Data/CustomNPCExclusions",
+  "Entries": {
+   "Martin": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Apples": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, MovieInvite, BeGreeted, Greet",
+   "Morgan": "ItemDelivery, WinterStar, ShopDialog, IslandVisit",
+   "Wizard": "WinterStar",
+   "MorrisTod": "Socialize, ItemDelivery, WinterStar, ShopDialog, IslandVisit, PerfectFriend",
+   "MarlonFay": "Socialize, IslandVisit",
+   "GuntherSilvian": "ItemDelivery, WinterStar, ShopDialog, IslandVisit",
+   "Isaac": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite",
+   "Camilla": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite",
+   "Alesia": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite",
+   "Jadu": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite",
+   "Peaches": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+   "Brianna": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+   "Cassandra": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+   "Cordelia": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+   "Drake": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+   "Edmund": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+   "Jolyne": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+   "Emin": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+   "Freya": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+   "Gertrude": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+   "Sawyer": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+   "Gale": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+   "Brock": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+   "HighlandsDwarf": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+   "HankSVE": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+   "Treyvon": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+   "ScarlettFake": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
 
 
-        //Future Castle Village NPCs (Huge spoiler!!!)
-        
-		//"Cyrus": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Iris": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Marley: "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Gideon": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Eleanor": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Bex": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Gribble": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Gertrude": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Douglas": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Joshua": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Nicholas": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Dolores": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Feron": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Cynthia": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Felix": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Sabrina": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Nyx": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit"
-	 }
+       //Future Castle Village and 2.0 NPCs (Huge spoiler!!!)
+       
+   /*
+   "Cyrus": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Sabrina": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Marley: "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Gideon": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Eleanor": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Bex": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Gribble": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Gertrude": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Douglas": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Joshua": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Nicholas": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Dolores": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Feron": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Cynthia": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Felix": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Sabrina": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Nyx": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Suki": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Mermaid": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Henchman": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Gil": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Student": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Guard": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Sentry": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Adventurer": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Knight": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Mage": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Warrior": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Rogue": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   "Ranger": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+   */
+  }
+},
+
+
+{
+  "Action": "EditData",
+  "Target": "Data/CustomNPCExclusions",
+  "When": { "HasSeenEvent |contains=3691371": false },
+  "Entries": {
+   "Scarlett": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, MovieInvite",
+  }
 },
 
 {
-	 "Action": "EditData",
-	 "Target": "Data/CustomNPCExclusions",
-	 "When": { "Spouse |contains=Lance": false },
-	 "Entries": {
-		"Lance": "ItemDelivery, Socialize, WinterStar, Calendar, ShopDialog, IslandVisit",
-	 }
+  "Action": "EditData",
+  "Target": "Data/CustomNPCExclusions",
+  "When": { "HasSeenEvent |contains=3691371": true },
+  "Entries": {
+   "Scarlett": "ItemDelivery, Socialize, WinterStar, ShopDialog",
+  }
 },
 
 {
-	 "Action": "EditData",
-	 "Target": "Data/CustomNPCExclusions",
-	 "When": { "Spouse |contains=Lance": true },
-	 "Entries": {
-		"Lance": "ItemDelivery, ShopDialog",
-	 }
+  "Action": "EditData",
+  "Target": "Data/CustomNPCExclusions",
+  "When": { "Spouse |contains=Lance": false },
+  "Entries": {
+   "Lance": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+  }
 },
 
 {
-	 "Action": "EditData",
-	 "Target": "Data/CustomNPCExclusions",
-	 "When": { "HasSeenEvent |contains=3900074": true },
-	 "Entries": {
-		"CharlieChicken": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
-	 }
+  "Action": "EditData",
+  "Target": "Data/CustomNPCExclusions",
+  "When": { "Spouse |contains=Lance": true },
+  "Entries": {
+   "Lance": "ItemDelivery, ShopDialog",
+  }
+},
+
+{
+  "Action": "EditData",
+  "Target": "Data/CustomNPCExclusions",
+  "When": { "HasSeenEvent |contains=3900074": true },
+  "Entries": {
+   "CharlieChicken": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
+  }
 },
 
 {    //Claire has a chance to be selected at the winter star festival after 6 heart event
@@ -3399,54 +3543,98 @@
 
 
      //CONTEXT TAGS
-{   
-	 "Action": "EditData",
-	 "Target": "Data/ObjectContextTags",
-	 "Entries": {  
-	  "Butterfish": "color_yellow, fish_river, fish_talk_stiff, fish_butterfish",
-	  "Puppyfish": "color_brown, fish_river, fish_talk_stiff, fish_puppyfish",
-	  "Minnow": "color_gray, fish_river, fish_minnow",
-	  "Clownfish": "color_orange, fish_ocean, season_summer, fish_clownfish",
-	  "Starfish": "color_red, fish_ocean, fish_upright, fish_starfish",
-	  "Void Eel": "color_black, fish_semi_rare, fish_swamp, season_all, fish_carnivorous, fish_talk_stiff, fish_void_eel",
-	  "King Salmon": "color_white, fish_river, fish_talk_stiff, fish_king_salmon",
-	  "Frog": "color_green, fish_river",
-	  "Kittyfish": "color_white, fish_river, fish_semi_rare",
-	  "Razor Trout": "color_blue, fish_talk_stiff, fish_razor_trout, fish_carnivorous",
-	  "Seahorse": "color_yellow, fish_ocean, fish_seahorse",
-	  "Sea Sponge": "color_yellow, fish_ocean, fish_sea_sponge",
-	  "Lunaloo": "color_pink, fish_ocean, fish_lunaloo",
-	  "Baby Lunaloo": "color_pink, fish_ocean, fish_baby_lunaloo",
-	  "Shiny Lunaloo": "color_blue, fish_ocean, fish_shiny_lunaloo",
-	  "Bonefish": "color_white, fish_river, fish_bonefish",
-	  "Undeadfish": "color_green, fish_river, fish_undeadfish",
-	  "Radioactive Bass": "color_green, fish_river, fish_radioactive_bass",
-	  "Torpedo Trout": "color_red, fish_torpedo_trout, fish_river",
-	  "Goldenfish": "color_yellow, fish_goldenfish, fish_river",
-	  "Gemfish": "color_white, fish_gemfish, fish_river",
-	  "Meteor Carp": "color_purple, fish_meteor_carp, fish_river",
-	  "Daggerfish": "color_orange, fish_daggerfish, fish_river",
-	  "Super Starfruit": "propose_roommate_apples",
-	  "Void Shard": "color_black",
-	  "Void Pebble": "color_black",
-	  "Rusty Blade": "color_brown",
-	  "Hero Elixir": "color_red, potion_item",
-	  "Haste Elixir": "color_blue, potion_item",
-	  "Armor Elixir": "color_green, potion_item",
-	  "Junimo Scroll": "color_yellow",
-	  "Property Deed": "color_white",
-	  "Blue Moon Wine": "color_blue, alcohol_item",
-	  "Aged Blue Moon Wine": "color_blue, alcohol_item",
-	  "Big Bark Burger": "color_brown, food_pantry",
-	  "Glazed Butterfish": "color_yellow,",
-	  "Grampleton Orange Chicken": "color_orange, food_pantry",
-	  "Void Salmon Sushi": "color_black, food_sushi",
-	  "Void Delight": "color_purple",
-	  "Golden Key": "color_yellow",
-	  "Lances Schedule": "color_white",
-	  "Super Joja Cola": "color_orange",
-	  "Golden Ocean Flower": "color_yellow"
-	}
+     {   
+      "Action": "EditData",
+      "Target": "Data/ObjectContextTags",
+      "Entries": {  
+       "Butterfish": "color_yellow, fish_river, fish_talk_stiff, fish_butterfish",
+       "Puppyfish": "color_brown, fish_river, fish_talk_stiff, fish_puppyfish",
+       "Minnow": "color_gray, fish_river, fish_minnow",
+       "Clownfish": "color_orange, fish_ocean, season_summer, fish_clownfish",
+       "Starfish": "color_red, fish_ocean, fish_upright, fish_starfish",
+       "Void Eel": "color_black, fish_semi_rare, fish_swamp, season_all, fish_carnivorous, fish_talk_stiff, fish_void_eel",
+       "King Salmon": "color_white, fish_river, fish_talk_stiff, fish_king_salmon",
+       "Frog": "color_green, fish_river",
+       "Kittyfish": "color_white, fish_river, fish_semi_rare",
+       "Razor Trout": "color_blue, fish_talk_stiff, fish_razor_trout, fish_carnivorous",
+       "Seahorse": "color_yellow, fish_ocean, fish_seahorse",
+       "Sea Sponge": "color_yellow, fish_ocean, fish_sea_sponge",
+       "Lunaloo": "color_pink, fish_ocean, fish_lunaloo",
+       "Baby Lunaloo": "color_pink, fish_ocean, fish_baby_lunaloo",
+       "Shiny Lunaloo": "color_blue, fish_ocean, fish_shiny_lunaloo",
+       "Bonefish": "color_white, fish_river, fish_bonefish",
+       "Undeadfish": "color_green, fish_river, fish_undeadfish",
+       "Radioactive Bass": "color_green, fish_river, fish_radioactive_bass",
+       "Torpedo Trout": "color_red, fish_torpedo_trout, fish_river",
+       "Goldenfish": "color_yellow, fish_goldenfish, fish_river",
+       "Gemfish": "color_white, fish_gemfish, fish_river",
+       "Meteor Carp": "color_purple, fish_meteor_carp, fish_river",
+       "Daggerfish": "color_orange, fish_daggerfish, fish_river",
+       "Super Starfruit": "propose_roommate_apples",
+       "Void Shard": "color_black",
+       "Void Pebble": "color_black",
+       "Rusty Blade": "color_brown",
+       "Hero Elixir": "color_red, potion_item",
+       "Haste Elixir": "color_blue, potion_item",
+       "Armor Elixir": "color_green, potion_item",
+       "Junimo Scroll": "color_yellow",
+       "Property Deed": "color_white",
+       "Blue Moon Wine": "color_blue, alcohol_item",
+       "Aged Blue Moon Wine": "color_blue, alcohol_item",
+       "Big Bark Burger": "color_brown, food_pantry",
+       "Glazed Butterfish": "color_yellow,",
+       "Grampleton Orange Chicken": "color_orange, food_pantry",
+       "Void Salmon Sushi": "color_black, food_sushi",
+       "Void Delight": "color_purple",
+       "Golden Key": "color_yellow",
+       "Lances Schedule": "color_white",
+       "Super Joja Cola": "color_orange",
+       "Golden Ocean Flower": "color_yellow",
+       "Bull Trout": "fish_river color_gray, fish_bull_trout",
+       "Grass Carp": "fish_river, color_green, fish_grass_carp",
+       "Water Grub": "color_white, fish_river, fish_water_grub",
+       "Red Baneberry": "color_red",
+       "Poison Mushroom": "color_brown",
+       "Dried Sand Dollar": "color_white",
+       "Lucky Four Leaf Clover": "color_green",
+       "Bearberrys": "color_red",
+       "Salal Berry": "color_purple",
+       "Ancient Fiber": "color_green",
+       "Big Conch": "color_orange",
+       "Worm Snatcher": "color_brown, fish_river, fish_worm_snatcher",
+     }
+   },
+
+     //adds universal gift tastes to JSON ASSETS. Mostly added to prevent NPCs from casually mentioning things like "Hey, Shane doesn't like Void Shard did you know that?". Like. What the heck? How do you know what a void shard is? That's impossible. This patch fixes that.
+{
+  "Action": "EditData",
+  "Target": "Data/NPCGiftTastes",
+  "TextOperations": [
+      {
+          "Operation": "Append",
+          "Target": ["Entries", "Universal_Hate"],
+          "Value": "{{spacechase0.JsonAssets/ObjectId:Dulse Seaweed}} {{spacechase0.JsonAssets/ObjectId:Smelly Rafflesia}} {{spacechase0.JsonAssets/ObjectId:Red Baneberry}} {{spacechase0.JsonAssets/ObjectId:Poison Mushroom}} {{spacechase0.JsonAssets/ObjectId:Mushroom Berry Rice}} {{spacechase0.JsonAssets/ObjectId:Void Pebble}} {{spacechase0.JsonAssets/ObjectId:Void Shard}} {{spacechase0.JsonAssets/ObjectId:Swirl Stone}} {{spacechase0.JsonAssets/ObjectId:Void Delight}} {{spacechase0.JsonAssets/ObjectId:Void Soul}} {{spacechase0.JsonAssets/ObjectId:Void Eel}} {{spacechase0.JsonAssets/ObjectId:Void Root}} {{spacechase0.JsonAssets/ObjectId:Daggerfish}} {{spacechase0.JsonAssets/ObjectId:Undeadfish}} {{spacechase0.JsonAssets/ObjectId:Bonefish}} {{spacechase0.JsonAssets/ObjectId:Radioactive Bass}} {{spacechase0.JsonAssets/ObjectId:Monster Fruit}} {{spacechase0.JsonAssets/ObjectId:Slime Berry}} {{spacechase0.JsonAssets/ObjectId:Monster Mushroom}} {{spacechase0.JsonAssets/ObjectId:Rusty Blade}}",
+          "Delimiter": " "
+      },
+  {
+          "Operation": "Append",
+          "Target": ["Entries", "Universal_Neutral"],
+          "Value": "{{spacechase0.JsonAssets/ObjectId:Dried Sand Dollar}} {{spacechase0.JsonAssets/ObjectId:Stamina Capsule}} {{spacechase0.JsonAssets/ObjectId:Big Conch}}",
+    "Delimiter": " "
+      },
+  {
+          "Operation": "Append",
+          "Target": ["Entries", "Universal_Like"],
+          "Value": "{{spacechase0.JsonAssets/ObjectId:Lucky Four Leaf Clover}}",
+    "Delimiter": " "
+      },
+  {
+          "Operation": "Append",
+          "Target": ["Entries", "Universal_Love"],
+          "Value": "{{spacechase0.JsonAssets/ObjectId:Golden Ocean Flower}}",
+    "Delimiter": " "
+      }
+  ]
 },
 
  //Fish and Artifact location data
@@ -3471,263 +3659,301 @@
   "Custom_MorrisProperty": "-1/-1/-1/-1/{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 {{spacechase0.JsonAssets/ObjectId:Butterfish}} -1 {{spacechase0.JsonAssets/ObjectId:Puppyfish}} -1 143 -1 706 -1/{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 {{spacechase0.JsonAssets/ObjectId:Puppyfish}} -1 {{spacechase0.JsonAssets/ObjectId:Butterfish}} -1 138 -1 144 -1 706 -1/{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 {{spacechase0.JsonAssets/ObjectId:Butterfish}} -1 {{spacechase0.JsonAssets/ObjectId:Puppyfish}} -1 139 -1 699 -1 143 -1 706 -1 140 -1 269 -1/{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 699 -1 153 -1 707 -1 141 -1 144 -1 132 -1 269 -1/100 1 101 .31 103 .8 105 .7 106 .1 107 .65 114 .1",
   "Custom_Highlands": "-1/-1/-1/-1/142 1 153 1 702 1 700 1 {{spacechase0.JsonAssets/ObjectId:Daggerfish}} 0 136 0/142 1 153 1 138 1 702 1 700 1 698 1 {{spacechase0.JsonAssets/ObjectId:Daggerfish}} 0 136 0/140 1 142 1 153 1 702 1 700 1 269 1 {{spacechase0.JsonAssets/ObjectId:Daggerfish}} 0 136 0/140 1 141 1 153 1 707 1 702 1 700 1 698 1 269 1 {{spacechase0.JsonAssets/ObjectId:Daggerfish}} 0 136 0/382 .06 581 .1 378 .1 102 .15 390 .25 330 1",
   "Custom_FableReef": "-1/-1/-1/-1/{{spacechase0.JsonAssets/ObjectId:Torpedo Trout}} -1 149 -1 148 -1 155 -1 130 -1 128 -1 267 -1 838 -1 837 -1 836 -1/{{spacechase0.JsonAssets/ObjectId:Torpedo Trout}} -1 149 -1 148 -1 155 -1 130 -1 128 -1 267 -1 838 -1 837 -1 836 -1/{{spacechase0.JsonAssets/ObjectId:Torpedo Trout}} -1 149 -1 148 -1 155 -1 130 -1 128 -1 267 -1 838 -1 837 -1 836 -1/{{spacechase0.JsonAssets/ObjectId:Torpedo Trout}} -1 149 -1 148 -1 155 -1 130 -1 128 -1 267 -1 838 -1 837 -1 836 -1/791 .05 292 .05 774 .1 749 1",
-  },
+  "Custom_GrampletonSuburbs": "18 .9/402 .9/410 .6/418 .7 414 .1 283 .5/137 -1 132 -1 143 -1 145 -1 153 -1 706 -1/138 -1 132 -1 144 -1 145 -1 153 -1 706 -1/139 -1 137 -1 132 -1 140 -1 143 -1 153 -1 706 -1 699 -1/132 -1 140 -1 141 -1 143 -1 144 -1 153 -1 707 -1 699 -1/378 .2 110 .2 583 .1 102 .2 390 .25 330 1",
+  "Custom_GrampletonSuburbsTrainStation": "18 .9/402 .9/410 .6/418 .7 414 .1 283 .5/137 -1 132 -1 143 -1 145 -1 153 -1 706 -1/138 -1 132 -1 144 -1 145 -1 153 -1 706 -1/139 -1 137 -1 132 -1 140 -1 143 -1 153 -1 706 -1 699 -1/132 -1 140 -1 141 -1 143 -1 144 -1 153 -1 707 -1 699 -1/378 .2 110 .2 583 .1 102 .2 390 .25 330 1",  
+},
 },
 
 //SVE fish location data
 
 {
-"Action": "EditData",
-"Target": "Data/Locations",
-"TextOperations": [
-
-{  //Forest - Spring
-   "Operation": "Append",
-   "Target": [ "Fields", "Forest", 4 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1",
-   "Delimiter": " "
-},
-{  //Forest - Summer
-   "Operation": "Append",
-   "Target": [ "Fields", "Forest", 5 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1",
-   "Delimiter": " "
-},
-{  //Forest - Fall
-   "Operation": "Append",
-   "Target": [ "Fields", "Forest", 6 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1",
-   "Delimiter": " "
-},
-{  //Forest - Winter
-   "Operation": "Append",
-   "Target": [ "Fields", "Forest", 7 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1",
-   "Delimiter": " "
-},
-{  //Town - Spring
-   "Operation": "Append",
-   "Target": [ "Fields", "Town", 4 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1",
-   "Delimiter": " "
-},
-{  //Town - Summer
-   "Operation": "Append",
-   "Target": [ "Fields", "Town", 5 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1",
-   "Delimiter": " "
-},
-{  //Town - Fall
-   "Operation": "Append",
-   "Target": [ "Fields", "Town", 6 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1",
-   "Delimiter": " "
-},
-{  //Town - Winter
-   "Operation": "Append",
-   "Target": [ "Fields", "Town", 7 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1",
-   "Delimiter": " "
-},
-{  //Mountain - Spring
-   "Operation": "Append",
-   "Target": [ "Fields", "Mountain", 4 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 {{spacechase0.JsonAssets/ObjectId:Frog}} -1",
-   "Delimiter": " "
-},
-{  //Mountain - Summer
-   "Operation": "Append",
-   "Target": [ "Fields", "Mountain", 5 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 {{spacechase0.JsonAssets/ObjectId:Frog}} -1",
-   "Delimiter": " "
-},
-{  //Mountain - Fall
-   "Operation": "Append",
-   "Target": [ "Fields", "Mountain", 6 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1",
-   "Delimiter": " "
-},
-{  //Mountain - Winter
-   "Operation": "Append",
-   "Target": [ "Fields", "Mountain", 7 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1",
-   "Delimiter": " "
-},
-{  //Sewer - Spring
-   "Operation": "Append",
-   "Target": [ "Fields", "Sewer", 4 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Radioactive Bass}} -1",
-   "Delimiter": " "
-},
-{  //Sewer - Summer
-   "Operation": "Append",
-   "Target": [ "Fields", "Sewer", 5 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Radioactive Bass}} -1",
-   "Delimiter": " "
-},
-{  //Sewer - Fall
-   "Operation": "Append",
-   "Target": [ "Fields", "Sewer", 6 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Radioactive Bass}} -1",
-   "Delimiter": " "
-},
-{  //Sewer - Winter
-   "Operation": "Append",
-   "Target": [ "Fields", "Sewer", 7 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Radioactive Bass}} -1",
-   "Delimiter": " "
-},
-{  //WitchSwamp - Spring
-   "Operation": "Append",
-   "Target": [ "Fields", "WitchSwamp", 4 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Void Eel}} -1",
-   "Delimiter": " "
-},
-{  //WitchSwamp - Summer
-   "Operation": "Append",
-   "Target": [ "Fields", "WitchSwamp", 5 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Void Eel}} -1",
-   "Delimiter": " "
-},
-{  //WitchSwamp - Fall
-   "Operation": "Append",
-   "Target": [ "Fields", "WitchSwamp", 6 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Void Eel}} -1",
-   "Delimiter": " "
-},
-{  //WitchSwamp - Winter
-   "Operation": "Append",
-   "Target": [ "Fields", "WitchSwamp", 7 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Void Eel}} -1",
-   "Delimiter": " "
-},
-
-{  //BugLand - Spring
-   "Operation": "Append",
-   "Target": [ "Fields", "BugLand", 4 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Void Eel}} -1",
-   "Delimiter": " "
-},
-{  //BugLand - Summer
-   "Operation": "Append",
-   "Target": [ "Fields", "BugLand", 5 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Void Eel}} -1",
-   "Delimiter": " "
-},
-{  //BugLand - Fall
-   "Operation": "Append",
-   "Target": [ "Fields", "BugLand", 6 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Void Eel}} -1",
-   "Delimiter": " "
-},
-{  //BugLand - Winter
-   "Operation": "Append",
-   "Target": [ "Fields", "BugLand", 7 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Void Eel}} -1",
-   "Delimiter": " "
-},
-
-{  //IslandSouthEast - Spring
-   "Operation": "Append",
-   "Target": [ "Fields", "IslandSouthEast", 4 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
-   "Delimiter": " "
-},
-{  //IslandSouthEast - Summer
-   "Operation": "Append",
-   "Target": [ "Fields", "IslandSouthEast", 5 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
-   "Delimiter": " "
-},
-{  //IslandSouthEast - Fall
-   "Operation": "Append",
-   "Target": [ "Fields", "IslandSouthEast", 6 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
-   "Delimiter": " "
-},
-{  //IslandSouthEast - Winter
-   "Operation": "Append",
-   "Target": [ "Fields", "IslandSouthEast", 7 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
-   "Delimiter": " "
-},
-
-{  //IslandWest - Spring
-   "Operation": "Append",
-   "Target": [ "Fields", "IslandWest", 4 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} 1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} 1",
-   "Delimiter": " "
-},
-{  //IslandWest - Summer
-   "Operation": "Append",
-   "Target": [ "Fields", "IslandWest", 5 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} 1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} 1",
-   "Delimiter": " "
-},
-{  //IslandWest - Fall
-   "Operation": "Append",
-   "Target": [ "Fields", "IslandWest", 6 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} 1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} 1",
-   "Delimiter": " "
-},
-{  //IslandWest - Winter
-   "Operation": "Append",
-   "Target": [ "Fields", "IslandWest", 7 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} 1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} 1",
-   "Delimiter": " "
-},
-
-{  //IslandSouth - Spring
-   "Operation": "Append",
-   "Target": [ "Fields", "IslandSouth", 4 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
-   "Delimiter": " "
-},
-{  //IslandSouth - Summer
-   "Operation": "Append",
-   "Target": [ "Fields", "IslandSouth", 5 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
-   "Delimiter": " "
-},
-{  //IslandSouth - Fall
-   "Operation": "Append",
-   "Target": [ "Fields", "IslandSouth", 6 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
-   "Delimiter": " "
-},
-{  //IslandSouth - Winter
-   "Operation": "Append",
-   "Target": [ "Fields", "IslandSouth", 7 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
-   "Delimiter": " "
-},
-
-{  //Fable Reef - Spring
-   "Operation": "Append",
-   "Target": [ "Fields", "Custom_FableReef", 4 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
-   "Delimiter": " "
-},
-{  //Fable Reef - Summer
-   "Operation": "Append",
-   "Target": [ "Fields", "Custom_FableReef", 5 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
-   "Delimiter": " "
-},
-{  //Fable Reef - Fall
-   "Operation": "Append",
-   "Target": [ "Fields", "Custom_FableReef", 6 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
-   "Delimiter": " "
-},
-{  //Fable Reef - Winter
-   "Operation": "Append",
-   "Target": [ "Fields", "Custom_FableReef", 7 ],
-   "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
-   "Delimiter": " "
-}
- ]
-}, 
+  "Action": "EditData",
+  "Target": "Data/Locations",
+  "TextOperations": [
+  
+  {  //Beach - Spring
+     "Operation": "Append",
+     "Target": [ "Fields", "Beach", 4 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Dulse Seaweed}} -1",
+     "Delimiter": " "
+  },
+  {  //Beach - Summer
+     "Operation": "Append",
+     "Target": [ "Fields", "Beach", 5 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Dulse Seaweed}} -1",
+     "Delimiter": " "
+  },
+  {  //Beach - Fall
+     "Operation": "Append",
+     "Target": [ "Fields", "Beach", 6 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Dulse Seaweed}} -1",
+     "Delimiter": " "
+  },
+  {  //Beach - Winter
+     "Operation": "Append",
+     "Target": [ "Fields", "Beach", 7 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Dulse Seaweed}} -1",
+     "Delimiter": " "
+  },
+  {  //Forest - Spring
+     "Operation": "Append",
+     "Target": [ "Fields", "Forest", 4 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1",
+     "Delimiter": " "
+  },
+  {  //Forest - Summer
+     "Operation": "Append",
+     "Target": [ "Fields", "Forest", 5 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1",
+     "Delimiter": " "
+  },
+  {  //Forest - Fall
+     "Operation": "Append",
+     "Target": [ "Fields", "Forest", 6 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 {{spacechase0.JsonAssets/ObjectId:Bull Trout}} -1",
+     "Delimiter": " "
+  },
+  {  //Forest - Winter
+     "Operation": "Append",
+     "Target": [ "Fields", "Forest", 7 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 {{spacechase0.JsonAssets/ObjectId:Bull Trout}} -1",
+     "Delimiter": " "
+  },
+  {  //Secret Woods - Spring
+     "Operation": "Append",
+     "Target": [ "Fields", "Woods", 4 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Grass Carp}} -1",
+     "Delimiter": " "
+  },
+  {  //Secret Woods - Summer
+     "Operation": "Append",
+     "Target": [ "Fields", "Woods", 5 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Grass Carp}} -1",
+     "Delimiter": " "
+  },
+  {  //Town - Spring
+     "Operation": "Append",
+     "Target": [ "Fields", "Town", 4 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1",
+     "Delimiter": " "
+  },
+  {  //Town - Summer
+     "Operation": "Append",
+     "Target": [ "Fields", "Town", 5 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1",
+     "Delimiter": " "
+  },
+  {  //Town - Fall
+     "Operation": "Append",
+     "Target": [ "Fields", "Town", 6 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1",
+     "Delimiter": " "
+  },
+  {  //Town - Winter
+     "Operation": "Append",
+     "Target": [ "Fields", "Town", 7 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1",
+     "Delimiter": " "
+  },
+  {  //Mountain - Spring
+     "Operation": "Append",
+     "Target": [ "Fields", "Mountain", 4 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 {{spacechase0.JsonAssets/ObjectId:Frog}} -1",
+     "Delimiter": " "
+  },
+  {  //Mountain - Summer
+     "Operation": "Append",
+     "Target": [ "Fields", "Mountain", 5 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 {{spacechase0.JsonAssets/ObjectId:Frog}} -1",
+     "Delimiter": " "
+  },
+  {  //Mountain - Fall
+     "Operation": "Append",
+     "Target": [ "Fields", "Mountain", 6 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 {{spacechase0.JsonAssets/ObjectId:Bull Trout}} -1",
+     "Delimiter": " "
+  },
+  {  //Mountain - Winter
+     "Operation": "Append",
+     "Target": [ "Fields", "Mountain", 7 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 {{spacechase0.JsonAssets/ObjectId:Bull Trout}} -1",
+     "Delimiter": " "
+  },
+  {  //Sewer - Spring
+     "Operation": "Append",
+     "Target": [ "Fields", "Sewer", 4 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Radioactive Bass}} -1",
+     "Delimiter": " "
+  },
+  {  //Sewer - Summer
+     "Operation": "Append",
+     "Target": [ "Fields", "Sewer", 5 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Radioactive Bass}} -1",
+     "Delimiter": " "
+  },
+  {  //Sewer - Fall
+     "Operation": "Append",
+     "Target": [ "Fields", "Sewer", 6 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Radioactive Bass}} -1",
+     "Delimiter": " "
+  },
+  {  //Sewer - Winter
+     "Operation": "Append",
+     "Target": [ "Fields", "Sewer", 7 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Radioactive Bass}} -1",
+     "Delimiter": " "
+  },
+  {  //WitchSwamp - Spring
+     "Operation": "Append",
+     "Target": [ "Fields", "WitchSwamp", 4 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Void Eel}} -1",
+     "Delimiter": " "
+  },
+  {  //WitchSwamp - Summer
+     "Operation": "Append",
+     "Target": [ "Fields", "WitchSwamp", 5 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Void Eel}} -1",
+     "Delimiter": " "
+  },
+  {  //WitchSwamp - Fall
+     "Operation": "Append",
+     "Target": [ "Fields", "WitchSwamp", 6 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Void Eel}} -1",
+     "Delimiter": " "
+  },
+  {  //WitchSwamp - Winter
+     "Operation": "Append",
+     "Target": [ "Fields", "WitchSwamp", 7 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Void Eel}} -1",
+     "Delimiter": " "
+  },
+  
+  {  //Mutant Bug Lair - Spring
+     "Operation": "Append",
+     "Target": [ "Fields", "BugLand", 4 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Water Grub}} -1 {{spacechase0.JsonAssets/ObjectId:Snatcher Worm}} -1",
+     "Delimiter": " "
+  },
+  {  //Mutant Bug Lair - Summer
+     "Operation": "Append",
+     "Target": [ "Fields", "BugLand", 5 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Water Grub}} -1 {{spacechase0.JsonAssets/ObjectId:Snatcher Worm}} -1",
+     "Delimiter": " "
+  },
+  {  //Mutant Bug Lair - Fall
+     "Operation": "Append",
+     "Target": [ "Fields", "BugLand", 6 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Water Grub}} -1 {{spacechase0.JsonAssets/ObjectId:Snatcher Worm}} -1",
+     "Delimiter": " "
+  },
+  {  //Mutant Bug Lair - Winter
+     "Operation": "Append",
+     "Target": [ "Fields", "BugLand", 7 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Water Grub}} -1 {{spacechase0.JsonAssets/ObjectId:Snatcher Worm}} -1",
+     "Delimiter": " "
+  },
+  
+  {  //IslandSouthEast - Spring
+     "Operation": "Append",
+     "Target": [ "Fields", "IslandSouthEast", 4 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
+     "Delimiter": " "
+  },
+  {  //IslandSouthEast - Summer
+     "Operation": "Append",
+     "Target": [ "Fields", "IslandSouthEast", 5 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
+     "Delimiter": " "
+  },
+  {  //IslandSouthEast - Fall
+     "Operation": "Append",
+     "Target": [ "Fields", "IslandSouthEast", 6 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
+     "Delimiter": " "
+  },
+  {  //IslandSouthEast - Winter
+     "Operation": "Append",
+     "Target": [ "Fields", "IslandSouthEast", 7 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
+     "Delimiter": " "
+  },
+  
+  {  //IslandWest - Spring
+     "Operation": "Append",
+     "Target": [ "Fields", "IslandWest", 4 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} 1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} 1",
+     "Delimiter": " "
+  },
+  {  //IslandWest - Summer
+     "Operation": "Append",
+     "Target": [ "Fields", "IslandWest", 5 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} 1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} 1",
+     "Delimiter": " "
+  },
+  {  //IslandWest - Fall
+     "Operation": "Append",
+     "Target": [ "Fields", "IslandWest", 6 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} 1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} 1",
+     "Delimiter": " "
+  },
+  {  //IslandWest - Winter
+     "Operation": "Append",
+     "Target": [ "Fields", "IslandWest", 7 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} 1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} 1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} 1",
+     "Delimiter": " "
+  },
+  
+  {  //IslandSouth - Spring
+     "Operation": "Append",
+     "Target": [ "Fields", "IslandSouth", 4 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
+     "Delimiter": " "
+  },
+  {  //IslandSouth - Summer
+     "Operation": "Append",
+     "Target": [ "Fields", "IslandSouth", 5 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
+     "Delimiter": " "
+  },
+  {  //IslandSouth - Fall
+     "Operation": "Append",
+     "Target": [ "Fields", "IslandSouth", 6 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
+     "Delimiter": " "
+  },
+  {  //IslandSouth - Winter
+     "Operation": "Append",
+     "Target": [ "Fields", "IslandSouth", 7 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
+     "Delimiter": " "
+  },
+  
+  {  //Fable Reef - Spring
+     "Operation": "Append",
+     "Target": [ "Fields", "Custom_FableReef", 4 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
+     "Delimiter": " "
+  },
+  {  //Fable Reef - Summer
+     "Operation": "Append",
+     "Target": [ "Fields", "Custom_FableReef", 5 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
+     "Delimiter": " "
+  },
+  {  //Fable Reef - Fall
+     "Operation": "Append",
+     "Target": [ "Fields", "Custom_FableReef", 6 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
+     "Delimiter": " "
+  },
+  {  //Fable Reef - Winter
+     "Operation": "Append",
+     "Target": [ "Fields", "Custom_FableReef", 7 ],
+     "Value": "{{spacechase0.JsonAssets/ObjectId:Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}} -1 {{spacechase0.JsonAssets/ObjectId:Sea Sponge}} -1 {{spacechase0.JsonAssets/ObjectId:Seahorse}} -1",
+     "Delimiter": " "
+  }
+   ]
+  }, 
 
 
  //Razor Trout patches
@@ -3813,6 +4039,12 @@
 
  ]
 },
+
+
+
+
+
+
 
 //If MNF isn't installed, adds SVE starfish and clownfish fish data
 {
@@ -3946,30 +4178,35 @@
 
 
 {
-   "Action": "EditData",
-   "Target": "Data/Fish",
-   "Entries": {
-   "{{spacechase0.JsonAssets/ObjectId:Minnow}}": "Minnow/1/sinker/1/2/600 1800/spring summer fall winter/sunny/683 .4/1/.03/.2/0",
-   "{{spacechase0.JsonAssets/ObjectId:Butterfish}}": "Butterfish/75/dart/8/16/600 2600/spring summer/sunny/690 .04/2/.25/.1/8",
-   "{{spacechase0.JsonAssets/ObjectId:Void Eel}}": "Void Eel/100/mixed/12/20/600 2600/spring summer fall winter/both/683 .4/2/.17/.17/8",
-   "{{spacechase0.JsonAssets/ObjectId:Puppyfish}}": "Puppyfish/85/mixed/5/9/600 2600/spring summer fall/both/690 .4 685 .1/3/.15/.3/8",
-   "{{spacechase0.JsonAssets/ObjectId:King Salmon}}": "King Salmon/80/dart/42/58/600 2000/spring summer/both/683 .4/3/.22/.5/8",
-   "{{spacechase0.JsonAssets/ObjectId:Frog}}": "Frog/70/sinker/2/5/1800 2600/spring summer/rainy/683 .4/3/.90/.5/5",
-   "{{spacechase0.JsonAssets/ObjectId:Kittyfish}}": "Kittyfish/85/mixed/5/9/600 2600/fall winter/both/690 .4 685 .1/3/.25/.3/8",
-   "{{spacechase0.JsonAssets/ObjectId:Seahorse}}": "Seahorse/25/mixed/1/3/800 1700/spring summer fall winter/both/690 .4 685 .1/4/.30/.2/0",
-   "{{spacechase0.JsonAssets/ObjectId:Sea Sponge}}": "Sea Sponge/40/sinker/3/9/600 2600/spring summer fall winter/both/690 .4 685 .1/4/.08/.25/0",
-   "{{spacechase0.JsonAssets/ObjectId:Lunaloo}}": "Lunaloo/70/floater/4/8/1700 2600/spring summer fall winter/both/690 .4 685 .1/5/.15/.5/5",
-   "{{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}}": "Baby Lunaloo/15/floater/4/8/1700 2600/spring summer fall winter/both/690 .4 685 .1/4/.02/.3/0",
-   "{{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}}": "Shiny Lunaloo/110/floater/8/12/1700 2600/spring summer fall winter/both/690 .4 685 .1/5/.03/.5/8",
-   "{{spacechase0.JsonAssets/ObjectId:Bonefish}}": "Bonefish/70/sinker/2/6/600 2600/spring summer fall winter/both/690 .4/3/.80/.5/5",
-   "{{spacechase0.JsonAssets/ObjectId:Undeadfish}}": "Undeadfish/80/mixed/3/7/600 2600/spring summer fall winter/both/690 .4/3/.80/.5/5",
-   "{{spacechase0.JsonAssets/ObjectId:Radioactive Bass}}": "Radioactive Bass/90/floater/18/30/600 2600/spring summer fall winter/both/690 .4/3/.04/.8/10",
-   "{{spacechase0.JsonAssets/ObjectId:Goldenfish}}": "Goldenfish/60/mixed/4/9/600 2600/spring summer fall winter/both/690 .4/3/.99/.5/0",
-   "{{spacechase0.JsonAssets/ObjectId:Meteor Carp}}": "Meteor Carp/80/sinker/24/36/600 2600/spring summer fall winter/both/690 .4/3/.20/.5/0",
-   "{{spacechase0.JsonAssets/ObjectId:Torpedo Trout}}": "Torpedo Trout/70/dart/50/50/600 2600/spring summer fall winter/both/690 .4/3/.70/.5/0",
-   "{{spacechase0.JsonAssets/ObjectId:Gemfish}}": "Gemfish/100/sinker/32/46/600 2600/spring summer fall winter/both/690 .4/3/.15/.5/0",
-   "{{spacechase0.JsonAssets/ObjectId:Daggerfish}}": "Daggerfish/50/dart/3/7/600 2600/spring summer fall winter/both/690 .4/3/.50/.5/0",
-  }
+  "Action": "EditData",
+  "Target": "Data/Fish",
+  "Entries": {
+  "{{spacechase0.JsonAssets/ObjectId:Minnow}}": "Minnow/1/sinker/1/2/600 1800/spring summer fall winter/sunny/683 .4/1/.03/.2/0",
+  "{{spacechase0.JsonAssets/ObjectId:Butterfish}}": "Butterfish/75/dart/8/16/600 2600/spring summer/sunny/690 .04/2/.25/.1/0",
+  "{{spacechase0.JsonAssets/ObjectId:Void Eel}}": "Void Eel/100/mixed/12/20/600 2600/spring summer fall winter/both/683 .4/2/.17/.17/8",
+  "{{spacechase0.JsonAssets/ObjectId:Puppyfish}}": "Puppyfish/85/mixed/5/9/600 2600/spring summer fall/both/690 .4 685 .1/3/.15/.3/0",
+  "{{spacechase0.JsonAssets/ObjectId:King Salmon}}": "King Salmon/80/dart/42/58/600 2000/spring summer/both/683 .4/3/.22/.5/8",
+  "{{spacechase0.JsonAssets/ObjectId:Frog}}": "Frog/70/sinker/2/5/1800 2600/spring summer/rainy/683 .4/3/.90/.5/5",
+  "{{spacechase0.JsonAssets/ObjectId:Kittyfish}}": "Kittyfish/85/mixed/5/9/600 2600/fall winter/both/690 .4 685 .1/3/.25/.3/8",
+  "{{spacechase0.JsonAssets/ObjectId:Seahorse}}": "Seahorse/25/mixed/1/3/800 1700/spring summer fall winter/both/690 .4 685 .1/4/.30/.2/0",
+  "{{spacechase0.JsonAssets/ObjectId:Sea Sponge}}": "Sea Sponge/40/sinker/3/9/600 2600/spring summer fall winter/both/690 .4 685 .1/4/.08/.25/0",
+  "{{spacechase0.JsonAssets/ObjectId:Lunaloo}}": "Lunaloo/70/floater/4/8/1700 2600/spring summer fall winter/both/690 .4 685 .1/5/.15/.5/5",
+  "{{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}}": "Baby Lunaloo/15/floater/4/8/1700 2600/spring summer fall winter/both/690 .4 685 .1/4/.02/.3/0",
+  "{{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}}": "Shiny Lunaloo/110/floater/8/12/1700 2600/spring summer fall winter/both/690 .4 685 .1/5/.03/.5/8",
+  "{{spacechase0.JsonAssets/ObjectId:Bonefish}}": "Bonefish/70/sinker/2/6/600 2600/spring summer fall winter/both/690 .4/3/.80/.5/5",
+  "{{spacechase0.JsonAssets/ObjectId:Undeadfish}}": "Undeadfish/80/mixed/3/7/600 2600/spring summer fall winter/both/690 .4/3/.80/.5/5",
+  "{{spacechase0.JsonAssets/ObjectId:Radioactive Bass}}": "Radioactive Bass/90/floater/18/30/600 2600/spring summer fall winter/both/690 .4/3/.04/.8/10",
+  "{{spacechase0.JsonAssets/ObjectId:Goldenfish}}": "Goldenfish/60/mixed/4/9/600 2600/spring summer fall winter/both/690 .4/3/.99/.5/0",
+  "{{spacechase0.JsonAssets/ObjectId:Meteor Carp}}": "Meteor Carp/80/sinker/24/36/600 2600/spring summer fall winter/both/690 .4/3/.20/.5/0",
+  "{{spacechase0.JsonAssets/ObjectId:Torpedo Trout}}": "Torpedo Trout/70/dart/50/50/600 2600/spring summer fall winter/both/690 .4/3/.70/.5/0",
+  "{{spacechase0.JsonAssets/ObjectId:Gemfish}}": "Gemfish/100/sinker/32/46/600 2600/spring summer fall winter/both/690 .4/3/.18/.5/0",
+  "{{spacechase0.JsonAssets/ObjectId:Daggerfish}}": "Daggerfish/50/dart/3/7/600 2600/spring summer fall winter/both/690 .4/3/.50/.5/0",
+  "{{spacechase0.JsonAssets/ObjectId:Grass Carp}}": "Grass Carp/85/mixed/24/42/600 2600/spring summer/both/690 .4/3/.10/.5/0",
+  "{{spacechase0.JsonAssets/ObjectId:Bull Trout}}": "Bull Trout/45/mixed/12/25/600 2600/fall winter/both/690 .4/3/.22/.5/0",
+  "{{spacechase0.JsonAssets/ObjectId:Water Grub}}": "Water Grub/60/sinker/10/21/600 2600/spring summer fall winter/both/690 .4/3/.40/.5/0",
+  "{{spacechase0.JsonAssets/ObjectId:Dulse Seaweed}}": "Dulse Seaweed/10/floater/5/30/600 2600/spring summer fall winter/both/-1/0/.15/0/0",
+  "{{spacechase0.JsonAssets/ObjectId:Snatcher Worm}}": "Snatcher Worm/75/Dart/18/42/600 2600/spring summer fall winter/both/690 .4/3/.12/.5/0",
+ }
 },
 
 {
@@ -3990,75 +4227,100 @@
 },
 
 {
-   "Action": "EditData",
-   "Target": "Data/AquariumFish",
-   "Entries": {
-   "{{spacechase0.JsonAssets/ObjectId:Puppyfish}}": "92/float",
-   "{{spacechase0.JsonAssets/ObjectId:Void Eel}}": "93/eel",
-   "{{spacechase0.JsonAssets/ObjectId:Minnow}}": "95/fish",
-   "{{spacechase0.JsonAssets/ObjectId:King Salmon}}": "96/fish",
-   "{{spacechase0.JsonAssets/ObjectId:Razor Trout}}": "97/fish",
-   "{{spacechase0.JsonAssets/ObjectId:Butterfish}}": "99/crawl",
-   "{{spacechase0.JsonAssets/ObjectId:Gemfish}}": "107/fish",
-   "{{spacechase0.JsonAssets/ObjectId:Goldenfish}}": "108/fish",
-   "{{spacechase0.JsonAssets/ObjectId:Meteor Carp}}": "109/fish",
-   "{{spacechase0.JsonAssets/ObjectId:Torpedo Trout}}": "110/fish",
-   "{{spacechase0.JsonAssets/ObjectId:Seahorse}}": "111/float",
-   "{{spacechase0.JsonAssets/ObjectId:Sea Sponge}}": "112/static",
-   "{{spacechase0.JsonAssets/ObjectId:Lunaloo}}": "113/float",
-   "{{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}}": "114/float",
-   "{{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}}": "115/float",
-   "{{spacechase0.JsonAssets/ObjectId:Daggerfish}}": "116/fish",
-   "{{spacechase0.JsonAssets/ObjectId:Bonefish}}": "117/fish",
-   "{{spacechase0.JsonAssets/ObjectId:Undeadfish}}": "118/fish",
-   "{{spacechase0.JsonAssets/ObjectId:Radioactive Bass}}": "119/fish",
-    },
+  "Action": "EditData",
+  "Target": "Data/AquariumFish",
+  "Entries": {
+  "{{spacechase0.JsonAssets/ObjectId:Puppyfish}}": "92/float",
+  "{{spacechase0.JsonAssets/ObjectId:Void Eel}}": "93/eel",
+  "{{spacechase0.JsonAssets/ObjectId:Minnow}}": "95/fish",
+  "{{spacechase0.JsonAssets/ObjectId:King Salmon}}": "96/fish",
+  "{{spacechase0.JsonAssets/ObjectId:Razor Trout}}": "97/fish",
+  "{{spacechase0.JsonAssets/ObjectId:Butterfish}}": "99/crawl",
+  "{{spacechase0.JsonAssets/ObjectId:Water Grub}}": "104/static",
+  "{{spacechase0.JsonAssets/ObjectId:Grass Carp}}": "105/fish",
+  "{{spacechase0.JsonAssets/ObjectId:Bull Trout}}": "106/fish",
+  "{{spacechase0.JsonAssets/ObjectId:Gemfish}}": "107/fish",
+  "{{spacechase0.JsonAssets/ObjectId:Goldenfish}}": "108/fish",
+  "{{spacechase0.JsonAssets/ObjectId:Meteor Carp}}": "109/fish",
+  "{{spacechase0.JsonAssets/ObjectId:Torpedo Trout}}": "110/fish",
+  "{{spacechase0.JsonAssets/ObjectId:Seahorse}}": "111/float",
+  "{{spacechase0.JsonAssets/ObjectId:Sea Sponge}}": "112/static",
+  "{{spacechase0.JsonAssets/ObjectId:Lunaloo}}": "113/float",
+  "{{spacechase0.JsonAssets/ObjectId:Baby Lunaloo}}": "114/float",
+  "{{spacechase0.JsonAssets/ObjectId:Shiny Lunaloo}}": "115/float",
+  "{{spacechase0.JsonAssets/ObjectId:Daggerfish}}": "116/fish",
+  "{{spacechase0.JsonAssets/ObjectId:Bonefish}}": "117/fish",
+  "{{spacechase0.JsonAssets/ObjectId:Undeadfish}}": "118/fish",
+  "{{spacechase0.JsonAssets/ObjectId:Radioactive Bass}}": "119/fish",
+  "{{spacechase0.JsonAssets/ObjectId:Snatcher Worm}}": "56/fish",
+   },
 },
 
 
 {
-   "Action": "EditData",
-   "Target": "Data/AquariumFish",
-   "When": { "HasMod |contains=MoreFish": false },
-   "Entries": {
-   "{{spacechase0.JsonAssets/ObjectId:Clownfish}}": "94/fish",
-   "{{spacechase0.JsonAssets/ObjectId:Starfish}}": "98/static",
-    },
+  "Action": "EditData",
+  "Target": "Data/AquariumFish",
+  "When": { "HasMod |contains=MoreFish": false },
+  "Entries": {
+  "{{spacechase0.JsonAssets/ObjectId:Clownfish}}": "94/fish",
+  "{{spacechase0.JsonAssets/ObjectId:Starfish}}": "98/static",
+   },
 },
 
 {
-   "Action": "EditImage",
-   "Target": "LooseSprites/AquariumFish",
-   "FromFile": "Assets/TileSheets/SVE_AquariumFish.png",
-   "ToArea": { "X": 288, "Y": 192, "Width": 192, "Height": 48 },
+  "Action": "EditImage",
+  "Target": "LooseSprites/AquariumFish",
+  "FromFile": "Assets/TileSheets/SVE_AquariumFish.png",
+  "ToArea": { "X": 288, "Y": 192, "Width": 192, "Height": 48 },
 },
 
 {
-   "Action": "EditImage",
-   "Target": "LooseSprites/AquariumFish",
-   "FromFile": "Assets/TileSheets/SVE_AquariumFish_GingerIsland.png",
-   "ToArea": { "X": 264, "Y": 240, "Width": 120, "Height": 48 },
+  "Action": "EditImage",
+  "Target": "LooseSprites/AquariumFish",
+  "FromFile": "Assets/TileSheets/SVE_AquariumFish_GingerIsland.png",
+  "ToArea": { "X": 264, "Y": 240, "Width": 120, "Height": 48 },
 },
 
 {
-   "Action": "EditImage",
-   "Target": "LooseSprites/AquariumFish",
-   "FromFile": "Assets/TileSheets/SVE_AquariumFish_SpriteSpring.png",
-   "ToArea": { "X": 168, "Y": 240, "Width": 96, "Height": 48 },
+  "Action": "EditImage",
+  "Target": "LooseSprites/AquariumFish",
+  "FromFile": "Assets/TileSheets/SVE_AquariumFish_SpriteSpring.png",
+  "ToArea": { "X": 168, "Y": 240, "Width": 96, "Height": 48 },
 },
 
 {
-   "Action": "EditImage",
-   "Target": "LooseSprites/AquariumFish",
-   "FromFile": "Assets/TileSheets/SVE_AquariumFish_WeirdOnes.png",
-   "ToArea": { "X": 408, "Y": 240, "Width": 72, "Height": 48 },
+  "Action": "EditImage",
+  "Target": "LooseSprites/AquariumFish",
+  "FromFile": "Assets/TileSheets/SVE_AquariumFish_WeirdOnes.png",
+  "ToArea": { "X": 408, "Y": 240, "Width": 72, "Height": 48 },
 },
 
 {
-   "Action": "EditImage",
-   "Target": "LooseSprites/AquariumFish",
-   "FromFile": "Assets/TileSheets/SVE_AquariumFish_Daggerfish.png",
-   "ToArea": { "X": 384, "Y": 240, "Width": 24, "Height": 48 },
+  "Action": "EditImage",
+  "Target": "LooseSprites/AquariumFish",
+  "FromFile": "Assets/TileSheets/SVE_AquariumFish_Daggerfish.png",
+  "ToArea": { "X": 384, "Y": 240, "Width": 24, "Height": 48 },
+},
+
+{
+  "Action": "EditImage",
+  "Target": "LooseSprites/AquariumFish",
+  "FromFile": "Assets/TileSheets/SVE_AquariumFish_SecretWoods.png",
+  "ToArea": { "X": 120, "Y": 240, "Width": 48, "Height": 48 },
+},
+
+{
+  "Action": "EditImage",
+  "Target": "LooseSprites/AquariumFish",
+  "FromFile": "Assets/TileSheets/SVE_AquariumFish_WaterGrub.png",
+  "ToArea": { "X": 96, "Y": 240, "Width": 24, "Height": 48 },
+},
+
+{
+  "Action": "EditImage",
+  "Target": "LooseSprites/AquariumFish",
+  "FromFile": "Assets/TileSheets/SVE_Aquarium_SnatcherWorm.png",
+  "ToArea": { "X": 384, "Y": 96, "Width": 24, "Height": 48 },
 },
 
 {  //Add Kittyfish data to aquarium
@@ -4599,7 +4861,7 @@
 	},
 	{
     "RequiredPopulation": 2,
-    "Chance": .75,
+    "Chance": 0.75,
     "ItemID": 766,
     "MinQuantity": 1,
     "MaxQuantity": 5
@@ -4637,14 +4899,14 @@
 	},
 	{
     "RequiredPopulation": 3,
-    "Chance": .75,
+    "Chance": 0.75,
     "ItemID": 766,
     "MinQuantity": 1,
     "MaxQuantity": 2
     },
 	{
     "RequiredPopulation": 1,
-    "Chance": .50,
+    "Chance": 0.50,
     "ItemID": 812,
     "MinQuantity": 1,
     "MaxQuantity": 1
@@ -5117,13 +5379,6 @@
     "ItemID": 109, //ancient sword
     "MinQuantity": 1,
     "MaxQuantity": 1
-    },
-	{
-    "RequiredPopulation": 1,
-    "Chance": 0.5,
-    "ItemID": 812, //roe
-    "MinQuantity": 1,
-    "MaxQuantity": 2
     }
   ],
 	"PopulationGates": {
@@ -5134,8 +5389,201 @@
  },
 },
 
+{    //GRASS CARP
+	"Action": "EditData",
+	"Target": "Data/FishPondData",
+	"Entries": { 
+	"Grass Carp": {
+	"RequiredTags": [ "item_grass_carp" ],
+	"SpawnTime": -1,
+	"ProducedItems": [
+	{
+	"RequiredPopulation": 10,	
+	"Chance": 0.20,
+	"ItemID": 297, //grass starter
+	"MinQuantity": 5,
+	"MaxQuantity": 10
+	},
+	{
+	"RequiredPopulation": 5,	
+	"Chance": 0.40,
+	"ItemID": 297, //grass starter
+	"MinQuantity": 1,
+	"MaxQuantity": 5
+	},
+	{
+    "RequiredPopulation": 1,
+    "Chance": 0.40,
+    "ItemID": 812, //roe
+    "MinQuantity": 1,
+    "MaxQuantity": 2
+    }
+  ],
+	"PopulationGates": {
+	"4": [ "153 5", ], //green algae
+	"9": [ "153 12"], //green algae
+	  },
+   },
+ },
+},
+
+{    //BULL TROUT
+	"Action": "EditData",
+	"Target": "Data/FishPondData",
+	"Entries": { 
+	"Bull Trout": {
+	"RequiredTags": [ "item_bull_trout" ],
+	"SpawnTime": -1,
+	"ProducedItems": [
+	{
+	"RequiredPopulation": 10,	
+	"Chance": 0.20,
+	"ItemID": 812, //roe
+	"MinQuantity": 2,
+	"MaxQuantity": 4
+	},
+	{
+	"RequiredPopulation": 5,	
+	"Chance": 0.40,
+	"ItemID": 812, //roe
+	"MinQuantity": 1,
+	"MaxQuantity": 3
+	},
+	{
+    "RequiredPopulation": 1,
+    "Chance": 0.40,
+    "ItemID": 812, //roe
+    "MinQuantity": 1,
+    "MaxQuantity": 2
+    }
+  ],
+	"PopulationGates": {
+	"4": [ "416 2", "408 2" ], //snow yam or hazelnut
+	"8": [ "416 5", "408 5" ], //snow yam or hazelnut
+	  },
+   },
+ },
+},
 
 
+{    //Water Grub
+	"Action": "EditData",
+	"Target": "Data/FishPondData",
+	"Entries": { 
+	"Bull Trout": {
+	"RequiredTags": [ "item_water_grub" ],
+	"SpawnTime": -1,
+	"ProducedItems": [
+	{
+	"RequiredPopulation": 10,	
+	"Chance": 0.20,
+	"ItemID": 874, //bug steak
+	"MinQuantity": 1,
+	"MaxQuantity": 6
+	},
+	{
+	"RequiredPopulation": 5,	
+	"Chance": 0.05,
+	"ItemID": 874, //bug steak
+	"MinQuantity": 1,
+	"MaxQuantity": 1
+	},
+	{
+	"RequiredPopulation": 5,	
+	"Chance": 0.40,
+	"ItemID": 684, //bug meat
+	"MinQuantity": 1,
+	"MaxQuantity": 10
+	},
+	{
+	"RequiredPopulation": 1,	
+	"Chance": 0.50,
+	"ItemID": 684, //bug meat
+	"MinQuantity": 1,
+	"MaxQuantity": 5
+	},
+	{
+    "RequiredPopulation": 1,
+    "Chance": 0.50,
+    "ItemID": 812, //roe
+    "MinQuantity": 1,
+    "MaxQuantity": 2
+    }
+  ],
+	"PopulationGates": {
+	"3": [ "885 30", "885 25", "885 35" ], //fiber
+	"7": [ "157 4", "157 5", "157 6" ], //white algae
+	  },
+   },
+ },
+},
+
+
+{    //Worm Snatcher
+	"Action": "EditData",
+	"Target": "Data/FishPondData",
+	"Entries": { 
+	"Wormd Snatcher": {
+	"RequiredTags": [ "item_worm_snatcher" ],
+	"SpawnTime": -1,
+	"ProducedItems": [
+    {
+	"RequiredPopulation": 10,	
+	"Chance": 0.02,
+	"ItemID": 72, //diamond
+	"MinQuantity": 2,
+	"MaxQuantity": 5
+	},
+	{
+	"RequiredPopulation": 10,	
+	"Chance": 0.20,
+	"ItemID": 774, //wild bait
+	"MinQuantity": 4,
+	"MaxQuantity": 10
+	},
+	{
+	"RequiredPopulation": 10,	
+	"Chance": 0.35,
+	"ItemID": 874, //bug steak
+	"MinQuantity": 1,
+	"MaxQuantity": 6
+	},
+	{
+	"RequiredPopulation": 5,	
+	"Chance": 0.10,
+	"ItemID": 874, //bug steak
+	"MinQuantity": 1,
+	"MaxQuantity": 1
+	},
+	{
+	"RequiredPopulation": 5,	
+	"Chance": 0.70,
+	"ItemID": 684, //bug meat
+	"MinQuantity": 2,
+	"MaxQuantity": 8
+	},
+	{
+	"RequiredPopulation": 1,	
+	"Chance": 0.40,
+	"ItemID": 684, //bug meat
+	"MinQuantity": 2,
+	"MaxQuantity": 4
+	},
+	{
+    "RequiredPopulation": 1,
+    "Chance": 0.50,
+    "ItemID": 812, //roe
+    "MinQuantity": 1,
+    "MaxQuantity": 1
+    }
+  ],
+	"PopulationGates": {
+	"3": [ "684 15" ], //bug meat
+	"8": [ "684 50" ], //bug meat
+	  },
+   },
+ },
+},
 
 
 {
@@ -5163,6 +5611,12 @@
 	{ "ID": "item_meteor_carp", "AfterID": "item_goldenfish" },
 	{ "ID": "item_torpedo_trout", "AfterID": "item_meteor_carp" },
 	{ "ID": "item_gemfish", "AfterID": "item_torpedo_trout" },
+	{ "ID": "item_daggerfish", "AfterID": "item_gemfish" },
+	{ "ID": "item_grass_carp", "AfterID": "item_daggerfish" },
+	{ "ID": "item_bull_trout", "AfterID": "item_grass_carp" },
+	{ "ID": "item_water_grub", "AfterID": "item_bull_trout" },
+	{ "ID": "item_worm_snatcher", "AfterID": "item_water_grub" },
+	{ "ID": "item_razor_trout", "AfterID": "item_worm_snatcher" },
   ]
 },
 
@@ -5341,7 +5795,7 @@
 	"When": { "HarderBuildingConstruction": true }
 },
 
-{	  //LOWER PROFIT MARGINS
+/*{	  //LOWER PROFIT MARGINS
     "Action": "EditData",
     "Target": "Data/objectinformation",
 	"Fields": {
@@ -5421,7 +5875,7 @@
 	"834": { 1: "110" },
 	},
 	"When": { "LowerProfitMargins": true }
-},
+},*/
 
 /*{	  //HARDER COMMUNITY CENTER BUNDLES
     "Action": "EditData",
@@ -5479,21 +5933,23 @@
 
         //LOAD FENCES
 
-{
-        //Basic Fences
-        "Action": "Load",
-        "Target": "LooseSprites/Fence1",
-        "FromFile": "assets/Recolors/Fences/{{recolor}}/Fence1_{{season}}.png",
-        "When": { "ReplaceDefaultFences": true }
-},
-
-{
-        //Hardwood Fences
-        "Action": "Load",
-        "Target": "LooseSprites/Fence5",
-        "FromFile": "assets/Recolors/Fences/{{recolor}}/Fence5_{{season}}.png",
-        "When": { "ReplaceHardwoodFences": true }
-},
+        {
+          //Basic Fences
+          "Action": "EditImage",
+          "Target": "LooseSprites/Fence1",
+          "FromFile": "assets/Recolors/Fences/{{recolor}}/Fence1_{{season}}.png",
+      "PatchMode": "Replace",
+          "When": { "ReplaceDefaultFences": true }
+  },
+  
+  {
+          //Hardwood Fences
+          "Action": "EditImage",
+          "Target": "LooseSprites/Fence5",
+          "FromFile": "assets/Recolors/Fences/{{recolor}}/Fence5_{{season}}.png",
+      "PatchMode": "Replace",
+          "When": { "ReplaceHardwoodFences": true }
+  },
 
 
 
@@ -5732,6 +6188,13 @@
 	"ToArea": { "X": 114, "Y": 93, "Width": 1, "Height": 4 },
     "When": { "HasSeenEvent": "5553210", "HasSeenEvent |contains=1000024": false }
 },
+{   //Joja Pelican Town - Garden
+  "Action": "EditMap",
+  "Target": "Maps/Custom_Garden",
+  "FromFile": "assets/Maps/MapPatches/Town_Joja_Garden.tbin",
+"ToArea": { "X": 0, "Y": 27, "Width": 1, "Height": 5 },
+  "When": { "HasSeenEvent": "5553210" }
+},
 {   //Shearwater Bridge
     "Action": "EditMap",
     "Target": "Maps/Custom_ShearwaterBridge",
@@ -5741,7 +6204,7 @@
 },
 
 
-//New
+//New code
 
 {    //Lewis crop field event
 	 "Action": "EditData",
@@ -6227,13 +6690,22 @@
 	}
 },
 
-{   //Olivia's special order event
-    "Action": "EditData",
-    "Target": "Data/Events/Town",
-	"When": { "HasFlag": "OliviaReception" },
-    "Entries": {
-    "5407916/w sunny/t 1000 1700": "none/-500 -500/farmer 31 64 3 Olivia 27 64 1 Governor 29 63 2 Demetrius 22 63 2 Robin 21 64 1 Abigail 22 66 0 Pierre 25 65 3 Caroline 23 66 0 Elliott 23 69 2 Leah 21 70 1 Emily 23 72 0 Sandy 25 71 3 Victor 27 70 1 Susan 29 72 0 Sophia 31 70 3 Lewis 30 69 2 Marnie 28 69 2 Kent 29 66 0 Jodi 30 66 0 Harvey 34 64 0 Maru 35 61 2 Pam 59 64 3 Penny 78 95 2 Clint 97 77 0 Linus 17 44 2/addTemporaryActor ReceptionTable1 46 47 22 65 2 false/addTemporaryActor ReceptionTable1 46 47 28 71 2 false/addTemporaryActor ReceptionTable2 46 47 28 65 2 false/addTemporaryActor ReceptionTable2 46 47 22 71 2 false/addTemporaryActor ReceptionTable3 46 47 33 63 2 false/addTemporaryActor ArtGuy 16 32 28 63 2/positionOffset ArtGuy 10 -5/positionOffset Governor 30 -3/positionOffset Demetrius 20 0/positionOffset Abigail 4 -10/positionOffset Caroline 15 0/positionOffset Elliott -15 0/positionOffset Emily 20 0/positionOffset Sandy 0 -20/positionOffset Susan -15 0/positionOffset Sophia 0 10/positionOffset Lewis -10 0/positionOffset Marnie 10 0/positionOffset Harvey 20 0/positionOffset Maru 0 -10/positionOffset Kent -20 0/positionOffset Jodi -15 0/positionOffset farmer -12 4/animate Olivia true true 100 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 19 19 19 19 19 18 17 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 19 19 19 19 19 19 19 18 17 16 16 16 16 16/animate Lewis false true 100 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 22 23 23 23 23 23 22 22 22 23 23 23 23 23 23 23 23 23 23/animate Elliott false true 100 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 18 18 19 19 18 18 19 19 18 17 16 16 16 16 16 16 16 16 16 16 16 16/animate Marnie false true 100 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 21 22 23 23 23 23 23 23 23 23 22 21/animate Sophia false true 100 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 19 19 19 19 19 19 19 18 17 16 16 16/animate Victor true true 100 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 25 26 27 27 27 27 27 27 27 27 27 27 27 26 25 24 24 24 24/pause 1000/playMusic movieTheater/viewport 28 66 true/pause 4000/speak Olivia \"Je dois dire que cet événement s'est parfaitement déroulé!$3#$b#Tout cela grâce à toi, mon chou. Le vin et le fromage de %farm n'est rien de moins que la perfection!$1\"/pause 500/speak Governor \"Ce vin et ce fromage locaux sont délicieux!$0#$b#Dis-moi fermier.e, quel est ton secret?$1\"/pause 600/showFrame farmer 97 true/pause 600/emote farmer 40 true/pause 350/globalFade/viewport -1000 -1000/pause 1000/friendship Demetrius 250/friendship Robin 250/friendship Pierre 250/friendship Abigail 250/friendship Caroline 250/friendship Olivia 250/friendship Kent 250/friendship Jodi 250/friendship Elliott 250/friendship Leah 250/friendship Emily 250/friendship Victor 250/friendship Sophia 250/friendship Lewis 250/friendship Marnie 250/friendship Harvey 250/friendship Maru 250/playSound reward/message \"Je sens que mon amitié avec les invités de la réception s'est accrue. J'ai également appris à bien goûter le vin - améliorant ma santé et restaurant mon endurance lorsque j'en bois!\"/pause 1000/end dialogue Olivia \"Ma réception a été un énorme succès! Je te remercie, @.$3#$e#Je dois surveiller mon porte monnaie pour le moment. L'événement était amusant, mais assez cher!$6\""
-	}
+{   //Olivia's special order event (no kent)
+  "Action": "EditData",
+  "Target": "Data/Events/Town",
+"When": { "HasFlag": "OliviaReception", "Year": "1" },
+  "Entries": {
+  "5407916/w sunny/t 1000 1700": "none/-500 -500/farmer 31 64 3 Olivia 27 64 1 Governor 29 63 2 Demetrius 22 63 2 Robin 21 64 1 Abigail 22 66 0 Pierre 25 65 3 Caroline 23 66 0 Elliott 23 69 2 Leah 21 70 1 Emily 23 72 0 Sandy 25 71 3 Victor 27 70 1 Susan 29 72 0 Sophia 31 70 3 Lewis 30 69 2 Marnie 28 69 2 Jodi 30 66 0 Harvey 34 64 0 Maru 35 61 2 Pam 59 64 3 Penny 78 95 2 Clint 97 77 0 Linus 17 44 2/addTemporaryActor ReceptionTable1 46 47 22 65 2 false/addTemporaryActor ReceptionTable1 46 47 28 71 2 false/addTemporaryActor ReceptionTable2 46 47 28 65 2 false/addTemporaryActor ReceptionTable2 46 47 22 71 2 false/addTemporaryActor ReceptionTable3 46 47 33 63 2 false/addTemporaryActor ArtGuy 16 32 28 63 2/positionOffset ArtGuy 10 -5/positionOffset Governor 30 -3/positionOffset Demetrius 20 0/positionOffset Abigail 4 -10/positionOffset Caroline 15 0/positionOffset Elliott -15 0/positionOffset Emily 20 0/positionOffset Sandy 0 -20/positionOffset Susan -15 0/positionOffset Sophia 0 10/positionOffset Lewis -10 0/positionOffset Marnie 10 0/positionOffset Harvey 20 0/positionOffset Maru 0 -10/positionOffset Jodi -15 0/positionOffset farmer -12 4/animate Olivia true true 100 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 19 19 19 19 19 18 17 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 19 19 19 19 19 19 19 18 17 16 16 16 16 16/animate Lewis false true 100 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 22 23 23 23 23 23 22 22 22 23 23 23 23 23 23 23 23 23 23/animate Elliott false true 100 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 18 18 19 19 18 18 19 19 18 17 16 16 16 16 16 16 16 16 16 16 16 16/animate Marnie false true 100 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 21 22 23 23 23 23 23 23 23 23 22 21/animate Sophia false true 100 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 19 19 19 19 19 19 19 18 17 16 16 16/animate Victor true true 100 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 25 26 27 27 27 27 27 27 27 27 27 27 27 26 25 24 24 24 24/pause 1000/playMusic movieTheater/viewport 28 66 true/pause 4000/speak Olivia \"I must say, this event turned out perfectly!$3#$b#It's all thanks to you, dear. The wine and cheese from %farm Farm is nothing short of perfection!$1\"/pause 500/speak Governor \"This local wine and cheese is delectable!$0#$b#Tell me farmer, what's your secret?$1\"/pause 600/showFrame farmer 97 true/pause 600/emote farmer 40 true/pause 350/globalFade/viewport -1000 -1000/pause 1000/friendship Demetrius 250/friendship Robin 250/friendship Pierre 250/friendship Abigail 250/friendship Caroline 250/friendship Olivia 250/friendship Jodi 250/friendship Elliott 250/friendship Leah 250/friendship Emily 250/friendship Victor 250/friendship Sophia 250/friendship Lewis 250/friendship Marnie 250/friendship Harvey 250/friendship Maru 250/playSound reward/message \"I sense my friendship with the reception's guests has increased. I've also learned how to properly sample wine - increasing health and stamina healed when I drink it!\"/pause 1000/end dialogue Olivia \"My reception was a huge success! Thank you, @.$3#$e#I must watch my pocket book for the time being. The event was fun, but was quite expensive!$6\""
+}
+},
+
+{   //Olivia's special order event (kent)
+  "Action": "EditData",
+  "Target": "Data/Events/Town",
+"When": { "HasFlag": "OliviaReception", "Year": "2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20" },
+  "Entries": {
+  "5407916/w sunny/t 1000 1700": "none/-500 -500/farmer 31 64 3 Olivia 27 64 1 Governor 29 63 2 Demetrius 22 63 2 Robin 21 64 1 Abigail 22 66 0 Pierre 25 65 3 Caroline 23 66 0 Elliott 23 69 2 Leah 21 70 1 Emily 23 72 0 Sandy 25 71 3 Victor 27 70 1 Susan 29 72 0 Sophia 31 70 3 Lewis 30 69 2 Marnie 28 69 2 Kent 29 66 0 Jodi 30 66 0 Harvey 34 64 0 Maru 35 61 2 Pam 59 64 3 Penny 78 95 2 Clint 97 77 0 Linus 17 44 2/addTemporaryActor ReceptionTable1 46 47 22 65 2 false/addTemporaryActor ReceptionTable1 46 47 28 71 2 false/addTemporaryActor ReceptionTable2 46 47 28 65 2 false/addTemporaryActor ReceptionTable2 46 47 22 71 2 false/addTemporaryActor ReceptionTable3 46 47 33 63 2 false/addTemporaryActor ArtGuy 16 32 28 63 2/positionOffset ArtGuy 10 -5/positionOffset Governor 30 -3/positionOffset Demetrius 20 0/positionOffset Abigail 4 -10/positionOffset Caroline 15 0/positionOffset Elliott -15 0/positionOffset Emily 20 0/positionOffset Sandy 0 -20/positionOffset Susan -15 0/positionOffset Sophia 0 10/positionOffset Lewis -10 0/positionOffset Marnie 10 0/positionOffset Harvey 20 0/positionOffset Maru 0 -10/positionOffset Kent -20 0/positionOffset Jodi -15 0/positionOffset farmer -12 4/animate Olivia true true 100 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 19 19 19 19 19 18 17 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 19 19 19 19 19 19 19 18 17 16 16 16 16 16/animate Lewis false true 100 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 22 23 23 23 23 23 22 22 22 23 23 23 23 23 23 23 23 23 23/animate Elliott false true 100 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 18 18 19 19 18 18 19 19 18 17 16 16 16 16 16 16 16 16 16 16 16 16/animate Marnie false true 100 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 21 22 23 23 23 23 23 23 23 23 22 21/animate Sophia false true 100 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 19 19 19 19 19 19 19 18 17 16 16 16/animate Victor true true 100 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 25 26 27 27 27 27 27 27 27 27 27 27 27 26 25 24 24 24 24/pause 1000/playMusic movieTheater/viewport 28 66 true/pause 4000/speak Olivia \"I must say, this event turned out perfectly!$3#$b#It's all thanks to you, dear. The wine and cheese from %farm Farm is nothing short of perfection!$1\"/pause 500/speak Governor \"This local wine and cheese is delectable!$0#$b#Tell me farmer, what's your secret?$1\"/pause 600/showFrame farmer 97 true/pause 600/emote farmer 40 true/pause 350/globalFade/viewport -1000 -1000/pause 1000/friendship Demetrius 250/friendship Robin 250/friendship Pierre 250/friendship Abigail 250/friendship Caroline 250/friendship Olivia 250/friendship Kent 250/friendship Jodi 250/friendship Elliott 250/friendship Leah 250/friendship Emily 250/friendship Victor 250/friendship Sophia 250/friendship Lewis 250/friendship Marnie 250/friendship Harvey 250/friendship Maru 250/playSound reward/message \"I sense my friendship with the reception's guests has increased. I've also learned how to properly sample wine - increasing health and stamina healed when I drink it!\"/pause 1000/end dialogue Olivia \"My reception was a huge success! Thank you, @.$3#$e#I must watch my pocket book for the time being. The event was fun, but was quite expensive!$6\""
+}
 },
 
      //event adds 1 heart of friendship to everyone at the banquet
@@ -7355,7 +7827,9 @@
    "ThiefOfJusticeMovie": "Vous êtes cordialement invités à assister à une première projection très spéciale de: ^^ LE VOLEUR DE JUSTICE ^ AVEC CLAIRE WHITLEY ^^ Première ce soir au théâtre à 17h.",
    "GuntherGaldoranGemReward": "Cher.e @,^^Grâce à vos généreux dons, la collection du musée est maintenant complète. En guise de remerciement, je veux vous offrir ce trésor spécial. Ce joyau a été excavé et taillé dans une terre magique lointaine appelée Galdora. C'est à vous maintenant.^^  -Gunther %item object {{spacechase0.JsonAssets/ObjectId:Galdoran Gem}} 1 %%",
    "LanceLifeElixirs": "Cher.e @,^^Cette caisse contient 24 élixirs de vie. Les hauts plateaux sont des terres dangereuses regorgeant de dangers à chaque coin de rue. Ceux-ci t'aideront à rester en sécurité.^^ -Lance %item object 773 24 %%",
-	}
+   "AndyPaycheck": "Ci-joint le paiement pour ton travail dans ma cave. Ce sera un bon lot de confiture de fraises !^^ -Andy %item money 1150 1150 %%[#]Paiement de Andy", 
+   "QiGoldenPiggyBankReward": "Voici un cadeau pour commémorer le fait que tu as gagné 10,000,000g ! Continue à faire du bon travail, fermier. Tu as un brillant avenir devant toi.^^ -Mr. Qi %item bigobject {{spacechase0.JsonAssets/BigCraftableId:Golden Piggy Bank}} %% [letterbg Mods/FlashShifter.StardewValleyExpandedCP/LetterBackgrounds 1][textcolor brown][#]Tirelire cochon dorée"
+  }
 },
 
 	{ //loads Claire's movie letter background for index 0
@@ -7412,6 +7886,7 @@
 		  "1337307/e 5000005/f Andy 2500/x AndyPictureLetter": "null",
 		  "1337308/e 502261/x JojaSeeds": "null",
 		  "1337310/e 4269703/x ThiefOfJusticeMovie": "null",
+      "1337335/m 10000000/x QiGoldenPiggyBankReward": "null",
 		  }
 },
 
@@ -7805,6 +8280,21 @@
 	 "FromFile": "assets/XNBs/FableReef.xnb"
 },
 {
+  "Action": "Load",
+"Target": "Data/Events/Custom_ScarlettHouse",
+"FromFile": "assets/XNBs/ScarlettHouse.xnb"
+},
+{
+  "Action": "Load",
+"Target": "Data/Events/Custom_GrampletonSuburbsTrainStation",
+"FromFile": "assets/XNBs/GrampletonSuburbsTrainStation.xnb"
+},
+{
+  "Action": "Load",
+"Target": "Data/Events/Custom_GrampletonSuburbs",
+"FromFile": "assets/XNBs/GrampletonSuburbs.xnb"
+},
+{
      "Action": "Load",
 	 "Target": "Data/Events/Blacksmith",
 	 "When": { "HasMod |contains=Arknir.Lucikiel": false },
@@ -8077,6 +8567,28 @@
 	 "DayTiles": "AlwaysFront 73 21 907 AlwaysFront 87 21 907 AlwaysFront 101 21 907 AlwaysFront 115 21 907 AlwaysFront 67 7 907",
 	 "NightTiles": "AlwaysFront 73 21 908 AlwaysFront 87 21 908 AlwaysFront 101 21 908 AlwaysFront 115 21 908 AlwaysFront 67 7 908"
 	 }
+},
+
+{
+  "Action": "Load",
+"Target": "Maps/Woods",
+"FromFile": "Assets/maps/locations/Woods2.tmx",
+},
+
+{
+  "Action": "EditMap",
+"Target": "Maps/Woods",
+"FromFile": "Assets/Maps/MapPatches/DeepWoodsCompatibility.tmx",
+"When": { "HasMod": "maxvollmer.deepwoodsmod" },
+"ToArea": { "X": 23, "Y": 21, "Width": 11, "Height": 12 }
+},
+
+{
+  "Action": "EditMap",
+"Target": "Maps/Woods",
+"FromFile": "Assets/Maps/MapPatches/Woods_RemoveRedBaneberryMessages.tmx",
+"When": { "Season": "Summer" },
+"ToArea": { "X": 8, "Y": 58, "Width": 22, "Height": 9 }
 },
 
 {
@@ -8600,6 +9112,7 @@
 	 "When": { "Season": "Fall", "SeasonalEdits": true },
 	 "ToArea": { "X": 0, "Y": 0, "Width": 30, "Height": 30 }
 },
+
 {
      "Action": "EditMap",
 	 "Target": "Maps/Woods",
@@ -9119,65 +9632,143 @@
 },
 
 
+    //Original Mine Location configuration - allows players to get to the mines faster (saves about 30 in-game minutes)
 
-{    //Mountain Minecart configuration - allows players to get to the mines faster (about half hour in-game).
+
+    {    //map patches mine location
+      "Action": "EditMap",
+      "Target": "Maps/Mountain",
+      "FromFile": "Assets/Maps/MapPatches/OriginalMineLocation_1.tbin",
+    "When": { "OriginalMinesEntrance": true },
+      "ToArea": { "X": 53, "Y": 2, "Width": 5, "Height": 7 }
+ },
+ 
+ {    //removes adventurer summit mine location
+      "Action": "EditMap",
+      "Target": "Maps/Custom_AdventurerSummit",
+      "FromFile": "Assets/Maps/MapPatches/OriginalMineLocation_2.tbin",
+    "When": { "OriginalMinesEntrance": true },
+      "ToArea": { "X": 17, "Y": 13, "Width": 9, "Height": 13 }
+ },
+ 
+ {    //removes mine warp from adventurer summit map
+      "Action": "EditMap",
+      "Target": "Maps/Custom_AdventurerSummit",
+      "MapProperties": { "Warp": "31 43 Mountain 79 1 32 43 Mountain 79 1 33 43 Mountain 79 1" },
+    "When": { "OriginalMinesEntrance": true },
+ },
+ 
+ {    //removes mine lantern light source from adventurer summit map
+      "Action": "EditMap",
+      "Target": "Maps/Custom_AdventurerSummit",
+      "MapProperties": { "Light": "33 19 4 56 29 4" },
+    "When": { "OriginalMinesEntrance": true },
+ },
+ 
+ {    //removes mine lantern day tile from adventurer summit map
+      "Action": "EditMap",
+      "Target": "Maps/Custom_AdventurerSummit",
+      "MapProperties": { "DayTiles": "Buildings 33 19 1087" },
+    "When": { "OriginalMinesEntrance": true },
+ },
+ 
+ {    //removes mine lantern night tile from adventurer summit map
+      "Action": "EditMap",
+      "Target": "Maps/Custom_AdventurerSummit",
+      "MapProperties": { "NightTiles": "Buildings 33 19 1161" },
+    "When": { "OriginalMinesEntrance": true },
+ },
+ 
+ {    //adds new warps to mountain
+      "Action": "EditMap",
+      "Target": "Maps/Mountain",
+    "When": { "OriginalMinesEntrance": true },
+      "TextOperations": [
+       {
+        "Operation": "Append",
+        "Target": [ "MapProperties", "Warp" ],
+        "Value": "55 4 Mine 18 13",
+      "Delimiter": " "
+       },
+     ]
+ },
+ 
+ {    //Adds new warp to mine
+      "Action": "EditMap",
+      "Target": "Maps/Mine",
+      "MapProperties": { "Warp": "18 15 Mountain 55 6" },
+    "When": { "OriginalMinesEntrance": true },
+ },
+
+{    //adds light
      "Action": "EditMap",
      "Target": "Maps/Mountain",
-     "FromFile": "Assets/Maps/MapPatches/MountainMinecart_1.tbin",
-	 "When": { "MountainMinecart": true, "HasSeenEvent |contains=100162": true },
-     "ToArea": { "X": 50, "Y": 2, "Width": 5, "Height": 5 }
-},
-{
-     "Action": "EditMap",
-     "Target": "Maps/Mine",
-     "FromFile": "Assets/Maps/MapPatches/MountainMinecart_2.tbin",
-	 "When": { "MountainMinecart": true, "HasSeenEvent |contains=100162": true },
-     "ToArea": { "X": 11, "Y": 5, "Width": 3, "Height": 3 }
-},
-{    
-     "Action": "EditMap",
-     "Target": "Maps/Mountain",
-	 "When": { "MountainMinecart": true, "HasSeenEvent |contains=100162": true },
+	 "When": { "OriginalMinesEntrance": true },
 	 "Update": "OnLocationChange",
      "TextOperations": [
       {
        "Operation": "Append",
        "Target": [ "MapProperties", "Light" ],
-       "Value": "53 4 4",
+       "Value": "56 4 4",
        "Delimiter": " "
       },
     ]
 },
-{    
+
+{    //adds day lantern
      "Action": "EditMap",
      "Target": "Maps/Mountain",
-	 "When": { "MountainMinecart": true, "HasSeenEvent |contains=100162": true },
+	 "When": { "OriginalMinesEntrance": true },
 	 "Update": "OnLocationChange",
      "TextOperations": [
       {
        "Operation": "Append",
        "Target": [ "MapProperties", "DayTiles" ],
-       "Value": "Buildings 53 4 510",
+       "Value": "Buildings 56 4 510",
        "Delimiter": " "
       },
     ]
 },
-{    
+
+{    //add night lantern
      "Action": "EditMap",
      "Target": "Maps/Mountain",
-	 "When": { "MountainMinecart": true, "HasSeenEvent |contains=100162": true },
+	 "When": { "OriginalMinesEntrance": true },
 	 "Update": "OnLocationChange",
      "TextOperations": [
       {
        "Operation": "Append",
        "Target": [ "MapProperties", "NightTiles" ],
-       "Value": "Buildings 53 4 507",
+       "Value": "Buildings 56 4 507",
        "Delimiter": " "
       },
     ]
 },
 
+///////////////////
 
+
+     //Shorter Path To Blue Moon Vineyard config
+
+{    //Cindersap Forest
+     "Action": "EditMap",
+     "Target": "Maps/Forest",
+     "FromFile": "Assets/Maps/MapPatches/Forest_ShorterPath.tbin",
+	 "When": { "ShorterPathToBlueMoonVineyard": true },
+     "ToArea": { "X": 95, "Y": 53, "Width": 25, "Height": 35 }
+},
+
+{    //BlueMoonVineyard
+     "Action": "EditMap",
+     "Target": "Maps/Custom_BlueMoonVineyard",
+     "FromFile": "Assets/Maps/MapPatches/BlueMoonVineyard_ShorterPath.tbin",
+	 "When": { "ShorterPathToBlueMoonVineyard": true },
+     "ToArea": { "X": 0, "Y": 49, "Width": 1, "Height": 8 }
+},
+
+
+
+///////////////////
 
 {    //Changes Earthquake text to Joja explosion clearing landslide
 	 "Action": "EditData",
@@ -9536,6 +10127,26 @@
     "Delimiter": "/"
   },
  ]
+},
+
+{   //Lance egg festival data
+  "Action": "EditData",
+  "Target": "Data/Festivals/spring13",
+"When": { "Spouse": "Lance" },
+  "TextOperations": [
+{    
+  "Operation": "Append",
+  "Target": ["Entries", "Set-Up_additionalCharacters"],
+  "Value": "Lance 32 55 down",
+  "Delimiter": "/"
+},
+{
+  "Operation": "Append",
+  "Target": ["Entries", "MainEvent_additionalCharacters"],
+  "Value": "Lance 32 74 up",
+  "Delimiter": "/"
+},
+]
 },
 
 {    //Sandy egg festival data
@@ -10076,63 +10687,83 @@
 },
 
 {   //Scarlett luau festival data
-    "Action": "EditData",
-    "Target": "Data/Festivals/summer11",
-	"When": { "HasSeenEvent": "8185295" },
-    "TextOperations": [
-  {    
-    "Operation": "Append",
-    "Target": ["Entries", "Set-Up_additionalCharacters"],
-    "Value": "Scarlett 48 22 up",
-    "Delimiter": "/"
-  },
-  {
-    "Operation": "Append",
-    "Target": ["Entries", "MainEvent_additionalCharacters"],
-    "Value": "Scarlett 27 11 right",
-    "Delimiter": "/"
-  },
- ]
+  "Action": "EditData",
+  "Target": "Data/Festivals/summer11",
+"When": { "HasSeenEvent": "3691371" },
+  "TextOperations": [
+{    
+  "Operation": "Append",
+  "Target": ["Entries", "Set-Up_additionalCharacters"],
+  "Value": "Scarlett 48 22 up",
+  "Delimiter": "/"
+},
+{
+  "Operation": "Append",
+  "Target": ["Entries", "MainEvent_additionalCharacters"],
+  "Value": "Scarlett 27 11 right",
+  "Delimiter": "/"
+},
+]
+},
+
+{   //Apples luau festival data
+  "Action": "EditData",
+  "Target": "Data/Festivals/summer11",
+"When": { "ApplesHere": "true", "Roommate": "Apples" },
+  "TextOperations": [
+{    
+  "Operation": "Append",
+  "Target": ["Entries", "Set-Up_additionalCharacters"],
+  "Value": "Apples 14 4 down",
+  "Delimiter": "/"
+},
+{
+  "Operation": "Append",
+  "Target": ["Entries", "MainEvent_additionalCharacters"],
+  "Value": "Apples 14 4 down",
+  "Delimiter": "/"
+},
+]
 },
 
 {   //Morgan luau festival data
-    "Action": "EditData",
-    "Target": "Data/Festivals/summer11",
-	"When": { "HasSeenEvent": "5978924" },
-    "TextOperations": [
-  {    
-    "Operation": "Append",
-    "Target": ["Entries", "Set-Up_additionalCharacters"],
-    "Value": "Morgan 12 39 down",
-    "Delimiter": "/"
-  },
-  {
-    "Operation": "Append",
-    "Target": ["Entries", "MainEvent_additionalCharacters"],
-    "Value": "Morgan 12 39 down",
-    "Delimiter": "/"
-  },
- ]
+  "Action": "EditData",
+  "Target": "Data/Festivals/summer11",
+"When": { "HasSeenEvent": "5978924" },
+  "TextOperations": [
+{    
+  "Operation": "Append",
+  "Target": ["Entries", "Set-Up_additionalCharacters"],
+  "Value": "Morgan 12 39 down",
+  "Delimiter": "/"
+},
+{
+  "Operation": "Append",
+  "Target": ["Entries", "MainEvent_additionalCharacters"],
+  "Value": "Morgan 12 39 down",
+  "Delimiter": "/"
+},
+]
 },
 
 {   //Lance luau festival data
-    "Action": "EditData",
-    "Target": "Data/Festivals/summer11",
-	"When": { "Spouse": "Lance" },
-    "TextOperations": [
-  {    
-    "Operation": "Append",
-    "Target": ["Entries", "Set-Up_additionalCharacters"],
-    "Value": "Lance 49 25 down",
-    "Delimiter": "/"
-  },
-  {
-    "Operation": "Append",
-    "Target": ["Entries", "MainEvent_additionalCharacters"],
-    "Value": "Lance 34 19 up",
-    "Delimiter": "/"
-  },
- ]
+  "Action": "EditData",
+  "Target": "Data/Festivals/summer11",
+"When": { "Spouse": "Lance" },
+  "TextOperations": [
+{    
+  "Operation": "Append",
+  "Target": ["Entries", "Set-Up_additionalCharacters"],
+  "Value": "Lance 49 25 down",
+  "Delimiter": "/"
+},
+{
+  "Operation": "Append",
+  "Target": ["Entries", "MainEvent_additionalCharacters"],
+  "Value": "Lance 34 19 up",
+  "Delimiter": "/"
+},
+]
 },
 
 {    //Sandy - luau
@@ -10263,6 +10894,21 @@
     "Delimiter": "/"
   }
  ]
+},
+
+
+{   //Apples moonlight jellies data
+  "Action": "EditData",
+  "Target": "Data/Festivals/summer28",
+"When": { "ApplesHere": "true", "Roommate": "Apples" },
+  "TextOperations": [
+{    
+  "Operation": "Append",
+  "Target": ["Entries", "Set-Up_additionalCharacters"],
+  "Value": "Apples 70 25 down",
+  "Delimiter": "/"
+},
+]
 },
 
 {   //Claire luau festival data
@@ -10463,17 +11109,31 @@
 },
 
 {   //Scarlett fair festival data
-    "Action": "EditData",
-    "Target": "Data/Festivals/fall16",
-	"When": { "HasSeenEvent": "8185295" },
-    "TextOperations": [
-  {    
-    "Operation": "Append",
-    "Target": ["Entries", "Set-Up_additionalCharacters"],
-    "Value": "Scarlett 47 62 up",
-    "Delimiter": "/"
-  }
- ]
+  "Action": "EditData",
+  "Target": "Data/Festivals/fall16",
+"When": { "HasSeenEvent": "3691371" },
+  "TextOperations": [
+{    
+  "Operation": "Append",
+  "Target": ["Entries", "Set-Up_additionalCharacters"],
+  "Value": "Scarlett 47 62 up",
+  "Delimiter": "/"
+}
+]
+},
+
+{   //Apples fair festival data
+  "Action": "EditData",
+  "Target": "Data/Festivals/fall16",
+"When": { "ApplesHere": "true", "Roommate": "Apples" },
+  "TextOperations": [
+{    
+  "Operation": "Append",
+  "Target": ["Entries", "Set-Up_additionalCharacters"],
+  "Value": "Apples 47 33 down",
+  "Delimiter": "/"
+},
+]
 },
 
 {   //Morgan fair festival data
@@ -10552,6 +11212,8 @@
      "Krobus": "Mes amis ... piégés dans ces cages ...#$e#Que leur arrivera-t-il après le festival...?$2",
 	 "Pierre": "Joyeux Fête de l'Étoile Hivernale, fermier @!$1#$e#Fais-moi savoir si quelque chose dans mon magasin attire ton attention.$0",
      "Dwarf": "Curieux, je suis...#$e#Es-tu monté ici pour me saluer?",
+     "Evelyn": "Les pommes confites sont l'une de mes friandises préférées à cette époque de l'année.$0#$e#Quand j'étais petite, j'aidais ma mère à les faire. Nous utilisions une recette de caramel maison.$1",
+     "George": "Hmph. Se promener dans un labyrinthe semble être une perte de temps.$0",
 	 "Leo": "J'ai grandi en explorant les labyrinthes de la jungle luxuriante. Celui-ci était trop facile!$0#$e#Je n'ai pas besoin des trucs dans le coffre. C'est à toi!$1"
 	 }
 },
@@ -10710,6 +11372,20 @@
  ]
 },
 
+{   //Apples halloween festival data
+  "Action": "EditData",
+  "Target": "Data/Festivals/fall27",
+"When": { "ApplesHere": "true", "Roommate": "Apples" },
+  "TextOperations": [
+{    
+  "Operation": "Append",
+  "Target": ["Entries", "Set-Up_additionalCharacters"],
+  "Value": "Apples 47 88 up",
+  "Delimiter": "/"
+},
+]
+},
+
 {   //Morgan halloween festival data
     "Action": "EditData",
     "Target": "Data/Festivals/fall27",
@@ -10797,6 +11473,8 @@
 	 "Linus": "Salut, @. J'espère que cette soirée se passe bien.$0#$b#De nombreuses brutes de l'ombre sont violentes, mais celles-ci sont particulièrement agressives. Si on leur en donnait l'occasion, ils vous déchireraient membre par membre!$3#$e#Cependant, toutes les personnes de l'ombre ne sont pas violentes.$0#$b#Je suis très ami avec celui qui s'appelle «Krobus». Je comprends ce que c'est que d'être jugé différent.$h#$e#Profite du festival.$1",
      "Krobus": "Mes amis ... piégés dans ces cages...#$e#Que leur arrivera-t-il après le festival...?$2",
      "Dwarf": "Curieux, je suis...#$e#Grandes citrouilles, ce sont...",
+     "Evelyn": "Les pommes confites sont l'une de mes friandises préférées à cette époque de l'année.$0#$e#Quand j'étais petite, j'aidais ma mère à les faire. Nous utilisions une recette de caramel maison.$1",
+     "George": "Hmph. Se promener dans un labyrinthe semble être une perte de temps.$0",
 	 "Leo": "J'ai grandi en explorant les labyrinthes de la jungle luxuriante. Celui-ci était trop facile!$0#$e#Je n'ai pas besoin des trucs dans le coffre. C'est à toi!$1"
 	 }
 },
@@ -11403,6 +12081,20 @@
     "Delimiter": "/"
   },
  ]
+},
+
+{   //Apples christmas festival data
+  "Action": "EditData",
+  "Target": "Data/Festivals/winter25",
+"When": { "ApplesHere": "true", "Roommate": "Apples" },
+  "TextOperations": [
+{    
+  "Operation": "Append",
+  "Target": ["Entries", "Set-Up_additionalCharacters"],
+  "Value": "Apples 8 63 right",
+  "Delimiter": "/"
+},
+]
 },
 
 {   //Claire christmas festival data
@@ -15280,7 +15972,504 @@
         "Height": "32"
     }
 },
+{   //Flower Bushel 1 - Spring
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 1}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Spring", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "64",
+      "Y": "160",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 1}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 1}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 1 - Summer
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 1}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Summer", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "80",
+      "Y": "160",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 1}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 1}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 1 - Fall
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 1}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Fall", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "96",
+      "Y": "160",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 1}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 1}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 1 - Winter
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 1}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Winter", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "0",
+      "Y": "224",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 1}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 1}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 2 - Spring
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 2}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Spring", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "64",
+      "Y": "192",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 2}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 2}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 2 - Summer
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 2}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Summer", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "80",
+      "Y": "192",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 2}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 2}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 2 - Fall
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 2}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Fall", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "96",
+      "Y": "192",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 2}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 2}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 2 - Winter
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 2}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Winter", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "16",
+      "Y": "224",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 2}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 2}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 3 - Spring
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 3}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Spring", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "64",
+      "Y": "224",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 3}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 3}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 3 - Summer
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 3}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Summer", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "80",
+      "Y": "224",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 3}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 3}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 3 - Fall
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 3}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Fall", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "96",
+      "Y": "224",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 3}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 3}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 3 - Winter
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 3}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Winter", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "32",
+      "Y": "224",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 3}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 3}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 4 - Spring
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 4}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Spring", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "128",
+      "Y": "160",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 4}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 4}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 4 - Summer
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 4}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Summer", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "144",
+      "Y": "160",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 4}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 4}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 4 - Fall
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 4}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Fall", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "160",
+      "Y": "160",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 4}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 4}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 4 - Winter
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 4}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Winter", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "48",
+      "Y": "224",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 4}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 4}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 5 - Spring
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 5}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Spring", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "128",
+      "Y": "192",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 5}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 5}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 5 - Summer
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 5}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Summer", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "144",
+      "Y": "192",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 5}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 5}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 5 - Fall
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 5}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Fall", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "160",
+      "Y": "192",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 5}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 5}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 5 - Winter
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 5}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Winter", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "16",
+      "Y": "224",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 5}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 5}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 6 - Spring
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 6}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Spring", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "128",
+      "Y": "224",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 6}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 6}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 6 - Summer
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 6}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Summer", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "144",
+      "Y": "224",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 6}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 6}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 6 - Fall
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 6}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Fall", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "160",
+      "Y": "224",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 6}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 6}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
+{   //Flower Bushel 6 - Winter
+  "Action": "EditImage",
+  "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet: Flower Bushel 6}}",
+  "FromFile": "assets/tilesheets/SeasonalJA.png",
+"When": { "Season": "Winter", "IsOutdoors": true },
+"Update": "OnLocationChange",
+"FromArea": {
+      "X": "32",
+      "Y": "224",
+      "Width": "16",
+      "Height": "32"
+  },
+  "ToArea": {
+      "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX: Flower Bushel 6}}",
+      "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY: Flower Bushel 6}}",
+      "Width": "16",
+      "Height": "32"
+  }
+},
 
+
+///// Highlands Background Patches /////
+
+{   //Summer
+  "Action": "EditImage",
+  "Target": "Maps/HighlandsBackground",
+  "FromFile": "Assets/Tilesheets/HighlandsBackground_Summer.png",
+"When": { "Season": "Summer" },
+"FromArea": {
+     "X": "0",
+     "Y": "0",
+     "Width": "639",
+     "Height": "400"
+  }
+},
+
+{   //Fall
+  "Action": "EditImage",
+  "Target": "Maps/HighlandsBackground",
+  "FromFile": "Assets/Tilesheets/HighlandsBackground_Fall.png",
+"When": { "Season": "Fall" },
+"FromArea": {
+     "X": "0",
+     "Y": "0",
+     "Width": "639",
+     "Height": "400"
+  }
+},
+
+{   //Winter
+  "Action": "EditImage",
+  "Target": "Maps/HighlandsBackground",
+  "FromFile": "Assets/Tilesheets/HighlandsBackground_Winter.png",
+"When": { "Season": "Winter" },
+"FromArea": {
+     "X": "0",
+     "Y": "0",
+     "Width": "639",
+     "Height": "400"
+  }
+},
 
 
 //////////////////////////////////////////////////////////////////////////////////
@@ -15379,6 +16568,16 @@
 	  "Sat": "1000 SebastianRoom 5 9 3/2100 BusStop -1 23 3",
       }
     },
+
+    { 
+      //Victor Blue Moon schedule edited (stops visiting, replaced by scarlett)
+      "Action": "EditData",
+      "Target": "Characters/Schedules/Victor",
+      "When": { "HasSeenEvent": "3691371" },
+      "Entries": {
+        "13": "0 Custom_JenkinsHouse 31 5 0/610 Custom_JenkinsHouse 31 5 1/700 Custom_JenkinsHouse 6 8 0/810 Custom_JenkinsHouse 30 37 0/930 ArchaeologyHouse 10 11 1 Victor_Book1/1500 Town 101 98 2/1600 Custom_JenkinsHouse 30 37 0/1830 Custom_JenkinsHouse 35 9 1/2030 Custom_JenkinsHouse 31 5 1 Victor_Sleep"
+         }
+      },
 	
     { 
 	  //Victor Joja schedule edit

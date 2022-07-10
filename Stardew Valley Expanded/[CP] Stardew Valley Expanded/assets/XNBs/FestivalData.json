@@ -1,6 +1,6 @@
 ﻿{
-  "name": "Community Center Day",
-  "conditions": "/1300 1400",
-  "set-up": "null",
-  "Wizard": "There is nothing to find here. I suggest you turn away.",
+    "name": "Community Center Day",
+    "conditions": "/1300 1400",
+    "set-up": "null",
+    "Wizard": "Il n'y a rien à trouver ici. Je vous suggère de vous détourner."
 }
