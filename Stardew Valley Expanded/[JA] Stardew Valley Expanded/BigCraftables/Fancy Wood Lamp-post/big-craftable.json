@@ -1,0 +1,18 @@
+{
+  "Name": "Fancy Wood Lamp-post",
+  "Price": 4000,
+  "ProvidesLight": false,
+  "Description": "Provides a moderate amount of light.",
+  "ProvidesLight": true,
+  "CanPurchase": false,
+  "NameLocalization":
+	{
+		"fr": "Lampadaire en bois fantaisie",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Fournit une quantité modérée de lumière.",
+		/*Information goes here*/
+	}
+}

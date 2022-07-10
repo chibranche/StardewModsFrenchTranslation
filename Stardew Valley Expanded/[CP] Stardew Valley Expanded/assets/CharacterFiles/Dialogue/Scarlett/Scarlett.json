@@ -1,0 +1,36 @@
+﻿{
+
+"Mon": "Hey !$1",
+"Tue": "Hey !$1",
+"Wed": "Hey !$1",
+"Thu": "Hey !$1",
+"Fri": "Hey !$1",
+"Sat": "Hey !$1",
+"Sun": "Hey !$1",
+
+"fall_1": "Salut! J'aide Sophia aujourd'hui.$1",
+"fall_2": "Sophia a besoin d'aide pour les vendanges à l'automne.$0#$e#C'est vraiment cool! Nous avons une soirée pyjama!$1",
+"fall_3": "J'adore la vue sur la mer Gem ici!$1",
+"fall_8": "Beaucoup de travail à faire pendant que je suis ici!$1#$e#Hey. Si tu restes dans les parages, n'hésites pas à aider?$0",
+"fall_9": "C'est drôle que tu sois venu! Sophia et moi parlions juste de toi.$1#$e#Je ne peux pas te le dire! mes lèvres sont scellées!$1",
+"fall_10": "Il fait beau aujourd'hui! Parfait pour le travail de la vigne!$0#$e#Eh bien, il est temps de retourner travailler.$1",
+"fall_15": "J'aimerais aller en ville et voir ce qu'est Pelican Town, mais je suis trop occupée ici.$0",
+"fall_16": "Hey ! J'aide Sophia aujourd'hui.$1",
+"fall_17": "Sophia et moi avons mangé un tas de gaufres ce matin pour le petit déjeuner!$1#$e#La connaissant, nous allons avoir du poulet à l'orange grampleton pour le dîner.$0",
+"fall_22": "Hey ! J'aide Sophia aujourd'hui.$1",
+"fall_23": "Ça ne prend pas trop de temps pour arriver ici en train.$0#$e#As-tu déjà été à Grampleton?$1",
+"fall_24": "Aujourd'hui est le dernier jour de la récolte d'automne!$1",
+
+//schedule dialogue
+"Custom_BlueMoonVineyard2_27_33": "Prêt à se mettre au travail, Sophia!?$1",
+"Custom_SophiaHouse_3_25": "J'aide Sophia aujourd'hui!$1",
+"Custom_SophiaHouse_10_25": "On va aller au saloon ce soir. Tu veux nous rejoindre?$0",
+"Custom_SophiaHouse_15_24": "C'était une journée difficile, hein Sophia?$1",
+"Custom_SophiaHouse_5_22": "La salle de cosplay de Sophia n'est-elle pas cool?$0",
+"Custom_SophiaHouse_17_21": "Ce bois dur vient de Grampleton, ma ville natale!$1",
+"Custom_SophiaHouse_20_7": "Whoa! Elle ne m'a pas dit qu'elle avait ce volume!$1",
+"Custom_SophiaHouse_23_6": "Pas cool, @! Je dors.$2",
+"Custom_SophiaHouse_20_37": "Ouais! Allons au saloon!$1",
+"Saloon_24_18": "J'adore l'ambiance de cet endroit.$0",
+
+}

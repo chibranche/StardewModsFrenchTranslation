@@ -1,0 +1,17 @@
+{
+	"Name": "Property Deed",
+	"Description": "It needs to be given to an authority figure for review.",
+	"Price": 0,
+	"CanTrash": false,
+    "CanSell": false,
+	"NameLocalization":
+	{
+		"fr": "Titre de propriété",
+		/*to be added in*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Il doit être remis à une figure d'autorité pour examen.",
+		/*to be added in*/
+	},
+}

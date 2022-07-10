@@ -1,0 +1,26 @@
+{
+	"Name": "Puppyfish",
+	"Description": "This fish wants nothing but pets and snacks.",
+	"Category": "Fish",
+	"Edibility": 40,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 280,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Sophia"],
+		"Like": ["Willy", "Abigail"],
+		"Hate": ["George", "Kent", "Andy"]
+	},
+	"NameLocalization":
+	{
+		"fr": "Poisson Chiot",
+		/*to be added in*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Ce poisson ne veut rien d'autre que des carresses et des friandises.",
+		/*to be added in*/
+	},
+}

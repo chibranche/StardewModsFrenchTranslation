@@ -1,0 +1,17 @@
+{
+	"Name": "Lance's Schedule",
+	"Description": "MON: Galdoran Outpost\nTUE: Stardew Valley\nWED: Stardew Valley\nTHU: Ginger Island\nFRI: Ginger Island\nSAT: Highlands\nSUN: Highlands",
+	"Price": 0,
+	"CanTrash": false,
+    "CanSell": false,
+	"NameLocalization":
+	{
+		"fr": "Emploi du Temps de Lance",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "LUN: Avant Poste Galdoran\nMAR: Stardew Valley\nMER: Stardew Valley\nJEU: Île Gingembre\nVEN: Île Gingembre\nSAM: Hautes-Terres\nDIM: Hautes-Terres",
+		/*Information goes here*/
+	}
+}

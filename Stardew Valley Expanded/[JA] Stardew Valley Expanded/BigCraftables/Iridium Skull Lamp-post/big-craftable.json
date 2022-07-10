@@ -1,0 +1,18 @@
+{
+  "Name": "Iridium Skull Lamp-post",
+  "Price": 17500,
+  "ProvidesLight": false,
+  "Description": "It's made of pure iridium. Provides a moderate amount of light.",
+  "ProvidesLight": true,
+  "CanPurchase": false,
+  "NameLocalization":
+	{
+		"fr": "Lampadaire Crâne Iridium",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Il est fait d'iridium pur. Fournit une quantité modérée de lumière.",
+		/*Information goes here*/
+	}
+}

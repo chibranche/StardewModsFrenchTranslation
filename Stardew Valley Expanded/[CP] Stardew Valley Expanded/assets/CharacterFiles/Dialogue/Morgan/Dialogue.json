@@ -1,0 +1,95 @@
+﻿
+{
+  //SPECIAL DIALOGUE
+  "Introduction": "Euh ... Salutations! Je m'appelle Morgan. Je suis un élève de Magnus Rasmodius. Quel est votre nom?$0#$e#Ça a été un plaisir!$1",
+  "Resort_Entering": "Whoa! Le volcan a l'air si grand de si près!$5",
+  "Resort_Leaving": "Nyahaha! C'était amusant! Je veux visiter à nouveau l'île bientôt!$3",
+  "Resort_Shore": "Les oiseaux agissent un peu bizarrement...$0#$e#Je baisse la tête pendant qu'ils volent.$8",
+  "Resort": "Peux-tu sentir le mana ici, @? Il est vraiment fort.$1#$e#Je pense que ça vient du volcan!$5",
+
+  //SPRING DIALOGUE	
+  "spring_12": "Magnus et moi voyageons profondément dans la forêt demain.$1#$b#Je n'assisterai pas au festival de la ville.$0#$e#Il a trouvé un endroit avec une concentration très élevée de magie brute. Je suis surexcité!$3",
+  "spring_28": "Allez-vous faire pousser des fruits des étoiles cet été?$1",
+  
+  "Mon": "Um. Salut.$5#$e#...$0#$e#%Morgan n'a pas envie de parler.",
+  "Mon4": "Magnus m'apprend les propriétés magiques des anciennes plantes mystiques.$3#$e#Il me dit que la vallée en était remplie il y a longtemps.$1",
+  "Tue": "Bonjour.$0#$eVous êtes un peu étrange.$1",
+  "Tue2": "Magnus me donne bientôt un examen. Je suis prêt à le passer!$1#$e#Je veux protéger les gens.$1",
+  "Tue8": "Salut, @! Vous allez bien aujourd'hui?$1#$e#Um. Ici! J'ai préparé une potion pour vous![773]$1",
+  "Wed": "Vous rendez beaucoup visite.$5#$e#Êtes vous un mage aussi?$0#$b#Je ressens votre magie.$1",
+  "Wed4": "Salut, @!$1#$e#Oh. Je vais bientôt méditer pour recharger mon mana.$1",
+  "Thu": "Vous aimez mon chapeau?$1#$e#Magnus l'a fait pour moi!$3",
+  "Thu2": "Magnus m'a dit qu'il y avait des farfadets forestiers au fond des bois.$1#$b#Leurs pouvoirs magiques sont liés à la vallée.$3",
+  "Thu8": "Avez-vous vécu quelque chose de magique dans votre ferme?$0#$e#Oh. Je vois!$1",
+  "Fri": "J'ai bu un élixir vraiment bizarre pour renforcer mon lien avec les esprits de la forêt.$2#$e#Vous en avez bu un aussi!?$5",
+  "Fri4": "J'apprends à préparer des potions!$1#$b#Peut-être qu'un jour je pourrai faire des potions pour vous aider dans vos aventures!$3",
+  "Sat": "Marlon rend visite demain!$1#$b#Il est si cool!$3#$e#Pourquoi n'êtes-vous pas plus comme lui?$0",
+  "Sat4": "Je me demande comment vont papa et maman ...$9#$e#Gah!$5#$e#%Morgan est choqué.",
+  "Sat10": "Magnus a dit que je ne pouvais pas me joindre à lui et Marlon pour leurs expéditions. je ne suis pas assez fort.$0#$e#Cela signifie simplement que je dois devenir plus fort!$4",
+  "Sun": "Tant de pollen dans la vallée par rapport à la maison.$0#$e#Oh, où est ma maison?$1#$b#Everton!$3#$b#C'est une ville dans les montagnes du nord.$1",
+  "Sun4": "Magnus et moi visitons un endroit appelé «Sources des Esprits». Il va me présenter à ses amis esprits de la forêt.$1#$e#L'un d'eux s'appelle «Claus». Il a donné à Magnus les graines anciennes pour ses études arcaniques.$1",
+  "Sun8": "Hey! Nous devrions préparer des potions ensemble un jour.$1#$b#Ce serait très amusant!$7#$e#Je ne fais plus rien exploser. Habituellement. ... je me suis amélioré de toute façon.$1",
+  
+  //SUMMER DIALOGUE
+  "summer_10": "Donc. Vous jetez tous un tas de trucs au hasard dans un pot, puis vous le mangez?$0#$e#Ça a l'air dégoûtant.$5",
+  "summer_27": "Croyez-vous au peuple de la mer?$0#$e#Il y a beaucoup de mystères dans le monde!$1",
+  
+  "summer_Mon": "Je pars dans une quête spéciale pour rassembler quelque chose appelé 'tête de violon' dans la forêt.$1#$b#Magnus en a besoin pour une potion.$3",
+  "summer_Mon6": "Il y a beaucoup de mana flottant dans la forêt pendant l'été. je peux le sentir.$0#$e#Le ressentez-vous aussi?$1",
+  "summer_Tue": "Parfois, je demande à Magnus si Vincent ou Jas peuvent venir nous rendre visite. Il dit toujours non.$2",
+  "summer_Tue6": "Pensez-vous que le gros melon à l'extérieur a l'air savoureux?$1#$e#Parfois, je veux en prendre une bouchée.$1#$b#Mais je sais que j'aurais des ennuis.$2",
+  "summer_Wed": "J'ai encore du mal à lancer de la magie ...$2#$b#Pensez-vous que je vais m'améliorer?$2#$e#%Vous dites à Morgan qu'iel peut le faire!#$e#Merci, @.$3",
+  "summer_Wed6": "Êtes-vous capable de lancer de la magie?$0",
+  "summer_Wed8": "Je pars en excursion demain!$3#$e#J'ai demandé si vous pouvez venir mais Magnus a dit non.$0",
+  "summer_Thu": "*baille*...$3#$b#Je n'ai pas beaucoup dormi la nuit dernière.$0#$e#Pourquoi? Je pratiquais la magie!$1#$e#Ne le dites pas à Magnus!$5",
+  "summer_Thu8": "Je deviens vraiment bon pour préparer des potions. En voici une pour vous![773]$3#$e#Oh. En voici une autre![773]$1",
+  "summer_Fri": "Avez-vous entendu parler d'un endroit appelé «Castle Village»?$0#$b#Je ne suis pas autorisé à y aller avant d'être plus âgé ...$8",
+  "summer_Fri8": "Il y a une sorcière qui nous rend visite. Elle ne me parle pas vraiment.$0#$e#Son nom est Camilla.$8#$b#Elle me donne la chair de poule.$5",
+  "summer_Sat": "J'espère que nous n'aurons pas de soupe de grenouille pour le dîner ce soir ... Encore une fois ...$5",
+  "summer_Sat8": "Jas aime jouer à la corde à sauter près du grand cerisier. Elle est toujours si heureuse.$1#$e#C'est une bonne amie!$3",
+  "summer_Sun": "Je suis un peu en retard dans ma lecture...$0",
+  "summer_Sun6": "Nous avons détruit de très gros diamants ce matin lors d'une expérience.$1#$e#Marlon nous apporte des gemmes rares et du butin monstre pour nos études!$3",
+  
+  //FALL DIALOGUE
+  "fall_15": "Welwick tient son stand de voyance demain.$1#$e#Magnus dit qu'elle est vraiment puissante.$0",
+  "fall_26": "Je pourrais commencer à apprendre à invoquer des créatures demain!$3#$e#%Morgan saute d'excitation!",
+  "fall_28": "Pouvez-vous sentir un picotement dans l'air?$0#$e#Je sens ... que la neige arrive.$1",
+  
+  "fall_Mon": "Saviez-vous que Magnus a construit la tour sur un «champ magique»?$0#$e#Cela l'aide à concentrer son mana!$3",
+  "fall_Mon6": "Je veux sortir et jouer avec Jas et Vincent.$0#$e#J'ai cependant des études importantes aujourd'hui...$6#$b#Peut-être ce week-end.$1",
+  "fall_Tue": "Je pars dans une quête très importante pour récolter de puissants champignons magiques dans la forêt!$3#$e#C'est ma chance de montrer à Magnus que je suis fiable.$1#$e#%Vous dites à Morgan qu'iel peut le faire. Iel te sourient.",
+  "fall_Tue6": "J'ai fait mon premier totem!$3#$b#Ils sont vraiment difficiles à faire.$1#$e#En avez-vous déjà fabriqué un?$0",
+  "fall_Tue10": "Hey, @!$3#$b#J'ai fait ce totem pour vous. Cela vous ramènera à la ferme %farm .[688]$1",
+  "fall_Wed": "Les couleurs d'automne sont très jolies.$0#$b#Les arbres me rappellent la maison.$1#$e#...$2#$e#Je veux voir mes parents.$2",
+  "fall_Wed6": "Peut-être que je pourrai vous apprendre la magie un jour? Je pense que vous vous en sortirez bien! Vous avez déjà beaucoup de potentiel.$3#$e#Vous devez cependant vous inscrire en tant que mage auprès du ministère de la Magie Ferngill.$0#$b#Les règles sont strictes.$5",
+  "fall_Thu": "Savez-vous quelque chose sur Andy?$0#$b#Je ne pense pas qu'il aime la magie.$0#$e#Peut-être que je devrais lui faire une farce?$3#$e#%Vous expliquez à Morgan qu'ils ne devraient pas faire une farce sur Andy.#$e#Oh. Um. Désolé. Je ne voulais pas. Ne le dites pas à Magnus.$2",
+  "fall_Thu8": "J'ai jeté secrètement un petit sort sur la ferme d'Andy pour améliorer le sol.$0#$e#Um.Ne le dites à personne. Je pourrais avoir de gros ennuis.$1",
+  "fall_Fri": "Magnus m'enseigne la «doctrine Merlin». C'est comme un gros livre de règles pour les mages.$0#$e#C'est vraaaaiment ennuyeux.$2",
+  "fall_Sat": "Aimez-vous mon nouveau chapeau?$1#$e#Oh? Vous pensez que c'est le même?$8",
+  "fall_Sat6": "Il y a un portail bloqué avec une pancarte rayée dans le hall téléportation. Je me demande ce que c'était?$0#$b#Magnus m'interdit de poser des questions à ce sujet. Mais il me le dira un jour.$4",
+  "fall_Sun": "Je veux essayer la magie du feu mais je n'y suis pas autorisé.$8#$e#Magnus dit que c'est très difficile à contrôler.$0",
+  "fall_Sun8": "Marlon et Magnus parlaient et je les ai entendus. Quelque chose à propos d'une grande bataille à travers l'océan.$0#$e#Il y a un mage qu'ils connaissaient qui se bat de «l'autre côté». Je ne sais pas ce que ça veut dire.$0",
+  
+  //WINTER DIALOGUE
+  "winter_1": "Il y a des résidents ici qui n'aiment pas les praticiens de la magie.$0#$e#Qui? Um.$0#$b#Je ne peux pas te dire ça.$0#$e#Désolé, @. Je ne suis pas autorisé.$0#$e#Arrête!$4#$e#%Morgan vous ignore maintenant.",
+  "winter_7": "La zone où se déroule le festival de pêche sur glace possède également un grand bassin de mana.$1#$e#Um. Magnus et moi serons à proximité. Essayez de nous trouver!$1",
+  "winter_24": "Magnus a dit que je ne pouvais pas donner de cadeaux magiques.$2",
+  "winter_28": "La neige va me manquer ...$0",
+  
+  "winter_Mon": "Aimez-vous combattre les monstres plus que l'agriculture?$0#$e#Marlon dit que vous êtes souvent dans les mines.$0",
+  "winter_Mon10": "Je veux vous présenter un jour mes parents. Je leur ai tellement parlé de vous!$3#$e#%Vous souriez à Morgan et iel sourit en retour.",
+  "winter_Tue": "Puisqu'il gèle dehors, je vais convaincre Magnus de me laisser essayer la magie du feu.$1#$e#Hmm, vous avez raison. Je suppose que cela pourrait être dangereux.$2",
+  "winter_Tue8": "J'espère que les monstres, les nains et les humains pourront être amis un jour.$1#$e#La rencontre avec Krobus m'a fait réaliser que nous pouvons tous être amis.$1",
+  "winter_Wed": "Ma maison, Everton, a un problème de monstre tout comme Stardew Valley.$0#$b#Beaucoup d'entre eux sont sous terre dans les montagnes.$0#$e#Les monstres font peur ...$2#$b#Je veux être fort un jour pour les combattre et protéger tout le monde.$0",
+  "winter_Wed8": "Um. J'ai fait cette potion aujourd'hui. Je veux que vous l'ayez!$1[773]",
+  "winter_Thu": "J'ai demandé à Magnus d'adopter un animal de Marnie. Il a dit 'peut-être'!$3",
+  "winter_Thu10": "Si vous êtes pris dans un blizzard, utilisez-le pour rentrer à la maison!$1[688]#$e#Je serais triste si quelque chose de mal vous arrivait.$2",
+  "winter_Sat8": "Avez-vous des animaux dans votre ferme?$1#$e#Marnie me laisse caresser les siens! Ils sont vraiment mignons!$3",
+  "winter_Sun8": "Je veux aller jouer dans la neige avec Jas et Vincent!$3#$e#Nous jouons en 1 contre 2 parce que je suis trop bon dans les combats de boules de neige.$1",
+  
+  //EVENT DIALOGUE
+  "morgan_event1": "Mmm...$9#$b#Je suis dans un endroit étrange, loin de chez moi et de ma famille...$9",
+  "morgan_event2": "Mmm...$9#$b#Je suppose que c'est ça, n'est-ce pas?$9#$b#La solitude...$9",
+  "morgan_event3": "...$9#$b#...$0#$b#Merci.$1",
+  "morgan_event4": "Je sais qu'il y a des difficultés que je dois dépasser.$0#$b#Ce n'est pas facile...$9",
+}

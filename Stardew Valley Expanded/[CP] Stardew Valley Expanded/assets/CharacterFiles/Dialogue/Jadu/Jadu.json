@@ -1,0 +1,10 @@
+﻿{
+
+"Mon": "Tu as entendu parler de mirages? Parfois, quand il fait assez chaud ici, l'air scintille, et c'est comme si on pouvait entrer dans un monde différent.$0",
+"Tue": "*bâille* Cela devient assez monotone ici. Je suis content que tu te sois arrêté pour visiter.$0",
+"Wed": "J'ai entendu des gens te mentionner plusieurs fois, @. Tu es assez bien connu dans la guilde, hein?$1",
+"Thu": "J'ai hâte de revenir sur le terrain. Le devoir de sentinelle est important, mais je suis d'humeur à me battre.$1",
+"Sat": "Quelque chose que je peux faire pour toi, @?$0#$e#J'aimerais pouvoir t'offrir quelque chose à manger ou à boire pendant que tu es ici, mais nos dispositions sont limitées.$2",
+"Sun": "Être un aventurier nous fait apprécier des choses étranges. Comme l'odeur de l'air frais après avoir passé des jours dans une grotte humide et moisie.$0"
+
+}

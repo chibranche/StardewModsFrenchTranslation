@@ -1,0 +1,76 @@
+﻿
+{ 
+  //SPECIAL DIALOGUE
+  //"Introduction": "You must be Mr. @. Pleasure to meet you.$5^You must be Ms. @. Pleasure to meet you.$5",
+  "pamHouseUpgrade": "Je ne peux pas dire que j'ai été le moins du monde surpris quand Robin m'a dit que tu étais le responsable du financement de la nouvelle maison de Pam.$1",
+  "pamHouseUpgradeAnonymous": "Robin s'est surpassée avec cette belle conception de maison pour Pam.$0#$e#Maintenant je me demande... qui est ce mystérieux mécène ? Peut-être que je l'ai déjà rencontré!$1#$e#%Gunther me sourit et tire son chapeau.",
+  "Resort_Entering": "Willy est fier de son bateau. J'ai entendu que c'était celui de son père.$0",
+  "Resort_Leaving": "Peut-être que je sécuriserai une visite privée de l'île un jour...$0",
+  "Resort_Shore": "Avez-vous rencontré mon collègue? Il fouille ici sur l'île.",
+  "Resort_Chair": "De nombreux mystères sur cette île sont prêts à être découverts.$0",
+  "Resort_Bar": "Merci beaucoup pour le bar, Gus.$1",
+  "Resort": "%Gunther est occupé à enquêter sur un artefact.",
+
+  //SPRING AND GENERAL DIALOGUE
+  "spring_1": "*sniff* Pollen...$2",
+  "spring_12": "Penny et les enfants peignent des œufs dans la bibliothèque.$1",
+  "spring_23": "Je me demande ce que Pierre vend demain sur son stand...$5",
+  
+  "Mon": "Oh, bonjour M. @!$5^Oh, bonjour Mme. @!$5#$b#Comment va le travail à la ferme?$1",
+  "Mon2": "*bâille* Bonjour, M. @!$5^*bâille* Bonjour, Mme. @!$5#$b#Pardonne ma somnolence. Je recherchais des artefacts anciens toute la nuit.$5#$e#Quand on explore l'inconnu ... il est facile de perdre la notion du temps!$1",
+  "Mon10": "Nous avons reçu un don pour les objets et minéraux remarquables exposés...$5#$b#En voici une partie, M. @ [336]^En voici une partie, Mme. @ [336]",
+  "Tue": "Les reliques perdues du passé sont enterrées sous la terre même sur laquelle nous marchons...$5#$e#Le maire Lewis m'a dit qu'il vous avait vu déterrer des artefacts dans la ville.$5",
+  "Tue6": "Je réfléchis à la crédibilité d'un article de recherche...$5#$b#Le type qui l'a écrit est discutable.$5#$e#Au revoir, M. @.$5^Au revoir, Mme. @.$5",
+  "Wed": "Je parle couramment plusieurs langues, y compris le nain.$5#$b#Il faut comprendre différentes langues pour percer les secrets du passé.$1",
+  "Wed8": "Avez-vous entendu la nouvelle? Un explorateur a découvert des artefacts dans le désert de Calico!$1#$e#Ces résultats sont particulièrement importants pour le domaine.$5",
+  "Thu": "*soupir* Certaines personnes ne remettent jamais les livres correctement...$2#$e#Oh, ne prend pas en compte mes commentaires M. @.$5^Oh, ne prend pas en compte mes commentaires, Mme. @.$5",
+  "Thu8": "Peut-être que de la bonne nourriture et des boissons sont de mise pour une semaine de travail acharné!$1#$e#Avez-vous déjà pris le cocktail «Étoile Filante»?$5",
+  "Fri": "Un jour, je ferai une découverte révolutionnaire!$1",
+  "Fri6": "Avez-vous trouvé des objets anciens ces derniers temps?$5#$e#Il y a de nombreux secrets enfouis sous le sol ici à Stardew Valley.$1",
+  "Sat": "Penny enseigne Jas et Vincent à la bibliothèque plusieurs jours par semaine.$5",
+  "Sat4": "Les artefacts et minéraux que vous avez donnés m'aident dans mes recherches, M. @.$5^Les artefacts et minéraux que vous avez donnés m'aident dans mes recherches, Mme. @.$5#$e#Merci.$5",
+  "Sun": "Avez-vous fini le travail agricole aujourd'hui?$5#$e#J'ai des recherches à mener ce soir ... Je me rapproche d'une énorme découverte!$1",
+  
+  //SUMMER DIALOGUE
+  "summer_1": "Chaud et humide aujourd'hui...$2",
+  "summer_10": "Le gouverneur participe aux festivités de demain.$1#$e#Le gouverneur est un fonctionnaire étonnant. Il maintient une cote d'approbation supérieure à la moyenne.$5",
+  "summer_28": "Il y a un livre dans la bibliothèque détaillant les découvertes scientifiques des Méduses Clair de Lune.$5#$b#Créatures aquatiques vraiment remarquables.$1",
+  
+  "summer_Mon": "Vous pourriez trouver des objets enfouis dans votre ferme.$5#$e#Beaucoup d'histoire à la ferme %farm.$5",
+  "summer_Mon6": "Les slimes ont prévalu pendant environ 40 000 ans. Vous découvrirez peut-être des slimes pétrifiés dans vos aventures.$5#$e#Haha! Les monstres existaient bien avant les humains.$1",
+  "summer_Sat": "Vous pouvez découvrir d'anciennes épées dans la forêt occidentale.$5#$e#Il y a eu une bataille il y a longtemps...$5#$e#Au revoir, M. @.$5^Au revoir, Mme. @.$5",
+  "summer_Sat6": "Les oiseaux sont bruyants aujourd'hui.$5#$e#Ah. Cela me rappelle ... j'ai besoin de remplir la mangeoire à oiseaux.$1",
+  
+  //FALL DIALOGUE
+  "fall_1": "Ah... entendez-vous cela?$5#$b#Le bruissement des feuilles voyageant avec le vent.$1",
+  "fall_5": "Willy a partagé une histoire de pêche avec moi l'autre jour.$1#$e#Il pêchait tard dans la nuit en ville...$5#$b#Soudain ... une lumière rougeoyante de la rivière a arraché l'appât de sa canne à pêche!$1#$b#Il m'a dit que c'était l'accomplissement du 'pêcheur'.$5",
+  "fall_15": "Le maire Lewis a déclaré que quelques dizaines de touristes participeraient aux festivités de demain.$5",
+  
+  "fall_Tue": "J'ai fait d'incroyables découvertes tout en poursuivant mes recherches à l'université en tant que jeune garçon.$5#$e#Bonne journée, M. @.$0^Bonne journée, Mme. @.$5",
+  "fall_Tue8": "Merci pour vos dons, M. @.$5^Merci pour vos dons, Mme. @.$5#$e#Tu as tellement fait pour une seule personne!$1",
+  "fall_Fri": "Les gadgets nains ont déclenché des révolutions industrielles à travers le monde.$5#$e#Leur technologie façonne le monde moderne dans lequel nous vivons.$1#$e#Le pétrole et le charbon sont sales ... mais répondent aux besoins énergétiques de nos sociétés.$5",
+  "fall_Fri8": "Parfois, je sors pour regarder le jardin communautaire. Les gens ont beaucoup travaillé.$5#$b#Si je vois un corbeau atterrir là-dedans, je cours pour l'effrayer!$1",
+  
+  //WINTER DIALOGUE
+  "winter_1": "Si vous vous sentez fatigué par le froid, pensez à visiter la bibliothèque.$5#$b#Le feu vous gardera au chaud.$1",
+  "winter_24": "Beaucoup de gens sont enthousiasmés par la Fête de l'Étoile Hivernale.$1#$e#J'aide Gus avec les préparations alimentaires.$5",
+  "winter_28": "La neige se dégage bientôt.$5#$e#Bonne chance avec la saison agricole M. @.$5^Bonne chance avec la saison agricole Mme @.$5",
+  
+  "winter_Tue": "Hmmm...$2#$e#...$2#$e#Oh, Bonjour. Je réfléchis à un ... dilemme dans mes recherches.$5#$e#Bonne journée, M. @$5^Bonne journée, Mme. @.$5",
+  "winter_Tue8": "Clint m'a dit qu'il avait parfois l'impression d'être un archéologue.$5#$e#Eh bien, c'est à cause des géodes qu'il a ouvert pour vous.$1",
+  "winter_Thu8": "Je n'oublierai jamais tes actions héroïques dans les mines.$5",
+  "winter_Sun": "Bonjour M. @. J'espère que vous tirez le meilleur parti de votre journée!$1^Bonjour, Mme. @. J'espère que vous tirez le meilleur parti de votre journée!$1",
+  "winter_Sun6": "Oh, vous utilisez votre houe pour dénicher des artefacts?$5#$e#J'ai une pelle pratique que je pourrais vous prêter.$1",
+  
+  //EVENT DIALOGUE
+  "gunther_event1": "Oui. Plusieurs civilisations vivaient dans cette vallée il y a plusieurs centaines d'années. Elfes, nains, esprits du vide ...$5#$b#Je suis déterminé à percer les mystères entourant ces sociétés anciennes.$5",
+  "gunther_event2": "Je suis d'accord, M. @.$5^Je suis d'accord, Mme. @.$5",
+  "gunther_event3": "Hmm ... oui. De nombreuses armes se trouvent sous le sol sur lequel nous nous tenons.$5#$b#Peut-être qu'un jour, nous découvrirons l'origine de ces anciennes guerres entre autres races...$5",
+  "gunther_event4": "Hmm...#$b#Permettez-moi de tirer ma propre conclusion dans ce cas, M. @.^Permettez-moi de tirer ma propre conclusion dans ce cas, Mme. @.$5",
+  "gunther_event5": "Well... Oui. je suis nerveux.$2#$b#C'est la première fois que je explore les mines.$5#$b#Je suis honoré qu'un aventurier vénéré comme vous m'escorte.$1",
+  "gunther_event6": "C'est rassurant.$5#$b#Je suis honoré qu'un aventurier vénéré comme vous m'escorte.$1",
+  "gunther_event7": "Je serai juste derrière toi.$5",
+  "gunther_event8": "Je serai juste derrière toi.$5"
+  
+}
+

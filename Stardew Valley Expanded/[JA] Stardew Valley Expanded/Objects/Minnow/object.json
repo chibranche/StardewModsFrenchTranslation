@@ -1,0 +1,24 @@
+{
+	"Name": "Minnow",
+	"Description": "A very common fish.",
+	"Category": "Fish",
+	"Edibility": 1,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 20,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		/*gift tastes go here*/
+	},
+	"NameLocalization":
+	{
+		"fr": "Minnow"
+		/*to be added in*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Un poisson très commun",
+		/*to be added in*/
+	},
+}

@@ -1,0 +1,15 @@
+﻿
+{ 
+  //SPECIAL DIALOGUE
+  "Introduction": "Vous devez être M. @. Ravi de vous rencontrer.^Vous devez être Mme. @. Ravi de vous rencontrer.",
+
+  "Mon": "Bonjour.#$e#Vous trouvez des artefacts intéressants?",
+  "Tue": "Err. Bonjour.$0",
+  "Wed": "Bonjour M. @.^Bonjour Mme. @.",
+  "Thu": "Bienvenue au bureau d'archéologie.",
+  "Fri": "Salut.$0",
+  "Sat": "Vous avez des plans pour le week-end?",
+  "Sun": "Bonne journée, M. @.^Bonne journée, Mme. @.",
+
+}
+

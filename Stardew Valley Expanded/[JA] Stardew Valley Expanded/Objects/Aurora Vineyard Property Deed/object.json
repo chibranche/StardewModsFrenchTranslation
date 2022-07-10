@@ -1,0 +1,17 @@
+{
+	"Name": "Aurora Vineyard Property Deed",
+	"Description": "It needs to be given to an authority figure for review.",
+	"Price": 0,
+	"CanTrash": false,
+    "CanSell": false,
+	"NameLocalization":
+	{
+		"fr": "Acte de Propriété du Vignoble Aurora",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Il doit être remis à une figure d'autorité pour examen.",
+		/*Information goes here*/
+	}
+}

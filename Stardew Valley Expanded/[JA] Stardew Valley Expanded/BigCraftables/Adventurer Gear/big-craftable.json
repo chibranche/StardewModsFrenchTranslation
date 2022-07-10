@@ -1,0 +1,18 @@
+{
+  "Name": "Adventurer Gear",
+  "Price": 2500,
+  "ProvidesLight": false,
+  "Description": "Two pairs of boots and a small dagger.",
+  "ProvidesLight": false,
+  "CanPurchase": false,
+  "NameLocalization":
+	{
+		"fr": "Équipement d'aventurier",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Deux paires de bottes et un petit poignard.",
+		/*Information goes here*/
+	}
+}

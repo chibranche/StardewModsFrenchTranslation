@@ -1,0 +1,18 @@
+{
+  "Name": "Volcanic Stone 1",
+  "Price": 900,
+  "ProvidesLight": false,
+  "Description": "A decorative piece for your farm.",
+  "ProvidesLight": false,
+  "CanPurchase": false,
+  "NameLocalization":
+	{
+		"fr": "Roche Volcanique 1",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Une pièce décorative pour votre ferme.",
+		/*Information goes here*/
+	}
+}

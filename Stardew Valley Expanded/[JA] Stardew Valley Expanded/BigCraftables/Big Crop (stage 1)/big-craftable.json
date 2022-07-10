@@ -1,0 +1,17 @@
+{
+  "Name": "Big Crop (stage 1)",
+  "Price": 400,
+  "ProvidesLight": false,
+  "Description": "A decorative crop. Changes seasonally into 'Cauliflower', 'Melon', and 'Pumpkin' when placed outdoors.",
+  "CanPurchase": false,
+  "NameLocalization":
+	{
+		"fr": "Grosse Culture (étape 1)",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Une culture décorative. Change de manière saisonnière en Chou-fleur, Melon et Citrouille quand elle est placée dehors.",
+		/*Information goes here*/
+	}
+}

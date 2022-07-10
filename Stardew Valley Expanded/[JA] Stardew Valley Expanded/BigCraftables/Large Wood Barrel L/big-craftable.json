@@ -1,0 +1,18 @@
+{
+  "Name": "Large Wood Barrel L",
+  "Price": 1000,
+  "ProvidesLight": false,
+  "Description": "A decorative piece for your farm. It's cut precisely down the middle.",
+  "ProvidesLight": false,
+  "CanPurchase": false,
+  "NameLocalization":
+	{
+		"fr": "Grand tonneau en bois G",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Une pièce décorative pour votre ferme. Il est coupé précisément au milieu.",
+		/*Information goes here*/
+	}
+}

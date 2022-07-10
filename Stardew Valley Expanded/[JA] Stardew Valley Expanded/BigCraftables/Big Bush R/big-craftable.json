@@ -1,0 +1,18 @@
+{
+  "Name": "Big Bush R",
+  "Price": 4000,
+  "ProvidesLight": false,
+  "Description": "A decorative piece for your farm. It's cut precisely down the middle. Changes seasonally when placed outdoors.",
+  "ProvidesLight": false,
+  "CanPurchase": false,
+  "NameLocalization":
+	{
+		"fr": "Gros Buisson D",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Une pièce décorative pour votre ferme. Il est coupé pile au milieu. Change chaque saison quand il est placé à l'exterieur.",
+		/*Information goes here*/
+	}
+}

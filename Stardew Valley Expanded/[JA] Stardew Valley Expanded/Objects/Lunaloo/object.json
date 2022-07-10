@@ -1,0 +1,24 @@
+{
+	"Name": "Lunaloo",
+	"Description": "A luminescent jellyfish, also known as a moonlight jelly.",
+	"Category": "Fish",
+	"Edibility": -25,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 110,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Like": ["Wizard", "Willy"],
+	},
+	"NameLocalization":
+	{
+		"fr": "Lunaloo",
+		/*to be added in*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Une méduse luminescente, également connue sous le nom de Méduse de clair de lune.",
+		/*to be added in*/
+	},
+}

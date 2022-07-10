@@ -1,0 +1,113 @@
+{
+//SPECIAL DIALOGUE
+"Introduction": "Ah, c'est le fermier @. Bienvenue dans la vallée. Je m'appelle Morris, directeur du JojaMart de Pelican Town.$0#$b#Si vous avez besoin de graines bon marché et de qualité, il n'y a pas de meilleur endroit que JojaMart!$1#$e#Je ne m'embêterais pas avec le magasin de Pierre. Les graines de Joja sont bien meilleures que les siennes.$3",
+"Resort_Entering": "Ah, oui. Nous sommes arrivés!$1",
+"Resort_Leaving": "Je dois dire qu'il y a plusieurs améliorations qui pourraient être apportées à la station.$0",
+"Resort_Shore": "Le développement immobilier a un grand potentiel sur cette île...$4#$e#Err... ce volcan peut cependant s'avérer gênant...$2",
+"Resort_Chair": "J'ai travaillé de longues semaines. Je mérite une journée pour me détendre!$1",
+"Resort_Bar": "Barman! Je voudrais une boisson mélangée haut de gamme s'il vous plaît!$1",
+"Resort": "Il y a de bonnes opportunités d'affaires sur cette petite plage isolée!$5",
+
+//SPECIFIC TILE DIALOGUE
+"Town_43_59": "50% de réduction sur les coupons! Venez les chercher jusqu'au dernier!$1",
+"Town_44_59": "Achetez un abonnement Joja aujourd'hui et économisez gros sur votre prochain achat!$1",
+"Town_42_59": "Vous faites le plein de graines pour la saison prochaine? Trouvez les graines les moins chères de la ville au JojaMart!$1",
+"Town_43_60": "Chez Joja, nous considérons tout le monde comme faisant partie de notre famille.$1",
+
+//SPRING AND GENERAL DIALOGUE
+
+"spring_1": "Cette année sera la meilleure année pour Joja Corp.$1#$b#Nos profits n'ont fait que monter et monter. J'attends avec impatience les bénéfices de mes actions.$4",
+"spring_12": "Le maire Lewis bloque toujours le côté Joja de la ville pendant les festivals.$3#$e#Non, je ne participerai pas à la chasse aux œufs.$3",
+"spring_23": "Non, je n'assisterai pas au festival de danse.$3#$e#...$2",
+"spring_28": "Il est presque temps de changer le stock dans le magasin. J'ai hâte d'être à la saison estivale.$0",
+
+"Mon": "Et une autre semaine de travail productive commence. J'espère que Shane fera mieux cette semaine que la dernière.$0#$e#Je jure que ce garçon devient paresseux chaque jour. Je devrais peut-être réduire sa paye.$3",
+"Mon2": "As-tu acheté une de nos graines cette saison, @?$1#$b#Elles sont vraiment de haute qualité. Demande à Andy, si tu ne me crois pas!$4",
+"Mon6": "Continue ton beau boulot, @.$1", 
+"Tue": "Si tu as besoin de graines bon marché, il n'y a pas de meilleur endroit que le JojaMart.$5",
+"Tue2": "J'ai une pile géante de comptabilité à passer aujourd'hui.$0#$b#Beaucoup de gens pensent que la paperasse est ennuyeuse. Je ne dirais pas que c'est excitant, mais j'aime voir les chiffres s'équilibrer lorsque nous gérons efficacement le magasin.$4",
+"Tue8": "Tu donnes l'exemple que les autres agriculteurs de la vallée devraient suivre.$1#$e#Continue ton travail et n'oublie pas d'acheter chez Joja!$1",
+"Wed": "Le magasin Pierre est fermé aujourd'hui. Autant faire du shopping chez Joja!$5#$e#Nos produits sont de loin supérieurs à tout ce qu'il vend.$3",
+"Wed2": "Pierre prend un jour de congé le mercredi. Malheureusement pour lui, je travaille tous les jours de chaque semaine!$5#$e#C'est maintenant l'occasion idéale d'acheter certaines de nos graines!$1",
+"Wed8": "Ah, @. Quel plaisir de te voir. As-tu besoin de fournitures agricoles?$4#$e#Puisque Pierre est fermé aujourd'hui, Joja peut te fournir toutes les graines et l'équipement agricole dont tu pourrais avoir besoin!$1",
+"Thu": "J'ai lu différentes stratégies pour optimiser l'agencement des grands magasins.$4#$e#Joja est assez ferme pour que les choses soient cohérentes entre les différents endroits, mais je me demande si j'ai de la marge de manœuvre pour essayer de nouvelles choses ...$5",
+"Thu2": "*bâille* Cinq heures de sommeil ne suffisent pas pour une journée complète de travail.$2#$e#Eh bien, c'est reparti!$1",
+"Thu8": "Salut, @. Merci de discuter avec moi! Comment va ta journée?$0#$e#Personne d'autre ici n'entame autant de conversations que toi.$1",
+"Fri": "Bonjour. Ça travaille dur n'est ce pas ?$0#$e#Oui, bien sûr. Moi aussi.$1",
+"Fri2": "J'ai eu une semaine productive. Je peux prendre un verre de vin du vignoble Blue Moon au saloon.$1",
+"Fri6": "*soupir* Je pourrais certainement prendre un verre ce soir, surtout avec les heures supplémentaires que j'ai faites cette semaine.$2#$e#Parfois, j'ai l'impression que ... je ne suis pas le bienvenu au Saloon du Fruit étoilé. J'ai sens toujours de mauvais regards quand j'y vais.$2#$e#Heureusement, je garde une réserve spéciale de vin sous mon bureau.$1",
+"Fri10": "Ah! @! Quelle bonne semaine ça a été.$1",
+"Sat": "Joja est un meilleur choix par rapport à la boutique de Pierre!$5",
+"Sat2": "Je me souviens de mes congés du samedi, à l'époque où je n'étais qu'un executant dans les bas rangs de Joja.$4#$e#Beaucoup de choses ont changées depuis.$1",
+"Sat8": "@, J'apprécie que tu prennes du temps de ta journée pour me parler. Cela fait une réelle différence pour moi.$1#$e#Continuez ton beau travail en contribuant à notre communauté!$4",
+"Sun": "Err... Bonjour.$4#$e#Tu as besoin de quelque chose?$3#$e#Ah, des graines!? Joja vous régale! Nous avons la meilleure sélection en ville!$5",
+"Sun2": "Je recommande l'achat de stocks Joja. Ils continuent de grimper!$4#$e#Oh, tu n'investis pas? C'est une honte.$0",
+"Sun8": "Ta ferme est-elle encore rentable cette saison, @?$0#$b#Je ne veux pas insister. Je suis simplement curieux de savoir comment le cycle de revenus fonctionne pour toi.$4",
+
+//SUMMER DIALOGUE
+"summer_1": "Ahh, l'été est arrivé. Ma saison préférée.$1#$b#Pourquoi? Les gens aiment faire du shopping pendant l'été. Le soleil les met de bonne humeur, et nous gardons le magasin agréable et frais pour qu'ils entrent se rafraîchir.$4",
+"summer_10": "Encore besoin de quelque chose pour mettre dans la soupe du festival,@?$0#$b#JojaMart propose de nombreux ingrédients pour des repas savoureux.$4",
+"summer_28": "...Je n'aime pas regarder les méduses.$2#$e#Je ne sais pas pourquoi. Elles me font juste me sentir bizarre.$3",
+
+"summer_Mon": "Pelican Town est sous-développé. J'espère qu'un jour cela changera.$0#$e#%Morris a une lueur dans les yeux.", 
+"summer_Mon6": "...Il y a quelque chose à propos de cet endroit. Ne te méprends pas, je suis dévoué à l'expansion de Joja ici, mais ...$0#$e#Tu vois ce que je veux dire, non? Pelican Town est spécial. Je commence à comprendre.",
+"summer_Tue":  "Salut, @. Journée parfaite pour gagner de l'argent.$1",
+"summer_Tue2": "*bâille* Je n'ai pas dormi la nuit dernière. Trop de travail à faire.$0#$e#%Morris bâille à nouveau.",
+"summer_Tue6":  "J'ai dépensé une grande partie de mon dernier salaire pour apporter des améliorations au magasin Joja.$0#$b#L'entreprise ne me donnera pas un autre centime pour faire des rénovations.$3",
+"summer_Wed": "Il y a plusieurs marchés sur lesquels Joja pourrait entrer à Stardew Valley si nous voulons nous développer.$4#$e#Peut-être pourrions-nous vendre du poisson ou des meubles?$1",
+"summer_Wed6":  "J'aime rédiger des plans de développement. Trouver l'utilisation la plus efficace des fonds est gratifiant.$0#$e#Tu fais de même pour la ferme %farm, n'est-ce pas? Le début d'une nouvelle saison demande ce genre de tâche.$1",
+"summer_Thu": "Je me demande combien de clients Joja gagnera cette année.$4#$e#Notre famille s'agrandit à chaque saison.$1",
+"summer_Thu8": "...J'étais en train de penser, @. Nous appelons Joja une famille, mais je ne suis plus sûr que ce soit vraiment vrai.$2#$e#%Morris a l'air troublé.",
+"summer_Fri": "Les graines de melon de Joja augmenteront certainement vos bénéfices,@. Je te recommande fortement de les acheter!$1",
+"summer_Sat": "Hier, j'ai acheté des glaces à ce garçon, Alex. C'était délicieux.$1#$b#Peut-être que Joja devrait commencer à vendre des glaces. Il y a surement un marché pour cela?$5",
+"summer_Sat6": "Le stand de crème glacée dirigé par Alex est merveilleux!$1#$e#J'aime regarder la communauté prospérer avec leurs petites entreprises.$1",
+"summer_Sun": "Achète chez Joja et profite de notre climatisation!$1",
+"summer_Sat6": "Besoin de te rafraîchir? JojaMart possède le meilleur système de climatisation de la vallée! Entre pour ne plus avoir trop chaud.$4",
+
+//FALL DIALOGUE
+
+"fall_1": "L'automne est arrivé et c'est le moment des soldes de fin d'été.$0#$e#Chez JojaMart? Certainement pas. Mais j'aime chercher de bonnes affaires ailleurs.$4",
+"fall_15": "Participe-tu à ce festival demain, @?$0#$e#...Peut-être que je viendrai. J'aimerais voir ce que tu cultives dans ta ferme et il serait utile de savoir quel genre de choses le maire aime.$0",
+"fall_23": "Il n'est pas trop tard pour acheter des graines de chou chinois.$0#$b#Tu auras suffisamment de temps pour récupérer la récolte avant le début de l'hiver!$1",
+"fall_27": "Quand j'étais jeune, la Fête des Esprits était ma fête préférée.$0#$b#Je me déguisais toujours de la même manière: en comptable.$1",
+"fall_28": "Une autre année presque terminée.$1#$e#J'aurai besoin de récupérer mes recettes pour les impôts bientôt. J'espère qu'il n'y a rien de trop long à gérer.$0",
+
+
+"fall_Mon": "Tu n'as pas encore essayé nos graines d'automne, @?$0#$e#Elles amélioreront tes cultures, c'est garanti!$1#$e#Te rendre ton argent? Non, ce n'est pas ce genre de garantie. C'est juste un tour de phrase.$0",
+"fall_Mon4": "Ah, @. Je voulais justement te voir.$1#$b#Je voulais te suggérer d'acheter notre lot actuel de graines d'igname.$4#$e#Andy a dit qu'il récoltait des ignames de qualité argent! Achète-les pendant qu'elles sont encore en stock!$1",
+"fall_Mon8": "Andy est l'un de nos meilleurs clients. J'ai vraiment l'impression qu'il fait partie de la famille.$1#$e#...Et je le vois lutter pour s'intégrer ici. Tout comme moi.$2", 
+"fall_Tue": "La journée a été terriblement éprouvante pour moi, à nettoyer le gâchis que mon personnel a fait.$3#$e#J'aimerais pouvoir manger de la bisque de homard en ce moment même.$2#$b#Je vais peut-être visiter mon restaurant cinq étoiles préféré en ville cette semaine.$1",
+"fall_Wed": "Mon esprit déborde d'idées pour améliorer le magasin!$1",
+"fall_Wed8": "J'ai dépensé une grande partie de mon dernier salaire pour apporter des améliorations au magasin Joja.$0#$b#L'entreprise ne me donnera pas un autre centime pour faire des rénovations.$3", 
+"fall_Thu": "Si tu cherches un emploi à temps partiel, @, nous embauchons toujours!$0#$e#...Oui, je sais que tu as déjà quitté Joja. Mais cela ne signifie pas que tu dois nous quitter pour toujours.$3",
+"fall_Thu8": "C'est difficile de trouver une bonne aide ici. La ville est si petite ...$2#$e#Je sais que tu ne reviendrais plus jamais travailler pour nous, mais ce fut une grande perte pour Joja de perdre un travailleur acharné comme toi.$2",
+"Fall_Fri": "Quelques-uns de mes employés ont commencé à demander s'ils pouvaient finir plus tôt le vendredi.$0#$e#J'ai refusé, bien sûr.$2",
+"fall_Fri6": "Mon personnel a commencé à demander à être libéré tôt le vendredi.$0#$e#Je ne sais pas comment leur expliquer que plus tôt ils sortent, plus tard je dois rester ...$2#$e#%Morris soupire.",
+"fall_Sat": "Nous avons désespérément besoin de réapprovisionner. On dirait que je vais encore rester tard samedi ...$0",
+"fall_Sat6": "Nous devrions peut-être commencer à stocker de l'alcool à Joja ...$4#$e#Eh bien, ce serait plus facile que d'aller dans ce saloon. Nous pourrions peut-être même ouvrir notre propre bar!$1",
+"fall_Sun": "@, pense à visiter Joja.net et à participer à notre sondage en ligne.$1#$e#Tu auras une chance de gagner un prix d'une valeur de 500G!$1",
+"fall_Sun8": "As-tu visité notre site Web récemment, @? Nous venons de faire une grande refonte du site!$0#$e#Puisque tu es un ami, je vais te donner notre code personnel pour une remise de vingt pour cent. Il suffit de taper JOJAFAMILY à la caisse 1.$1#$e#Vingt pour cent, ce n'est pas beaucoup? Eh bien ... c'est mieux que ce qu'on a habituellement ...$2", 
+
+//WINTER DIALOGUE
+
+"winter_1":  "Il fait terriblement froid ici pendant les hivers. Je m'y habitue pas.$0#$e#Nous devrions peut-être avoir une promo spéciale sur les radiateurs. Cela ferait entrer les gens. Et je pourrais monter un stand avec du chocolat chaud ...$4#$e#%Morris s'enfonce profondément dans ses pensées.",
+"winter_7": "Vas-tu aller pêcher sur la glace demain au festival?$0#$e#...Je ne passe pas autant de temps que je le devrais sur la scène sociale locale. Peut-être que je viendrai regarder.$0",
+"winter_24": "J'ai l'intention de glisser quelques cartes-cadeaux Joja sous l'arbre. J'espère que les gens les remarqueront.$1",
+"winter_28": "Prêt pour une nouvelle année, @? J'espère qu'elle sera rentable pour nous deux.$0",
+
+"winter_Mon": "Je prends la navette pour travailler tous les jours depuis chez moi.$0#$e#Vivre ici? Non, je n'y ai jamais pensé ...$0",
+"winter_Mon6": "Attention à la glace sur les routes, @.$2#$b#Hier, j'ai failli glisser en allant à la navette de nuit.$4",  
+"winter_Tue": "J'apprécie d'avoir le temps de penser à de nouveaux plans d'affaires en hiver.$0",
+"winter_Tue6": "Aucune chance que tu viennens jeter un œil à la campagne de marketing sur laquelle je travaille un jour?$0#$e#Tu sembles bien t'entendre avec les citadins d'ici. J'adorerais avoir ton aide pour trouver comment les atteindre.$4",
+"winter_Wed":  "Si tu as besoin d'un bon endroit pour te réchauffer, je te recommande de faire du shopping chez Joja!$1",
+"winter_Wed4": "Bonjour, @. Froide journée.$0#$e#Assure toi de rester au chaud!$1",
+"winter_Thu": "J'ai consacré cet hiver à planifier la nouvelle stratégie de Joja! Cette année à venir sera la meilleure à ce jour pour Joja!$1",
+"winter_Thu6": "Je présente ma nouvelle stratégie au grand sommet des managers de Joja la semaine prochaine ...$0#$e#Souhaite moi bonne chance, @. Mes idées ne sont pas toujours bien reçues.$2",
+"winter_Fri": "As-tu déjà glissé et es-tu tombé devant quelqu'un en hiver... qui a bien rit de toi?$0#$e#.... Non, moi non plus.$2",
+"winter_Fri8": "Te sens-tu apprécié pour le travail que tu fais à ta ferme, @?$0#$b#Tu travailles tout seul, mais tout le monde est si gentil avec toi.$0#$e#Je souhaiterai que mes employés comprennent exactement combien j'ai consacré à la gestion du magasin ...$2",
+"winter_Sat": "Week end? Je ne connais pas le sens de ce mot!$1#$e#%Le sourire de Morris s'estompe rapidement.",
+"winter_Sat4": "Je suis fatigué ces derniers temps. Je devrais bientôt prendre des vacances ...$0#$e#Mais quand je suis absent, je ne fais que m'inquiéter pour le magasin. Ou bien je reviens avec de nouvelles idées!$0",
+"winter_Sun": "Un autre dimanche, un autre jour d'inventaire du stock hebdomadaire ...$0",
+"winter_Sun6": "Nous avons perdu de l'argent de caisse récemment ...$0#$e#Je ne veux accuser personne. Je ne suis pas du genre sans cœur.$2",
+
+}

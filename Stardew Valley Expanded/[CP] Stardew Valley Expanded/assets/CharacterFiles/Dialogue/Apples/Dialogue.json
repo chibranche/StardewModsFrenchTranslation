@@ -1,0 +1,77 @@
+﻿
+{
+//SPECIAL DIALOGUE
+"Resort_Entering": "Ici Apples!$1",
+"Resort_Leaving": "Tout le monde rentre maintenant? Apples vient aussi!$1",
+"Resort_Shore": "Personne ne voit Apples! Seulement les amis d'Apples!$1",
+"Resort": "Autres amis ici!$0#$e#%Apples est excité.",
+
+//SPRING DIALOGUE
+"Mon": "Nouvel ami, es-tu ici pour jouer?$0#$e#*meep*#$e#%Apples sautille de joie.",
+"Mon6": "Apples a faim. Apples veut des fruits étoilés! Fruits étoilés sont les préférés de Apples !$0#$e#Fruit étoilé! Fruit étoilé!$1",
+"Tue": "Apples a trouvé une graine! Prend là![114]$1#$e#La graine donne une plante magique!$0",
+"Wed": "Apples n'est pas bien aujourd'hui...$2#$e#...$2#$e#%Vous tapoter Apples.#$e#*meep*!!!$1",
+"Wed6": "Claus et Angelica disent bonjour!$0#$e#Les amis farfadets partagent des fruits étoilés avec Apples!$1",
+"Thu": "Apples a trouvé un caillou special! Te donne![390]$1#$e#%Apples semble ravie de vous donner le rocher.",
+"Th4": "As-tu rencontrer Ours?$0#$b#Il vit près de Apples!$1#$e#Ours vend plein de jolis choses!$0",
+"Thu10": "Apples a trouvé une graine rare! Prends! Prends![347]$1#$e#Ça donne des fruits délicieux!$0",
+"Fri": "Nouvel ami connaissait-il des gens qui vivaient dans la vigne?$2#$e#%Vous expliquez à Apples que non.#$e#...$2",
+"Fri6": "Gros homme avec casquette bleu vient certains jours.$0#$e#Apples se cache de gros homme.$2",
+"Sat": "Il y a eu une bataille dans les bois il y a longtemps.$2#$e#Tu as trouvé de vieux bâtons pointus?$0",
+"Sat6": "Des fleurs pour ami de Apples![427]$0#$e#Apples a trouvé plein de fleurs.$1",
+"Sun": "Apples est occupé à trouver des graines!$0#$e#Peut-être donner à l'ami de Apples.$1#$e#Là une graine...Herbe! Herbe![771]$1",
+"Sun2": "Yay! Ami de Apples est là!$0#$b#Joue à un jeu!? s'il te plait s'il te plait?$1#$e#%Vous jouez avec Apples.#$e#*meep*!!!$1",
+"Sun8": "L'ami préféré de Apples est là!$1#$e#L'ami préféré de Apples!$0#$e#%Apples sautille de joie.",
+
+//SUMMER DIALOGUE
+"summer_Mon": "Nouvel ami, faites pousser des fruits étoilés cette saison s'il te plaît!$1#$e#Apples adore les fruits étoilés!$0",
+"summer_Mon6": "Caillou de l'espace au fond de la forêt! Éclats pour l'ami de Apples![578]$0#$e#Si Apples en trouve plus, Apples te donnera!",
+"summer_Tue": "Cadeau pour nouvel ami![771]$1#$e#...Nouvel ami ne l'aime pas?$2",
+"summer_Tue4": "Apples court autour de la forêt! Parfois trouve des amis!#$e#Apples a trouvé toi aujourd'hui! Bon ami!$1",
+"summer_Wed": "L'ami de Apples donnent des fleurs au printemps. Nouvel ami veut-il une fleur?$0#$e#Là! Jolis fleurs![595 593 421]$1",
+"summer_Thu": "Apples aime la saison chaude! Toujours beau!$1#$e#Jouer, jouer?$0#$e#%Vous jouez avec Apples un petit moment.#$e#Yay! Amusé!$1",
+"summer_Thu10": "Apples visite bientôt une autre maison dans les bois.$0#$e#Plein d'amis là bas!$1",
+"summer_Fri": "Jouer à un jeu! Apples se cache, toi trouver!$0",
+"summer_Fri6": "*meep* *meep*!$0#$b#*meep*!$1#$e#Apples excité! Trouvé un fruit étoilé!$0#$b#PArtage avec ami de Apples!$1[268]#$e#Désolé. Apples a un peu grignoté.$2",
+"summer_Sat": "Apples ne parle jamais au sorcier dans la tour.$0#$e#Le sorcier ne fait pas plaisir.$2",
+"summer_Sat6": "Peut-être que Apples parlera au sorcier bientôt?$0#$e#Le sorcier pourrait avoir des fruits étoilés...!$1",
+"summer_Sat10": "Wizard a donné à Apples fruit étoilé! Gentil sorcier!$1#$e#Autres amis de Apples n'aiment pas le sorcier.$2#$b#Peut être que Apples devrait dire que le sorcier est aussi un ami de Apples$1",
+"summer_Sun": "Veux-tu des cailloux? Apples t'en donne.$0#$e#Là! Caillou![390]$1#$e#%Apples semble ravi.",
+"summer_Sun4": "Apples s'ennuie.$2#$e#...$2#$e#Ami de Apples rester et parler? Bon ami, bon ami!$1",
+
+//FALL DIALOGUE
+"fall_Mon": "Les couleurs de saison rendent Apples heureux! Couleurs!$0#$e#Couleur de Apples vert! Vert!$1",
+"fall_Mon6": "Champignon trouvé près de chez toi! Ami de Apples prend![422 420]$0#$e#Si Apples en trouve plus, Apples te donnera!$1",
+"fall_Tue4": "Apples a parlé à homme d'ombre dans les égouts! Bon ami comme toi!$0#$e#Homme d'ombre joue avec Apples!$1",
+"fall_Tue10": "Krobus joue encore avec Apples!$1#$e#Ami Krobus ne visite que la nuit ... ne sort pas des égouts le jour.$0#$e#Krobus ne dit pas à Apples pourquoi.$2",
+"fall_Wed": "L'homme chapeau bleu visite à nouveau la maison. Jeté des bouteilles et presque frappé Apples.$2#$e#Apples n'a pas compris...$2",
+"fall_Wed8": "Grand homme rentre à la maison et pleure. Apples se sent mal.$2#$e#Peut être Apples doit aider grand homme!$0",
+"fall_Thu": "Des amis farfadets donnent des fleurs pour la maison! Apples partagera![421]$0#$e#Ami de Apples rend visite souvent! Rend Apples heureux!$1",
+"fall_Thu10": "La fille aux cheveux violets est aussi une amie de Apples! La fille est sympa et joue avec Apples!$1",
+"fall_Fri10": "Apples se rend bientôt au village. Heureux de voir des amis!$0#$e#Apples connait une route secrète! Ne dit pas!$1",
+"fall_Sat": "Apples fatigué aujourd'hui. Peut être faire une sieste...$2",
+"fall_Sat4": "Apples a trouvé des graines dans la forêt avec Krobus.$1#$e#ami de Apples veut des graines?$0#$e#Apples réfléchir.$0#$e#...$2#$b#...$1#$b#Ok! Graines pour Ami de Apples![114]$1",
+"fall_Sat8": "Autre ami trouve des poursses d'arbres. Une pour ami de Apples![631 632 631 630 629 628]$0#$e#Si grandir en arbre, partage ses fruits!$1",
+"fall_Sun": "...$2#$e#Apples pense beaucoup aujourd'hui.$2#$e#...$2#$e#%Apples ne veut pas parler.",
+"fall_Sun10": "D'autres amis veulent travailler sur des terres agricoles! Construisez des maisons à la ferme! Les amis d'Apples récolteront!$0#$e#Peut être que Apples aidera aussi!$1",
+
+//WINTER DIALOGUE
+"winter_Mon": "Apples ne ressent pas le froid. Ne t'inquiète pas!#$e#%Apples sautille de joie.",
+"winter_Mon6": "Apples voir l'empreinte d'une autre créature dans la forêt.$0#$b#Apples se demande ce que c'est...??$1#$e#Peut être plus d'amis!?$0",
+"winter_Tue": "*meep*!!!$0#$b#Apples rencontré ami volant aujourd'hui! Ami volant donne des graines!$1#$e#Apples a mangé les graines. N'en reste pas pour Ami de Apples...Désolé!$2",
+"winter_Tue4": "*meep*!!!$0#$b#Apples a rencontré plus d'amis volants! Les amis volants donnent plus de graines!$1#$e#Apples a encore mangé les graines...$2",
+"winter_Tue8": "Yay! Ami de Apples rend visite!$0#$e#Apples trouvé des fleurs![418]#$e#Trouvé encore plus de fleurs![418]#$e#Là! Encore![418]#$e#%Apples essaie de vous donner plus de fleurs mais n'a plus rien à donner.#$e#Si Apples trouve de jolis fleurs, donner à ami!$1",
+"winter_Wed": "Regarde! Apples a trouvé plus de nouveaux amis![412]$0#$e#Pas amis? C'est racine?$2#$b#Ami de Apples peut les garder.$1",
+"winter_Wed6": "Ami de apples rend visite pour jouer?$0#$e#Apples veut jouer!$1#$e#Vous jouez avec Apples#$e#Yay!!!$1",
+"winter_Thu": "Apples se cache dans la neige pour s'amuser!$1#$e#Neige! Neige!$0",
+"winter_Thu4": "Apples veut construire un bonhomme de neige!$0#$e#Peut être Apples construira un Apples de neige...$1",
+"winter_Fri": "Un autre ami rend Apples triste. Pas envie de jouer.$2#$e#Autre ami vient du village. Joue avec un ami différent à la place.$2#$e#%Vous dites à Apples que vous pouvez jouer avec lui.#$e#!!!$1#$b#Vraiment? Apples content!$0#$b#Apples aime jouer!$1#$e#%Vous jouez avec Apples un moment.#$e#Yay! Amusement pour Apples!$1",
+"winter_Fri10": "Autre ami invite Apples à jouer au village! Heureux!$1",
+"winter_Sat": "Apples voir l'homme aux cheveux blancs avec un cache-œil.$2#e#Homme au cache-œil flippant.$2",
+"winter_Sat10": "*meep*!!!$1#$e#*meep*!!$0#$e#Apples rempli! Beaucoup de fruits étoilés dans la cabane!",
+
+//EVENT DIALOGUE
+"apples_event1": "...$2#$b#Autres amis ne disent pas ça.$4#$b#Ils disent que Apples a tort.$2",
+"apples_event2": "...$2#$b#Apples faire une grosse erreur. Apples désolé.$3#$b#Apples voulait seulement faire une nouvelle maison pour d'autres amis ...$3#$b#Ne soit pas en colère contre Apples...$3",
+"apples_event3": "...$2#$b#Apples a fait plus d'amis...$4"
+}

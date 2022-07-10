@@ -1,0 +1,17 @@
+{
+	"Name": "Golden Key",
+	"Description": "Maybe it'll work on a lock around here?",
+	"Price": 0,
+	"CanTrash": false,
+    "CanSell": false,
+	"NameLocalization":
+	{
+		"fr": "Clef Dorée",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Peut être qu'elle fonctionne sur une serrure pas loin d'ici?",
+		/*Information goes here*/
+	}
+}

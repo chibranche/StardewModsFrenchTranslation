@@ -1,0 +1,17 @@
+{
+  "Name": "Leafy Crop (stage 3)",
+  "Price": 520,
+  "ProvidesLight": false,
+  "Description": "A decorative crop. Changes seasonally into 'Kale', 'Red Cabbage', and 'Amaranth' when placed outdoors.",
+  "CanPurchase": false,
+  "NameLocalization":
+	{
+		"fr": "Culture Feuillue (étape 3)",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Une culture décorative pour votre ferme. Change selon la saison en Chou Frisé, Chou Rouge, et Amarante quand elle est placée à l'exterieur.",
+		/*Information goes here*/
+	}
+}

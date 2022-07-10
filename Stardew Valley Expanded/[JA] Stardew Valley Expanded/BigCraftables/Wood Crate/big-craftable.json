@@ -1,0 +1,18 @@
+{
+  "Name": "Wood Crate",
+  "Price": 750,
+  "ProvidesLight": false,
+  "Description": "A decorative piece for your farm.",
+  "ProvidesLight": false,
+  "CanPurchase": false,
+  "NameLocalization":
+	{
+		"fr": "Caisse en bois",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Une pièce décorative pour votre ferme.",
+		/*Information goes here*/
+	}
+}

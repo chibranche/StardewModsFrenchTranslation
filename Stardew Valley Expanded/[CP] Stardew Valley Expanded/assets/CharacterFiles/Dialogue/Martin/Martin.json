@@ -1,0 +1,69 @@
+﻿{
+  //SPECIAL DIALOGUE
+  "Introduction": "Hey. Tu es le nouveau propriétaire de la ferme %farm. Mon manager a tenu une réunion à ton sujet!$0#$b#Je travaille à temps partiel au Marché de Joja.$1#$e#Err. Oublie ce que j'ai dit à propos de cette réunion. Cela pourrait me causer des ennuis.$4",
+  "pamHouseUpgrade": "Penses-tu que cette dame sera plus gentille avec moi au travail maintenant ?$4",
+  "pamHouseUpgradeAnonymous": "Penses-tu que cette dame sera plus gentille avec moi au travail maintenant ?$4",
+  "Town_92_44": "%'Entrée des employés'",
+  "BusStop_12_8": "%Chauffeur de bus: montez dans le bus ou descendez m'sieur.^%Chauffeur de bus: montez dans le bus ou descendez m'dame.",
+  "Resort_Entering": "Cette île est trop cool!$1",
+  "Resort_Leaving": "Je vais parler de cet endroit à ma mère et à mon père!$1",
+  "Resort_Shore": "L'eau est vraiment agréable sur mes pieds. Je pense que je vais aller nager!$0",
+  "Resort_Chair": "C'est vraiment génial que ta communauté organise des rencontres amusantes comme celle-ci.$0#$e#Ma ville natale est ennuyeuse...$4",
+  "Resort": "J'ai oublié de mettre de la crème solaire.$4#$e#Je pense que j'ai eu un coup de soleil.$4",
+
+  
+  //SPRING AND GENERAL DIALOGUE
+  "Mon": "Hey, @! Comment va Claire ?$0",
+  "Tue": "Uhh. Salut.$0",
+  "Tue2": "Ma mère m'a préparé un grand déjeuner aujourd'hui.$0#$e#Elle a emballé des «cheez curls», mes chips préférées!$1",
+  "Tue8": "Salut, @. Reste en forme comme toujours.$0#$e#Eh bien, à bientôt.$6",
+  "Sat": "*soupir*... Je ne veux pas travailler aujourd'hui.$2#$e#Oh. Hey. Je peux aider?$4",
+  "Sat2": "Hey. Que pense-tu de Claire, ma collègue?$0#$e#Elle est vraiment cool.$6",
+  "Sat6": "Hey @! Comment ça va!?$1#$e#Je suis ravi du café que ma mère a préparé ce matin!$1#$e#Passe une fantastique journée!$1",
+  "Sun": "Je prends parfois le bus ici pour consulter les livres de la bibliothèque.$0#$e#Ce mec avec la barbiche ne parle pas beaucoup.$0",
+  "Sun2": "Hmm...$4#$e#...$4#$e#Oh! Hey!$1#$b#Je réfléchis juste sur moi-même. Ne fais pas attention à moi.$0",
+  "Sun6": "J'ai un gros test bientôt! Besoin de me préparer.$1#$e#La bibliothèque de votre ville contient un tas de livres intéressants.$0",
+  
+  
+  //SUMMER DIALOGUE
+  "summer_Tue": "Nous avons bientôt des soldes de liquidation. 5 pourcent de réduction!$1",
+  "summer_Tue2": "Claire a mentionné que la climatisation dans le magasin était trop pour elle.$2#$e#Mon manager ne l'arrêtera pas. Il dit que cela attire les clients.$3",
+  "summer_Tue8": "Je peux me voir déménager à Stardew Valley quand je serai plus âgé.$0#$e#Je ne suis pas fait pour le travail agricole comme toi.$1",
+  "summer_Sat": "Il y a un tas de jolis sites ici, en particulier la mer Gem.$0#$e#J'ai juste une vue sur de vastes plaines ouvertes et des montagnes ennuyeuses chez moi.$4",
+  "summer_Sat2": "Mon père m'a en quelque sorte donné un emploi à temps partiel.$4#$e#Au moins je peux m'acheter des trucs sympas.$0",
+  "summer_Sat8": "Ma mère m'a emballé quelques tacos. Ça ne me dérange pas de partager![213]$0#$e#Sa cuisine est la meilleure.$1",
+  "summer_Sun6": "Je n'ai pas vraiment besoin d'étudier dans votre bibliothèque. Il y en a un près de ma maison.$0#$b#Je veux juste sortir plus.$4",
+  "summer_Sun8": "Il y a un tas de gens intéressants dans la vallée. Es-tu ami avec de nombreuses personnes?$0#$e#Je vis à la campagne. Pas trop de monde.$0",
+  
+  
+  //FALL DIALOGUE
+  "fall_Tue": "Salut m'sieur.^Salut m'dame.",
+  "fall_Tue2": "Ma mère dit toujours que «les bonnes manières sont essentielles». Je fais de mon mieux pour être poli avec tout le monde.$0#$e#C'est peut-être pour ça que j'ai obtenu le poste au Marché Joja.$0",
+  "fall_Tue8": "Je dois travailler dur pendant que je suis jeune! Futur Martin m'appréciera!$1",
+  "fall_Sat": "*bâille* J'étais debout toute la nuit à jouer à des jeux vidéo et maintenant je le regrette...$2#$e#J'ai cependant amélioré mon personnage.$1",
+  "fall_Sat8": "J'avais l'habitude de faire un tas d'erreurs stupides au travail, mais je me suis amélioré.$0#$e#Hey. J'apprécie que tu me parles!$1",
+  "fall_Sun": "*bâille*...$2#$e#Oh. Hey. Comment je peux t'aider?$0",
+  "fall_Sun4": "Tous mes amis proches sont en ligne. Je leur parle à peu près tous les jours.$6#$e#Je veux éventuellement les rencontrer dans la vraie vie, mais les billets d'avion sont chers...$0",
+  "fall_Sun8": "Hey, @. Tu sais, je pourrais peut-être parler à mon manager et t'obtenir de bonnes réductions!$0",
+  
+  
+  //WINTER DIALOGUE
+  "winter_Tue": "Ce travail est un très bon créateur de CV.$0", 
+  "winter_Tue8": "Parfois, je surprends Claire en train de fredonner un air agréable pour elle-même...$6#$e#Oh. Err. Je peux t'aider pour quelque chose @?$0",
+  "winter_Sat4": "Ma mère me tricote une écharpe.$0#$e#J'espère qu'elle ne sera pas trop grosse cette fois...$4",
+  "winter_Sat8": "Je ne passe pas souvent au saloon de votre ville. On devrait manger un morceau un jour!$0",
+  "winter_Sun4": "Qu'est-ce que ça fait de posséder une ferme en hiver? Tu dois avoir beaucoup de temps libre.$0",
+  "winter_Sun8": "Hey @. Ne te surcharge pas de travail!$0",
+
+  
+    //EVENT DIALOGUE
+  "martin_event1": "C-c'est ... Euh. Je fais des recherches, c'est...$4",
+  "martin_event2": "... Oui. Pas grand chose à faire, à la maison, et cet endroit a...$0",
+  "martin_event3": "...Ouais, tu as probablement raison.$6",
+  "martin_event4": "Je veux dire, c'est un peu bizarre. Mais j'ai une bonne raison...$0",
+  "martin_event5": "Merci, @. Je vais la chercher.$0",
+  "martin_event6": "... Ok, c'est ton choix. Gunther la laissera probablement se reposer au musée, je suppose.$3",
+  "martin_event7": "Ouais ... vraiment beaucoup.$6",
+  "martin_event8": "... Ce n'est pas juste, @.$3"
+  
+}

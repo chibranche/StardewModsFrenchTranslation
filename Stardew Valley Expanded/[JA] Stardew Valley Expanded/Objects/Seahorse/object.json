@@ -1,0 +1,20 @@
+{
+	"Name": "Seahorse",
+	"Description": "A tiny fish that makes a home in coral reefs.",
+	"Category": "Fish",
+	"Edibility": 5,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 80,
+	"IsColored": false,
+	"NameLocalization":
+	{
+		"fr": "Hippocampe",
+		/*to be added in*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Un petit poisson qui fait sa maison dans les récifs coralliens.",
+		/*to be added in*/
+	},
+}

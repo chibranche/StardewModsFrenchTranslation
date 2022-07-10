@@ -1,0 +1,19 @@
+{
+	"Name": "Sea Sponge",
+	"Description": "A very diverse multi-cellular animal. They are important in nutrient cycles in coral reefs.",
+	"Category": "Fish",
+	"Edibility": -25,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 90,
+	"NameLocalization":
+	{
+		"fr": "Éponge de mer",
+		/*to be added in*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Un animal multicellulaire très diversifié. Elles jouent un rôle important dans les cycles des nutriments dans les récifs coralliens.",
+		/*to be added in*/
+	},
+}

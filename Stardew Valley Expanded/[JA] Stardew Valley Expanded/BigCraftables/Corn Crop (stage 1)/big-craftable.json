@@ -1,0 +1,17 @@
+{
+  "Name": "Corn Crop (stage 1)",
+  "Price": 180,
+  "ProvidesLight": false,
+  "Description": "A decorative crop. Grows seasonally when placed outdoors.",
+  "CanPurchase": false,
+  "NameLocalization":
+	{
+		"fr": "Culture de Maïs (étape 1)",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Une culture décorative. Grandit selon les saisons quand elle est placée à l'exterieur.",
+		/*Information goes here*/
+	}
+}

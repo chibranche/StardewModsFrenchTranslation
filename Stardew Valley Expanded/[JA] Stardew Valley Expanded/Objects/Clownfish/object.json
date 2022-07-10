@@ -1,0 +1,25 @@
+{
+	"Name": "Clownfish",
+	"Description": "Lives in sea anemones for protection.",
+	"Category": "Fish",
+	"Edibility": 20,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 90,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		/*gift tastes go here*/
+	},
+	"NameLocalization":
+	{
+		"fr": "Poisson Clown",
+		/*to be added in*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Vit dans les anémones de mer pour se protéger.",
+		/*to be added in*/
+	},
+	"DisableWithMod": "MoreFish"
+}

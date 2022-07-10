@@ -1,0 +1,18 @@
+{
+  "Name": "Coal Box",
+  "Price": 2000,
+  "ProvidesLight": false,
+  "Description": "A decorative piece for your farm.",
+  "ProvidesLight": false,
+  "CanPurchase": false,
+  "NameLocalization":
+	{
+		"fr": "Boîte à charbon",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Une pièce décorative pour votre ferme.",
+		/*Information goes here*/
+	}
+}

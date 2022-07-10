@@ -1,0 +1,26 @@
+{
+	"Name": "Tempered Galaxy Dagger",
+	"Description": "The power of the cosmos courses through you.",
+	"Type": "dagger",
+	"MinimumDamage": 115,
+	"MaximumDamage": 160,
+	"Knockback": 1.0,
+	"Speed": 10,
+	"Accuracy": 100,
+	"Defense": 15,
+	"MineDropVar": 0,
+	"MineDropMinimumLevel": -1,
+	"ExtraSwingArea": -1,
+	"CritChance": 0.30,
+	"CritMultiplier": 3,
+	"NameLocalization":
+	{
+		"fr": "Dague Trempée de Galaxie",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "La puissance du cosmos vous traverse.",
+		/*Information goes here*/
+	}
+}

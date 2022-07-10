@@ -1,0 +1,18 @@
+{
+  "Name": "Shrub",
+  "Price": 2000,
+  "ProvidesLight": false,
+  "Description": "A decorative piece for your farm. Changes seasonally when placed outdoors.",
+  "ProvidesLight": false,
+  "CanPurchase": false,
+  "NameLocalization":
+	{
+		"fr": "Arbuste",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Une pièce décorative pour votre ferme. Change selon la saison quand il est placé à l'exterieur.",
+		/*Information goes here*/
+	}
+}

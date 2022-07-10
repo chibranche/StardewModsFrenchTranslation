@@ -1,0 +1,19 @@
+{
+  "Name": "Amethyst Node",
+  "Price": 2000,
+  "ProvidesLight": false,
+  "Description": "A decorative piece for your farm.",
+  "ProvidesLight": false,
+  "CanPurchase": false,
+  "TranslationKey": "big-craftables.amethyst-node",
+  "NameLocalization":
+	{
+		"fr": "Noeud d'Amethyste",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Une pièce décorative pour votre ferme.",
+		/*Information goes here*/
+	}
+}

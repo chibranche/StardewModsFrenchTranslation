@@ -1,0 +1,18 @@
+{
+  "Name": "Topaz Node",
+  "Price": 1500,
+  "ProvidesLight": false,
+  "Description": "A decorative piece for your farm.",
+  "ProvidesLight": false,
+  "CanPurchase": false,
+  "NameLocalization":
+	{
+		"fr": "Noeud de Topaze",
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		"fr": "Une pièce décorative pour votre ferme.",
+		/*Information goes here*/
+	}
+}
