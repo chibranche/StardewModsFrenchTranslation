@@ -1,0 +1,33 @@
+{
+    "Changes": [
+        {
+            "LogName": "Leo",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Leo",
+            "Entries": {
+                "Mon": "Salut... Tout va bien ?",
+                "Mon2": "Tu as... trouvé des noix d'or aujourd'hui ?#$e#Non... ne les partagez pas avec moi. Ma famille en a le plus besoin.$3#$e#J'en trouverai assez pour moi.",
+                "Mon4": "J'ai beaucoup appris de ma famille de perroquets...#$b#Mais je suis sûr qu'il y en a beaucoup d'autres que je ne connais pas.$s",
+                "Tue": "Quand le Soleil est en colère, il se sent bien dans la jungle.#$e#Le soleil ne peut pas nous trouver sous les feuilles. Nous le trompons ! Haha...$h",
+                "Tue2": "Willy est ton ami ?#$e#...Il est gentil.#$e#Je ne suis pas si timide avec lui.",
+                "Tue4": "...Ma cabane ? Non, je n'ai pas pu la construire tout seul.$3#$e#Les perroquets sont de bons auxiliaires. Ils m'aident beaucoup. Tu le sais ?#$e#Est-ce qu'ils t'aident aussi ?",
+                "Wed": "...Désolé... Je suis timide aujourd'hui.$3",
+                "Wed2": "Soyez prudent dans le volcan... les esprits n'aiment pas les étrangers.",
+                "Wed4": "...@, les oiseaux volent-ils parfois depuis votre maison ?$3",
+                "Thu": "Tu as rencontré d'autres personnes comme toi ?#$b#Je ne leur parle pas beaucoup. Je me sens plus en sécurité avec les miens...$3",
+                "Thu2": "Tu connais les mangues ? Elles sont... mmmmm ! Délicieuses !$h#$e#Il fut un temps où j'en mangeais tous les jours. Mon arbre préféré les cultivait.#$b#...Mais alors, le ciel s'est mis en colère... et a brisé l'arbre avec la foudre.$s#$e#...Plus d'arbres peuvent repousser, non ?",
+                "Thu4": "Oh, @! Tu es là !$h#$e#Je suis heureux que tu continues à venir ici si souvent.",
+                "Fri": "Une fois... J'étais au sommet du volcan la nuit, et j'ai vu des lumières très, très loin.#$b#Je me demande s'il existe d'autres familles d'oiseaux ?$3",
+                "Fri2": "Parfois je vois un vieil homme, avec... comment ça s'appelle ? Des lunettes.#$e#Je ne pense pas qu'il sache que je suis ici.$3",
+                "Fri4": "Je me demande si je pourrais voir votre maison depuis le sommet du volcan ?",
+                "Sat": "...je suis triste aujourd'hui.$s#$e#Tu vas... t'amuser. Laisse-moi être triste.$s",
+                "Sat2": "...Tu es venu ici en bateau ? Willy, aussi ?#$e#Non... Je ne peux pas faire du bateau. J'ai trop peur...$s#$e#Mère... Père...$s",
+                "Sat4": "J'ai peur de monter sur un bateau, parce que...$s#$b#...mais, tu penses que Willy pourrait m'aider à essayer ?",
+                "Sun": "Quand il pleut, d'étranges oiseaux nous rendent visite.#$b#J'essaie de leur parler... mais ils s'envolent.$s#$b#Je suppose qu'ils ne veulent pas être amis...$s",
+                "Sun2": "J'ai vu une vieille femme de l'autre côté de l'île. Tu l'as vue ?$3#$e#...je suis timide avec elle. Et effrayé.$s#$e#Je ne pense pas qu'elle veuille être amie avec les oiseaux.$s#$e#Mais tu le fais.",
+                "Sun4": "N'aie pas peur des gorilles si tu les vois.#$b#Soyez juste gentil avec eux. Ils seront gentils avec toi.",
+                "summer_Mon": "Hm ? Tu me demandes mon... anniversaire ?$3#$b#Um... quelle est cette saison ? Je n'ai pas de... qu'est-ce que c'est ? Un calendrier.$3#$e#Oh, c'est l'été maintenant ? C'est... l'été 26 ! Les perroquets m'ont dit que j'ai éclos ce jour-là."
+            }
+        }
+    ]
+}

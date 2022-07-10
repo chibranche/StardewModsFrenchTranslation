@@ -1,0 +1,44 @@
+{
+    "Changes": [
+        {
+            "LogName": "Wizard",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Wizard",
+            "Entries": {
+                "Introduction": "Ah, oui. J'ai prédit votre arrivée il y a longtemps, jeune... @.#$e#Toutefois, votre destin est en définitive entre vos mains.",
+                "Mon2": "Si vous cherchez une sorte d'aide surnaturelle pour vos travaux agricoles, je crains que ce ne soit pas le bon endroit.#$e#Ce n'est pas qu'il n'y a rien que je puisse faire. C'est plutôt qu'il n'y a rien que je devrais faire.",
+                "Mon4": "Je posterai un message en ville si j'ai besoin d'aide pour stabiliser les forces élémentaires locales. Les créatures dans la mine le déséquilibrent parfois.#$e#Si tu ne peux pas l'atteindre, Marlon le peut généralement, mais sa jambe le ralentit.",
+                "Mon6": "Mes potions m'aident généralement à communiquer avec divers esprits qui requièrent mon attention. C'était le cas avec toi.#$e#Mais ils me mettent aussi dans le bon état physique, afin de pouvoir lancer certains sorts.",
+                "Mon8": "Pour manier le pouvoir des arcanes, il faut avoir la plus grande intégrité. Les problèmes personnels ne doivent jamais obscurcir notre jugement.#$e#Mon amie Welwick est comme ça. Elle a l'habitude de jouer, mais elle refuse d'appliquer son don de voyance à un jeu de cartes.#$b#Même au risque de la ruine financière.",
+                "Tue2": "Ahh, @, bienvenue. Tu veux boire quelque chose ?$h#$e#Oh, mais j'ai plus que ce qu'il y a dans ce chaudron.$h#$e#En fait, maintenant que j'y pense, ce n'est pas grave.",
+                "Tue8": "J'ai essayé de vivre pour mes propres intérêts il y a quelque temps et ça ne s'est pas bien terminé.#$b#La vérité est qu'il y a de plus grandes choses dont je dois m'inquiéter que moi-même.",
+                "Wed2": "Il faut des efforts inlassables pour maintenir l'équilibre de l'environnement naturel de la vallée.#$e#Pour cette raison, je dois continuer mon travail.",
+                "Wed4": "Je suis surtout intéressé par les objets qui possèdent de fortes propriétés mystiques.#$b#Mais un homme doit aussi manger, alors si tu m'apportais un repas chaud, je ne dirais pas non.",
+                "Wed8": "Je suis habitué à être traité avec appréhension, mais j'apprécie vos visites répétées, @.#$e#Normalement, je ne m'intéresse pas aux mondains. Mais tu me rappelles que je ne peux pas négliger mon côté humain.",
+                "Thu4": "Stardew Valley est un endroit spécial. Il est riche de choses vivantes et généreuses.#$e#Tu peux remercier les esprits pour ça.",
+                "Thu6": "L'art de remodeler l'âme humaine est quelque chose que je ne souhaite pas poursuivre. Tu devrais demander à un être de l'ombre à ce sujet.",
+                "Thu8": "Le biologiste qui vit près des mines est en fait assez brillant. Je respecte sa capacité à comprendre le monde naturel.#$e#Ma pratique est différente, dans la mesure où je me concentre sur la flexion du monde naturel, en utilisant le monde extérieur.",
+                "Fri": "Pensez à moi comme à un ambassadeur entre ce monde et le monde des esprits.#$e#Ce n'est qu'un de mes devoirs, de toute façon.",
+                "Fri2": "Je crois que les habitants de la ville ont peur de moi.#$e#C'est malheureux, mais je suppose que c'est humain d'avoir peur de l'inconnu.",
+                "Fri4": "Ma capacité à me téléporter a mis toute une vie à se développer, mais une technique similaire est également possible grâce à l'utilisation de totems de distorsion.#$e#Ton lien avec les esprits de la forêt devrait te permettre de fabriquer des totems de distorsion.",
+                "Sat6": "Rrrgh. Ma tête me tue. Je testais une potion.#$e#Non, c'est parfaitement normal. Je vais m'en sortir.",
+                "Sat8": "J'ai voyagé pendant des années avant de trouver un endroit assez riche en énergie magique pour construire cette tour.#$e#Non, bien sûr, je n'ai pas posé les briques à la main. Je manie le pouvoir d'invoquer pour une raison.$h",
+                "Sun4": "Bien que je cherche un apprenti, je peux vous dire que ce ne sera pas vous.#$e#Ne soyez pas déçu. Cette responsabilité n'est pas enviable.",
+                "Sun6": "Lors des guerres élémentaires, la race naine a été presque entièrement anéantie par les êtres de l'ombre.#$b#Mais la guerre est enfin terminée. J'espère que ceux qui restent pourront aller de l'avant.",
+                "Sun10": "Ah, @. Je suis contente que tu sois là.#$e#Oui, je suis heureuxe de faire une pause dans mon travail. Et toi, comment vas-tu ?",
+                "summer_Tue10": "Je crains pour les âmes de ceux qui abusent des arts sombres, surtout pour des désirs égoïstes.#$e#Faire du mal aux innocents... vraiment, il n'y a pas de plus grand crime dans ce monde ou dans le prochain.",
+                "summer_Fri": "Les ours de cette région ne sont pas... ordinaires.#$b#Avec ta connexion avec les esprits de la forêt, tu pourrais même être capable de communiquer avec eux. As-tu essayé ?",
+                "summer_Fri6": "Il y a un sanctuaire maudit dans la région est des mines. Tu t'y es aventuré ?#$e#Ah, mais bien sûr, je connais déjà la réponse. Je voulais juste voir si votre expression serait vraiment aussi insensible que je le pensais.#$e#Tu es vraiment extraordinaire pour une personne banale, @.",
+                "fall_Mon2": "Ahh, les esprits sont très actifs pendant cette saison.#$e#C'est une période passionnante pour mon métier, mais espérons qu'il n'y aura pas d'incidents cette année.",
+                "winter_Mon4": "Les affaires des gens ordinaires m'importent peu, mais les élémentaires aiment avoir la chance de vous voir de près.#$e#C'est pour eux que j'ai créé ce labyrinthe idiot au festival Spirit's Eve.",
+                "winter_Tue10": "Je crains pour les âmes de ceux qui abusent des arts sombres, surtout pour des désirs égoïstes.#$e#Faire du mal aux innocents... vraiment, il n'y a pas de plus grand crime dans ce monde ou dans le prochain.",
+                "winter_Wed4": "Oui, je connais très bien Linus, bien que nous ne nous rencontrions qu'une fois par an.#$e#Il comprend la montagne mieux que la plupart des autres. Tu pourrais apprendre beaucoup de choses de lui.",
+                "fall_26": "Je te verrai demain au festival de la veille de l'esprit ?#$e#Non, je n'ai pas regardé dans mon orbe de vision pour celle-là. J'ai juste pensé que ce serait plus facile de demander.#$e#Qu'est-ce que tu crois que je fais ici toute la journée, de toute façon ?",
+                "winter_28": "Une autre année sans désastre. J'ai préparé une potion spéciale avec mon nom dessus.$h#$e#Non, tu n'en as peut-être pas. Votre corps n'est pas correctement adapté.#$e#La potion de notre première rencontre ? C'était un 2. Là, c'est un 9.",
+                "spring_1_2": "Tu es venu ici alors que tu devrais remettre ta ferme en état pour la nouvelle année ?",
+                "fall_26_2": "Je te verrai demain au festival de la veille de l'esprit ?#$e#Non, je n'ai pas regardé dans mon orbe de vision pour celle-là. J'ai juste pensé que ce serait plus facile de demander.#$e#Qu'est-ce que tu crois que je fais ici toute la journée, de toute façon ?",
+                "winter_28_2": "Une autre année sans désastre. J'ai préparé une potion spéciale avec mon nom dessus.$h#$e#Non, tu n'en as peut-être pas. Votre corps n'est pas correctement adapté.#$e#La potion de notre première rencontre ? C'était un 2. Là, c'est un 9."
+            }
+        }
+    ]
+}
