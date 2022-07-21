@@ -1,2 +1,5 @@
 [CP] Stardew Valley Expanded\assets\CharacterFiles\Dialogue\Scarlett\Dialogue.json
 [CP] Stardew Valley Expanded\assets\CharacterFiles\Treyvon\Dialogue.json
+
+
+content.json : 25694 / 46400

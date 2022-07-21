@@ -20753,33 +20753,19 @@
       "Target": "Characters/Schedules/Sophia",
 	  "When": { "Season |contains=Spring, Summer, Winter": false, "Weather |contains=rain, storm": false },
       "Entries": {
-	    //Scarlett helps with fall harvest
         "marriage_Mon": "730 Custom_BlueMoonVineyard 29 33 3/1100 Custom_BlueMoonVineyard 35 41 1 Sophia_Farm1 \"Strings\\schedules\\Sophia:marriage.002\"/1130 Custom_BlueMoonVineyard 41 41 1 Sophia_Farm1 \"Strings\\schedules\\Sophia:marriage.008\"/1200 Custom_BlueMoonVineyard 39 39 2 Sophia_Farm2 \"Strings\\schedules\\Sophia:marriage.009\"/1230 Custom_BlueMoonVineyard 35 37 2 Sophia_Farm2 \"Strings\\schedules\\Sophia:marriage.011\"/1300 Custom_BlueMoonVineyard 37 35 1 Sophia_Farm1 \"Strings\\schedules\\Sophia:marriage.006\"/1330 Custom_BlueMoonVineyard 42 29 2 Sophia_Inspect_Keg_Down \"Strings\\schedules\\Sophia:marriage.000\"/1400 Custom_BlueMoonVineyard 38 31 1 Sophia_Inspect_Keg_Right \"Strings\\schedules\\Sophia:marriage.010\"/1430 Custom_BlueMoonVineyard 36 32 0 \"Strings\\schedules\\Sophia:marriage.011\"/1450 Custom_BlueMoonVineyard 34 31 1 Sophia_Inspect_Keg_Right \"Strings\\schedules\\Sophia:marriage.010\"/1520 Custom_BlueMoonVineyard 36 29 2 Sophia_Inspect_Keg_Down \"Strings\\schedules\\Sophia:marriage.010\"/1600 Custom_BlueMoonVineyard 22 32 3 \"Strings\\schedules\\Sophia:marriage.014\"/1630 Custom_SophiaHouse 17 24 3 \"Strings\\schedules\\Sophia:marriage.014\"/1730 BusStop -1 23 3",
 		"marriage_Tue": "730 Custom_BlueMoonVineyard 29 33 3/1100 Custom_BlueMoonVineyard 35 41 1 Sophia_Farm1 \"Strings\\schedules\\Sophia:marriage.002\"/1130 Custom_BlueMoonVineyard 41 41 1 Sophia_Farm1 \"Strings\\schedules\\Sophia:marriage.008\"/1200 Custom_BlueMoonVineyard 39 39 2 Sophia_Farm2 \"Strings\\schedules\\Sophia:marriage.009\"/1230 Custom_BlueMoonVineyard 35 37 2 Sophia_Farm2 \"Strings\\schedules\\Sophia:marriage.011\"/1300 Custom_BlueMoonVineyard 37 35 1 Sophia_Farm1 \"Strings\\schedules\\Sophia:marriage.006\"/1330 Custom_BlueMoonVineyard 42 29 2 Sophia_Inspect_Keg_Down \"Strings\\schedules\\Sophia:marriage.000\"/1400 Custom_BlueMoonVineyard 38 31 1 Sophia_Inspect_Keg_Right \"Strings\\schedules\\Sophia:marriage.010\"/1430 Custom_BlueMoonVineyard 36 32 0 \"Strings\\schedules\\Sophia:marriage.011\"/1450 Custom_BlueMoonVineyard 34 31 1 Sophia_Inspect_Keg_Right \"Strings\\schedules\\Sophia:marriage.010\"/1520 Custom_BlueMoonVineyard 36 29 2 Sophia_Inspect_Keg_Down \"Strings\\schedules\\Sophia:marriage.010\"/1600 Custom_BlueMoonVineyard 22 32 3 \"Strings\\schedules\\Sophia:marriage.014\"/1630 Custom_SophiaHouse 17 24 3 \"Strings\\schedules\\Sophia:marriage.014\"/1730 BusStop -1 23 3",
 		"marriage_Wed": "730 Custom_BlueMoonVineyard 29 33 3/1100 Custom_BlueMoonVineyard 35 41 1 Sophia_Farm1 \"Strings\\schedules\\Sophia:marriage.002\"/1130 Custom_BlueMoonVineyard 41 41 1 Sophia_Farm1 \"Strings\\schedules\\Sophia:marriage.008\"/1200 Custom_BlueMoonVineyard 39 39 2 Sophia_Farm2 \"Strings\\schedules\\Sophia:marriage.009\"/1230 Custom_BlueMoonVineyard 35 37 2 Sophia_Farm2 \"Strings\\schedules\\Sophia:marriage.011\"/1300 Custom_BlueMoonVineyard 37 35 1 Sophia_Farm1 \"Strings\\schedules\\Sophia:marriage.006\"/1330 Custom_BlueMoonVineyard 42 29 2 Sophia_Inspect_Keg_Down \"Strings\\schedules\\Sophia:marriage.000\"/1400 Custom_BlueMoonVineyard 38 31 1 Sophia_Inspect_Keg_Right \"Strings\\schedules\\Sophia:marriage.010\"/1430 Custom_BlueMoonVineyard 36 32 0 \"Strings\\schedules\\Sophia:marriage.011\"/1450 Custom_BlueMoonVineyard 34 31 1 Sophia_Inspect_Keg_Right \"Strings\\schedules\\Sophia:marriage.010\"/1520 Custom_BlueMoonVineyard 36 29 2 Sophia_Inspect_Keg_Down \"Strings\\schedules\\Sophia:marriage.010\"/1600 Custom_BlueMoonVineyard 22 32 3 \"Strings\\schedules\\Sophia:marriage.014\"/1630 Custom_SophiaHouse 17 24 3 \"Strings\\schedules\\Sophia:marriage.014\"/1730 BusStop -1 23 3",
 		}
 	},
+
+  {
+    "Action": "EditData",
+    "Target": "Strings/StringsFromCSFiles",
+    "Entries": { "NPC.cs.4406": "I just feel like sleeping today.$0" }
+  },
 	
-    {
-      //Scarlett's fall schedule
-      "Action": "EditData",
-      "Target": "Characters/Schedules/Scarlett",
-	  "When": { "Season": "Fall", "Spouse": "Sophia", "Weather |contains=rain, storm": false },
-      "Entries": {
-	    //Scarlett visits as a farmhand to Sophia
-        "fall_Mon": "0 Custom_SophiaHouse 24 23 0/830 Custom_SophiaHouse 24 23 2/950 Custom_BlueMoonVineyard 27 33 1/1100 Custom_BlueMoonVineyard 18 33 2/1120 Custom_BlueMoonVineyard 15 33 2/1150 Custom_BlueMoonVineyard 14 33 2/1220 Custom_BlueMoonVineyard 13 35 0/1250 Custom_BlueMoonVineyard 22 35 2/1320 Custom_BlueMoonVineyard 20 37 0/1350 Custom_BlueMoonVineyard 14 37 0/1410 Custom_BlueMoonVineyard 15 41 2/1440 Custom_BlueMoonVineyard 23 41 2/1520 Custom_BlueMoonVineyard 21 43 0/1550 Custom_BlueMoonVineyard 20 32 1/1630 Custom_SophiaHouse 15 24 1/1730 Custom_BlueMoonVineyard 28 32 2/1750 Custom_SophiaHouse 27 23 0/1820 Custom_SophiaHouse 24 23 2/1840 Custom_SophiaHouse 5 22 2/1920 Custom_SophiaHouse 17 21 9/1950 Custom_SophiaHouse 20 7 0/2020 Custom_SophiaHouse 21 8 2/2100 Custom_SophiaHouse 23 6 0",
-		"fall_Tue": "0 Custom_SophiaHouse 24 23 0/830 Custom_SophiaHouse 24 23 2/950 Custom_BlueMoonVineyard 27 33 1/1100 Custom_BlueMoonVineyard 18 33 2/1120 Custom_BlueMoonVineyard 15 33 2/1150 Custom_BlueMoonVineyard 14 33 2/1220 Custom_BlueMoonVineyard 13 35 0/1250 Custom_BlueMoonVineyard 22 35 2/1320 Custom_BlueMoonVineyard 20 37 0/1350 Custom_BlueMoonVineyard 14 37 0/1410 Custom_BlueMoonVineyard 15 41 2/1440 Custom_BlueMoonVineyard 23 41 2/1520 Custom_BlueMoonVineyard 21 43 0/1550 Custom_BlueMoonVineyard 20 32 1/1630 Custom_SophiaHouse 15 24 1/1730 Custom_BlueMoonVineyard 28 32 2/1750 Custom_SophiaHouse 27 23 0/1820 Custom_SophiaHouse 24 23 2/1840 Custom_SophiaHouse 5 22 2/1920 Custom_SophiaHouse 17 21 9/1950 Custom_SophiaHouse 20 7 0/2020 Custom_SophiaHouse 21 8 2/2100 Custom_SophiaHouse 23 6 0",
-		"fall_Wed": "0 Custom_SophiaHouse 24 23 0/830 Custom_SophiaHouse 24 23 2/950 Custom_BlueMoonVineyard 27 33 1/1100 Custom_BlueMoonVineyard 18 33 2/1120 Custom_BlueMoonVineyard 15 33 2/1150 Custom_BlueMoonVineyard 14 33 2/1220 Custom_BlueMoonVineyard 13 35 0/1250 Custom_BlueMoonVineyard 22 35 2/1320 Custom_BlueMoonVineyard 20 37 0/1350 Custom_BlueMoonVineyard 14 37 0/1410 Custom_BlueMoonVineyard 15 41 2/1440 Custom_BlueMoonVineyard 23 41 2/1520 Custom_BlueMoonVineyard 21 43 0/1550 Custom_BlueMoonVineyard 20 32 1/1630 Custom_SophiaHouse 15 24 1/1730 Custom_BlueMoonVineyard 28 32 2/1750 Custom_SophiaHouse 27 23 0/1820 Custom_SophiaHouse 24 23 2/1840 Custom_SophiaHouse 5 22 2/1920 Custom_SophiaHouse 17 21 9/1950 Custom_SophiaHouse 20 7 0/2020 Custom_SophiaHouse 21 8 2/2100 Custom_SophiaHouse 23 6 0",
-		}
-	},
-	
-	{
-      "Action": "EditData",
-      "Target": "Strings/StringsFromCSFiles",
-      "Entries": { "NPC.cs.4406": "I just feel like sleeping today.$0" }
-    },
-	
-	
+
 	//Mixesup spouse room dialogue for Sophia
 	{
       "Action": "EditData",
@@ -23473,11 +23459,11 @@
      "Entries": {
      "MarlonFay2_Name": "Le bateau de Marlon",
      "MarlonFay2_Text": "Si j'apporte à Marlon ces pièces de monstre, il me laissera utiliser son bateau amarré à la guilde des aventuriers.",
-     "MarlonFay2_Objective_0_Text": "Livrer 50 « Essence du Vide » à Marlon.",
-	 "MarlonFay2_Objective_1_Text": "Livrer 40 « Essence solaire » à Marlon.",
-	 "MarlonFay2_Objective_2_Text": "Livrer 30 « Slime » à Marlon.",
-	 "MarlonFay2_Objective_3_Text": "Livrez 25 « Aile de chauve-souris » à Marlon.",
-	 "MarlonFay2_Objective_4_Text": "Livrez 20 « Viande d'insecte » à Marlon."
+     "MarlonFay2_Objective_0_Text": "Livrer 100 « Essence du Vide » à Marlon.",
+	 "MarlonFay2_Objective_1_Text": "Livrer 80 « Essence solaire » à Marlon.",
+	 "MarlonFay2_Objective_2_Text": "Livrer 50 « Slime » à Marlon.",
+	 "MarlonFay2_Objective_3_Text": "Livrez 40 « Aile de chauve-souris » à Marlon.",
+	 "MarlonFay2_Objective_4_Text": "Livrez 30 « Viande d'insecte » à Marlon."
 	    }
     },
 
@@ -25371,52 +25357,13 @@
 
       //Adds rejection dialogue to all NPCs, preventing players from gifting their Mermaid Bracelet
 
-{    "Action": "EditData", "Target": "Characters/Dialogue/Alex", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Elliott", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Harvey", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Sam", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Sebastian", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Shane", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Abigail", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Emily", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Haley", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Leah", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Maru", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Penny", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Caroline", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Clint", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Demetrius", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Dwarf", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Evelyn", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/George", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Gus", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Jas", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Jodi", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Kent", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Krobus", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Leo", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Linus", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Marnie", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Pam", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Pierre", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Robin", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Sandy", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Vincent", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Willy", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Wizard", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Sophia", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Olivia", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Victor", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Andy", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Susan", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Morgan", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Apples", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/MarlonFay", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/GuntherSilvian", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Claire", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Martin", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Lewis", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/MorrisTod",  "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir ça..." }},
+      { 
+        "Action": "EditData",
+        "Target": "Characters/Dialogue/Alex, Characters/Dialogue/Elliott, Characters/Dialogue/Harvey, Characters/Dialogue/Sam, Characters/Dialogue/Sebastian, Characters/Dialogue/Shane, Characters/Dialogue/Abigail, Characters/Dialogue/Emily, Characters/Dialogue/Haley, Characters/Dialogue/Leah, Characters/Dialogue/Maru, Characters/Dialogue/Penny, Characters/Dialogue/Caroline, Characters/Dialogue/Clint, Characters/Dialogue/Demetrius, Characters/Dialogue/Dwarf, Characters/Dialogue/Evelyn, Characters/Dialogue/George, Characters/Dialogue/Gus, Characters/Dialogue/Jas, Characters/Dialogue/Jodi, Characters/Dialogue/Kent, Characters/Dialogue/Krobus, Characters/Dialogue/Leo, Characters/Dialogue/Linus, Characters/Dialogue/Marnie, Characters/Dialogue/Pam, Characters/Dialogue/Pierre, Characters/Dialogue/Robin, Characters/Dialogue/Sandy, Characters/Dialogue/Vincent, Characters/Dialogue/Willy, Characters/Dialogue/Wizard, Characters/Dialogue/Sophia, Characters/Dialogue/Olivia, Characters/Dialogue/Victor, Characters/Dialogue/Andy, Characters/Dialogue/Susan, Characters/Dialogue/Morgan, Characters/Dialogue/Apples, Characters/Dialogue/MarlonFay, Characters/Dialogue/GuntherSilvian, Characters/Dialogue/Claire, Characters/Dialogue/Martin, Characters/Dialogue/Lewis, Characters/Dialogue/Lance, Characters/Dialogue/Scarlett",
+        "Entries": {
+             "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devraos pas offrir cela..."
+        }
+   },
 
 
 //*** Load temporary actors for wizard 14 heart event***
@@ -25740,6 +25687,153 @@
       "Target": "Characters/Dialogue/Apples",
       "FromFile": "assets/CharacterFiles/Dialogue/Apples/Dialogue.json"
     },
+
+
+    	  //Apples goes to play with Peaches on Fridays when rooming with the player 
+	
+	{
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/MarriageDialogueApples",
+  "When": { "Date": "Spring 5", "Weather|contains=Rain, Storm": false },
+    "Entries": {
+    "funLeave_Apples": "Apples va faire un tour en forêt aujourd'hui !$0#$e#*meep*$1"
+      }
+},
+
+{
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/MarriageDialogueApples",
+  "When": { "Date": "Spring 12", "Weather|contains=Rain, Storm": false },
+    "Entries": {
+    "funLeave_Apples": "Apples va jouer avec Peaches ! Yay !$0#$e#Copain viens avec ? Jouer aussi ? Apples content !$1"
+      }
+},
+
+{
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/MarriageDialogueApples",
+  "When": { "Date": "Spring 19", "Weather|contains=Rain, Storm": false },
+    "Entries": {
+    "funLeave_Apples": "Copain Peaches veut jouer avec Apples aujourd'hui. Apples part bientôt.$1"
+      }
+},
+
+{
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/MarriageDialogueApples",
+  "When": { "Date": "Spring 26", "Weather|contains=Rain, Storm": false },
+    "Entries": {
+    "funLeave_Apples": "Apples va voir Peaches! Peut être trouver bon goûter dans les bois !$0#$e#Apples revient demain !$1"
+      }
+},
+
+{
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/MarriageDialogueApples",
+  "When": { "Date": "Summer 5", "Weather|contains=Rain, Storm": false },
+    "Entries": {
+    "funLeave_Apples": "Apples va faire un tour en forêt aujourd'hui !$0#$e#*meep*$1"
+      }
+},
+
+{
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/MarriageDialogueApples",
+  "When": { "Date": "Summer 12", "Weather|contains=Rain, Storm": false },
+    "Entries": {
+    "funLeave_Apples": "Apples va jouer avec Peaches ! Yay !$0#$e#Copain viens avec ? Jouer aussi ? Apples content !$1"
+      }
+},
+
+{
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/MarriageDialogueApples",
+  "When": { "Date": "Summer 19", "Weather|contains=Rain, Storm": false },
+    "Entries": {
+    "funLeave_Apples": "Peaches-friend wants to play with Apples today. Apples leave soon.$1"
+      }
+},
+
+{
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/MarriageDialogueApples",
+  "When": { "Date": "Summer 26", "Weather|contains=Rain, Storm": false },
+    "Entries": {
+    "funLeave_Apples": "Apples visit peaches! Maybe find good snack in forest!$0#$e#Apples be back tomorrow!$1"
+      }
+},
+
+{
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/MarriageDialogueApples",
+  "When": { "Date": "Fall 5", "Weather|contains=Rain, Storm": false },
+    "Entries": {
+    "funLeave_Apples": "Apples go on trip to forest today!$0#$e#*meep*$1"
+      }
+},
+
+{
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/MarriageDialogueApples",
+  "When": { "Date": "Fall 12", "Weather|contains=Rain, Storm": false },
+    "Entries": {
+    "funLeave_Apples": "Apples go play with Peaches! Yay!$0#$e#Good-friend join? Play too? Make Apples happy!$1"
+      }
+},
+
+{
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/MarriageDialogueApples",
+  "When": { "Date": "Fall 19", "Weather|contains=Rain, Storm": false },
+    "Entries": {
+    "funLeave_Apples": "Peaches-friend wants to play with Apples today. Apples leave soon.$1"
+      }
+},
+
+{
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/MarriageDialogueApples",
+  "When": { "Date": "Fall 26", "Weather|contains=Rain, Storm": false },
+    "Entries": {
+    "funLeave_Apples": "Apples visit peaches! Maybe find good snack in forest!$0#$e#Apples be back tomorrow!$1"
+      }
+},
+
+{
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/MarriageDialogueApples",
+  "When": { "Date": "Winter 5", "Weather|contains=Rain, Storm": false },
+    "Entries": {
+    "funLeave_Apples": "Apples go on trip to forest today!$0#$e#*meep*$1"
+      }
+},
+
+{
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/MarriageDialogueApples",
+  "When": { "Date": "Winter 12", "Weather|contains=Rain, Storm": false },
+    "Entries": {
+    "funLeave_Apples": "Apples go play with Peaches! Yay!$0#$e#Good-friend join? Play too? Make Apples happy!$1"
+      }
+},
+
+{
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/MarriageDialogueApples",
+  "When": { "Date": "Winter 19", "Weather|contains=Rain, Storm": false },
+    "Entries": {
+    "funLeave_Apples": "Peaches-friend wants to play with Apples today. Apples leave soon.$1"
+      }
+},
+
+{
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/MarriageDialogueApples",
+  "When": { "Date": "Winter 26", "Weather|contains=Rain, Storm": false },
+    "Entries": {
+    "funLeave_Apples": "Apples visit peaches! Maybe find good snack in forest!$0#$e#Apples be back tomorrow!$1"
+      }
+},
 	
 	{
       //Apples' Roommate Dialogue
