@@ -1,0 +1,70 @@
+﻿{
+
+//Scarlett is usually working in the valley during these days, but players can catch her walking back home or in her house.
+"Mon": "J'ai une très forte envie de manger des cerises maintenant.$0#$e#Ce sont l'un de mes fruits préférés!$1#$b#L'un de mes voisins a un cerisiers géant dans son jardin. Pendant la bonne saison, il nous en donne un panier.$0",
+"Mon4": "Je ne vais pas mentir, je suis un peu jalouse de la pièce de cosplay de Sophia.$0#$e#Mon papa est suffisament gentil, il me laisse utiliser son établi dans son garage pour mes projets.$1#$e#La machine à coudre dans ma chambre m'a été donnée par un ami proche de la famille.$0#$b#Elle est parfaite!$1",
+"Mon8": "Garder une chambre propre et bien rangée m'est difficile, mais c'est bien de savoir où tout est rangé maintenant j'imagine.$0",
+"Tue": "Mon papa adore son pickup. C'est un peu sa possession la plus précieuse.$0#$e#Même si j'ai le permis de conduire, il ne me laisse pas la conduire.$2#$e#*soupir* Peut-être un jour. J'aimerais bien voyager quelque part.$0",
+"Tue8": "J'ai fortement envie de faire un road trip dans tout le pays. Je veux voir de nouvelles choses!$0#$e#Si je demande suffisament gentillement, peut-être que mon papa me laissera emprunter son truck.",
+"Wed": "La plupart des habitants qui vivent dans la banlieue travaillent dans le centre-ville de Grampleton.$0#$e#Mon papa est l'un deux! Il tient son propre magasin!$1",
+"Wed4": "%Scarlett est en train de manger et vous remarque.#$e#*munch* Hey! Désolée, je mangeais du fromage de chèvre.$0#$e#Tu en veux ? C'est vraiment mon aliment préféré.[426]$1",
+"Wed8": "Oh mais c'est l'un de mes êtres humains préférés! Qu'est-ce que tu racontes de beau ?$1#$e#Oh ça a l'air super important. Tu fais vraiment la différence pour beaucoup de monde, tu sais ?$0",
+"Thu": "On dirait que tu es en pleine mission aujourd'hui! Qu'est-ce que tu fais de si important ?$0#$e#Tu fais vraiment un travail de fourmis!$1",
+"summer_Thu": "Euh. Je... Pfff!$3#$e#Mon père et moi avons eu un désaccord aujourd'hui. On voit pas toujours les choses de la même façon...$2#$e#Je n'ai pas très envie de parler.$3#$e#%Scarlett ne veut plus parler.",
+"Thu6": "J'apprends tellement de choses quand je travaille pour Susan et Andy.$1#$e#Je pense vraiment pouvoir réutiliser ces compétences dans le futur.$0",
+
+//Scarlett is always home during these days (except Sat during winter when she's sleeping over at Sophia's)
+"Fri": "J'ai envie de passer mon vendredi à ne rien faire.$0#$e#Je vais sûrement devoir sortir les poubelles bientôt.$0",
+"Fri2": "Désolée, ma chambre est un peu en bordel.$7#$e#Alors, tu es ici à Pondwood! Il y a quelque chose que tu veux faire ?$0#$e#Oh! Je peux te montrer ma collection de mangas!$1#$e#Je collecte les mangas depuis que j'ai 7 ans.$0#$b#Ça a commencé quand je me suis trompé de chemin dans la bibliothèque publique et que j'ai trouvé ce que je pensais être un livre de photos!$1",
+"winter_Fri4": "J'ai vraiment envie de faire un ange des neiges.$0",
+"Fri8": "La prochaine fois que Pondwwod se rassemble, je te fais signe! On aimerait bien t'y voir!$1",
+"spring_Fri8": "Tu sais, j'ai jamais vraiment eu envie d'aller à la fac.$0#$b#C'est quelque chose que mon papa veut que je fasse. Pour avoir une 'éducation'...$2#$e#Je suis plutôt quelqu'un qui apprend en faisant.$1",
+"fall_Fri8": "Il y a un chouette carnaval dans Grampleton pendant cette saison.$0",
+"winter_Fri8": "Le coup d'envoi va être donné! Allez les Tunnelers!$1#$e#Tu regardes le gridball, @?$0",
+"Sat": "Hey, c'est super de te voir! Qu'est-ce que tu fais ?$1#$e#Je ne sais pas comment tu fais, @. Tu sais toujours comment t'occuper.",
+"summer_Sat": "La rivière à côté de notre maison gard le jardin au frais pendant les journées chaudes d'été.$0",
+"fall_Sat": "*soupir* Les feuilles trouvent toujours un moyen d'entrer dans le garage.$2#$e#Mon papa devrait vraiment fermer la porte du garage, mais il adore montrer son truck.$3",
+"winter_Sat": "Hey, c'est super de te voir! Qu'est-ce que tu fais ?$1#$e#Je ne sais pas comment tu fais, @. Tu sais toujours comment t'occuper.$0",
+"winter_Sat2": "J'essaie toujours de bien gérer mon planning pour pouvoir aller voir Sophia.$0#$e#J'aimerais tellement pouvoir vivre proche d'elle. Peut être que si j'économise correctement, j'aurais suffisament d'argent pour aller vivre à Stardew Valley.$0",
+"winter_Sat8": "Un jour, Sophia nous a rendu visite, et nous avons mangé du poulet à l'orange de Grampleton au dîner. Elle n'en avait jamais eu auparavant.$0#$b#Elle a tout mangé en même pas deux minutes!$1#$e#Je lui ai donné une partie de mon assiette, et elle a tout mangé.#$b#C'est surement l'un des mes souvenirs préférés avec elle!$1",
+"Sun": "Hey! C'est super de te voir. Comment était le voyage en train ?$1#$e#Tout le monde n'a pas de voiture. La plupart de nos voisins dépendent de la gare locale pour aller au travail.",
+"Sun4": "La chienne de nos voisins en bas de la rue est un peu fou-fou.$0#$e#Elle court toujours dans tous les sens!$1",
+"Sun8": "Salut toi! C'est sympa de ta part de venir ici.$1#$e#Tu peux prendre ce que tu veux dans le frigo si tu as faim.$0#$e#Oh, ne prends pas le gateau de Savoie. Mon papa l'a fait pour un ami en bas de la rue.$1",
+"summer_Sun8": "%est en train de manger et vous remarque.#$e#*munch* Hey! Désolée, je mangeais du fromage de chèvre.$0#$e#Tu en veux ? C'est vraiment mon aliment préféré.[426]$1",
+"fall_Sun8": "On devrait tellement faire une soirée pyjama un de ces jours!$1#$b#Je connais une super recette de popcorn.$0#$e#Je l'ai apprise d'Hank. C'est un mélange de curry à la noix de coco, au pain d'épice et au sucre de canne.$0",
+"summer_Sun8": "Mon papa et Hank aimerait que tu viennes dîner avec nous un de ces jours.$0",
+
+//schedule dialogue
+"Custom_BlueMoonVineyard_27_33": "Prête à travailler, Sophia!?$1",
+"Custom_SophiaHouse_3_25": "J'aide Sophia aujorud'hui!$1",
+"Custom_SophiaHouse_10_25": "Nous allons au saloon ce soir. Tu veux venir aussi ?$0",
+"Custom_SophiaHouse_15_24": "C'était une journée bien remplie, n'est-ce pas Sophia?$1",
+"Custom_SophiaHouse_5_22": "La pièce de cosplay de Sophia est super chouette, pas vrai ?$0",
+"Custom_SophiaHouse_17_21": "Ce bois dur vient tout droit de Grampleton, ma ville natale!$1",
+"Custom_SophiaHouse_20_7": "Whoa! Elle ne m'a pas dit qu'elle avait ce tome!$1",
+"Custom_SophiaHouse_23_6": "Pas sympa, @! J'essaie de dormir.$2",
+"Custom_SophiaHouse_20_37": "Yeah! Allons au saloon!$1",
+"Saloon_24_18": "J'adore l'ambience de cet endroit.$0",
+"Custom_GrampletonSuburbs_21_15": "Je sors les poubelles. On continue de discuter juste après ?$0",
+
+//event dialogue
+"scarlett_event1": "Tu es un peu comme moi alors! J'imagine que tu reçois de bons paiements!$1",
+"scarlett_event2": "Whoa, c'est une information publique à Pelican Town? C'est une très bonne idée!$1#$b#Peut-être que c'est quelque chose que Pondwood peut faire aussi.$0",
+"scarlett_event3": "J'adore les affiches de festivals! Il y a toujours des nouveaux designs chaque année.$1",
+"scarlett_event4": "J'imagine que ce n'est pas pour tout le monde. Mais c'est ok!$0",
+"scarlett_event5": "...$2#$b#Je ne t'en veux pas. J'aurais surement fait la même chose si j'avais entendu quelque chose comme ça.$2",
+"scarlett_event6": "Euh euh... Bien sur.$3#$b#...$3#$b#...$2#$b#J'imagine que je ne t'en veux pas. J'aurais surement fait la même chose si j'avais entendu quelque chose comme ça.$2#$b#Mais au moins j'aurais été franche.$3",
+"scarlett_event7": "Je m'en doute! Tu as tellement de place pour faire ce que tu veux.$0",
+"scarlett_event8": "Pas vrai ? Mon papa me laisse utiliser le parterre de fleurs dehors donc je comprends tout à fait ce que tu veux dire.$0",
+"scarlett_event9": "J'ai toujours eu envie d'avoir mes propres chèvres. Je pourrrais manger tout le fromage de chèvre que je veux!$1#$b#J'espèrais que Marnie ait besoin d'aide à son ranch, mais elle se débrouille très bien.$0",
+"scarlett_event10": "Yeah, je suis un peu la même. Je ne sais pas ce que je serais si je n'avais rien à faire.$0",
+
+//Resort Dialogue
+"Resort_Entering": "J'ai tellement hâte d'étirer mes orteils sur le sable chaud.$0",
+"Resort_Leaving": "C'est un long chemin pour retourner à la maison. Je me suis tout de même bien amusée.$1",
+"Resort_Shore": "Qu'est-ce qu'il se passe avec ce bateau pirate échoué ?$0",
+"Resort_Chair": "On a jamais de météo comme ça à Grampleton!$1",
+"Resort_Bar": "Est-ce que toutes les boissons ont un petit parapluie ?$0",
+"Resort": "Les récifs de coraux sont magnifiques.$0",
+
+}
