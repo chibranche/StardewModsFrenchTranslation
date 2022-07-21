@@ -1,11 +1,10 @@
 [CP] Stardew Valley Expanded\assets\CharacterFiles\Dialogue\Scarlett\Dialogue.json
-[CP] Stardew Valley Expanded\assets\CharacterFiles\Treyvon\Dialogue.json
 
 content.json :
-- 26147 : //Apples 10 heart event Part 2 - 'Starfruit Haven'
-- 33277 - 33280 : Scarlett 
-- 33290 ?
-- 33627 - 33671 : Scarlett events
+26147 : //Apples 10 heart event Part 2 - 'Starfruit Haven'
+33277 - 33280 : Scarlett 
+33290 
+33627 - 33671 : Scarlett events
 33684
 33698
 33704
@@ -24,11 +23,16 @@ content.json :
 33880
 44232
 44241
-
-
-
-
-content.json : 37000/ 46400
+44263
+44272
+44281
+44290
+44299
+44308
+44317
+44326
+44952
+46339 - 46387
 
 
 	
