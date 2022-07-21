@@ -1,5 +1,34 @@
 [CP] Stardew Valley Expanded\assets\CharacterFiles\Dialogue\Scarlett\Dialogue.json
 [CP] Stardew Valley Expanded\assets\CharacterFiles\Treyvon\Dialogue.json
 
+content.json :
+- 26147 : //Apples 10 heart event Part 2 - 'Starfruit Haven'
+- 33277 - 33280 : Scarlett 
+- 33290 ?
+- 33627 - 33671 : Scarlett events
+33684
+33698
+33704
+33712
+33720
+33726
+33734
+33760
+33780
+33801
+33822
+33832
+33842
+33861
+33971
+33880
+44232
+44241
 
-content.json : 25694 / 46400
+
+
+
+content.json : 37000/ 46400
+
+
+	
