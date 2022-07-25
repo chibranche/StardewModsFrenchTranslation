@@ -1,3 +1,0 @@
-- Remplacer tous les trucs sauf crops 
-- traduire tout un par un 
-- Ajouter crops 
