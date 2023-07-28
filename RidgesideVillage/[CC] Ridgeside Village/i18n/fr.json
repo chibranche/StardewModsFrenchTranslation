@@ -15,5 +15,7 @@
     "wanderingchicken.inspection.dialogue": "Ce poulet est aussi libre que possible.",
     "whitechicken.inspection.dialogue": "Un poulet.",
     "whitecow.inspection.dialogue": "Une vache.",
-    "farmkiwi.inspection.dialogue": "Kiwi explore la ferme."
+    "farmkiwi.inspection.dialogue": "Kiwi explore la ferme.",
+    "guest.inspection.dialogue": "Invité: Qu'est ce que tu veux ?",
+    "ponyride.inspection.dialogue": "Garçon: Youpi !!!"
 }

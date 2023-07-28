@@ -40,39 +40,47 @@
 	"MinecartLocation.2": "Nord - Village de Ridgeside",
 	"MinecartLocation.3": "Sud - Village de Ridgeside",
 	"MinecartLocation.4": "Est - Village de Ridgeside",
-	"MinecartLocation.5": "Ferme du sommet",
+	"MinecartLocation.5": "Est - Ferme du sommet",
+	"MinecartLocation.6": "Ouest - Ferme du sommet",
 	"Exit.Text": "Annuler",
 
 	"NotEnoughMoney": "Vous n'avez pas assez d'argent.",
 
-	"OpenIanShop": "Petits boulots",
+	"IanShop.Closed": "Sorry, we're closed! (Open 9AM - 5PM except Sundays.)",
+	"IanShop.Open": "Petits boulots",
+	"IanShop.Cancel": "Retour",
+	"IanShop.Bye": "A la prochaine !",
+	"IanShop.ServiceAlreadyActive": "You have already hired the {{serviceName}} service.",
+	"IanShop.ServiceNotActive": "You cannot cancel the {{serviceName}} service as it is not currently hired.",
+	"IanShop.ServiceStarted": "Odd Jobs will begin the {{serviceName}} service from tomorrow. Please visit anytime to cancel the service. Thank you for your patronage!",
+	"IanShop.CancelService": "Cancel service",
+	"IanShop.ServiceCancelled": "{{serviceName}} service cancelled. Please visit again to renew the service.",
+	// Crop watering
 	"IanShop.WaterPlants": "Arroser les cultures",
-	"IanShop.Cancel": "Laisse tomber",
-	"IanShopBye": "Au plaisir de te revoir !",
-	"IanShop.Raining": "Il pleut aujourd'hui. L'arrosage des cultures sera étendu d'une journée.",
-	"IanShop.Thankyou": "Tu as passé une commande.#Les ouvriers vont arroser tes cultures et le sol labouré de ta ferme demain.",
-	"IanShop.Deadline": "Le service d'arrosage des cultures termine aujourd'hui.",
-	"IanShop.WaterInfo": " parcelles pour ",
-	"IanIsAlreadyWatering": "Les ouvriers s'occupent déjà de l'arrosage de tes cultures !",
-	"IanWaterPlantsMenu": "Les ouvriers arroseront ce nombre de parcelles de votre exploitation pendant les 3 prochains jours (En cas de pluie, une partie du prix vous est remboursée.) :",
-	"IanShop.HasWatered": "Vos cultures ont été arrosée.",
-	"IanShop.fixFences": "Réparer les clôtures",
-	"IanShop.FenceMenu": "Vous avez actuellement ce nombre de clôtures. Veuillez ne pas en ajouter de nouvelles, sinon les ouvriers pourraient réparer les mauvaises clôtures demain.",
-	"IanShop.Fences": "x clôtures à réparer pour ",
-	"Ian.FenceThanks": "Vous avez placé une commande.#Les ouvriers vont réparer vos clôtures demain.",
-	"Ian.AlreadyWillFix": "Vous avez déjà embauché les ouvriers pour réparer les clôtures demain.",
-	"Ian.HasFixedFences": "Vos clôtures ont été réparées",
-	"Ian.YouHaveNoFences": "Vous n'avez pas de clôtures dans votre ferme !",
-	"OnlyFarmOwner": "Seul le propriétaire de la ferme peut accéder à cette fonctionnalité.",
-	"Ian.PetThanks": "Les travailleurs caresseront vos animaux pendant une semaine",
+	"IanShop.WaterPlantsMenu": "Hire the workers to water your crops?",
+	"IanShop.WaterPlantsSelection": "Hire workers to water your farm for {{amount}}$ per crop per day not raining",
+	"IanShop.HasWatered": "Odd Jobs has watered your crops today for a total of ",
+	// Animal petting
 	"IanShop.PetAnimals": "Caresser les animaux",
+	"IanShop.PetAnimalsMenu": "Hire the workers to pet your animals?",
 	"IanShop.PetAnimalsSelection": "Embauchez des travailleurs pendant une semaine pour ",
-	"Ian.YouHaveNoAnimals": "Vous n'avez pas d'animaux à caresser.",
-	"Ian.AlreadyWillPet": "Vous avez déjà embauché les travailleurs pour caresser vos animaux.",
-	"IanShop.PetMenu": "Voulez-vous engager des travailleurs pour caresser vos animaux ?",
-	"Ian.HasPetAnimals": "Les ouvriers caressent vos animaux de ferme.",
-	"IanShop.SummitFarm": "Améliorations de la ferme du Sommet",
-	"IanShop.BrokenCarts": "Hm, j'aimerais pouvoir t'aider, @, mais je ne sais pas comment nous pourrions transporter les matériaux jusqu'au sommet de la crête...$2#$b#Peut-être que si les vieux chariots de mine étaient réparés, on pourrait les utiliser ?$1",
+		"IanShop.NoAnimals": "You don't have any animals to pet.",
+	"IanShop.HasPetAnimals": "Odd Jobs has pet your farm animals for today for a total of ",
+		"IanShop.NotEnoughMoneyHUD": "{{serviceName}} service cancelled due to insufficient funds. Please visit Odd Jobs to renew the service.",
+	// Fence fixing
+		"IanShop.FixFences": "Fence repair",
+	"IanShop.FixFencesMenu": "Hire the workers to fix your fences?",
+	"IanShop.FixFencesSelection": "Hire workers to fix all fences tomorrow for {{amount}}$ per fence",
+	"IanShop.HasFixedFences": "Your fences have been fixed for a total of ",
+	"IanShop.NoFences": "You have no fences at your farm!",	"IanShop.Raining": "Il pleut aujourd'hui. L'arrosage des cultures sera étendu d'une journée.",
+		// Renovations
+	"IanShop.SummitFarm": "Summit Farm upgrades",
+	"IanShop.OnlyFarmOwner": "Only the farm owner can renovate the Summit Farm.",
+	"IanShop.BrokenCarts": "Hm, I wish we could help you out, @, but I don't know how we'd get the materials all the way to the top of the ridge summit...$2#$b#Maybe if the old minecarts were fixed, we could use those?$1",
+	"IanShop.Construction": "Alright, we'll start the {{project}} project right away!",
+	"IanShop.Instant": "Alright! The {{project}} actually comes pre-assembled, so we'll deliver it to your farm ASAP!",
+	"IanShop.AlreadyBuilding": "Actually, @, we're already working on a project for you, so we can't take on any new work while that's active.$s#$b#But once that's done, let's talk again!",
+	"IanShop.AllRenovated": "Actually, @, we've already done all the renovations we can for you! So we don't have anything new to offer - Sorry!$1",
 
 	"ShowImage.Arknir": "Cette photo a été prise lors d'un karaoké à Ridgeside par le photographe de Grampleton Ark Nir.#(Gagnant du concours d'art 2021 du Discord RSV)",
 	"ShowImage.Aniv1st": "'Mia qui rends visite à ses amis pendant le grand Rassemblement de Ridgeside !'#Une copie de photo offerte par the Hime, le touriste qui a pris la photo.#(1ère place du concours de fan-art pour le 1er anniversaire du Discord de RSV)",
@@ -114,7 +122,8 @@
 	"CompleteCrystalsNotif": "Les montagnes semblent parler...#'Merci, fermier... Je prends le relais à partir de là...'#'Reviens d'ici demain, Et nous pourrons enfin nous rencontrer...'#'Prends soin de toi, petit-enfant de mon ami...",
 
 	"RSV.MyLetter": "À tous ceux qui lisent ceci, ^Il y a si longtemps que nous avons été scellés loin du reste du monde. C'était une journée ensoleillée, quand soudain un brouillard de brume violette s'est approché de la ferme jusqu'à ce que la nature se mette en marche pour nous enfermer dans de hauts murs de terre, de plantes et d'arbres. Chaque fois que nous essayions d'abattre le mur, il repoussait plus fort. On pourrait penser que ma femme et moi en voudrions à la puissance supérieure qui nous a piégés. Mais non, ça nous à laissé indifférents.^Il doit y avoir une raison pour laquelle la nature nous a piégés, et nous aimons penser que nous avons été sauvés de cette brume sinistre. Et pour cela, nous remercions Yoba de nous avoir donné l'opportunité de vivre le reste de nos vies en paix.^Cela fait des années et nous sommes heureux. Un jour, cette terre qui était autrefois pleine de cultures que ma femme et moi chérissions comme des enfants, aura disparu.^Et quand ce jour viendra, je sais que ma femme et moi serions déjà retournés dans les bras de Yoba et que les murs seraient peut-être tombés.^^À tous ceux qui lisent ceci, cette terre est à vous.^Tout ce que je demande, c'est que vous lui donniez de l'amour comme nous l'avons fait auparavant.^Que Yoba vous bénisse.^^- R",
-	
+		"RSV.Fridge": "Frigo",
+		
 	"RSV.UndreyaError": "Seul l'hôte de la partie peut accèder à ceci !",
 	"RSV.UndreyaSchedStart": "Commencer à jouer à cache-cache avec Undreya ?",
 	"RSV.UndreyaSchedStop": "Arrêter de jouer à cache-cache avec Undreya?",
@@ -172,21 +181,69 @@
 	"FoxbloomHint.Cleansed": "Les livres sont tous écrits dans des langues différentes... Mais l'un d'entre eux suscite ton intérêt. L'écriture semble être celle de Belinda.",
 	"FoxbloomHint.Text": "La fleur du renard est si rare que personne n'en a jamais trouvé plus d'une en un seul jour. On sait qu'elle apparaît près des mystérieux cristaux de la forêt.^^^^De plus, elle ne se révèle qu'au masque du renard dans la forêt de montagne uniquement pendant l'un des dimanches de chaque saison. Quant à savoir quel dimanche ce sera ce mois-ci, je crois avoir conçu une formule pour déterminer la date exacte : [letterbg LooseSprites/FoxbloomHints.opener 0].",
 
+	// 9 - 2
 	"FoxbloomHint.easy.7": "Emplacement : Manoir Amethyne [letterbg LooseSprites/FoxbloomHints.easy 0]",
+		// 14
 	"FoxbloomHint.easy.14": "Emplacement : Cascades de la Crète [letterbg LooseSprites/FoxbloomHints.easy 1]",
+		// 7 * 3
 	"FoxbloomHint.easy.21": "Emplacement : Village de Ridgeside^^^^^^^^^^(Note : La couleur de l'animal n'a pas d'importance.) [letterbg LooseSprites/FoxbloomHints.easy 2]",
+		// 4 * 7
 	"FoxbloomHint.easy.28": "Emplacement : La cabane de Kimpoi [letterbg LooseSprites/FoxbloomHints.easy 3]",
 
 	//Non-English characters are there to create an indent on the first line - If your language is Japanese or Korean, replace your character with the one not from your alphabet
+		// 9 - (4/2)
 	"FoxbloomHint.medium.7": "あ Îles dans le royaume des esprits^ Arbres dans les chutes mystiques de l'amour [letterbg LooseSprites/FoxbloomHints.medium 0]",
+		// 6 + 8 ("scarecrows" -> "plain scarecrows")
 	"FoxbloomHint.medium.14": "Parmi les villageois de Ridgeside uniquement:^ Les villageois qui vivent seuls dans une maison^ Les parents dont les enfants vivent dans le village [letterbg LooseSprites/FoxbloomHints.medium 1].",
+		// 10 + 11
 	"FoxbloomHint.medium.21": "아 Plantes dans la maison de Maddie^ Sièges* dans le bâtiment de la Clinique Ridgeside^^^^^^^^*(Note : \\N-).\"Sièges\" as in places you can sit.) [letterbg LooseSprites/FoxbloomHints.medium 2]",
+		// (5 * 5) + 3
 	"FoxbloomHint.medium.28": "Emplacement : Village de Ridgeside^ Moulins à vent^ Bâtiments à plusieurs étages^ Ponts en pierre [letterbg LooseSprites/FoxbloomHints.medium 3]",
 
+	// (50 - 36)/(50 - 48)
 	"FoxbloomHint.hard.7": "Emplacement : Verger Rossignol^ Total des fruits sur les arbres chaque jour au printemps^ Total des fruits sur les arbres chaque jour en été^ Moyenne annuelle du total des fruits sur les arbres chaque jour (hors hiver) [letterbg LooseSprites/FoxbloomHints.hard 0]",
+	// 2 * (8 - 3 + 2)
 	"FoxbloomHint.hard.14": "Emplacement : Intérieur de l'épicerie Heaps^ Total des panneaux (tous)^ Total panneaux \"HEAPS\" ^    Total panneaux blancs \"SALE\" ^    Total panneaux bleus \"SALE\"  [letterbg LooseSprites/FoxbloomHints.hard 1]",
+	// (18 * 12)/9 - 3
 	"FoxbloomHint.hard.21": "Emplacement : Forêt de la Crète^ Nombre total de chutes d'eau^ Total des ponts horizontaux^ Total des niveaux de falaises distincts*^ Total des ponts verticaux^^^^^^*(Remarque : y compris les niveaux non accessibles.) [letterbg LooseSprites/FoxbloomHints.hard 2]",
+	// 16 * (3/sq(4)) + 4 (last hint changed)
 	"FoxbloomHint.hard.28": "Parmi les villageois de Ridgeside uniquement:^ Anniversaire le plus fréquent le mardi^ Total des villageoises nées en hiver^ Nombre de villageois ayant un anniversaire pair pendant la première semaine du mois [letterbg LooseSprites/FoxbloomHints.hard 3].",
 
 	"RSV.MapIconName":  "Ridgeside Village",
+
+	"LogCabinHotel.HistoryScroll": "The History of Ridgeside Village^^Many millennia ago...^The valley came to be, either created by Yoba or natural causes.^Some sort of large battle happened long before any recorded history of human civilization. However, no evidence remains as to the origins of the conflict.^[A lot of history is missing from here until the more recent recordings...some of it scratched out or faded. All illigible.]^^Around 2500 years ago...^An early tribal colony came to the ridge and started a village. Houses were typically made of stone instead of the more common wood.^The people in the tribe believed in some sort of pond spirit, which they commonly depicted as an otter/seal hybrid.^Eventually, the village was destroyed -- most likely a group of ancient raiders.^^Around 700 years ago...^Early settlers came to the valley and set up a town along the coastline. That town is the Pelican Town we know today.^Pelican Town was orginally set up as a mining town, and eventually became a trading port as the time passed.^Originally, people flocked to Pelican Town as it was a great place for living off the land with the extremely fertile soil and abundant colonies of fish in the neighboring waters.^^Around 300 years ago until Present...^With an international war on the horizon, the state decided to build a new village in the mountains as refuge for civilians.^Some of the settlers in Pelican Town decided to live permanently in this new village -- And thus, Ridgeside Village was born.",
+
+	"ShowImage.zRSVOldKids": "It's an old photograph of a group of children by a familiar tree.",
+
+	"RelationshipStatus.Locked": "(locked)",
+
+	"RSV.NoNewOrders": "Nothing posted this week.",
+
+	//Options
+	"ShowVillagersOnMap": "ShowVillagersOnMap",
+	"ShowVillagersOnMap.Description": "Show Villagers on the RSV map",
+	"ProgressiveStory": "ProgressiveStory",
+	"ProgressiveStory.Description": "Enable progressive Story Mode (Some events take part relative to the installation date of RSV)",
+	"RepeatCableCarCutscene": "RepeatCableCarCutscene",
+	"RepeatCableCarCutscene.Description": "Enable Cable Car Cutscene.",
+	"EnableOtherNPCsInCableCar": "EnableOtherNPCsInCableCar",
+	"EnableOtherNPCsInCableCar.Description": "Enable the chances of other NPCs to appear riding the Cable Car (Along with LASV, ES and SVE NPCs).",
+	"EnableRidgesideMusic": "EnableRidgesideMusic",
+	"EnableRidgesideMusic.Description": "Enables music for Ridgeside Village.",
+	"RSVNPCSAttendFestivals": "RSVNPCSAttendFestivals",
+	"RSVNPCSAttendFestivals.Description": "Allows RSV NPCs to attend Pelican Town Festivals.",
+	"ExpandedFestivalMaps": "ExpandedFestivalMaps",
+	"ExpandedFestivalMaps.Description": "Enables the expanded festival maps. If false will use the old placements that may conflict with other mods.",
+	"EasyIntroduction": "EasyIntroduction",
+	"EasyIntroduction.Description": "RSV NPCs don't appear in Introduction quest.",
+	"EnableBetterBusStop": "EnableBetterBusStop",
+	"EnableBetterBusStop.Description": "Uses Ridgeside Village's official patch for the Bus Stop by TheLimeyDragon and Rafseazz. Might be incompatible with other mods.",
+	"PoleAtBackwoods": "PoleAtBackwoods",
+	"PoleAtBackwoods.Description": "Enable/Disable the cable car pole at the backwoods.",
+	"SeasonalRSVMap": "SeasonalRSVMap",
+	"SeasonalRSVMap.Description": "Enable/Disable the seasonal RSV world map.",
+	"EnableTouristNPCs": "EnableTouristNPCs",
+	"EnableTouristNPCs.Description": "Enable/Disable the decoration tourist NPCs in the hotel.",
+	"EnableWTDRCompat": "EnableWTDRCompat",
+	"EnableWTDRCompat.Description": "EXPERIMENTAL! Establishes better compat with Walk to Desert Redux."
 }

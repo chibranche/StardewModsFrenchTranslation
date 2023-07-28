@@ -1,2 +1,82 @@
-[CP]
-pas de tag
+2.2
+
+New i18n lines:
+
+Ridgeside Village (SMAPI component):
+Line 44
+Line 49-81 are mostly new or revised
+Line 199-203 are new
+
+Ridgeside Village[CC] Ridgeside Village\i18n\default.json: There's a new line at the end of the file for the pony ride added to the SDV fair
+------------------
+2.2.1
+
+Ridgeside Village\RidgesideVillage\i18n\default.json
+- 49: Line changed to include store hours (pictured below)
+"IanShop.Closed": "Sorry, we're closed! (Open 9AM - 5PM except Sundays.)"
+- 205: New line that shows when there are no available special orders for the RSV boards. 
+
+-------------------
+2.2.2
+
+Ridgeside Village\RidgesideVillage\i18n\default.json
+- Belinda's two letters she sends after her Special Orders have been edited to specify that the reward items are available from the next day onwards
+- Paula's 6 and 14 heart events now have two variations each, based on whether or not the player chooses to drink with her
+- A new event between Torts and Belinda + Raeriyala has been added, at the very bottom of the file
+
+---------------------
+2.2.3
+
+Ridgeside Village\RidgesideVillage\i18n\default.json
+- Line 123: Added new line for the initial name of the Fridge in the Summit House. Should be the same as the vanilla farmhouse's fridge name
+- Line 189: Medium hardness Foxbloom hint for 14 has had the line about number of villagers who live alone changed to number of scarecrows in the village 
+---------------------
+2.3
+
+Changed [CP] i18n lines event-75160273.53 to event-75160273.61
+Added new [CP] i18n lines starting from line 17954
+Added new items in [JA]: Mistbloom Syrup, Dragon Sweetie Top, Fab Dusk Suit, Fairy Cutie Top, Golden Mane Top, Phoenix Confidence Jacket, Winter Royalty Top
+Added to [MFM] i18n file: "mistbloomsyrup.recipe.title" in line 37 and "mistbloomsyrup.recipe.text" and June letters after that
+
+
+---------------------
+[CP] Ridgeside Village/i18n/default.json
+12930-12932: Added more details to Maive special order
+18861-18862: Modified Zayne's 4 heart event to remove slap
+19418: Added details to June's piano sign
+
+RidgesideVillage/i18n/default.json
+49-83: Changed a lot of the IanShop stuff. A lot of keys' names are brand new or changed entirely, so be careful here.
+197, 210: Changed these Foxbloom riddles. The lines above each explain exactly what changed.
+-------------------------------------------
+
+
+
+
+
+[CP] lignes
+188
+237
+286
+799
+800
+825
+826
+5275-5279
+5382 - 5386
+8554
+11702
+14432
+14762
+15773-20677
+
+[JA] Objets à traduire :
+Ginger Arugula Fried Rice, Ginger Rangpur Meringue, Honey Ginger Whitefish, Ridgeback Hardshell
+Mistbloom Syrup, Dragon Sweetie Top, Fab Dusk Suit, Fairy Cutie Top, Golden Mane Top, Phoenix Confidence Jacket, Winter Royalty Top
+
+[MFM] lignes
+61
+68-73
+
+Ridgeside Village - lignes
+49

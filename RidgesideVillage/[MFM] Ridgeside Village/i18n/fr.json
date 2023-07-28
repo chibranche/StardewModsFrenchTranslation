@@ -34,11 +34,13 @@
         "irene.recipe.title": "Friandise romantique du désespéré",
         "faye.recipe.title": "Friandise Sucrée et Moelleuse",
         "maive.recipe.title": "Friandise Exotique",
+		        "mistbloomsyrup.recipe.title": "Une recette de sirop mystèrieuse",
 
         "lola.so.title": "Gratitude d'Assassin",
         "ezekiel.so.title": "Le cadeau du Vétéran",
         "olga.so.title": "Règler le débat thé ou café",
         "aguar.so.title": "Le Totem de la crête",
+
 
     //Texts
         "shanice.recipe.text": "@,^J'ai trouvé une vieille recette pour l'un de mes gâteaux préférés ! Si jamais tu en fais un, ne m'oublie pas. D'accord ? J'espère que tu aimes ça.^^- Shanice Legame",
@@ -56,9 +58,18 @@
         "irene.recipe.text": "Salutations, @ !^J'ai ici une recette que j'ai apprise dans la ville romantique de Princessville. Tu peux l'utiliser pour séduire l'être aimé. Comme on dit, le meilleur chemin vers le coeur d'un être cher passe par son estomac.^^Bonne chance dans ta recherche de l'amour,^Irene de Pilar",
         "faye.recipe.text": "@,^Bonjour à toi ! J'ai envoyé une adorable recette pour l'une de mes pâtisserie préférés. Apporte-m'en si tu en as l'occasion, d'accord ?^^La fabuleuse Faye Yojeong",
         "maive.recipe.text": "A l'attention de: @^De la part de: Manoir Amethyne.^^La recette d'un plat de pâtisserie exotique est jointe à cette lettre. Ce plat est l'un des délices des îles de Braise, une région lointaine réputée pour ses aménagements tropicaux, ses attractions et ses plats. Je suppose que tu pourrais en faire usage et potentiellement l'utiliser à ton profit.^^Meilleurs voeux,^Maive Amethyne",
+"mistbloomsyrup.recipe.text": "@,^How are you, dear? If ever you're feeling sick or nauseous, here's a recipe my husband and I learned from our exotic travels. If you ever find some rare Mountain Mistblooms, just pluck the petals and squeeze them according to THIS specific pattern. I hope these can be useful.^^- Lola",
 
         "LolaSOLetter.text": "@,^Merci beaucoup pour ton aide avec les anneaux, mon chou. Que dirais-tu d'un petit échange ? Celle-ci est dans ma boîte à bijoux depuis toujours, de toute façon. J'espère qu'elle pourra t'être utile.^^- Lola",
         "EzekielSOLetter.text": "@,^Merci encore pour l'artéfact. je pensais que tu m'apporterais de la camelotte, mais c'est quasi-neuf... En échange, je te donne un peu de camelotte à moi ! Maintenant que je suis à la retraite, ça te servira plus qu'à moi.^^- Ezekiel^^P.S. Si tu t'en débarasses, je le saurais...",
         "OlgaSOLetter.text": "@,^Avec les ingrédients que tu m'as fourni, J'ai réglé le débat thé ou café une fois pour toutes, et le gagnant est... les deux ! Je vous envoie la recette pour que tu puisse l'essayer par toi-même.^^-Olga^P.S. Ma belle-sœur a dit qu'elle allait voler cette recette pour son magasin, aussi !",
-        "AguarSOLetter.text": "@,^Excellent travail sur les géodes. Ce sont clairement des spécimens de très haute qualité. Au cas où j'aurais à nouveau besoin de votre aide, je pense qu'il est préférable que vous ayez un moyen plus rapide de te rendre au village. Peut-être que cela te sera utile.^^- Aguar^P.S. Si on te demande, ce n'est pas moi qui t'ai appris ça...",}
+        "AguarSOLetter.text": "@,^Excellent travail sur les géodes. Ce sont clairement des spécimens de très haute qualité. Au cas où j'aurais à nouveau besoin de votre aide, je pense qu'il est préférable que vous ayez un moyen plus rapide de te rendre au village. Peut-être que cela te sera utile.^^- Aguar^P.S. Si on te demande, ce n'est pas moi qui t'ai appris ça...",
+		
+		// June
+        "June.PlatonicArrival": "Dear @,^^The Log Cabin Hotel is pleased to announce that our resident musician will be returning tomorrow for the fall and winter seasons of this year. Perfomances will be held from 5 PM to 9 PM Thursdays through Saturdays, and from noon to 3 PM on Saturdays and Sundays. We look forward to your attendance.^^Hotel Management",
+        "June.PlatonicDeparture": "Dear @,^^Unfortunately my residence at the Log Cabin Hotel is over for the year, so I'll have left the village early this morning by the time you read this letter. I wish you a good new year, and I look forward to seeing you upon my return in the fall.^^Best,^June",
+        "June.RomanticArrival": "Dear @,^^I wrote this letter on the bus over and snuck it into your mailbox as soon as I got off. If you're reading this it means I'm back at the hotel - it also means you're wasting time reading this letter when you could be spending time with me!! So get on over here and let's make up for some lost time - you and I both have a lot of cramming to do...^^I'm waiting,^June",
+        "June.RomanticDeparture": "Dear @,^^I'm writing this letter to you in the dead dark of 3 AM, on top of the post box by the clifftop cable car station. I'll soon be taking my final ride down the mountain for the year. I'll get to see the roof of your farm one last time, and that will be my last glimpse of you till next fall... As you sleep in your cozy little farmhouse, I wonder if you're dreaming of me the same way I'll be dreaming of you every night for the next half year? Luckily the memories we've made are more than enough to keep me up in these clouds till I can see you again. Don't forget me, and I promise to do the same.^^All my love,^June",
+        "June.RomanticSummer": "Dear @,^^It's hard to believe it's only been a month since I last saw you when it feels like a lifetime. I just want you to know that not an hour goes by I don't think about you. That may sound like I'm moping, but what I mean to say is - I really do cherish our memories together. You brighten my world so much, even when you're not physically in it.^^Missing you always,^June",
+		}
 
